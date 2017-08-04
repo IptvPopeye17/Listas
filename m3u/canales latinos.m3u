@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",~ Latino TV ~
-http://50.7.56.2:8016
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pixcelation.com/wp-content/uploads/2013/04/FuturamaWallpaper1024.gif" group-title="LATINO",VOD - Futurama
 http://tecnotv.xyz/media/futurama/
 
