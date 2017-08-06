@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1, SPACE
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX198%2FIWUG8YHYCmnx7Vbr7YAi9UzuFD%2B3la3P3ynhd2egmdxpxYXm8y2z9cScJ9k56ncPayBJ4OJoQ%3D%3D
+
+#EXTINF:-1,FOX
+rtmp://46.28.53.160/live/foxamalia?id=65581&pk=440e08e36b3aee9a0a1ddc69d8e5a3f28b7eb2baa30e9fd148a1c36e99cd991c
+
+
+#EXTINF:-1,E!
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19TOm3YKlLDrZEx%2Flx7BF3eSVzgvxxzdUfXmToF%2B3lzUAURJl06FIZRsKwT%2FBjK6AMwPrjH5QgmEg%3D%3D
+
+
+#EXTINF:-1,TYC SPORTS
+https://playback.bcovlive.io/52d2830edfed4a1bad69b15c29867947/sa-east-1/alive-trial-tyc_sports/profile_1/chunklist_dvr.m3u8
+
+#EXTINF:-1,ESPN
+rtmp://94.102.51.67/stream/espinaca1?id=17844&pk=440e08e36b3aee9a0a1ddc69d8e5a3f28b7eb2baa30e9fd148a1c36e99cd991c
+
+#EXTINF:-1,FOX SPORT
+rtmp://80.82.64.144/stream/fox1malosolandia?id=17008&pk=440e08e36b3aee9a0a1ddc69d8e5a3f28b7eb2baa30e9fd148a1c36e99cd991c
+
+#EXTINF:-1,FOX SPORT 2
+rtmp://80.82.65.164/stream/sports2peru?id=17266&pk=440e08e36b3aee9a0a1ddc69d8e5a3f28b7eb2baa30e9fd148a1c36e99cd991c
+
+#EXTINF:-1,FOX SPORT 3
+rtmp://46.28.53.160/live/sports3alicia?id=71673&pk=440e08e36b3aee9a0a1ddc69d8e5a3f28b7eb2baa30e9fd148a1c36e99cd991c
+
+#EXTINF:-1,BEIN SPORTS
+http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/bein_alwkqfq/chunklist.m3u8?st=7C_bPSbKl_ZAEpLNPtEXjA&e=1502082529
+
+#EXTINF:-1,GOL TV
+rtmp://178.162.211.103/stream/fulltvx200?id=33723&pk=440e08e36b3aee9a0a1ddc69d8e5a3f28b7eb2baa30e9fd148a1c36e99cd991c
+
+#EXTINF:-1,AMC
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18z9MREhjmzxfZp3EfxK9HyMX67cuaNTRL9RqpfteGSX%2B4KjO6xK2tXymPhnw0nMZ4iW0vvNGNHNw%3D%3D
+
+#EXTINF:-1,FX
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FgxuJ%2FNC1gbkMoMjIN9QPEqCFjkkv52DCWYA9zYmdouMefKsyj44XchYoDKdzD0yE44eLCTBuuHw%3D%3D
+
+#EXTINF:-1,WARNER
+rtmp://5.63.150.84/live/warnerperu?id=67187&pk=440e08e36b3aee9a0a1ddc69d8e5a3f28b7eb2baa30e9fd148a1c36e99cd991c
+
