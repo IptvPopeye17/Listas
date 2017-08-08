@@ -1,11 +1,4 @@
 #EXTM3U
-
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/825376881193070592/7W4w3Kia_bigger.jpg", MUSICA 
-
-
-
-group,MUSICA
-
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/1560.gif" group-title="MUSICA", Genial Tv
 http://v1.tustreaming.cl:1935/genialtv/genialtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://nowsat.info/wp-content/uploads/A1-Espa%C3%B1a-1.png" group-title="MUSICA", A1 
@@ -31,21 +24,21 @@ http://wow01.105.net/live/rmc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/nu14h/bc7f29dd9b.png" group-title="MUSICA", Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/wp-content/uploads/2013/01/VH1_Marca.jpg" group-title="MUSICA", VH1
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/FNNSL-1011001100001001101110101011110-ExabyteTV-holis/dmgx/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dmgx/visita-exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://www.abula.idv.tw/vm/wp-content/uploads/2015/01/VH1-Classic-Logo-320x180.png" group-title="MUSICA", VH1 Clasics
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/FNNSL-1011001100001001101110101011110-ExabyteTV-holis/dmgxY2xhc3NpYw==/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dmgxY2xhc3NpYw==/visita-exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://www.live-arena.ru/logos/MTVHits-tvadvertisinglogo.jpg" group-title="MUSICA", MTV HITS
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/FNNSL-1011001100001001101110101011110-ExabyteTV-holis/bXR2aGl0cw==/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/bXR2aGl0cw==/visita-exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="MUSICA", MTV
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/FNNSL-1011001100001001101110101011110-ExabyteTV-holis/bXR2/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/bXR2/visita-exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p2c8bPp.png" group-title="MUSICA", MTV LIVE
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/FNNSL-1011001100001001101110101011110-ExabyteTV-holis/bXR2bGl2ZQ==/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/bXR2bGl2ZQ==/visita-exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mbGI5/21150fe27d.png" group-title="MUSICA", Telehit
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/FNNSL-1011001100001001101110101011110-ExabyteTV-holis/dGVsZWhpdA==/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dGVsZWhpdA==/visita-exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mB8FA/fd9624cae2.png" group-title="MUSICA", Ritmoson Latino
 http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/MDNIJ-1011001011110110010101101111101-ExabyteTV-holis/6166/visita-exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/reMxG/4ecbfd73b8.png" group-title="MUSICA", Bandamax
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/FNNSL-1011001100001001101110101011110-ExabyteTV-holis/YmFuZGFtYXg=/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/YmFuZGFtYXg=/visita-exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_%282015-%29.png/revision/latest?cb=20151111060623" group-title="MUSICA", TELERITMO 
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_%282015-%29.png/revision/latest?cb=20151111060623" group-title="MUSICA", TELERITMO 
@@ -122,4 +115,3 @@ https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Pan
 https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
 #EXTINF:-1 tvg-logo="ezYteTW.png" group-title="MUSICA", VTV Viña del Mar
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-
