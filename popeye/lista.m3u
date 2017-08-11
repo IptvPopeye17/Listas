@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/25/12/hfuwpcupirfetn8guqtyhq7h1j02kwfij44ieojq6o8mllxfgn7mgl6khteuz2ey.png" group-title="LATINO",VOD - Los Simpson [Off]
-http://stream.latino-webtv.com/series/simpsons.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson
-http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-rG5V1PdKlZg/WFHJXhXs5eI/AAAAAAAAxp4/4OEyUxuWExEuTZJpWDpD2fIsJUIUvYSdQCLcB/s1600/72.png" group-title="LATINO",Claro Sports
 http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
