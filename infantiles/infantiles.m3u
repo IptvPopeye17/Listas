@@ -1,83 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles", Boomerang
-http://wowza2.mysoltv.com:1992/Latino_BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="Infantiles", Cartoon Network
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",BABY TV
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/AQXUE-1011001100000010000101010000011-ExabyteTV-holis/YmFieXR2/visita-exabytetv.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",BOOMERANG
+http://23.237.22.2:8080/lstream4/440/14/5bac2479610bead6bf7939891285f5fd/324.flv 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",CARTOON NETWORK
 http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/1200px-Discovery_Familia_logo.svg.png" group-title="Infantiles", Discovery Familia
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/6066.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
-http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRXX/7e741b9363.png" group-title="Infantiles", Discovery Kids
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",CARTOON NETWORK
+http://23.237.22.2:8080/lstream4/106/14/5bac2479610bead6bf7939891285f5fd/320.flv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",DISCOVERY KIDS
 http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reSoT/ff01278d6c.png" group-title="Infantiles", Disney Channel
-http://edge5201.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reSpf/d906cbcd81.png" group-title="Infantiles", Disney Jr
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",DISCOVERY KIDS
+http://23.237.22.2:8080/lstream4/108/14/5bac2479610bead6bf7939891285f5fd/303.flv 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",DISNEY CHANNEL 
+http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",DISNEY CHANNEL 
+http://23.237.22.2:8080/lstream4/104/14/5bac2479610bead6bf7939891285f5fd/312.flv 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",DISNEY JUNIOR 
 http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png" group-title="Infantiles", Disney XD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",DISNEY XD 
 http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw51W/3b10c832dd.png" group-title="Infantiles", Nick 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",DISNEY XD 
+http://23.237.22.2:8080/lstream4/107/14/5bac2479610bead6bf7939891285f5fd/322.flv 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",NICK 
 http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw57k/d21813a8f6.png" group-title="Infantiles", Nick JR
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",NICK JR
 http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb3Dz/67ee44ac5a.png" group-title="Infantiles", Nick Toons
-http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/MDNIJ-1011001011110110010101101111101-ExabyteTV-holis/bmlja2py/visita-exabytetv.m3u8
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ce/d1/66/ced166962f1db9dc256759e96fa0a99c.png" group-title="Infantiles", NICKELODEON
-http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png" group-title="Infantiles", Tiin
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dGlpbg==/visita-exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw5oi/09350aa9a0.png" group-title="Infantiles", Tooncast
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dG9vbmNhc3RvcC4y/visita-exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.kidscreen.com/wp/wp-content/uploads/2011/02/BabyTV_Logo_TM-300x215.png" group-title="Infantiles", Baby TV 
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/YmFieXR2/visita-exabytetv.m3u8
-#EXTINF:-1 tvg-logo="https://c1.staticflickr.com/5/4264/34748682723_2185a3623e.jpg" group-title="Infantiles", 3ABN Kidz Tv
-http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/master.m3u8
-#EXTINF:-1 tvg-logo="http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg" group-title="Infantiles", Boing
-http://edge99008.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8
-#EXTINF:-1 tvg-logo="http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg" group-title="Infantiles", Boing
-https://cdn.opencable.es/hls/live/boing/index.m3u8
-#EXTINF:-1 tvg-logo="http://orig12.deviantart.net/3bcc/f/2011/004/3/5/logotipo_para_clan_tve_by_bcfstudio-d36fjr8.png" group-title="Infantiles", Clan TVE
-https://cdn.opencable.es/hls/live/clan/index.m3u8
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/a4/4a/19/a44a19b66c1ce047a508c3cf76fce8e0.jpg" group-title="Infantiles", Canal Panda
-http://163.172.52.83:8000/live/testapp/testapp/257.ts
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-pkpk1.png?ssl=1&w=450" group-title="Infantiles", PakaPaka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-pkpk1.png?ssl=1&w=450" group-title="Infantiles", PakaPaka
-http://ar.watcha.live/ch15/full.m3u8
-#EXTINF:-1 tvg-logo="http://www.animaxtv.com/images/logo_animax.png" group-title="Infantiles", Animation
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1 tvg-logo="https://k60.kn3.net/8/9/8/3/B/8/DA9.png" group-title="INFANTILES", Tateti
-http://ar.watcha.live/ch16/hi.m3u8
-#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-9xw4Qr5M1RA/AAAAAAAAAAI/AAAAAAAAADM/233Pgqp4EU8/photo.jpg" group-title="Infantiles", Locomotion
-http://jagfiles.xyz/locomotion/hls/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.myatltv.com/shows/simpsons/The-Simpsons-Logo.jpg" group-title="Infantiles", Los Simpson 24/7
-http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.myatltv.com/shows/simpsons/The-Simpsons-Logo.jpg" group-title="Infantiles", Los Simpsons Random
-http://stream.latino-webtv.com/series/simpsons.mp4
-#EXTINF:-1 tvg-logo="http://www.jackincongruente.com/wp-content/uploads/2015/01/Serie-dinosaurios-Jim-Henson.jpg" group-title="Infantiles", Dinosaurios
-https://www.youtube.com/watch?v=3DfUgZKIUK4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/15/5f/eb/155feb41902c7ab1189a8d860440d63f.jpg" group-title="Infantiles", Don Gato y su Pandilla
-https://www.youtube.com/watch?v=tFwsVmTkuNY&list=PLn1crM68393dt29tQ93MFNrbeakvjUpKH
-#EXTINF:-1 tvg-logo="http://blog.ofertia.com/blog/wp-content/uploads/2012/11/peppapig.jpg" group-title="Infantiles", Peppa Pig Temp3 
-https://www.youtube.com/watch?v=Zyj9bgz_LDU&t=24s
-#EXTINF:-1 tvg-logo="http://blog.ofertia.com/blog/wp-content/uploads/2012/11/peppapig.jpg" group-title="Infantiles", Peppa Pig Temp2
-https://www.youtube.com/watch?v=a44N_jSNNm4
-#EXTINF:-1 tvg-logo="http://blog.ofertia.com/blog/wp-content/uploads/2012/11/peppapig.jpg" group-title="Infantiles", Peppa Pig Navidad
-https://www.youtube.com/watch?v=kLdfITlXE-8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/--_2ehvF1xCA/UlQIt526k4I/AAAAAAAAC48/hYfaFSDW63I/s1600/mickey-mouse-club-house.jpg" group-title="Infantiles", La Casa de Mickey Mouse
-https://www.youtube.com/watch?v=mQfULfJ9J0Q
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/H-fYzH_SNfA/maxresdefault.jpg" group-title="Infantiles", Tom y Jerry
-https://www.youtube.com/watch?v=QKr0_ARUgQk
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9q-l3kUVSrY/UzR8jdRcZDI/AAAAAAAACj0/zQIzljVG2qU/s1600/Imagen+principal.png" group-title="Infantiles",Los Picapiedra
-https://www.youtube.com/watch?v=3Qg2RgxONuM
-#EXTINF:-1 tvg-logo="http://fdzeta.com/imgcache/401868dz.jpg"  group-title="Infantiles", El Chavo Animado
-https://www.youtube.com/watch?v=FrWP712Wdeg
-#EXTINF:-1 tvg-logo="http://www.milenio.com/hey/teatro/Pica-pica_MILIMA20160427_0387_11.jpg" group-title="Infantiles", Pica Pica
-https://www.youtube.com/watch?v=mKNI-Enk32c
-#EXTINF:-1 tvg-logo="http://www.disney.es/disney-channel/sites/default/files/g/grav-falls-logo.png" group-title="Infantiles", Gravity Falls 
-http://stream.latino-webtv.com/series/gravityfalls.mp4
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/0a25f3c8-0d46-465d-8705-fee139872f8b_m.jpg" group-title="Infantiles", City TV 
-http://104.245.96.214:8000/live/bilminton/men/262.ts
-#EXTINF:-1, Chespiritomania
-https://hls-ord-1a.vaughnsoft.net/ams/live/live_chespirito_mania/chunklist.m3u8
-#EXTINF:-1, Vitato Series
-https://hls-ord-1a.vaughnsoft.net/ams/live/live_vitatoseries/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",NICK TOONS
+http://144.217.71.168:8000/live/pedro/pedro/3735.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",TIIN
+http://144.217.71.168:8000/live/pedro/pedro/3732.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",TOONCAST
+http://144.217.71.168:8000/live/pedro/pedro/3731.m3u8
