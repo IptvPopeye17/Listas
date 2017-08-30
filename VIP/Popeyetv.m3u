@@ -1,0 +1,121 @@
+?#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="POPEYETV" tvg-logo="https://static.comicvine.com/uploads/original/11/114183/5200265-popeye-the-sailor-man.jpg" group-title="ECUADOR",Popeyetv
+https://static.comicvine.com/uploads/original/11/114183/5200265-popeye-the-sailor-man.jpg
+
+#EXTINF:-1 tvg-id="" tvg-name="LISTAS ACTUALIZADAS" tvg-logo="http://www.empresascalama.cl/wp-content/uploads/2017/03/actualizacion.jpg" group-title="ECUADOR",Listas Actualizadas
+http://www.empresascalama.cl/wp-content/uploads/2017/03/actualizacion.jpg
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-9A-7_CtfRPM/AAAAAAAAAAI/AAAAAAAAAAA/xF80hVNHCaM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ECUADOR",Televicentro
+http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-uaSHORSATuI/VlY7fMrB94I/AAAAAAAASdE/_oezqviaeVQ/s1600/Oromartv%2Ben%2Bvivo.jpg" group-title="ECUADOR",OromarTv
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-jRZJsY2-kZ4/AAAAAAAAAAI/AAAAAAAAAAA/WwqJqre4DyI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ECUADOR",RTS
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b1073152.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-DNfy4mxOCQM/AAAAAAAAAAI/AAAAAAAAAJE/FHDW3vuaK34/s640/photo.jpg" group-title="ECUADOR",TC MI CANAL
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/tv-sat4.jpg",TVS Satelital
+http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/841657248896151552/CFQkVWxP.jpg",FORMULA 1
+http://edge24.applive.online/live/verfunoesp3d183864ebf1241/index.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fansdelfootball.com/wp/wp-content/uploads/2017/05/golperu_logo_horizontal1-1-e1501461600671.jpg",GOL PERU
+http://23.237.22.161/3/U2FsdGVkX1%2Fp%2FnWPJzzcrwqiEggxUdEdSUo%2BVnn5pfS4CdWoGZJ4iNvb9%2Bl8kXuAFtWUS8NXN6A%2FqxxpLxks9g%3D%3D/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY  (HD) D" tvg-logo="http://158.69.127.19/logos1/foxcomedy.jpg" group-title="CANALES HD",FOX COMEDY  (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3627.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX FAMILY (HD) D" tvg-logo="http://158.69.127.19/logos1/foxfamily.jpg" group-title="CANALES HD",FOX FAMILY (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3626.ts
+#EXTINF:-1 tvg-id="" tvg-name="[CINE] Cinecanal HD" tvg-logo="http://www.ipuntotv.com/IMAGES/Cinecanal%20HD%20logo.png" group-title="CANALES HD",[CINE] Cinecanal HD
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/5433.ts
+#EXTINF:-1 tvg-id="" tvg-name="[CINE] SPACE HD" tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2012/07/Space-TV.jpeg" group-title="CANALES HD",[CINE] SPACE HD
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/5434.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX (HD) D" tvg-logo="" group-title="CANALES HD",MAX (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3632.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME EAST (HD) D" tvg-logo="http://158.69.127.19/logos1/maxprime.jpg" group-title="CANALES HD",MAX PRIME EAST (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3631.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP  (HD) D" tvg-logo="" group-title="CANALES HD",MAX UP  (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3630.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT (HD) D" tvg-logo="" group-title="CANALES HD",TNT (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3621.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES (HQ) D" tvg-logo="" group-title="CANALES HD",TNT SERIES (HQ) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3620.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E (HD) D" tvg-logo="" group-title="CANALES HD",A&E (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3624.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC (HD) D" tvg-logo="http://158.69.127.19/logos1/amc.jpg" group-title="CANALES HD",AMC (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3634.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN  (HD) D" tvg-logo="" group-title="CANALES HD",AXN  (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3625.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD E" tvg-logo="" group-title="CANALES HD",COMEDY CENTRAL HD E
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3766.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL (HD) D" tvg-logo="http://158.69.127.19/logos1/paramountchannel.jpg" group-title="CANALES HD",PARAMOUNT CHANNEL (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3628.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL (HQ) D" tvg-logo="" group-title="CANALES HD",WARNER CHANNEL (HQ) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3619.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD 1" tvg-logo="" group-title="CANALES HD",PARAMOUNT CHANNEL HD 1
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2961.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD 1" tvg-logo="" group-title="CANALES HD",AMC HD 1
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2962.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="CANALES HD",TNT HD
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2963.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="CANALES HD",COMEDY CENTRAL HD
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2979.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK. D" tvg-logo="" group-title="CANALES HD",FIGHT NETWORK. D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3642.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ENGLISH. D" tvg-logo="" group-title="CANALES HD",GOL TV ENGLISH. D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3612.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV. D" tvg-logo="" group-title="CANALES HD",GOL TV. D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3613.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN EN ESPAÑOL. D" tvg-logo="" group-title="CANALES HD",BEIN EN ESPAÑOL. D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3615.ts
+#EXTINF:-1 tvg-id="" tvg-name="TDN (HD) D" tvg-logo="" group-title="CANALES HD",TDN (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3611.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION DEPORTES D" tvg-logo="" group-title="CANALES HD",UNIVISION DEPORTES D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3616.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY (HD) D" tvg-logo="http://158.69.127.19/logos1/history.jpg" group-title="CANALES HD",HISTORY (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3623.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 (HD) D" tvg-logo="http://158.69.127.19/logos1/h2.jpg" group-title="CANALES HD",H2 (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3622.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO USAOP2" tvg-logo="" group-title="CINE Y SERIES",TELEMUNDO USAOP2
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/4544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo (A)" tvg-logo="" group-title="CANALES HD",Telemundo (A)
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3618.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO (HD) D" tvg-logo="" group-title="CANALES HD",TELEMUNDO (HD) D
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3629.ts
+#EXTINF:-1 tvg-id="" tvg-name="telemundo int1" tvg-logo="" group-title="CINE Y SERIES",telemundo int1
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/3597.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Int" tvg-logo="" group-title="CINE Y SERIES",Telemundo Int
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2143.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO1" tvg-logo="" group-title="CINE Y SERIES",TELEMUNDO1
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2878.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAD" tvg-logo="" group-title="CANALES HD",CANAL DE LAS ESTRELLAD
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2990.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR 1" tvg-logo="" group-title="CANALES HD",NICK JR 1
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2974.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIIN OP2" tvg-logo="" group-title="INFANTILES",TIIN OP2
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2972.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK OP2 1" tvg-logo="" group-title="CANALES HD",NICK OP2 1
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2975.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK 1" tvg-logo="" group-title="CANALES HD",CARTOON NETWORK 1
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2973.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD" tvg-logo="" group-title="CANALES HD",CNN HD
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2959.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="" group-title="CANALES HD",EL GOURMET
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2978.ts
+#EXTINF:-1 tvg-id="" tvg-name="FORO TV HD" tvg-logo="" group-title="CANALES HD",FORO TV HD
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2989.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 HD" tvg-logo="" group-title="CANALES HD",CANAL 5 HD
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2988.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUSION" tvg-logo="" group-title="CANALES HD",FUSION
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2985.ts
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX OP2" tvg-logo="" group-title="CANALES HD",BANDAMAX OP2
+http://iptvlatinoamericaec.xyz:8000/live/Carlosjxjx/Campusanocjjc/2983.ts
