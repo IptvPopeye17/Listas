@@ -9,7 +9,10 @@ https://static.comicvine.com/uploads/original/11/114183/5200265-popeye-the-sailo
 http://www.empresascalama.cl/wp-content/uploads/2017/03/actualizacion.jpg
 
 #EXTINF:-1 tvg-id="" tvg-name="DONACIONES" tvg-logo="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" group-title="ECUADOR",paypal.me/CarlosCampuzano
-https://raw.githubusercontent.com/IptvPopeye17/Listas/master/popeye/lista.m3u
+https://static.comicvine.com/uploads/original/11/114183/5200265-popeye-the-sailor-man.jpg
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEGRAM" tvg-logo="https://ugc.kn3.net/i/origin/http://s03.s3c.es/imag/_v0/640x319/4/5/e/telegram.jpg" group-title="ECUADOR",Telegram Popeyetv
+https://ugc.kn3.net/i/origin/http://s03.s3c.es/imag/_v0/640x319/4/5/e/telegram.jpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-9A-7_CtfRPM/AAAAAAAAAAI/AAAAAAAAAAA/xF80hVNHCaM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ECUADOR",Televicentro
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
