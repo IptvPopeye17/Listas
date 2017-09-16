@@ -34,7 +34,17 @@ http://23.237.22.161/3/U2FsdGVkX1%2Fp%2FnWPJzzcrwqiEggxUdEdSUo%2BVnn5pfS4CdWoGZJ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vertelevision.online/wp-content/uploads/2017/07/fox-latino.jpg", Fox latino
 http://23.237.22.155/3/U2FsdGVkX19169A8mfWVBD73%2FvH6GkIoIMW%2FlSXeMOeEvKweYg1rzgWJaj78swePEu8F7DsoB8UDhXz6tFznxA%3D%3D/playlist.m3u8
 
+#EXTINF:-1, Fox Latino OP 2
+http://23.237.22.155/3/U2FsdGVkX1%2BH6H307snbIpRJ338AejtNXSroEuDR7GL4BFyH40eW%2FK%2FRP0hc67EgiG9wRK9yTPp8V3m2T5U1RA%3D%3D/playlist.m3u8
 
+#EXTINF:1, Disney Channel
+https://live58.vkuserlive.com/637612/live/1s2M52NAf3_nsF86/playlist.m3u8
+
+#EXTINF:1, Fox Sport
+https://live82.vkuserlive.com/620008/live/2CBh6eVDfPk/playlist.m3u8
+
+#EXTINF:1, Tnt
+http://94.102.51.78:8088/stream/tntcaballona/playlist.m3u8?id=18813&pk=48c1ce9aadbcad9f3d3de7767124042e3364fff008ef52b67c68d35fc082dfbb
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/katyhd_320.jpg" group-title="CINE", Katy HD Movies
 https://hls-ord-1a.vaughnsoft.net/ams/live/live_katyhd/chunklist.m3u8
