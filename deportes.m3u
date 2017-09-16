@@ -9,3 +9,6 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/8312/360p/playlist.m3u8
 
 #EXTINF:-1,DEPORTES 3
 http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream4.m3u8
+
+#EXTINF:-1, DEPORTES 4
+http://wz.elcanaldelfutbol.com:1935/live/8326_480p/playlist.m3u8?480
