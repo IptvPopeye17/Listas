@@ -1,8 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1,DEPORTES 1
-http://wz.elcanaldelfutbol.com:1935/live/8335_480p/playlist.m3u8?480
 
-#EXTINF:-1, WWE
-http://193.124.189.249/cavscampeon/252050.m3u8?wmsAuthSign2=NThjMzQyYjQwMjc1NQ==&token=c2VydmVyX3RpbWU9MTUwNjI5NTkwNCZoYXNoX3ZhbHVlPXZnWm50OFAycmN1MC9XZVNSOUR1NFE9PSZ2YWxpZG1pbnV0ZXM9MTAw
+#EXTINF:-1,BSC VS DELFIN 
+http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream2.m3u8
+
