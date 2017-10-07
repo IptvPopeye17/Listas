@@ -28,29 +28,26 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/tv-sat4.jpg",TVS Satelital
 http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
 
-#EXTINF:-1,malcolm 24/7
-http://server.poweriptv.cl:25461/live/asd123/asd123/1330.m3u8
+#EXTINF:-1,Space
+http://200.89.190.162/live/live/SpaceHD/SA_Live/SpaceHD.m3u8
 
-#EXTINF:-1,los simpsons 24/7
-http://server.poweriptv.cl:25461/live/asd123/asd123/407.m3u8
-
-#EXTINF:-1,space
-http://200.89.190.162/live/live/SpaceHD/SA_Live/SpaceHD-video=678000.m3u8
-
-#EXTINF:-1,hbo
+#EXTINF:-1,Hbo
 http://200.89.190.162/live/live/HBOHD/SA_Live/HBOHD.m3u8
 
-#EXTINF:-1,tnt
-http://server.poweriptv.cl:25461/live/asd123/asd123/97.m3u8
+#EXTINF:-1,tlc
+http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/4937ca0f8accf5ec561c8bc4d3dc893c6ae55cdc/599b4f4c44901c58702a1d69eefe406c91e85bd6/72_1.m3u8
 
-#EXTINF:-1,fx
-http://server.poweriptv.cl:25461/live/asd123/asd123/59.m3u8
+ #EXTINF:-1,Disneyxd
+http://antenatv.tk/isjoguasgdocjhabsdkoygweuewejwgfjqhgw-30-2060790.m3u8
 
-#EXTINF:-1, fox
-http://server.poweriptv.cl:25461/live/asd123/asd123/49.m3u8
+#EXTINF:-1,Tnt
+http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/4937ca0f8accf5ec561c8bc4d3dc893c6ae55cdc/a0abab8df39d74c96071a0dc7d3bd48c13f8c1e1/74_1.m3u8
 
-#EXTINF:-1,cinecanal
-http://server.poweriptv.cl:25461/live/asd123/asd123/20.m3u8
+#EXTINF:-1, The Film Zone
+http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/4937ca0f8accf5ec561c8bc4d3dc893c6ae55cdc/fdf587d538682e67a35cf1964fce7057194a4d89/70_1.m3u8
 
-#EXTINF:-1,bandamax
-http://217.182.132.161:25461/live/test/test/54315.m3u8?token=GRMOBEANRFwUAwNTWAkCVAYFUQhdBgAAAgdTAgRWUgdWV1YABQQDBAZASkASTUAHVQs+WF0RCgIBBwQAHxUUEQdDOQxXR1xEBFZeUEMVEBZdCwQTAwMcFUVdURcJFVRQWgVESREAHhJTEAgDDWZWB0IPAlQbCV5CWVgZF1xZPgYHXAcLV0dcRAZASkAISkJADkQiXVBWXkNQRxV7VkMNCwRUREkRBw8SRAMSB0MDEFQFVEMdG1BfQltAR0wRDUMnIRNKR1YdEgNYEQ8NDxsIQFlVFAkbHxJeRmtHUEBDEwcDXAMXEV9EVhRORA8AQW0BWwgPVFpHWVhbRxcPEQVDTkBcCQtaEQkUaRIPBkMDEFMGV1cIG04=
+#EXTINF:-1, Amc
+http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/4937ca0f8accf5ec561c8bc4d3dc893c6ae55cdc/a3ed3ba43c965a77ae8bd521c544d9bbd4188941/2_6.m3u8
+
+#EXTINF:-1,Fox Sport Sur
+http://novelasfans.org/fanstvapp.php?id=src5/FoxSportsSur2&f=.m3u8
