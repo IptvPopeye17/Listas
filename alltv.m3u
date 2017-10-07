@@ -37,17 +37,26 @@ http://200.89.190.162/live/live/HBOHD/SA_Live/HBOHD.m3u8
 #EXTINF:-1,tlc
 http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/4937ca0f8accf5ec561c8bc4d3dc893c6ae55cdc/599b4f4c44901c58702a1d69eefe406c91e85bd6/72_1.m3u8
 
- #EXTINF:-1,Disneyxd
+#EXTINF:-1,Disneyxd
 http://antenatv.tk/isjoguasgdocjhabsdkoygweuewejwgfjqhgw-30-2060790.m3u8
 
-#EXTINF:-1,Tnt
-http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/4937ca0f8accf5ec561c8bc4d3dc893c6ae55cdc/a0abab8df39d74c96071a0dc7d3bd48c13f8c1e1/74_1.m3u8
+#EXTINF:-1,Discovery Channel
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/26g07fgf2017fgvgolf/88.ts
 
-#EXTINF:-1, The Film Zone
-http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/4937ca0f8accf5ec561c8bc4d3dc893c6ae55cdc/fdf587d538682e67a35cf1964fce7057194a4d89/70_1.m3u8
+#EXTINF:-1,Fox Cinema
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/26g07fgf2017fgvgolf/81.ts
 
-#EXTINF:-1, Amc
-http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/4937ca0f8accf5ec561c8bc4d3dc893c6ae55cdc/a3ed3ba43c965a77ae8bd521c544d9bbd4188941/2_6.m3u8
+#EXTINF:-1,Amc
+http://antenatv.tk/isjoguasgdocjhabsdkoygweuewejwgfjqhgw-96-2060079.m3u8
 
-#EXTINF:-1,Fox Sport Sur
-http://novelasfans.org/fanstvapp.php?id=src5/FoxSportsSur2&f=.m3u8
+#EXTINF:-1,Fx
+http://antenatv.tk/isjoguasgdocjhabsdkoygweuewejwgfjqhgw-75-2060019.m3u8
+
+#EXTINF:-1,Azteca Cinema
+https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
+
+#EXTINF:-1,Fox
+http://antenatv.tk/isjoguasgdocjhabsdkoygweuewejwgfjqhgw-8-2060916.m3u8
+
+
+
