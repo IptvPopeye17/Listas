@@ -13,6 +13,9 @@ https://static.comicvine.com/uploads/original/11/114183/5200265-popeye-the-sailo
 #EXTINF:-1 tvg-id="" tvg-name="TELEGRAM" tvg-logo="https://ugc.kn3.net/i/origin/http://s03.s3c.es/imag/_v0/640x319/4/5/e/telegram.jpg" group-title="ECUADOR",Telegram Popeyetv
 https://ugc.kn3.net/i/origin/http://s03.s3c.es/imag/_v0/640x319/4/5/e/telegram.jpg
 
+#EXTINF:-1,Los Simpsons 24/7
+hls://http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-9A-7_CtfRPM/AAAAAAAAAAI/AAAAAAAAAAA/xF80hVNHCaM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ECUADOR",Televicentro
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
 
@@ -58,11 +61,23 @@ https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
 #EXTINF:-1,Fox
 http://antenatv.tk/isjoguasgdocjhabsdkoygweuewejwgfjqhgw-8-2060916.m3u8
 
-#EXTINF:-1,Caracol
+#EXTINF:-1,Caracol (prueba)
 http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18j81lxvh8scnoSju2ojnaolN3B7NaIEGwqYH%2FdVH3fINmGq0oVMY7gFztu9Nr7U6dqHLuJ8CE8mA%3D%3D
 
-#EXTINF:-1,Tnt
+#EXTINF:-1,Tnt (prueba)
 http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19MdurBnx8H8XyNtdqqEeLrwDsD9Mh6uGEzLM%2F%2FfCbtlupj4H7dwGycRSmbY5K7lY3fs9PmfnkO%2Fw%3D%3D
+
+#EXTINF:-1Las Estrellas
+hls://http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:-1Azteca 13
+hls://http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1Latin Angels
+hls://https://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
+
+#EXTINF:-1Fox Life (España)
+hls://http://iptv.cs2017.info:9090/live/vaquezs/24/205.m3u8
 
 
 
