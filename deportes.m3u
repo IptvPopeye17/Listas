@@ -2,9 +2,8 @@
 #EXTM3U
 
 
-#EXTINF:-1,Futbol 1 BSC VS DELFIN
-http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream4.m3u8
+#EXTINF:-1,Futbol
+http://wz.elcanaldelfutbol.com:1935/live/8349_480p/playlist.m3u8?480
 
-#EXTINF:-1,Futbol 2 BSC VS DELFIN
-http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream3.m3u8
-
+#EXTINF:-1,Futbol 2
+http://wz.elcanaldelfutbol.com:1935/live/8344_480p/playlist.m3u8?480
