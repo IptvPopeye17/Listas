@@ -22,11 +22,11 @@ https://www.youtube.com/watch?v=a1eNgdyDFOg
 #EXTINF:-1,movies 2 24/7
 https://www.youtube.com/watch?v=DMzbBf9zsc8
 
-#EXTINF:-1,Dragon Ball Z EN VIVO
-rtmp://198.255.0.10/live?qSBO82ryF8b94F0GAniWOoqaCYPOLJ70/live_dragonballenvivo
+#EXTINF:-1,Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
 
-#EXTINF:-1,Chavo Del 8
-rtmp://66.90.93.42/live?GluwKbCSaKRtexwPuYVRm8IabJKcg0x3/live_vitatochespirito
+#EXTINF:-1,Antena 3 INTERNACIONAL
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-9A-7_CtfRPM/AAAAAAAAAAI/AAAAAAAAAAA/xF80hVNHCaM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ECUADOR",Televicentro
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
@@ -52,52 +52,28 @@ http://200.89.190.162/live/live/HBOHD/SA_Live/HBOHD.m3u8
 #EXTINF:-1,Telemundo
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,Disneyxd
-http://antenatv.tk/isjoguasgdocjhabsdkoygweuewejwgfjqhgw-30-2060790.m3u8
+#EXTINF:-1,Virgintv
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
-#EXTINF:-1,Discovery Channel
-http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/26g07fgf2017fgvgolf/88.ts
+#EXTINF:-1,Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 
-#EXTINF:-1,Discovery Channel OP2
-http://server.poweriptv.cl:25461/live/asd123/asd123/25.m3u8
-
-#EXTINF:-1,Fox Cinema
-http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/26g07fgf2017fgvgolf/81.ts
-
-#EXTINF:-1,Amc
-http://antenatv.tk/isjoguasgdocjhabsdkoygweuewejwgfjqhgw-96-2060079.m3u8
-
-#EXTINF:-1,Fx
-http://antenatv.tk/isjoguasgdocjhabsdkoygweuewejwgfjqhgw-75-2060019.m3u8
+#EXTINF:-1,Cantinazotv
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 
 #EXTINF:-1,Azteca Cinema
 https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
 
-#EXTINF:-1,Fox
-http://antenatv.tk/isjoguasgdocjhabsdkoygweuewejwgfjqhgw-8-2060916.m3u8
-
-#EXTINF:-1,Fox OP2
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2BDuu%2BipwX2SFUQI50f1lhYWTV6f3WSjqcTG7rjC3kU8Z0VGnerMJqJ2aKQXrjTaarSTOSn2qP4aA%3D%3D
-
-#EXTINF:-1,Caracol (prueba)
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18j81lxvh8scnoSju2ojnaolN3B7NaIEGwqYH%2FdVH3fINmGq0oVMY7gFztu9Nr7U6dqHLuJ8CE8mA%3D%3D
-
-#EXTINF:-1,Tnt (prueba)
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19MdurBnx8H8XyNtdqqEeLrwDsD9Mh6uGEzLM%2F%2FfCbtlupj4H7dwGycRSmbY5K7lY3fs9PmfnkO%2Fw%3D%3D
-
-#EXTINF:-1Las Estrellas
+#EXTINF:-1,Las Estrellas
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
-#EXTINF:-1Azteca 13
+#EXTINF:-1,Azteca 13
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
-#EXTINF:-1Latin Angels
+#EXTINF:-1,Latin Angels
 https://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
 
-#EXTINF:-1Fox Life (España)
-http://iptv.cs2017.info:9090/live/vaquezs/24/205.m3u8
-
-#EXTINF:-1, DW Latinoamerica
+#EXTINF:-1,DW Latinoamerica
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
 #EXTINF:-1,Azteca Cinema
@@ -109,8 +85,6 @@ https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
 #EXTINF:-1,Fox Sport 2
 http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2FhF1CYp1twJIJNWh9CktSohPtLTBr7Fa1MNv6ISAwwg6xC9LJNIBfnnnrM2xADucXLsp%2BVRi6uXg%3D%3D
 
-#EXTINF:-1,Gol Peru
-http://104.131.147.35/loadbalance/39663243653938867181/chunks.m3u8?pxAuth=euaLt8Vc2OAIrxja8yGhQl0MK8i4jzIC
 
 
 
