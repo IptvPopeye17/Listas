@@ -16,6 +16,18 @@ https://ugc.kn3.net/i/origin/http://s03.s3c.es/imag/_v0/640x319/4/5/e/telegram.j
 #EXTINF:-1,Los Simpsons 24/7
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
+#EXTINF:-1,Movies 24/7
+https://www.youtube.com/watch?v=a1eNgdyDFOg
+
+#EXTINF:-1,movies 2 24/7
+https://www.youtube.com/watch?v=DMzbBf9zsc8
+
+#EXTINF:-1,Dragon Ball Z EN VIVO
+rtmp://198.255.0.10/live?qSBO82ryF8b94F0GAniWOoqaCYPOLJ70/live_dragonballenvivo
+
+#EXTINF:-1,Chavo Del 8
+rtmp://66.90.93.42/live?GluwKbCSaKRtexwPuYVRm8IabJKcg0x3/live_vitatochespirito
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-9A-7_CtfRPM/AAAAAAAAAAI/AAAAAAAAAAA/xF80hVNHCaM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ECUADOR",Televicentro
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
 
@@ -64,6 +76,9 @@ https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
 #EXTINF:-1,Fox
 http://antenatv.tk/isjoguasgdocjhabsdkoygweuewejwgfjqhgw-8-2060916.m3u8
 
+#EXTINF:-1,Fox OP2
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2BDuu%2BipwX2SFUQI50f1lhYWTV6f3WSjqcTG7rjC3kU8Z0VGnerMJqJ2aKQXrjTaarSTOSn2qP4aA%3D%3D
+
 #EXTINF:-1,Caracol (prueba)
 http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18j81lxvh8scnoSju2ojnaolN3B7NaIEGwqYH%2FdVH3fINmGq0oVMY7gFztu9Nr7U6dqHLuJ8CE8mA%3D%3D
 
@@ -85,15 +100,17 @@ http://iptv.cs2017.info:9090/live/vaquezs/24/205.m3u8
 #EXTINF:-1, DW Latinoamerica
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
+#EXTINF:-1,Azteca Cinema
+hls://https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
 
+#EXTINF:-1,TyC Sport
+https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
 
+#EXTINF:-1,Fox Sport 2
+http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2FhF1CYp1twJIJNWh9CktSohPtLTBr7Fa1MNv6ISAwwg6xC9LJNIBfnnnrM2xADucXLsp%2BVRi6uXg%3D%3D
+
+#EXTINF:-1,Gol Peru
+http://104.131.147.35/loadbalance/39663243653938867181/chunks.m3u8?pxAuth=euaLt8Vc2OAIrxja8yGhQl0MK8i4jzIC
 
 
 
