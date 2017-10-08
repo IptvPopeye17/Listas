@@ -49,8 +49,8 @@ http://200.89.190.162/live/live/SpaceHD/SA_Live/SpaceHD.m3u8
 #EXTINF:-1,Hbo
 http://200.89.190.162/live/live/HBOHD/SA_Live/HBOHD.m3u8
 
-#EXTINF:-1,tlc
-http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/4937ca0f8accf5ec561c8bc4d3dc893c6ae55cdc/599b4f4c44901c58702a1d69eefe406c91e85bd6/http://server.poweriptv.cl:25461/live/asd123/asd123/30.m3u8
+#EXTINF:-1,Telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,Disneyxd
 http://antenatv.tk/isjoguasgdocjhabsdkoygweuewejwgfjqhgw-30-2060790.m3u8
