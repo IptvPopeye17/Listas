@@ -96,16 +96,3 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w128232220
 
 #EXTINF:-1,Gol Peru
 http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/KVJSM-1011001110110001011000111011000-ExabyteTV-holis/aHR0cDovL3RlbGV2aXNpb24tZW52aXZvLm9yZy9kZXBvcnRlcy9nb2wtcGVydS1oZC1lbi12aXZvLnBocA==/visita-exabytetv.m3u8
-
-#EXTINF:-1,Fox Cinema
-http://novelasfans.org/fanstvapp.php?id=src1/FoxCinema&f=.m3u8
-
-#EXTINF:-1,Film Zone
-http://novelasfans.org/fanstvapp.php?id=src1/FilmZoneHD&f=.m3u8
-
-#EXTINF:-1,Fox Life
-http://novelasfans.org/fanstvapp.php?id=src1/FoxLife&f=.m3u8
-
-#EXTINF:-1,WWE
-http://novelasfans.org/fanstvapp.php?id=src5/WWENetwork&f=.m3u8
-
