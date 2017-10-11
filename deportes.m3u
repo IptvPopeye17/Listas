@@ -1,12 +1,11 @@
 
 #EXTM3U
 
-
 #EXTINF:-1,ECUADOR VS ARGENTINA OP 1
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 
 #EXTINF:-1,ECUADOR VS ARGENTINA OP 2
-https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 
 #EXTINF:-1,PERU VS COLOMBIA 
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8?no_cache=0.6514134955662083
