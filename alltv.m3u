@@ -25,14 +25,6 @@ https://www.youtube.com/watch?v=DMzbBf9zsc8
 #EXTINF:-1,Fox Sport (MX)
 http://antenatv.tk/kjhdkjsdhfkqqytwyeyeybbbb-Fox_Sports_COL.m3u8
 
-#EXTINF:-1,Fox Sport2 (MX)
-
-#EXTINF:-1,Warner TV
-http://antenatv.tk/hgkhhfyegehjbejhbjkjgg-76-2059775.m3u8
-
-#EXTINF:-1,Tnt
-http://antenatv.tk/hgkhhfyegehjbejhbjkjgg-15-2122313.m3u8
-
 #EXTINF:-1,Sun Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
 
@@ -66,9 +58,6 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 #EXTINF:-1,Virgintv
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
-#EXTINF:-1, Fox Latino
-http://antenatv.tk/hgkhhfyegehjbejhbjkjgg-8-2060781.m3u8
-
 #EXTINF:-1,Paka Paka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 
@@ -77,9 +66,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 
 #EXTINF:-1,Azteca Cinema
 https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
-
-#EXTINF:-1,Amc
-http://antenatv.tk/hgkhhfyegehjbejhbjkjgg-96-2059930.m3u8
 
 #EXTINF:-1,Las Estrellas
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
@@ -120,8 +106,7 @@ http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?
 #EXTINF:-1,Rock Nacional TV
 http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
 
-#EXTINF:-1,FX
-http://antenatv.tk/hgkhhfyegehjbejhbjkjgg-75-2059870.m3u8
+
 
 
 
