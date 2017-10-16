@@ -22,6 +22,12 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1,movies 2 24/7
 https://www.youtube.com/watch?v=DMzbBf9zsc8
 
+#EXTINF:-1, AMC
+http://antenatv.tk/qqwejjtyehsdgg-96-2059811.m3u8
+
+#EXTINF:-1, FX Hd
+http://antenatv.tk/qqwejjtyehsdgg-75-2059753.m3u8
+
 #EXTINF:-1,Fox Latino
 http://186.103.216.85:85/matias_test/p.php?id=128&type=m3u8
 
