@@ -1,8 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1,REAL MADRID VS TOTTENHAM OP 1
-http://217.61.20.217/live/VeoPartidos02.m3u8
+#EXTINF:-1,INDEPENDIENTE DEL VALLE VS DELFIN
+http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream4.m3u8
 
-#EXTINF:-1,REAL MADRID VS TOTTENHAM OP 2
-http://217.61.20.217/live/VeoPartidos02.m3u8
+
