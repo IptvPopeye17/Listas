@@ -1,7 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1,El Marino 5
-https://r2---sn-hp57kn7s.googlevideo.com/videoplayback?id=effafcfe5677ac69&amp;itag=18&amp;source=picasa&amp;begin=0&amp;requiressl=yes&amp;mm=30&amp;mn=sn-hp57kn7s&amp;ms=nxu&amp;mv=m&amp;pl=46≻=yes&amp;ei=N8nkWZPDFI3bqwXiwabgBA&amp;mime=video/mp4&amp;lmt=1508161323735736&amp;mt=1508165809&amp;ip=2800:4f0:91:1570:dd8d:1182:31c6:8925&amp;ipbits=48&amp;expire=1508173143&amp;sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,mime,lmt&amp;signature=037C0A2BFA3A2A51CA52FC109F61319F700856A0.B507DDDD206B7441A55AA171D378E4FAFC625C24&amp;key=ck2
+
+
+
+#EXTINF:-1,Ben-Hur
+https://r2---sn-hp57kn7z.c.drive.google.com/videoplayback?id=0544371e45bbc6ea&itag=18&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-hp57kn7z&ms=nxu&mv=m&pl=20&sc=yes&ei=vHLpWY69LovC-AXpxbI4&driveid=0B2s-cOIoIQrUdnJIZ1dtMVE0VzQ&mime=video/mp4&lmt=1490419260435341&mt=1508471394&ip=186.33.191.197&ipbits=8&expire=1508478684&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,driveid,mime,lmt&signature=63C66913813107868FEF3C8F628D2CA95CBD0F29.AE2CAC2C953EC195B749E014C5F6139DFDD53CAE&key=ck2
+
+#EXTINF:-1,Deadpool
+https://r6---sn-hp57knls.c.drive.google.com/videoplayback?id=c7aa80ff298cbd65&itag=18&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-hp57knls&ms=nxu&mv=m&pl=20&sc=yes&ei=8nLpWeuRDdah-wXk_4iABw&driveid=0B1gSyGt6JemlcmZJOE4xWGpqRWs&mime=video/mp4&lmt=1467959906260142&mt=1508471394&ip=186.33.191.197&ipbits=8&expire=1508478738&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,driveid,mime,lmt&signature=671DCFC76E34EFAB550CA069A6B365D7D42F932B.514B940993162176D9C7AFC913FD3C520F02A40B&key=ck2
+
+#EXTINF:-1,La 5 Ola
+https://r2---sn-hp57kn6s.c.drive.google.com/videoplayback?id=41c0356b035c7898&itag=18&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-hp57kn6s&ms=nxu&mv=m&pl=20&sc=yes&ei=lHPpWeS9GtCs-AWZtqzADQ&driveid=0B0194tl-KQiySmZmdHY3VW9IRzA&mime=video/mp4&lmt=1475613348414385&mt=1508471626&ip=186.33.191.197&ipbits=8&expire=1508478900&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,driveid,mime,lmt&signature=76714001F1DE797B4334953455BCE5E38B687642.0B1F4648B184F1665E8DA5C2F51C38A01B254CA1&key=ck2
+
+#EXTINF:-1,Triple 9
+https://r2---sn-hp57knly.c.drive.google.com/videoplayback?id=448852c5c303702b&itag=18&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-hp57knly&ms=nxu&mv=m&pl=20&sc=yes&ei=wXPpWaLBG4LX-gWm1omQDw&driveid=0B7evs6aiKPM8TlR4dGxqcWZVWk0&mime=video/mp4&lmt=1470829666025557&mt=1508471626&ip=186.33.191.197&ipbits=8&expire=1508478945&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,driveid,mime,lmt&signature=46909D5C20635D7A9C2625E9D736BEF074593BAE.9CC282E34E81095969F79F5A03344B83414ACDD7&key=ck2
+
+#EXTINF:-1,Hotel Transylvania 2
+https://r1---sn-hp57kn6s.c.drive.google.com/videoplayback?id=dc9bc63cf815b298&itag=18&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-hp57kn6s&ms=nxu&mv=m&pl=20&sc=yes&ei=JHTpWcrdC9Cs-AWZtqzADQ&driveid=0B7evs6aiKPM8QjBYUkllUDY2a3c&mime=video/mp4&lmt=1470711761231551&mt=1508471750&ip=186.33.191.197&ipbits=8&expire=1508479044&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,driveid,mime,lmt&signature=AC713341359AEB4EF6757695C63EBA595C7719D9.3CAAAECD344F0B7ED2AEC34E1EFBF7929F1EA6D6&key=ck2
+
+#EXTINF:-1,Ant Man
+https://r6---sn-hp57knly.c.drive.google.com/videoplayback?id=d30c069923fa5d06&itag=18&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-hp57knly&ms=nxu&mv=m&pl=20&sc=yes&ei=_nHpWc_gLoLl-wXZkbCoBQ&driveid=0B0194tl-KQiyMWhFc1YzYzRDbms&mime=video/mp4&lmt=1478753179480819&mt=1508471213&ip=186.33.191.197&ipbits=8&expire=1508478494&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,driveid,mime,lmt&signature=ADEB32F5017D35959ACE157D6E57743CD5EE5F03.3D0AD91D14A53D836B74A03582BEA2BAA9377920&key=ck2
 
 #EXTINF:-1,Linea Mortal Al Limite
 https://ia601503.us.archive.org/25/items/linea_201710/linea.mp4
