@@ -40,6 +40,15 @@ http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/3.ts
 #EXTINF:-1,AXN
 http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/4.ts
 
+#EXTINF:-1,AZ Mundo
+http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/9.ts
+
+#EXTINF:-1,Bandamax
+http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/13.ts
+
+#EXTINF:-1,Boomerang
+http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/15.ts
+
 #EXTINF:-1,Fox Latino
 http://186.103.216.85:85/matias_test/p.php?id=128&type=m3u8
 
