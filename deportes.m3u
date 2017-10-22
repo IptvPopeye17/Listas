@@ -12,3 +12,6 @@ http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live
 
 #EXTINF:-1,Liga de Quito vs Delfin OP 1
 http://elcanaldelfutbol.com/static/wowza/test/hls/8358/360p/playlist.m3u8
+
+#EXTINF:-1,Emelec vs Catolica
+http://elcanaldelfutbol.com/static/wowza/test/hls/8357/480p/playlist.m3u8?SD480p
