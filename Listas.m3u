@@ -82,6 +82,9 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/tv-sat4.jpg",TVS Satelital
 http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
 
+#EXTINF:-1,CNT SPORT
+http://104.236.186.219/loadbalance/95517475621336455462/chunks.m3u8?pxAuth=WbJEyoFTJolVJ8C83B3oVkic7c4GoN6z
+
 #EXTINF:-1,Space
 http://antenatv.tk/jksjdlashwhjjhbbd-130.m3u8
 
