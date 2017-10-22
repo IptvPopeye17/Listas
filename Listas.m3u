@@ -25,14 +25,14 @@ https://www.youtube.com/watch?v=DMzbBf9zsc8
 #EXTINF:-1,Frecuencia Latina
 https://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream2.m3u8
 
-#EXTINF:-1,Disney Channel
-http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/34.ts
+#EXTINF:-1,Tnt
+http://s1.iptvmanagerpro.com/stream_15_e5423b12f65ed38e5878cdf2eb80d111_1508709958.m3u8
 
-#EXTINF:-1,Disney XD
-http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/36.ts
+#EXTINF:-1,Space
+rtmp://slc2.cxn.tv/live//space.stream?wowzatokenhash=yACEIFEhpPTM_xYJCT5dyu1bb_sgKHzxLCE-lSLcLzo=&wowzatokenendtime=1508730720
 
-#EXTINF:-1,A&E
-http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/1.ts
+#EXTINF:-1,Tooncast
+http://s2.iptvmanagerpro.com/stream_31_7fa7d3a88bb20793d14ed05fe7663f16_1508709958.m3u8
 
 #EXTINF:-1,Animal Planet
 http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/3.ts
