@@ -82,8 +82,17 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/tv-sat4.jpg",TVS Satelital
 http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
 
+#EXTINF:-1,Canal 5
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1688.m3u8
+
+#EXTINF:-1,Azteca 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+
 #EXTINF:-1,CNT SPORT
 http://104.236.186.219/loadbalance/95517475621336455462/chunks.m3u8?pxAuth=WbJEyoFTJolVJ8C83B3oVkic7c4GoN6z
+
+#EXTINF:-1,RCN Colombia
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 
 #EXTINF:-1,Space
 http://antenatv.tk/jksjdlashwhjjhbbd-130.m3u8
@@ -144,3 +153,9 @@ http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?
 
 #EXTINF:-1,Rock Nacional TV
 http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+
+Telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+
+
