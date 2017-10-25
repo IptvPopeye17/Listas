@@ -44,10 +44,7 @@ https://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/liv
 http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19pSvKMMa9gQ9xwe6oO4%2FKS75Yj6UcXyT7DY2f6nH59sGiGWT4dPO7BQmnSmgTXAIRGwLH8Z4waCw%3D%3D
 
 #EXTINF:-1,Space
-rtmp://slc2.cxn.tv/live//space.stream?wowzatokenhash=yACEIFEhpPTM_xYJCT5dyu1bb_sgKHzxLCE-lSLcLzo=&wowzatokenendtime=1508730720
-
-#EXTINF:-1,Tooncast
-http://s2.iptvmanagerpro.com/stream_31_7fa7d3a88bb20793d14ed05fe7663f16_1508709958.m3u8
+rtmp://80.82.78.33/stream/spaceperusalem?id=18781&pk=440e08e36b3aee9a0a1ddc69d8e5a3f28b7eb2baa30e9fd148a1c36e99cd991c
 
 #EXTINF:-1,Animal Planet
 http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1704.m3u8
