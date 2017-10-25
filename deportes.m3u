@@ -1,17 +1,12 @@
 
 #EXTM3U
 
-#EXTINF:-1,CNT SPORTS
-http://45.55.198.45/loadbalance/95517475621336455462/playlist.m3u8?pxAuth=VZGnoINw3p8o3BWUaFuQNjBuaQFc1Vis
+#EXTINF:-1,BARCELONA VS GREMIO
+https://live11.userapi.com/637612/live/ujNyizNDfC8/playlist.m3u8
 
-#EXTINF:-1,El Nacional vs Barcelona HD
-http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream4.m3u8
+#EXTINF:-1,BARCELONA VS GREMIO
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18%2BRTvrlPYgIbA%2F9sG2%2FwwJjQ5%2FUvNyTHYfKcH5bPEPqpcWxliyvq1nVKtf7Xl%2FbT32sep0qK9oiw%3D%3D
 
-#EXTINF:-1,El Nacional vs Barcelona SD
-http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream2.m3u8
+#EXTINF:-1,BARCELONA VS GREMIO
+http://165.227.117.234/loadbalance/43985663368956924627/chunks.m3u8?pxAuth=2vZaQZpXFrq6mA3zhsRvxU03RsEsNLVK
 
-#EXTINF:-1,Liga de Quito vs Delfin OP 1
-http://elcanaldelfutbol.com/static/wowza/test/hls/8358/360p/playlist.m3u8
-
-#EXTINF:-1,Emelec vs Catolica
-http://elcanaldelfutbol.com/static/wowza/test/hls/8357/480p/playlist.m3u8?SD480p
