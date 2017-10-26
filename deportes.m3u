@@ -8,5 +8,7 @@ https://live11.userapi.com/637612/live/ujNyizNDfC8/playlist.m3u8
 http://165.227.125.10/loadbalance/43985663368956924627/chunks.m3u8?pxAuth=6wBvut8sUhMnSifvcNH5JjdAq2KLif8V
 
 #EXTINF:-1,BARCELONA VS GREMIO 3
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2B%2Fq4s3WmxYGrRiQu1XdTrdICgE0PjwVI0QCH4jtLoLjOENL73eHHg4hj51RrR%2FmHLfllabAjLJ%2BA%3D%3D
+http://178.162.199.137:8088/live/fox98iks/playlist.m3u8?id=95209&wowzasessionid=3055061814&pk=48c1ce9aadbcad9f3d3de7767124042e3364fff008ef52b67c68d35fc082dfbb
 
+#EXTINF:-1,BARCELONA VS GREMIO 4
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2B%2Fq4s3WmxYGrRiQu1XdTrdICgE0PjwVI0QCH4jtLoLjOENL73eHHg4hj51RrR%2FmHLfllabAjLJ%2BA%3D%3D
