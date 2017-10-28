@@ -6,3 +6,18 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/8368/480p/playlist.m3u8?SD480p
 
 #EXTINF:-1,Fuerza Amarilla VS Deportivo Cuenca OP 2
 http://elcanaldelfutbol.com/static/wowza/test/hls/8368/480p/playlist.m3u8?SD480p
+
+#EXTINF:-1,Independiente del valle VS Nacional
+http://elcanaldelfutbol.com/static/wowza/test/hls/8366/360p/playlist.m3u8
+
+#EXTINF:-1,Barcelona VS Liga De Quito OP 1
+http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,Barcelona VS Liga De Quito OP 2
+http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream2.m3u8
+
+#EXTINF:-1,Barcelona VS Liga De Quito OP 3
+http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream3.m3u8
+
+#EXTINF:-1,Barcelona VS Liga De Quito OP 4
+http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream4.m3u8
