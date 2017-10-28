@@ -21,3 +21,8 @@ http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live
 
 #EXTINF:-1,Barcelona VS Liga De Quito OP 4
 http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream4.m3u8
+
+#EXTINF:-1,LIGA MX
+
+#EXTINF:-1,Tigres VS Cruz Azul
+http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
