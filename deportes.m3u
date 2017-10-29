@@ -2,28 +2,24 @@
 #EXTM3U
 
 #EXTINF:-1,Fuerza Amarilla VS Deportivo Cuenca OP 1
-http://elcanaldelfutbol.com/static/wowza/test/hls/8368/480p/playlist.m3u8?SD480p
 
 #EXTINF:-1,Fuerza Amarilla VS Deportivo Cuenca OP 2
-http://elcanaldelfutbol.com/static/wowza/test/hls/8368/480p/playlist.m3u8?SD480p
 
 #EXTINF:-1,Independiente del valle VS Nacional
-http://elcanaldelfutbol.com/static/wowza/test/hls/8366/360p/playlist.m3u8
 
-#EXTINF:-1,Barcelona VS Liga De Quito OP 1
+#EXTINF:-1,Macara VS Emelec OP 1
 http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream1.m3u8
 
-#EXTINF:-1,Barcelona VS Liga De Quito OP 2
+#EXTINF:-1,Macara VS Emelec OP 2
 http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream2.m3u8
 
-#EXTINF:-1,Barcelona VS Liga De Quito OP 3
+#EXTINF:-1,Macara VS Emelec OP 3
 http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream3.m3u8
 
-#EXTINF:-1,Barcelona VS Liga De Quito OP 4
+#EXTINF:-1,Macara VS Emelec OP 4
 http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream4.m3u8
 
 #EXTINF:-1,Tigres vs Cruz Azul
-http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
 
 #EXTINF:-1,Tigres VS Cruz Azul
-http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
+
