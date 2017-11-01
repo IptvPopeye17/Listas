@@ -7,17 +7,17 @@
 
 #EXTINF:-1,Independiente del valle VS Nacional
 
-#EXTINF:-1,Macara VS Emelec OP 1
-http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream1.m3u8
+#EXTINF:-1,Lanus vs River Plate
+http://82.192.80.193:8088/adfree/danfox/playlist.m3u8?id=1636&wowzasessionid=427582532&pk=48c1ce9aadbcad9f3d3de7767124042e3364fff008ef52b67c68d35fc082dfbb
 
 #EXTINF:-1,Macara VS Emelec OP 2
-http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream2.m3u8
+
 
 #EXTINF:-1,Macara VS Emelec OP 3
-http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream3.m3u8
+
 
 #EXTINF:-1,Macara VS Emelec OP 4
-http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream4.m3u8
+
 
 #EXTINF:-1,Tigres vs Cruz Azul
 
