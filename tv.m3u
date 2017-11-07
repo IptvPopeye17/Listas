@@ -33,6 +33,9 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.
 #EXTINF:-1,Anime 24/7
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
+#EXTINF:-1,A&E
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1736.m3u8
+
 #EXTINF:-1,Fox Latino
 http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FlPumlve6EsLpWZYT0TWrKFiu4gFC3zKbGD4GH6zr%2BsUtWT7B2L6Ek%2B5mBl2natZr9W5bZAIVlKw%3D%3D
 
