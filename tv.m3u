@@ -33,8 +33,8 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.
 #EXTINF:-1,Anime 24/7
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-
-
+#EXTINF:-1,TCM
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1596.m3u8
 
 #EXTINF:-1,Cartoon Network
 http://195.181.162.207:25461/live/infantiles/fanstvapp/1656.m3u8
