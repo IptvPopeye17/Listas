@@ -1,11 +1,10 @@
 
 #EXTM3U
 
-#EXTINF:-1,EMELEC VS DELFIN
-http://elcanaldelfutbol.com/static/wowza/test/hls/8372/480p/playlist.m3u8?SD480p
+#EXTINF:-1,Barcelona VS Emelec
+http://165.227.126.171/loadbalance/15621393569997197956/chunks.m3u8?pxAuth=TA1ILTKORMcVOhSUZE4Awmehzm1mdi69
 
 #EXTINF:-1,D. CUENCA VS I.D. VALLE
-http://elcanaldelfutbol.com/static/wowza/test/hls/8374/480p/playlist.m3u8?SD480p
 
 #EXTINF:-1,GREMIO VS BARCELONA SC OP 1
 
