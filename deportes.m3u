@@ -5,9 +5,10 @@
 http://165.227.126.171/loadbalance/15621393569997197956/chunks.m3u8?pxAuth=TA1ILTKORMcVOhSUZE4Awmehzm1mdi69
 
 #EXTINF:-1,Barcelona VS Emelec op2
-http://tier2.thecoalitionofsongs.us/o3/248.m3u8?sf=NTcwZDJkM2NiZjMyMA==&token=XVuGDDJ0xREfOeoZB51lIA&expires=1510190195
+http://138.197.171.64/loadbalance/15621393569997197956/chunks.m3u8?pxAuth=3csMyMfBrj0jB10GD23xmDc94weLcnhc
 
-#EXTINF:-1,GREMIO VS BARCELONA SC OP 1
+#EXTINF:-1,Barcelona VS Emelec op3
+http://138.197.171.64/loadbalance/15621393569997197956/playlist.m3u8?pxAuth=3csMyMfBrj0jB10GD23xmDc94weLcnhc
 
 #EXTINF:-1,Lanus vs River Plate
 
