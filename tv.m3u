@@ -34,6 +34,11 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 
+#EXTINF:-1,CNT Sport
+http://192.99.39.218:25461/live/uriel/uriel/4739.ts
+
+
+
 
 
 #EXTINF:-1,Movistar Futbol
