@@ -1,11 +1,11 @@
 
 #EXTM3U
 
-#EXTINF:-1,Barcelona VS Emelec
-http://165.227.126.171/loadbalance/15621393569997197956/chunks.m3u8?pxAuth=TA1ILTKORMcVOhSUZE4Awmehzm1mdi69
+#EXTINF:-1,NACIONAL VS GUAYAQUIL CITY
+http://elcanaldelfutbol.com/static/wowza/test/hls/8379/480p/playlist.m3u8?SD480p
 
-#EXTINF:-1,Barcelona VS Emelec op2
-http://elcanaldelfutbol.com/static/wowza/test/hls/8327/480p/playlist.m3u8?SD480p
+#EXTINF:-1,MACARA VS U. CATOLICA
+http://elcanaldelfutbol.com/static/wowza/test/hls/8380/480p/playlist.m3u8?SD480p
 
 #EXTINF:-1,Barcelona VS Emelec op3
 
