@@ -36,8 +36,8 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 
 
-
-
+#EXTINF:-1,Bein Sports
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1740.m3u8
 
 #EXTINF:-1,Movistar Futbol
 http://195.181.162.207:25461/live/deportesfans/fanstvapp/1720.m3u8
