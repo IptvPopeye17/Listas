@@ -1,14 +1,13 @@
 
 #EXTM3U
 
-#EXTINF:-1,NACIONAL VS GUAYAQUIL CITY
-http://elcanaldelfutbol.com/static/wowza/test/hls/8379/480p/playlist.m3u8?SD480p
+#EXTINF:-1,FUERZA AMARILLA VS EMELEC SD
+http://elcanaldelfutbol.com/static/wowza/test/hls/8383/360p/playlist.m3u8
 
-#EXTINF:-1,MACARA VS U. CATOLICA OP 1
-http://elcanaldelfutbol.com/static/wowza/test/hls/8380/480p/playlist.m3u8?SD480p
+#EXTINF:-1,FUERZA AMARILLA VS EMELEC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/8383/720p/playlist.m3u8
 
 #EXTINF:-1,MACARA VS U. CATOLICA OP 2
-http://188.166.79.152/loadbalance/15621393569997197956/chunks.m3u8?pxAuth=4QgqzVWReWnSQHfuXaGY4Jz4u0qJyjmg
 
 #EXTINF:-1,Lanus vs River Plate
 
