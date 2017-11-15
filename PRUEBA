@@ -1,1 +1,11 @@
 
+#EXTM3U
+
+#EXTINF:-1,CNT SPORT OP 1
+http://192.99.39.218:25461/live/uriel/uriel/4739.ts
+
+#EXTINF:-1,CNT SPORT OP 2
+http://192.99.39.218:25461/live/uriel/uriel/3866.ts
+
+#EXTINF:-1,CNT SPORT OP 3
+http://149.56.26.6:25461/live/dreamscanales/123456/11436.m3u8
