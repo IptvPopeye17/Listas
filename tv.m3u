@@ -69,6 +69,27 @@ http://195.181.162.207:25461/live/peliculas/fanstvapp/1645.m3u8
 #EXTINF:-1,Cinecanal
 http://195.181.162.207:25461/live/peliculas/fanstvapp/1707.m3u8
 
+#EXTINF:-1,Tooncast
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1592.m3u8
+
+#EXTINF:-1,Discovery Kids
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1711.m3u8
+
+#EXTINF:-1,Warner
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1672.m3u8
+
+#EXTINF:-1,Universal
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1673.m3u8
+
+#EXTINF:-1,Space
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1676.m3u8
+
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
 
 
 
@@ -123,73 +144,5 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
 
 
-#EXTINF:-1,Fox sport MX
-http://149.56.26.6:25461/live/dreamscanales/123456/1662.m3u8
-
-#EXTINF:-1,Fox movie
-http://149.56.26.6:25461/live/dreamscanales/123456/1663.m3u8
-
-#EXTINF:-1,Fox cinema
-http://149.56.26.6:25461/live/dreamscanales/123456/1665.m3u8
-
-#EXTINF:-1,fox action
-http://149.56.26.6:25461/live/dreamscanales/123456/1666.m3u8
-
-#EXTINF:-1,fox series
-http://149.56.26.6:25461/live/dreamscanales/123456/1667.m3u8
-
-#EXTINF:-1,TLC
-http://149.56.26.6:25461/live/dreamscanales/123456/1672.m3u8
-
-#EXTINF:-1,Theater
-http://149.56.26.6:25461/live/dreamscanales/123456/1673.m3u8
-
-#EXTINF:-1,discovery kids
-http://149.56.26.6:25461/live/dreamscanales/123456/1674.m3u8
-
-#EXTINF:-1,Investigation Discovery
-http://149.56.26.6:25461/live/dreamscanales/123456/1675.m3u8
-
-#EXTINF:-1,H&H
-http://149.56.26.6:25461/live/dreamscanales/123456/1676.m3u8
-
-#EXTINF:-1,Discovery
-http://149.56.26.6:25461/live/dreamscanales/123456/1678.m3u8
-
-#EXTINF:-1,Canal 5
-http://149.56.26.6:25461/live/dreamscanales/123456/1684.m3u8
-
-#EXTINF:-1,Fox sport 2
-http://149.56.26.6:25461/live/dreamscanales/123456/1661.m3u8
-
-#EXTINF:-1,Glitz
-http://149.56.26.6:25461/live/dreamscanales/123456/1659.m3u8
-
-#EXTINF:-1,golden plus
-http://149.56.26.6:25461/live/dreamscanales/123456/1657.m3u8
-
-#EXTINF:-1,Golden tv
-http://149.56.26.6:25461/live/dreamscanales/123456/1656.m3u8
-
-#EXTINF:-1,History
-http://149.56.26.6:25461/live/dreamscanales/123456/1655.m3u8
-
-#EXTINF:-1,National geographic
-http://149.56.26.6:25461/live/dreamscanales/123456/1654.m3u8
-
-#EXTINF:-1,Space
-http://149.56.26.6:25461/live/dreamscanales/123456/1653.m3u8
-
-#EXTINF:-1,TNT Series
-http://149.56.26.6:25461/live/dreamscanales/123456/1652.m3u8
-
-#EXTINF:-1,Unicable
-http://149.56.26.6:25461/live/dreamscanales/123456/1649.m3u8
-
-#EXTINF:-1,Universal Channel
-http://149.56.26.6:25461/live/dreamscanales/123456/1648.m3u8
-
-#EXTINF:-1,Warner
-http://149.56.26.6:25461/live/dreamscanales/123456/1647.m3u8
 
 
