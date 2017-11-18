@@ -1,20 +1,20 @@
 
 #EXTM3U
 
-#EXTINF:-1,DELFIN VS CUENCA SD
+DELFIN VS CUENCA SD
 http://elcanaldelfutbol.com/static/wowza/test/hls/8382/480p/playlist.m3u8
 
-#EXTINF:-1,DELFIN VS CUENCA HD
+DELFIN VS CUENCA HD
 http://elcanaldelfutbol.com/static/wowza/test/hls/8382/480p/playlist.m3u8
 
-#EXTINF:-1,INDEPENDIENTE VS LIGA U SD
+INDEPENDIENTE VS LIGA U SD
 http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream1.m3u8
 
-#EXTINF:-1,INDEPENDIENTE VS LIGA U HD
+INDEPENDIENTE VS LIGA U HD
 http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream3.m3u8
 
-#EXTINF:-1,Macara VS Emelec OP 3
-
+#EXTINF:-1,CUENCA VS NACIONAL
+http://elcanaldelfutbol.com/static/wowza/test/hls/8386/480p/playlist.m3u8
 
 #EXTINF:-1,Macara VS Emelec OP 4
 
