@@ -24,3 +24,6 @@ http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live
 
 #EXTINF:-1,Macara Vs Fuerza Amarilla
 http://elcanaldelfutbol.com/static/wowza/test/hls/8387/360p/playlist.m3u8
+
+#EXTINF:-1,CNT SPORTS(CALIDAD BAJA)
+http://inber.tvyradio.ml/p.php?id=101197&type=m3u
