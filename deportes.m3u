@@ -25,5 +25,5 @@ http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live
 #EXTINF:-1,Evento 3
 http://elcanaldelfutbol.com/static/wowza/test/hls/8387/360p/playlist.m3u8
 
-#EXTINF:-1,CNT SPORTS(CALIDAD BAJA)
-http://inber.tvyradio.ml/p.php?id=101197&type=m3u
+#EXTINF:-1,CNT SPORTS
+http://149.56.26.6:25461/live/dreamscanales/123456/11436.m3u8
