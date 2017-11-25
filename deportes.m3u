@@ -4,26 +4,11 @@
 #EXTINF:-1,FUERZA AMARILLA VS CLAN JUVENIL
 http://elcanaldelfutbol.com/static/wowza/test/hls/8395/480p/playlist.m3u8
 
-DELFIN VS CUENCA HD
-http://elcanaldelfutbol.com/static/wowza/test/hls/8382/480p/playlist.m3u8
-
-INDEPENDIENTE VS LIGA U SD
+#EXTINF:-1,INDEPENDIENTE VS GUAYAQUIL CITY OP 1
 http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream1.m3u8
 
-INDEPENDIENTE VS LIGA U HD
+#EXTINF:-1,INDEPENDIENTE VS GUAYAQUIL CITY OP 2
 http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream3.m3u8
 
-EXTINF:-1,CUENCA VS NACIONAL
-http://elcanaldelfutbol.com/static/wowza/test/hls/8386/480p/playlist.m3u8
-
-#EXTINF:-1,INDEPENDIENTE VS GUAYAQUIL CITY
-http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream3.m3u8
-
-EXTINF:-1,Evento 2 OP 2
-http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream1.m3u8
-
-EXTINF:-1,Evento 3
-http://elcanaldelfutbol.com/static/wowza/test/hls/8387/360p/playlist.m3u8
-
-EXTINF:-1,CNT SPORTS
+EXTINF:-1,CNT SPORTS-EVENTOS
 http://149.56.26.6:25461/live/dreamscanales/123456/11436.m3u8
