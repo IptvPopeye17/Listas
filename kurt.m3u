@@ -1,41 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="POPEYETV" tvg-logo="https://static.comicvine.com/uploads/original/11/114183/5200265-popeye-the-sailor-man.jpg" group-title="ECUADOR",Popeyetv
-https://static.comicvine.com/uploads/original/11/114183/5200265-popeye-the-sailor-man.jpg
-
-#EXTINF:-1 tvg-id="" tvg-name="LISTAS ACTUALIZADAS" tvg-logo="http://www.empresascalama.cl/wp-content/uploads/2017/03/actualizacion.jpg" group-title="ECUADOR",Listas Actualizadas
-http://www.empresascalama.cl/wp-content/uploads/2017/03/actualizacion.jpg
-
-#EXTINF:-1 tvg-id="" tvg-name="DONACIONES" tvg-logo="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" group-title="ECUADOR",paypal.me/CarlosCampuzano
-https://static.comicvine.com/uploads/original/11/114183/5200265-popeye-the-sailor-man.jpg
-
-#EXTINF:-1 tvg-id="" tvg-name="TELEGRAM" tvg-logo="https://ugc.kn3.net/i/origin/http://s03.s3c.es/imag/_v0/640x319/4/5/e/telegram.jpg" group-title="ECUADOR",Telegram Popeyetv
-https://ugc.kn3.net/i/origin/http://s03.s3c.es/imag/_v0/640x319/4/5/e/telegram.jpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-9A-7_CtfRPM/AAAAAAAAAAI/AAAAAAAAAAA/xF80hVNHCaM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ECUADOR",Televicentro
-http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-uaSHORSATuI/VlY7fMrB94I/AAAAAAAASdE/_oezqviaeVQ/s1600/Oromartv%2Ben%2Bvivo.jpg" group-title="ECUADOR",OromarTv
-http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-jRZJsY2-kZ4/AAAAAAAAAAI/AAAAAAAAAAA/WwqJqre4DyI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ECUADOR",RTS
-http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b1073152.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-DNfy4mxOCQM/AAAAAAAAAAI/AAAAAAAAAJE/FHDW3vuaK34/s640/photo.jpg" group-title="ECUADOR",TC MI CANAL
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/tv-sat4.jpg",TVS Satelital
-http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
-
-#EXTINF:-1,Los Simpsons 24/7
-http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
-
-#EXTINF:-1,Anime 24/7
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-
-
-
-
 #EXTINF:-1,MLB USA
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
@@ -92,57 +56,6 @@ http://195.181.162.207:25461/live/peliculas/fanstvapp/1676.m3u8
 #EXTINF:-1,
 
 
-
-#EXTINF:-1,Antena 3 INTERNACIONAL
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
-#EXTINF:-1,Azteca 7
-http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
-
-#EXTINF:-1,RCN Colombia
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-
-#EXTINF:-1,Telemundo
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Virgintv
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-
-#EXTINF:-1,Paka Paka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
-
-#EXTINF:-1,Cantinazotv
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-
-#EXTINF:-1,Las Estrellas
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-
-#EXTINF:-1,Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-
-#EXTINF:-1,DW Latinoamerica
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-
-#EXTINF:-1,Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
-
-#EXTINF:-1,Mi Musica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Univision
-http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
-
-#EXTINF:-1,Caracol HD
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?
-
-#EXTINF:-1,Rock Nacional TV
-http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
-
-#EXTINF:-1,Telemundo
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-
-#EXTINF:-1,CNT (CALIDAD BAJA)
-http://inber.tvyradio.ml/p.php?id=101197&type=m3u8
 
 
 
