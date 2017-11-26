@@ -1,14 +1,16 @@
 
 #EXTM3U
 
-#EXTINF:-1,EVENTO DEPORTIVO
-http://bit.ly/2joGvAQ
+#EXTINF:-1,
 
-#EXTINF:-1,INDEPENDIENTE VS GUAYAQUIL CITY OP 1
+
+EXTINF:-1,INDEPENDIENTE VS GUAYAQUIL CITY OP 1
 http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream1.m3u8
 
-#EXTINF:-1,INDEPENDIENTE VS GUAYAQUIL CITY OP 2
+EXTINF:-1,INDEPENDIENTE VS GUAYAQUIL CITY OP 2
 http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream3.m3u8
 
-#EXTINF:-1,CNT SPORTS EVENTOS
-http://192.99.39.218:25461/live/Wal/Wal/4739.ts
+
+
+EXTINF:-1,CNT SPORTS EVENTOS
+
