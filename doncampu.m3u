@@ -186,3 +186,5 @@ http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
 #EXTINF:-1,ESPN 3
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(06)/index.m3u8
+#EXTINF:-1,FOX SPORT
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/Stream(01)/index.m3u8
