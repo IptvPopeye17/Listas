@@ -1,196 +1,290 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Animal Planet" tvg-logo="" group-title="General Streams",Latino: Animal Planet
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1704.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1704.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: AZTECA 7" tvg-logo="" group-title="General Streams",Latino: AZTECA 7
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1659.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1659.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: CNN en Espagnol" tvg-logo="" group-title="General Streams",Latino: CNN en Espagnol
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1587.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1587.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Comedy Central HD" tvg-logo="" group-title="General Streams",Latino: Comedy Central HD
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1685.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1685.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: DISCOVERY  HOME & HEALTH" tvg-logo="" group-title="General Streams",Latino: DISCOVERY  HOME & HEALTH
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1613.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1613.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Channel" tvg-logo="" group-title="General Streams",Latino: Discovery Channel
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1708.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1708.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Civilization" tvg-logo="" group-title="General Streams",Latino: Discovery Civilization
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1709.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1709.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery ID" tvg-logo="" group-title="General Streams",Latino: Discovery ID
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1710.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1710.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: DISCOVERY SCIENCE." tvg-logo="" group-title="General Streams",Latino: DISCOVERY SCIENCE.
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1612.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1612.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Turbo" tvg-logo="" group-title="General Streams",Latino: Discovery Turbo
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1714.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1714.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: DISCOVERY WORLD" tvg-logo="" group-title="General Streams",Latino: DISCOVERY WORLD
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1611.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1611.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: DISTRITO COMEDIA" tvg-logo="" group-title="General Streams",Latino: DISTRITO COMEDIA
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1653.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1653.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: E!" tvg-logo="" group-title="General Streams",Latino: E!
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1651.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1651.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: H2" tvg-logo="" group-title="General Streams",Latino: H2
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1644.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1644.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: History HD" tvg-logo="" group-title="General Streams",Latino: History HD
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1678.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1678.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: INVESTIGACION DISCOVERY" tvg-logo="" group-title="General Streams",Latino: INVESTIGACION DISCOVERY
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1640.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1640.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: LIFETIME" tvg-logo="" group-title="General Streams",Latino: LIFETIME
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1604.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1604.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: MTV LATINO" tvg-logo="" group-title="General Streams",Latino: MTV LATINO
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1636.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1636.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: MTV LIVE" tvg-logo="" group-title="General Streams",Latino: MTV LIVE
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1603.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1603.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: NatGeo Wild HD" tvg-logo="" group-title="General Streams",Latino: NatGeo Wild HD
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1701.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1701.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="General Streams",Latino: NATIONAL GEOGRAPHIC
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1632.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1632.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: TLnovelas" tvg-logo="" group-title="General Streams",Latino: TLnovelas
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1583.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1583.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: UNIVISION HD" tvg-logo="" group-title="General Streams",Latino: UNIVISION HD
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1621.ts
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1621.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="EL CHAVO" tvg-logo="" group-title="General Streams",EL CHAVO
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1899.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1899.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES : BABY TV" tvg-logo="" group-title="General Streams",ES : BABY TV
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1898.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1898.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: BOOMERANG" tvg-logo="" group-title="General Streams",Latino: BOOMERANG
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1615.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1615.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: CARTOON NETWORK" tvg-logo="" group-title="General Streams",Latino: CARTOON NETWORK
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1656.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1656.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Kids" tvg-logo="" group-title="General Streams",Latino: Discovery Kids
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1711.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1711.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="" group-title="General Streams",ES: DISNEY CHANNEL HD
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1780.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1780.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES:DISNEY JUNIOR" tvg-logo="" group-title="General Streams",ES:DISNEY JUNIOR
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1781.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1781.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY XD" tvg-logo="" group-title="General Streams",ES: DISNEY XD
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1782.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1782.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: NICKELODEON" tvg-logo="" group-title="General Streams",Latino: NICKELODEON
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1664.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1664.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: NICK Jr" tvg-logo="" group-title="General Streams",Latino: NICK Jr
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1631.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1631.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: TOONCAST" tvg-logo="" group-title="General Streams",Latino: TOONCAST
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1592.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1592.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: Boing" tvg-logo="" group-title="General Streams",ES: Boing
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1741.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1741.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: TIIN" tvg-logo="" group-title="General Streams",Latino: TIIN
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1593.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1593.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: Clan Tve" tvg-logo="" group-title="General Streams",ES: Clan Tve
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1746.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1746.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: PANDA" tvg-logo="" group-title="General Streams",ES: PANDA
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1758.ts
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1758.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sport HD" tvg-logo="" group-title="General Streams",ES: Bein Sport HD
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1740.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1740.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: CDF Premuim" tvg-logo="" group-title="General Streams",Latino: CDF Premuim
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1584.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1584.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: ESPN" tvg-logo="" group-title="General Streams",Latino: ESPN
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1715.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1715.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: ESPN 2" tvg-logo="" group-title="General Streams",Latino: ESPN 2
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1690.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1690.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: ESPN 3" tvg-logo="" group-title="General Streams",Latino: ESPN 3
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1691.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1691.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Sports" tvg-logo="" group-title="General Streams",Latino: Fox Sports
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1698.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1698.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Sports 2 HD" tvg-logo="" group-title="General Streams",Latino: Fox Sports 2 HD
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1699.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1699.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: WIN SPORT HD" tvg-logo="" group-title="General Streams",Latino: WIN SPORT HD
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1588.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1588.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES : MOVISTAR F1 HD" tvg-logo="" group-title="General Streams",ES : MOVISTAR F1 HD
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1718.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1718.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES : movistar Futbol" tvg-logo="" group-title="General Streams",ES : movistar Futbol
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1720.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1720.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES : MOVISTAR MOTOGP" tvg-logo="" group-title="General Streams",ES : MOVISTAR MOTOGP
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1721.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1721.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: UNIVISION TDN HD" tvg-logo="" group-title="General Streams",Latino: UNIVISION TDN HD
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1894.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1894.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: La Liga BAR HD" tvg-logo="" group-title="General Streams",ES: La Liga BAR HD
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1753.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1753.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1" tvg-logo="" group-title="General Streams",ES: EUROSPORT 1
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1733.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1733.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="CDN SPORTS MAX" tvg-logo="" group-title="General Streams",CDN SPORTS MAX
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1895.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1895.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="" group-title="General Streams",REAL MADRID TV
-http://195.181.162.207:25461/live/deportesfans/fanstvapp/1896.ts
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1896.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ES:TCM HD" tvg-logo="" group-title="General Streams",ES:TCM HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1793.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1793.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: TCM" tvg-logo="" group-title="General Streams",Latino: TCM
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1596.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1596.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD HD" tvg-logo="" group-title="General Streams",ES: HOLLYWOOD HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1786.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1786.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: Canal  ESTRENOS HD" tvg-logo="" group-title="General Streams",ES: Canal  ESTRENOS HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1769.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1769.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES:CALLE 13 HD" tvg-logo="" group-title="General Streams",ES:CALLE 13 HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1763.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1763.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: AMC" tvg-logo="" group-title="General Streams",ES: AMC
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1737.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1737.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: AMC" tvg-logo="" group-title="General Streams",Latino: AMC
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1668.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1668.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: Paramount" tvg-logo="" group-title="General Streams",ES: Paramount
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1724.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1724.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Cinecanal" tvg-logo="" group-title="General Streams",Latino: Cinecanal
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1707.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1707.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Cinecanal HD" tvg-logo="" group-title="General Streams",Latino: Cinecanal HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1686.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1686.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="" group-title="General Streams",ES: AXN HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1738.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1738.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: AXN HD" tvg-logo="" group-title="General Streams",Latino: AXN HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1705.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1705.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: A&E HD" tvg-logo="" group-title="General Streams",Latino: A&E HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1703.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1703.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: TNT Series HD" tvg-logo="" group-title="General Streams",Latino: TNT Series HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1702.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1702.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: FOX HD" tvg-logo="" group-title="General Streams",ES: FOX HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1783.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1783.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES:FOX LIFE HD" tvg-logo="" group-title="General Streams",ES:FOX LIFE HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1784.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1784.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Fox 1 HD" tvg-logo="" group-title="General Streams",Latino: Fox 1 HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1693.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1693.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Action HD" tvg-logo="" group-title="General Streams",Latino: Fox Action HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1694.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1694.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Cinema HD" tvg-logo="" group-title="General Streams",Latino: Fox Cinema HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1695.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1695.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: FOX CLASSIC" tvg-logo="" group-title="General Streams",Latino: FOX CLASSIC
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1607.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1607.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Fox HD" tvg-logo="" group-title="General Streams",Latino: Fox HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1696.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1696.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: FOX LIFE" tvg-logo="" group-title="General Streams",Latino: FOX LIFE
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1647.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1647.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: De Pelicula HD" tvg-logo="" group-title="General Streams",Latino: De Pelicula HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1684.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1684.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Golden Edge" tvg-logo="" group-title="General Streams",Latino: Golden Edge
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1681.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1681.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Golden HD" tvg-logo="" group-title="General Streams",Latino: Golden HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1680.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1680.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Space HD" tvg-logo="" group-title="General Streams",Latino: Space HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1676.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1676.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: STUDIO UNIVERSAL" tvg-logo="" group-title="General Streams",Latino: STUDIO UNIVERSAL
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1599.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1599.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Universal HD" tvg-logo="" group-title="General Streams",Latino: Universal HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1673.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1673.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Warner HD" tvg-logo="" group-title="General Streams",Latino: Warner HD
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1672.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1672.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: TNT" tvg-logo="" group-title="General Streams",ES: TNT
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1760.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1760.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: CINELATINO" tvg-logo="" group-title="General Streams",Latino: CINELATINO
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1655.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1655.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: FX" tvg-logo="" group-title="General Streams",Latino: FX
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1645.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1645.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: HBO" tvg-logo="" group-title="General Streams",Latino: HBO
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1643.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1643.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: HBO 2" tvg-logo="" group-title="General Streams",Latino: HBO 2
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1642.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1642.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: AZTECA CINEMA" tvg-logo="" group-title="General Streams",Latino: AZTECA CINEMA
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1618.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1618.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: CINEMAX" tvg-logo="" group-title="General Streams",Latino: CINEMAX
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1614.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1614.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: SONY" tvg-logo="" group-title="General Streams",Latino: SONY
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1600.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1600.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: SYFY" tvg-logo="" group-title="General Streams",ES: SYFY
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1759.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1759.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: SYFY" tvg-logo="" group-title="General Streams",Latino: SYFY
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1598.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1598.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: A&E" tvg-logo="" group-title="General Streams",ES: A&E
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1736.ts
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1736.m3u8
+
 
 
 
