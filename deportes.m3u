@@ -12,5 +12,5 @@ http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live
 
 
 
-EXTINF:-1,CNT SPORTS EVENTOS
-
+#EXTINF:-1,CNT SPORTS EVENTOS
+http://tv.nousiptv.com:25462/live/celia/celia/3435.ts
