@@ -1,16 +1,5 @@
 
 #EXTM3U
 
-#EXTINF:-1,
-
-
-EXTINF:-1,INDEPENDIENTE VS GUAYAQUIL CITY OP 1
-http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream1.m3u8
-
-EXTINF:-1,INDEPENDIENTE VS GUAYAQUIL CITY OP 2
-http://univisa-live.hls.adaptive.level3.net/hls-live/univisa-live/_definst_/live/stream3.m3u8
-
-
-
 #EXTINF:-1,CNT SPORTS EVENTOS
 http://tv.nousiptv.com:25462/live/celia/celia/3435.ts
