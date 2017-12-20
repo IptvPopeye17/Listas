@@ -26,7 +26,7 @@ http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
 #EXTINF:-1,MVS RADIO
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8?tecnotv.info?iptv.m3u8
 
-***********ETRETENIMIENTO 1*********
+
 
 #EXTINF:-1,TELEMUNDO 1
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
@@ -58,7 +58,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PASIONES_HD)/Stream
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL_CLARO_HD)/Stream(02)/index.m3u8
 
 
-**********ETRETENIMIENTO 2**********
+
 
 #EXTINF:-1,WARNER_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(02)/index.m3u8
@@ -93,7 +93,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(COMEDY_CENTRAL_HD)/
 #EXTINF:-1,TRUTV HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TRU_TV_HD)/Stream(02)/index.m3u8
 
-*********** MUNDO Y CULTURA **********
+
 
 
 #EXTINF:-1,DISCOVERY_WORLD_HD 720
@@ -124,7 +124,6 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_TURBO)/in
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC_HD)/Stream(02)/index.m3u8
 
 
-********** KIDS ***********
 
 
 #EXTINF:-1,DISNEY HD 720
@@ -152,7 +151,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/index.m3
 #EXTINF:-1,TOONCAST
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/index.m3u8
 
-**********DEPORTES**********
+
 #EXTINF:-1,ESPN SD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/index.m3u8
 #EXTINF:-1,ESPN 720
@@ -205,7 +204,7 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
 
 
-**********CINEMA**********
+
 
 #EXTINF:-1,CINEMA PLUS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAPLUS)/index.m3u8
@@ -229,122 +228,122 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN)/index.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/index.m3u8
 #EXTINF:-1,SUNDANCE_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/Stream(02)/index.m3u8 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rAHjeQQtftE/UyPJ_1IZTcI/AAAAAAAAD98/5qRVEIGGU4A/s1600/tnt+hd+online.png"  group-title="CINEMA",TNT HD SD
+#EXTINF:-1,TNT HD SD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rAHjeQQtftE/UyPJ_1IZTcI/AAAAAAAAD98/5qRVEIGGU4A/s1600/tnt+hd+online.png"  group-title="CINEMA",TNT_HD 720
+#EXTINF:-1,TNT_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_tnt-hd_m.png"  group-title="CINEMA",TNT  SD
+#EXTINF:-1,TNT  SD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tutelevisionenvivo.org/wp-content/uploads/2017/08/Space000192.png"  group-title="CINEMA",SPACE_HD
+#EXTINF:-1,SPACE_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tutelevisionenvivo.org/wp-content/uploads/2017/08/Space000192.png"  group-title="CINEMA",SPACE_HD 720
+#EXTINF:-1,SPACE_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/84/AMC_HD.png"  group-title="CINEMA",AMC_HD
+#EXTINF:-1,AMC_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AMC_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/84/AMC_HD.png"  group-title="CINEMA",AMC_HD 720
+#EXTINF:-1,AMC_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AMC_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/09/paramount-network-logo_highres.jpg"  group-title="CINEMA",PARAMOUNT_HD
+#EXTINF:-1,PARAMOUNT_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PARAMOUNT_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/09/paramount-network-logo_highres.jpg"  group-title="CINEMA",PARAMOUNT_HD 720
+#EXTINF:-1,PARAMOUNT_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PARAMOUNT_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png"  group-title="CINEMA",CINEMAX
+#EXTINF:-1,CINEMAX
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAX)/index.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg"  group-title="CINEMA",STUDIO_UNIVERSAL
+#EXTINF:-1,STUDIO_UNIVERSAL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(STUDIO_UNIVERSAL)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png"  group-title="CINEMA",MULTIPREMIER
+#EXTINF:-1,MULTIPREMIER
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png"  group-title="CINEMA",CINELATINO
+#EXTINF:-1,CINELATINO
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/index.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_cinecanal-hd_m.png"  group-title="CINEMA",CINECANAL_HD
+#EXTINF:-1,CINECANAL_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_cinecanal-hd_m.png"  group-title="CINEMA",CINECANAL_HD 720
+#EXTINF:-1,CINECANAL_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_cinecanal-hd_m.png"  group-title="CINEMA",CINECANAL_HD 1080
+#EXTINF:-1,CINECANAL_HD 1080
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_22692.png"  group-title="CINEMA",CLARO_CINEMA
+#EXTINF:-1,CLARO_CINEMA
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_CINEMA)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/filmzone-fxm-grande.jpg"  group-title="CINEMA",THE_FILM_ZONE_HD
+#EXTINF:-1,THE_FILM_ZONE_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/filmzone-fxm-grande.jpg"  group-title="CINEMA",THE_FILM_ZONE_HD 720
+#EXTINF:-1,THE_FILM_ZONE_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/704764031819771904/yl4O9YOo.jpg"  group-title="CINEMA",ISAT
+#EXTINF:-1,ISAT
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png"  group-title="CINEMA",EUROCHANNEL
+#EXTINF:-1,EUROCHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(EUROCHANNEL)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png"  group-title="CINEMA",TBS
+#EXTINF:-1,TBS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TBS)/index.m3u8
 
 
-**********CINEMA PREMIUM**********
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/06/hbo_blue-logo.png"  group-title="CINEMA PREMIUM",HBO_HD
+
+#EXTINF:-1,HBO_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/06/hbo_blue-logo.png"  group-title="CINEMA PREMIUM",HBO_HD 720
+#EXTINF:-1,HBO_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/06/hbo_blue-logo.png"  group-title="CINEMA PREMIUM",HBO_HD 1080
+#EXTINF:-1,HBO_HD 1080
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2014/07/hbo2play.jpg"  group-title="CINEMA PREMIUM",HBO_2_HD
+#EXTINF:-1,HBO_2_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2014/07/hbo2play.jpg"  group-title="CINEMA PREMIUM",HBO_2_HD 720
+#EXTINF:-1,HBO_2_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2014/07/hbo2play.jpg"  group-title="CINEMA PREMIUM",HBO_FAMILY_HD
+#EXTINF:-1,HBO_FAMILY_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"  group-title="CINEMA PREMIUM",HBO_FAMILY_HD 720
+#EXTINF:-1,HBO_FAMILY_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_1/gallery_1157_1_11888.png"  group-title="CINEMA PREMIUM",HBO_PLUS_HD 
+#EXTINF:-1,HBO_PLUS_HD 
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_1/gallery_1157_1_11888.png"  group-title="CINEMA PREMIUM",HBO_PLUS_HD 720
+#EXTINF:-1,HBO_PLUS_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"  group-title="CINEMA PREMIUM",HBO_PLUS_SD
+#EXTINF:-1,HBO_PLUS_SD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_3018.png"  group-title="CINEMA PREMIUM",HBO_SIGNATURE_HD
+#EXTINF:-1,HBO_SIGNATURE_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_3018.png"  group-title="CINEMA PREMIUM",HBO_SIGNATURE_HD 720
+#EXTINF:-1,HBO_SIGNATURE_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png"  group-title="CINEMA PREMIUM",MAX
+#EXTINF:-1,MAX
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX)/index.m3u8
-#EXTINF:-1 tvg-logo="http://dishoaxaca.com.mx/img/canales%20hbomaxhd/maxprimehd.jpg"  group-title="CINEMA PREMIUM",MAX_PRIME_HD
+#EXTINF:-1,MAX_PRIME_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://dishoaxaca.com.mx/img/canales%20hbomaxhd/maxprimehd.jpg"  group-title="CINEMA PREMIUM",MAX_PRIME_HD 720
+#EXTINF:-1,MAX_PRIME_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME_HD)/Stream(0)/index.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3bqv7lwVIm8/TyzEaw1dgOI/AAAAAAAASF4/jX2PGJQcHgw/s1600/maxprime.png"  group-title="CINEMA PREMIUM",MAX_PRIME_SD
+#EXTINF:-1,MAX_PRIME_SD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME)/index.m3u8
-#EXTINF:-1 tvg-logo="http://skysky.com.br/images/canais_2015/MAX_UP.png"  group-title="CINEMA PREMIUM",MAX_UP_HD
+#EXTINF:-1,MAX_UP_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://skysky.com.br/images/canais_2015/MAX_UP.png"  group-title="CINEMA PREMIUM",MAX_UP_HD 720
+#EXTINF:-1,MAX_UP_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_552.png.6ffb91e72c89c15d64c35f36109079c8.png"  group-title="CINEMA PREMIUM",FOX1  ESTE
+#EXTINF:-1,FOX1  ESTE
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_ESTE)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_554.png.62498a3e7a92b26aed359221f7869683.png"  group-title="CINEMA PREMIUM",FOX1  OESTE
+#EXTINF:-1,FOX1  OESTE
  http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_OESTE)/index.m3u8
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-cinema-blanco.png.8267a80d9cea1d104e0a5269171d158b.png"  group-title="CINEMA PREMIUM",FOX CINEMA HD 
+#EXTINF:-1,FOX CINEMA HD 
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-cinema-blanco.png.8267a80d9cea1d104e0a5269171d158b.png"  group-title="CINEMA PREMIUM",FOX CINEMA HD  720
+#EXTINF:-1,FOX CINEMA HD  720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png"  group-title="CINEMA PREMIUM",FOX_ACTION-SD
+#EXTINF:-1,FOX_ACTION-SD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1561.png.071535640ed34fa4826d5558d281000d.png"  group-title="CINEMA PREMIUM",FOX_ACTION HD
+#EXTINF:-1,FOX_ACTION HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXACTION_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1561.png.071535640ed34fa4826d5558d281000d.png"  group-title="CINEMA PREMIUM",FOX_ACTION HD 720 
+#EXTINF:-1,FOX_ACTION HD 720 
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXACTION_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png"  group-title="CINEMA PREMIUM",FOXMOVIES_HD
+#EXTINF:-1,FOXMOVIES_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png"  group-title="CINEMA PREMIUM",FOXMOVIES_HD 720
+#EXTINF:-1,FOXMOVIES_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_02/large.FOX-Premium-Classics-Logo-300x98.png.b1ddeb47a8c706a1773733660ade3760.png"  group-title="CINEMA PREMIUM",FOX_CLASSICS_HD
+#EXTINF:-1,FOX_CLASSICS_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_02/large.FOX-Premium-Classics-Logo-300x98.png.b1ddeb47a8c706a1773733660ade3760.png"  group-title="CINEMA PREMIUM",FOX_CLASSICS_HD
+#EXTINF:-1,FOX_CLASSICS_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_02/large.FOX-Premium-Classics-Logo-300x98.png.b1ddeb47a8c706a1773733660ade3760.png"  group-title="CINEMA PREMIUM",FOX_CLASSICS_HD
+#EXTINF:-1,FOX_CLASSICS_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1557.png.9db978d5212d1e869171b7207529ab57.png"  group-title="CINEMA PREMIUM",FOX_COMEDY_HD
+#EXTINF:-1,FOX_COMEDY_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1557.png.9db978d5212d1e869171b7207529ab57.png"  group-title="CINEMA PREMIUM",FOX_COMEDY_HD
+#EXTINF:-1,FOX_COMEDY_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1557.png.9db978d5212d1e869171b7207529ab57.png"  group-title="CINEMA PREMIUM",FOX_COMEDY_HD
+#EXTINF:-1,FOX_COMEDY_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_family.jpg"  group-title="CINEMA PREMIUM",FOX_FAMILY
+#EXTINF:-1,FOX_FAMILY
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_FAMILY)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-family-hd.png"  group-title="CINEMA PREMIUM",FOXFAMILY_HD
+#EXTINF:-1,FOXFAMILY_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-family-hd.png"  group-title="CINEMA PREMIUM",FOXFAMILY_HD 720
+#EXTINF:-1,FOXFAMILY_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/Stream(02)/index.m3u8
