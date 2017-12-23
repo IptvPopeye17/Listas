@@ -1,1 +1,3 @@
-#EXT
+#EXTM3U
+#EXTINF:-1, SPACE
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1676.m3u8
