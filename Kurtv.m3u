@@ -1,6 +1,107 @@
 #EXTM3U
-#EXTINF:-1,FOX 
+
+#EXTINF:-1, Fox
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/26.m3u8
+#EXTINF:-1,Warner
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/12.m3u8
+#EXTINF:-1, A&e
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/36.m3u8
+#EXTINF:-1, Axn
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/34.m3u8
+#EXTINF:-1, Az corazon
+http://z1.iptvmanagerpro.com/stream_90_ec7dfaf954e582e7418893ca4cdf0a7a_1514649236.m3u8
+#EXTINF:-1, Az mundo
+http://z1.iptvmanagerpro.com/stream_113_17af215db063dbc5d5e0256fcf424426_1514649236.m3u8
+#EXTINF:-1, Sony 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/20.m3u8
+#EXTINF:-1, Distrito comedia
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(04)/index.m3u8
+#EXTINF:-1, Fox life
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/29.m3u8
+#EXTINF:-1, Fx
+http://z1.iptvmanagerpro.com/stream_29_bb03dd1b958529b96f7c7ee1d0e01175_1514649236.m3u8
+#EXTINF:-1, Investigacion discovery
+http://185.152.66.150:25461/live/culturales/fanstvapp/72.m3u8
+#EXTINF:-1, Syfy
+http://z1.iptvmanagerpro.com/stream_42_46b4081e99f84bd6faa2626f87c0c181_1514654351.m3u8
+#EXTINF:-1, Tbs
+http://z1.iptvmanagerpro.com/stream_60_5752492bb3ae756472219f3eb4c458b0_1514649236.m3u8
+#EXTINF:-1, Tlnovelas
+http://z1.iptvmanagerpro.com/stream_9_8d0ee81f974869af9999e07ed3bf267f_1514649236.m3u8
+#EXTINF:-1, Tnt series
+http://z1.iptvmanagerpro.com/stream_39_45ff4abb38983efd8a5eaf1f390f90ef_1514649236.m3u8
+#EXTINF:-1, Trutv
+http://z1.iptvmanagerpro.com/stream_73_af850f8905e96227f4a62548a6ee2eb5_1514649236.m3u8
+#EXTINF:-1, Unicable
+http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/Stream(02)/index.m3u8
+#EXTINF:-1, Universal channel
+http://z1.iptvmanagerpro.com/stream_78_53ad985023b472ca1106b9ea0352bf18_1514654351.m3u8
+#EXTINF:-1, Azteca 7
+http://z1.iptvmanagerpro.com/stream_13_f003e67bebaa84372d717a0496130572_1514649236.m3u8
+#EXTINF:-1, Adn 40
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+#EXTINF:-1, Canal 2, las estrellas
+http://189.216.247.113/Content/HLS/Live/Channel(ESTRELLAS_SD)/Stream(01)/index.m3u8
+#EXTINF:-1, Azteca trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Canal 5
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
+#EXTINF:-1, Telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Unimas
+http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
+#EXTINF:-1, Tdn
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1, Univision
+https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
+#EXTINF:-1, Univision deportes
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:-1, Bein sports
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/49.m3u8
+#EXTINF:-1, Canal f1
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+#EXTINF:-1, Espn
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1, Espn 2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(03)/index.m3u8
+#EXTINF:-1, Espn 3
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(06)/index.m3u8
+#EXTINF:-1, Fox sport
+http://z1.iptvmanagerpro.com/stream_102_faf8e4ad92b9741c9b0f8c15746d337e_1514649236.m3u8
+#EXTINF:-1, Fox sport 2
+http://z1.iptvmanagerpro.com/stream_77_850f941975046db88ac69b11d175a299_1514649236.m3u8
+#EXTINF:-1, Amc
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:-1, Cinecanal
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
+#EXTINF:-1, Cinemax
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/32.m3u8
+#EXTINF:-1, Golden
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(02)/index.m3u8
+#EXTINF:-1, Hbo
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
+#EXTINF:-1, Hbo 2
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
+#EXTINF:-1, Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1, Tnt
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1, Boomerang
+http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
+#EXTINF:-1, Cartoon network
+http://185.152.66.150:25461/live/infantiles/fanstvapp/67.m3u8
+#EXTINF:-1, Discovery kids
+http://185.152.66.150:25461/live/infantiles/fanstvapp/62.m3u8
+#EXTINF:-1, Disney junior
+http://185.152.66.150:25461/live/infantiles/fanstvapp/60.m3u8
+#EXTINF:-1, Disney channel
+http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
+#EXTINF:-1, Disney xd
+http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8
+#EXTINF:-1, Animal planet
+http://185.152.66.150:25461/live/culturales/fanstvapp/75.m3u8
+#EXTINF:-1, Discovery
+http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
 
 
 
