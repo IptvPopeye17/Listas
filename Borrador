@@ -13,7 +13,7 @@ http://189.216.247.113/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/index.m3u8
 #EXTINF:-1,NICK_JR
 http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
-#EXTINF:-1,BANDA MAX
+#EXTINF:-1,BANDAMAX
 http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
 #EXTINF:-1,TDN
 http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
