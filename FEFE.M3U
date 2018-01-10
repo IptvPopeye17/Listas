@@ -3,3 +3,96 @@
 http://iptvchannel.ml/LIVE/J02/42.m3u8
 #EXTINF:-1,FOX
 http://iptvchannel.ml/LIVE/J02/45.m3u8
+#EXTINF:-1,SONY
+http://iptvchannel.ml/LIVE/J02/45.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://iptvchannel.ml/LIVE/J02/68.m3u8
+#EXTINF:-1,LIFETIME
+http://iptvchannel.ml/LIVE/J02/152.m3u8
+#EXTINF:-1,AE
+http://iptvchannel.ml/LIVE/J02/1.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptvchannel.ml/LIVE/J02/22.m3u8
+#EXTINF:-1,HISTORY
+http://iptvchannel.ml/LIVE/J02/67.m3u8
+#EXTINF:-1,BOOMERANG
+http://iptvchannel.ml/LIVE/J02/11.m3u8
+#EXTINF:-1,H2
+http://iptvchannel.ml/LIVE/J02/61.m3u8
+#EXTINF:-1,TRUTV
+http://iptvchannel.ml/LIVE/J02/96.m3u8
+#EXTINF:-1,ESPN LATIN AMERICA
+http://iptvchannel.ml/LIVE/J02/34.m3u8
+#EXTINF:-1,ESPN 3
+http://iptvchannel.ml/LIVE/J02/36.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://iptvchannel.ml/LIVE/J02/53.m3u8
+#EXTINF:-1,DE PELICULA
+http://iptvchannel.ml/LIVE/J02/21.m3u8
+#EXTINF:-1,CINEMAX
+http://iptvchannel.ml/LIVE/J02/20.m3u8
+#EXTINF:-1,CINECANAL
+http://iptvchannel.ml/LIVE/J02/19.m3u8
+#EXTINF:-1,TOONCAST
+http://iptvchannel.ml/LIVE/J02/95.m3u8
+#EXTINF:-1,NICKELODEON
+http://iptvchannel.ml/LIVE/J02/184.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://iptvchannel.ml/LIVE/J02/17.m3u8
+#EXTINF:-1,DISNEY XD
+http://iptvchannel.ml/LIVE/J02/31.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://iptvchannel.ml/LIVE/J02/30.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvchannel.ml/LIVE/J02/29.m3u8
+#EXTINF:-1,MAX PRIME
+http://iptvchannel.ml/LIVE/J02/73.m3u8
+#EXTINF:-1,HBO PLUS
+http://iptvchannel.ml/LIVE/J02/64.m3u8
+#EXTINF:-1,HBO FAMILY
+http://iptvchannel.ml/LIVE/J02/63.m3u8
+#EXTINF:-1,HBO 2
+http://iptvchannel.ml/LIVE/J02/300.m3u8
+#EXTINF:-1,HBO
+http://iptvchannel.ml/LIVE/J02/62.m3u8
+#EXTINF:-1,ISAT
+http://iptvchannel.ml/LIVE/J02/153.m3u8
+#EXTINF:-1,AZ CORAZON
+http://iptvchannel.ml/LIVE/J02/166.m3u8
+#EXTINF:-1,CANAL 5
+http://iptvchannel.ml/LIVE/J02/14.m3u8
+#EXTINF:-1,MILENIO
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1,ONCE TV
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w683830965_b1300000_slesp.m3u8
+#EXTINF:-1,GALA TV
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/chunklist_w1400496842_b1398304.m3u8
+#EXTINF:-1,FOTO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1048_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,CANAL A
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,AZTECA 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,UNIVISION
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_800_androidtab.m3u8
+#EXTINF:-1,UNIMAS
+http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_800_androidtab.m3u8
+#EXTINF:-1,DW LATINOAMERICA
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,LA RED
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/chunklist_b1429163.m3u8
+#EXTINF:-1,PAKA PAKA
+http://iptvchannel.ml/LIVE/J03/ch15/hi.m3u8
+#EXTINF:-1,EL TRECE
+http://iptvchannel.ml/LIVE/J03/ch7/hi.m3u8
+#EXTINF:-1,TELEFE
+http://iptvchannel.ml/LIVE/J03/ch6/hi.m3u8
+AMERICA TV
+http://iptvchannel.ml/LIVE/J03/ch3/hi.m3u8
+ANTENA 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+LA SEXTA
+http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/index_4_av-p.m3u8?sd=10&rebase=on
+
