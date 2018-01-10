@@ -97,4 +97,7 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/index_4_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,UNIVISION TDN
 http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
-
+#EXTINF:-1,WARNER
+http://207.244.78.99/stream_76_sk_st.m3u8
+#EXTINF:-1,SPACE
+http://ragnatv.jl.serv.net.mx/proxy.php/http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/Stream(03)/index.m3u8
