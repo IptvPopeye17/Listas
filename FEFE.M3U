@@ -1,103 +1,217 @@
 #EXTM3U
+#EXTINF:-1,Las estrellas (canal 2)
+http://channels.premiumtutv.com/stream_7_sk_st.m3u8 
+#EXTINF:-1,Fox
+http://channels.premiumtutv.com/stream_8_sk_st.m3u8 
+#EXTINF:-1,Tlnovelas
+http://channels.premiumtutv.com/stream_9_sk_st.m3u8 
+#EXTINF:-1,MTV
+http://channels.premiumtutv.com/stream_10_sk_st.m3u8 
+#EXTINF:-1,Sony
+http://channels.premiumtutv.com/stream_11_sk_st.m3u8 
+#EXTINF:-1,Azteca 13
+http://channels.premiumtutv.com/stream_12_sk_st.m3u8 
+#EXTINF:-1,Azteca 7
+http://channels.premiumtutv.com/stream_13_sk_st.m3u8 
+#EXTINF:-1,Canal 5
+http://channels.premiumtutv.com/stream_14_sk_st.m3u8 
+#EXTINF:-1,TNT
+http://channels.premiumtutv.com/stream_15_sk_st.m3u8 
+#EXTINF:-1,Cartoon Network
+http://channels.premiumtutv.com/stream_16_sk_st.m3u8 
+#EXTINF:-1,Once TV
+http://channels.premiumtutv.com/stream_18_sk_st.m3u8 
+#EXTINF:-1,Discovery Channel
+http://channels.premiumtutv.com/stream_19_sk_st.m3u8 
+#EXTINF:-1,Disney Channel
+http://channels.premiumtutv.com/stream_20_sk_st.m3u8 
+#EXTINF:-1,Nickelodeon (Nick)
+http://channels.premiumtutv.com/stream_21_sk_st.m3u8 
+#EXTINF:-1,Discovery Kids
+http://channels.premiumtutv.com/stream_22_sk_st.m3u8 
+#EXTINF:-1,NatGeo
+http://channels.premiumtutv.com/stream_23_sk_st.m3u8 
+#EXTINF:-1,El Financiero Bloomberg
+http://channels.premiumtutv.com/stream_24_sk_st.m3u8 
+#EXTINF:-1,Disney Jr
+http://channels.premiumtutv.com/stream_25_sk_st.m3u8 
+#EXTINF:-1,Multimedios Monterrey
+http://channels.premiumtutv.com/stream_26_sk_st.m3u8 
+#EXTINF:-1,Cinecanal (W)
+http://channels.premiumtutv.com/stream_27_sk_st.m3u8 
+#EXTINF:-1,Animal Planet
+http://channels.premiumtutv.com/stream_28_sk_st.m3u8 
 #EXTINF:-1,FX
-http://iptvchannel.ml/LIVE/J02/42.m3u8
-#EXTINF:-1,FOX
-http://iptvchannel.ml/LIVE/J02/45.m3u8
-#EXTINF:-1,SONY
-http://iptvchannel.ml/LIVE/J02/45.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://iptvchannel.ml/LIVE/J02/68.m3u8
-#EXTINF:-1,LIFETIME
-http://iptvchannel.ml/LIVE/J02/152.m3u8
-#EXTINF:-1,AE
-http://iptvchannel.ml/LIVE/J02/1.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://iptvchannel.ml/LIVE/J02/22.m3u8
-#EXTINF:-1,HISTORY
-http://iptvchannel.ml/LIVE/J02/67.m3u8
-#EXTINF:-1,BOOMERANG
-http://iptvchannel.ml/LIVE/J02/11.m3u8
-#EXTINF:-1,H2
-http://iptvchannel.ml/LIVE/J02/61.m3u8
-#EXTINF:-1,TRUTV
-http://iptvchannel.ml/LIVE/J02/96.m3u8
-#EXTINF:-1,ESPN LATIN AMERICA
-http://iptvchannel.ml/LIVE/J02/34.m3u8
+http://channels.premiumtutv.com/stream_29_sk_st.m3u8 
+#EXTINF:-1,Disney XD
+http://channels.premiumtutv.com/stream_30_sk_st.m3u8 
+#EXTINF:-1,Tooncast
+http://channels.premiumtutv.com/stream_31_sk_st.m3u8 
+#EXTINF:-1,TVE
+http://channels.premiumtutv.com/stream_32_sk_st.m3u8 
+#EXTINF:-1,Universal Channel
+http://channels.premiumtutv.com/stream_33_sk_st.m3u8 
+#EXTINF:-1,Lifetime
+http://channels.premiumtutv.com/stream_34_sk_st.m3u8 
+#EXTINF:-1,ESPN 2
+http://channels.premiumtutv.com/stream_35_sk_st.m3u8 
 #EXTINF:-1,ESPN 3
-http://iptvchannel.ml/LIVE/J02/36.m3u8
-#EXTINF:-1,FOX SPORT 2
-http://iptvchannel.ml/LIVE/J02/53.m3u8
-#EXTINF:-1,DE PELICULA
-http://iptvchannel.ml/LIVE/J02/21.m3u8
-#EXTINF:-1,CINEMAX
-http://iptvchannel.ml/LIVE/J02/20.m3u8
-#EXTINF:-1,CINECANAL
-http://iptvchannel.ml/LIVE/J02/19.m3u8
-#EXTINF:-1,TOONCAST
-http://iptvchannel.ml/LIVE/J02/95.m3u8
-#EXTINF:-1,NICKELODEON
-http://iptvchannel.ml/LIVE/J02/184.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://iptvchannel.ml/LIVE/J02/17.m3u8
-#EXTINF:-1,DISNEY XD
-http://iptvchannel.ml/LIVE/J02/31.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://iptvchannel.ml/LIVE/J02/30.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://iptvchannel.ml/LIVE/J02/29.m3u8
-#EXTINF:-1,MAX PRIME
-http://iptvchannel.ml/LIVE/J02/73.m3u8
-#EXTINF:-1,HBO PLUS
-http://iptvchannel.ml/LIVE/J02/64.m3u8
-#EXTINF:-1,HBO FAMILY
-http://iptvchannel.ml/LIVE/J02/63.m3u8
-#EXTINF:-1,HBO 2
-http://iptvchannel.ml/LIVE/J02/300.m3u8
-#EXTINF:-1,HBO
-http://iptvchannel.ml/LIVE/J02/62.m3u8
-#EXTINF:-1,ISAT
-http://iptvchannel.ml/LIVE/J02/153.m3u8
-#EXTINF:-1,AZ CORAZON
-http://iptvchannel.ml/LIVE/J02/166.m3u8
-#EXTINF:-1,CANAL 5
-http://iptvchannel.ml/LIVE/J02/14.m3u8
-#EXTINF:-1,MILENIO
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,ONCE TV
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w683830965_b1300000_slesp.m3u8
-#EXTINF:-1,GALA TV
-http://74.222.3.185:1935/live/ngrp:galatvmerida_all/chunklist_w1400496842_b1398304.m3u8
-#EXTINF:-1,FOTO TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1048_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,CANAL A
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ADN 40
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,AZTECA 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,UNIVISION
-http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_800_androidtab.m3u8
-#EXTINF:-1,UNIMAS
-http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_800_androidtab.m3u8
-#EXTINF:-1,DW LATINOAMERICA
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,LA RED
-http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/chunklist_b1429163.m3u8
-#EXTINF:-1,PAKA PAKA
-http://iptvchannel.ml/LIVE/J03/ch15/hi.m3u8
-#EXTINF:-1,EL TRECE
-http://iptvchannel.ml/LIVE/J03/ch7/hi.m3u8
-#EXTINF:-1,TELEFE
-http://iptvchannel.ml/LIVE/J03/ch6/hi.m3u8
-#EXTINF:-1,AMERICA TV
-http://iptvchannel.ml/LIVE/J03/ch3/hi.m3u8
-#EXTINF:-1,ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,LA SEXTA
-http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,UNIVISION TDN
-http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
-#EXTINF:-1,WARNER
-http://207.244.78.99/stream_76_sk_st.m3u8
-#EXTINF:-1,SPACE
-http://ragnatv.jl.serv.net.mx/proxy.php/http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/Stream(03)/index.m3u8
+http://channels.premiumtutv.com/stream_36_sk_st.m3u8 
+#EXTINF:-1,Golden Edge
+http://channels.premiumtutv.com/stream_37_sk_st.m3u8 
+#EXTINF:-1,Distrito Comedia
+http://channels.premiumtutv.com/stream_38_sk_st.m3u8 
+#EXTINF:-1,TNT Series
+http://channels.premiumtutv.com/stream_39_sk_st.m3u8 
+#EXTINF:-1,TIIN
+http://channels.premiumtutv.com/stream_40_sk_st.m3u8 
+#EXTINF:-1,Ritmoson Latino
+http://channels.premiumtutv.com/stream_41_sk_st.m3u8 
+#EXTINF:-1,Syfy
+http://channels.premiumtutv.com/stream_42_sk_st.m3u8 
+#EXTINF:-1,Unicable
+http://channels.premiumtutv.com/stream_43_sk_st.m3u8 
+#EXTINF:-1,Fox life
+http://channels.premiumtutv.com/stream_44_sk_st.m3u8 
+#EXTINF:-1,E! Entertainment Television
+http://channels.premiumtutv.com/stream_45_sk_st.m3u8 
+#EXTINF:-1,Fox Movies HD
+http://channels.premiumtutv.com/stream_46_sk_st.m3u8 
+#EXTINF:-1,AyM Sports
+http://channels.premiumtutv.com/stream_47_sk_st.m3u8 
+#EXTINF:-1,A&E
+http://channels.premiumtutv.com/stream_48_sk_st.m3u8 
+#EXTINF:-1,Nick Jr
+http://channels.premiumtutv.com/stream_49_sk_st.m3u8 
+#EXTINF:-1,CBeebies
+http://channels.premiumtutv.com/stream_50_sk_st.m3u8 
+#EXTINF:-1,Boomerang
+http://channels.premiumtutv.com/stream_51_sk_st.m3u8 
+#EXTINF:-1,Fox Classics
+http://channels.premiumtutv.com/stream_52_sk_st.m3u8 
+#EXTINF:-1,Fox CinÃ©ma
+http://channels.premiumtutv.com/stream_53_sk_st.m3u8 
+#EXTINF:-1,Golden
+http://channels.premiumtutv.com/stream_54_sk_st.m3u8 
+#EXTINF:-1,Studio Universal
+http://channels.premiumtutv.com/stream_56_sk_st.m3u8 
+#EXTINF:-1,TCM
+http://channels.premiumtutv.com/stream_57_sk_st.m3u8 
+#EXTINF:-1,BBC Entertainment
+http://channels.premiumtutv.com/stream_58_sk_st.m3u8 
+#EXTINF:-1,Comedy Central
+http://channels.premiumtutv.com/stream_59_sk_st.m3u8 
+#EXTINF:-1,TBS
+http://channels.premiumtutv.com/stream_60_sk_st.m3u8 
+#EXTINF:-1,Discovery Civilization
+http://channels.premiumtutv.com/stream_61_sk_st.m3u8 
+#EXTINF:-1,Discovery Science
+http://channels.premiumtutv.com/stream_62_sk_st.m3u8 
+#EXTINF:-1,Discovery Turbo
+http://channels.premiumtutv.com/stream_63_sk_st.m3u8 
+#EXTINF:-1,Discovery Theater
+http://channels.premiumtutv.com/stream_64_sk_st.m3u8 
+#EXTINF:-1,InvestigaciÃ³n Discovery
+http://channels.premiumtutv.com/stream_65_sk_st.m3u8 
+#EXTINF:-1,Home and Health
+http://channels.premiumtutv.com/stream_66_sk_st.m3u8 
+#EXTINF:-1,Glitz
+http://channels.premiumtutv.com/stream_67_sk_st.m3u8 
+#EXTINF:-1,HMX TV
+http://channels.premiumtutv.com/stream_68_sk_st.m3u8 
+#EXTINF:-1,I.Sat
+http://channels.premiumtutv.com/stream_69_sk_st.m3u8 
+#EXTINF:-1,Nick Toons
+http://channels.premiumtutv.com/stream_70_sk_st.m3u8 
+#EXTINF:-1,El Gourmet
+http://channels.premiumtutv.com/stream_71_sk_st.m3u8 
+#EXTINF:-1,Gala TV
+http://channels.premiumtutv.com/stream_72_sk_st.m3u8 
+#EXTINF:-1,TruTV
+http://channels.premiumtutv.com/stream_73_sk_st.m3u8 
+#EXTINF:-1,AXN
+http://channels.premiumtutv.com/stream_74_sk_st.m3u8 
+#EXTINF:-1,Warner
+http://channels.premiumtutv.com/stream_76_sk_st.m3u8 
+#EXTINF:-1,Fox Sports 2
+http://channels.premiumtutv.com/stream_77_sk_st.m3u8 
+#EXTINF:-1,Universal
+http://channels.premiumtutv.com/stream_78_sk_st.m3u8 
+#EXTINF:-1,The Film Zone
+http://channels.premiumtutv.com/stream_79_sk_st.m3u8 
+#EXTINF:-1,Nick
+http://channels.premiumtutv.com/stream_80_sk_st.m3u8 
+#EXTINF:-1,Space
+http://channels.premiumtutv.com/stream_81_sk_st.m3u8 
+#EXTINF:-1,NatGeo Wild
+http://channels.premiumtutv.com/stream_82_sk_st.m3u8 
+#EXTINF:-1,History
+http://channels.premiumtutv.com/stream_83_sk_st.m3u8 
+#EXTINF:-1,Bandamax
+http://channels.premiumtutv.com/stream_84_sk_st.m3u8 
+#EXTINF:-1,De PelÃ­cula
+http://channels.premiumtutv.com/stream_85_sk_st.m3u8 
+#EXTINF:-1,Discovery World
+http://channels.premiumtutv.com/stream_87_sk_st.m3u8 
+#EXTINF:-1,Fox Action
+http://channels.premiumtutv.com/stream_88_sk_st.m3u8 
+#EXTINF:-1,Fox 1
+http://channels.premiumtutv.com/stream_89_sk_st.m3u8 
+#EXTINF:-1,Az CorazÃ³n
+http://channels.premiumtutv.com/stream_90_sk_st.m3u8 
+#EXTINF:-1,VH1
+http://channels.premiumtutv.com/stream_91_sk_st.m3u8 
+#EXTINF:-1,VH1 Classic
+http://channels.premiumtutv.com/stream_92_sk_st.m3u8 
+#EXTINF:-1,MTV Hits
+http://channels.premiumtutv.com/stream_93_sk_st.m3u8 
+#EXTINF:-1,MTV Live
+http://channels.premiumtutv.com/stream_94_sk_st.m3u8 
+#EXTINF:-1,ESPN
+http://channels.premiumtutv.com/stream_95_sk_st.m3u8 
+#EXTINF:-1,AMC
+http://channels.premiumtutv.com/stream_96_sk_st.m3u8 
+#EXTINF:-1,Fox NatGeo
+http://channels.premiumtutv.com/stream_98_sk_st.m3u8 
+#EXTINF:-1,TeleFormula
+http://channels.premiumtutv.com/stream_99_sk_st.m3u8 
+#EXTINF:-1,Telehit
+http://channels.premiumtutv.com/stream_100_sk_st.m3u8 
+#EXTINF:-1,Foro TV
+http://channels.premiumtutv.com/stream_101_sk_st.m3u8 
+#EXTINF:-1,Fox Sports
+http://channels.premiumtutv.com/stream_102_sk_st.m3u8 
+#EXTINF:-1,ESPN +
+http://channels.premiumtutv.com/stream_103_sk_st.m3u8 
+#EXTINF:-1,Garaje TV
+http://channels.premiumtutv.com/stream_104_sk_st.m3u8 
+#EXTINF:-1,TLC
+http://channels.premiumtutv.com/stream_105_sk_st.m3u8 
+#EXTINF:-1,Canal F1 Latinoamerica
+http://channels.premiumtutv.com/stream_106_sk_st.m3u8 
+#EXTINF:-1,WOBI TV
+http://channels.premiumtutv.com/stream_107_sk_st.m3u8 
+#EXTINF:-1,UTV
+http://channels.premiumtutv.com/stream_108_sk_st.m3u8 
+#EXTINF:-1,Proyecto 40
+http://channels.premiumtutv.com/stream_109_sk_st.m3u8 
+#EXTINF:-1,HOLA TV
+http://channels.premiumtutv.com/stream_110_sk_st.m3u8 
+#EXTINF:-1,Milenio TV
+http://channels.premiumtutv.com/stream_111_sk_st.m3u8 
+#EXTINF:-1,Fashion TV
+http://channels.premiumtutv.com/stream_112_sk_st.m3u8 
+#EXTINF:-1,Az Mundo
+http://channels.premiumtutv.com/stream_113_sk_st.m3u8 
+#EXTINF:-1,Az CinÃ©ma
+http://channels.premiumtutv.com/stream_114_sk_st.m3u8 
+#EXTINF:-1,Cinemax (O)
+http://channels.premiumtutv.com/stream_115_sk_st.m3u8 
+#EXTINF:-1,Az Click!
+http://channels.premiumtutv.com/stream_116_sk_st.m3u8 
+#EXTINF:-1,Imagen TV
+http://channels.premiumtutv.com/stream_118_sk_st.m3u8 
+#EXTINF:-1,Cinecanal
+http://channels.premiumtutv.com/stream_119_sk_st.m3u8 
+#EXTINF:-1,Distrito Comedia FIXED
+http://channels.premiumtutv.com/stream_121_sk_st.m3u8
