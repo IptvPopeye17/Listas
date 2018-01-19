@@ -2,7 +2,7 @@
 
 #EXTINF:-1, Fox
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/26.m3u8
-#EXTINF:-1,Warner
+#EXTINF:-1, Warner
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/12.m3u8
 #EXTINF:-1, A&e
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/36.m3u8
@@ -49,22 +49,20 @@ http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(03)/index.m3u8
 #EXTINF:-1, Espn 3
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(06)/index.m3u8
 #EXTINF:-1, Amc
-http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
 #EXTINF:-1, Cinecanal
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
 #EXTINF:-1, Cinemax
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/32.m3u8
 #EXTINF:-1, Golden
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(02)/index.m3u8
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/25.m3u8
 #EXTINF:-1, Hbo
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
 #EXTINF:-1, Hbo 2
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
 #EXTINF:-1, Space
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
 #EXTINF:-1, Tnt
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
-#EXTINF:-1, Tnt op 2
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/15.m3u8
 #EXTINF:-1, Boomerang
 http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
@@ -100,6 +98,31 @@ http://185.152.66.150:25461/live/deportesfans/fanstvapp/42.m3u8
 http://185.152.66.150:25461/live/deportesfans/fanstvapp/43.m3u8
 #EXTINF:-1, Univision tdn op 2
 http://185.152.66.150:25461/live/deportesfans/fanstvapp/50.m3u8
-
-
-
+#EXTINF:-1, Studio universal
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
+#EXTINF:-1, Fox action
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
+#EXTINF:-1, Hollywood
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/22.m3u8
+#EXTINF:-1, Paramount
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/21.m3u8
+#EXTINF:-1, Tcm
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/16.m3u8
+#EXTINF:-1, De pelicula
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
+#EXTINF:-1, AE
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/36.m3u8
+#EXTINF:-1, Discovery turbo
+http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8
+#EXTINF:-1, H2
+http://185.152.66.150:25461/live/culturales/fanstvapp/68.m3u8
+#EXTINF:-1, History channel
+http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8
+#EXTINF:-1, Discovery science
+http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
+#EXTINF:-1, Nick
+http://185.152.66.150:25461/live/infantiles/fanstvapp/58.m3u8
+#EXTINF:-1, Nick jr
+http://185.152.66.150:25461/live/infantiles/fanstvapp/57.m3u8
+#EXTINF:-1, Tooncast
+http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
