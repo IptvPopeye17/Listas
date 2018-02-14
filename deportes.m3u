@@ -1,8 +1,8 @@
 
 #EXTM3U
 
-#EXTINF:-1,EVENTO OP1
-http://www.jomyson.com:8000/live/pati/pati1/6921.ts
+#EXTINF:-1,Porto vs Liverpool
+http://185.152.66.150:25461/47/sintonizar.m3u8
 
-#EXTINF:-1,EVENTO OP2
-http://www.jomyson.com:8000/live/pati/pati1/6922.ts
+#EXTINF:-1,Real Madrid vs PSG 
+http://hxh11075.000webhostapp.com/canal.php?canal=FOX_SPORTS_HD&type=m3u8
