@@ -201,6 +201,10 @@ http://185.152.66.150:25461/28/sintonizar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Golden HD" tvg-logo="" group-title="General Streams",Latino: Golden HD
 http://185.152.66.150:25461/25/sintonizar.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Dual: Ufc" tvg-logo="" group-title="General Streams",Latino: UFC
+http://185.152.66.150:25461/174/sintonizar.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: H2" tvg-logo="" group-title="General Streams",Latino: H2
 http://185.152.66.150:25461/68/sintonizar.m3u8
 
