@@ -4,6 +4,6 @@
 #EXTINF:-1,ACTIVAR CANAL
 http://185.152.66.150:25461/acceso/json.php
 #EXTINF:-1,BSC VS GRAL.DIAZ
-192.99.39.218:25461/live/gonza1/gonza1/4698.ts
+http://192.99.39.218:25461/live/gonza1/gonza1/4698.ts
 #EXTINF:-1,BSC VS GRAL.DIAZ OP2
-192.99.39.218:25461/live/gonza1/gonza1/3861.ts
+http://192.99.39.218:25461/live/gonza1/gonza1/3861.ts
