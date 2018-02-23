@@ -131,7 +131,7 @@ http://185.152.66.150:25461/48/sintonizar.m3u8
 http://185.152.66.150:25461/31/sintonizar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: CINEMAX" tvg-logo="" group-title="General Streams",Latino: CINEMAX
-http://185.152.66.150:25461/32/sintonizar.m3u8
+http://185.152.66.150:25461/32/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: CNN en Espagnol" tvg-logo="" group-title="General Streams",Latino: CNN en Espagnol
 http://185.152.66.150:25461/10/sintonizar.m3u8
