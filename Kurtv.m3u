@@ -1,333 +1,331 @@
 #EXTM3U
 
 
-#EXTINF:-0 tvg-logo="http://185.152.66.150:25461/acceso/json.php",ACTIVAR CANALES
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="" group-title="General Streams",ADN 40
-http://185.152.66.150:25461/110/sintonizar.m3u8
+http://185.152.66.150:25461/110/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime Tv" tvg-logo="" group-title="General Streams",Anime Tv
-http://185.152.66.150:25461/113/sintonizar.m3u8
+http://185.152.66.150:25461/113/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="" group-title="General Streams",Azteca 7
-http://185.152.66.150:25461/91/sintonizar.m3u8
+http://185.152.66.150:25461/91/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Trece (13)" tvg-logo="" group-title="General Streams",Azteca Trece (13)
-http://185.152.66.150:25461/90/sintonizar.m3u8
+http://185.152.66.150:25461/90/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Antiestres" tvg-logo="" group-title="General Streams",Canal Antiestres
-http://185.152.66.150:25461/92/sintonizar.m3u8
+http://185.152.66.150:25461/92/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-logo="" group-title="General Streams",Canal Once
-http://185.152.66.150:25461/111/sintonizar.m3u8
+http://185.152.66.150:25461/111/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="CBN Español" tvg-logo="" group-title="General Streams",CBN Español
-http://185.152.66.150:25461/102/sintonizar.m3u8
+http://185.152.66.150:25461/102/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Chelsea Tv" tvg-logo="" group-title="General Streams",Chelsea Tv
-http://185.152.66.150:25461/117/sintonizar.m3u8
+http://185.152.66.150:25461/117/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Cielo Tv" tvg-logo="" group-title="General Streams",Cielo Tv
-http://185.152.66.150:25461/103/sintonizar.m3u8
+http://185.152.66.150:25461/103/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="City Radio Tv" tvg-logo="" group-title="General Streams",City Radio Tv
-http://185.152.66.150:25461/106/sintonizar.m3u8
+http://185.152.66.150:25461/106/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Colombia: CANAL TRECE" tvg-logo="" group-title="General Streams",Colombia: CANAL TRECE
-http://185.152.66.150:25461/7/sintonizar.m3u8
+http://185.152.66.150:25461/7/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Colombia: Caracol HD" tvg-logo="" group-title="General Streams",Colombia: Caracol HD
-http://185.152.66.150:25461/6/sintonizar.m3u8
+http://185.152.66.150:25461/6/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Cool HD" tvg-logo="" group-title="General Streams",Cool HD
-http://185.152.66.150:25461/107/sintonizar.m3u8
+http://185.152.66.150:25461/107/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Deportv" tvg-logo="" group-title="",Deportv
-http://185.152.66.150:25461/118/sintonizar.m3u8
+http://185.152.66.150:25461/118/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="DW Latinoamérica" tvg-logo="" group-title="General Streams",DW Latinoamérica
-http://185.152.66.150:25461/112/sintonizar.m3u8
+http://185.152.66.150:25461/112/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="El Trece (13) Argentina" tvg-logo="" group-title="General Streams",El Trece (13) Argentina
-http://185.152.66.150:25461/93/sintonizar.m3u8
+http://185.152.66.150:25461/93/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-logo="" group-title="General Streams",Enlace
-http://185.152.66.150:25461/104/sintonizar.m3u8
+http://185.152.66.150:25461/104/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES : MOVISTAR FORMULA 1" tvg-logo="" group-title="General Streams",ES : MOVISTAR FORMULA 1
-http://185.152.66.150:25461/40/sintonizar.m3u8
+http://185.152.66.150:25461/40/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES : movistar Futbol" tvg-logo="" group-title="General Streams",ES : movistar Futbol
-http://185.152.66.150:25461/39/sintonizar.m3u8
+http://185.152.66.150:25461/39/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: BABY TV" tvg-logo="" group-title="General Streams",ES: BABY TV
-http://185.152.66.150:25461/66/sintonizar.m3u8
+http://185.152.66.150:25461/66/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sport HD" tvg-logo="" group-title="General Streams",ES: Bein Sport HD
-http://185.152.66.150:25461/49/sintonizar.m3u8
+http://185.152.66.150:25461/49/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Boing" tvg-logo="" group-title="General Streams",ES: Boing
-http://185.152.66.150:25461/65/sintonizar.m3u8
+http://185.152.66.150:25461/65/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Clan Tve" tvg-logo="" group-title="General Streams",ES: Clan Tve
-http://185.152.66.150:25461/63/sintonizar.m3u8
+http://185.152.66.150:25461/63/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1" tvg-logo="" group-title="General Streams",ES: EUROSPORT 1
-http://185.152.66.150:25461/44/sintonizar.m3u8
+http://185.152.66.150:25461/44/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD HD" tvg-logo="" group-title="General Streams",ES: HOLLYWOOD HD
-http://185.152.66.150:25461/22/sintonizar.m3u8
+http://185.152.66.150:25461/22/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Paramount" tvg-logo="" group-title="General Streams",ES: Paramount
-http://185.152.66.150:25461/21/sintonizar.m3u8
+http://185.152.66.150:25461/21/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid Channel" tvg-logo="" group-title="General Streams",ES: Real Madrid Channel
-http://185.152.66.150:25461/38/sintonizar.m3u8
+http://185.152.66.150:25461/38/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: SYFY" tvg-logo="" group-title="General Streams",ES: SYFY
-http://185.152.66.150:25461/18/sintonizar.m3u8
+http://185.152.66.150:25461/18/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: TNT SPAIN" tvg-logo="" group-title="General Streams",ES: TNT SPAIN
-http://185.152.66.150:25461/14/sintonizar.m3u8
+http://185.152.66.150:25461/14/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES:ANTENA 3 HD" tvg-logo="" group-title="General Streams",ES:ANTENA 3 HD
-http://185.152.66.150:25461/11/sintonizar.m3u8
+http://185.152.66.150:25461/11/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES:CALLE 13 HD" tvg-logo="" group-title="General Streams",ES:CALLE 13 HD
-http://185.152.66.150:25461/33/sintonizar.m3u8
+http://185.152.66.150:25461/33/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal  LIGA HD" tvg-logo="" group-title="General Streams",ES:Canal  LIGA HD
-http://185.152.66.150:25461/41/sintonizar.m3u8
+http://185.152.66.150:25461/41/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="" group-title="General Streams",Las Estrellas
 http://185.152.66.150:25461/95/sintonizar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: A&E HD" tvg-logo="" group-title="General Streams",Latino: A&E HD
-http://185.152.66.150:25461/36/sintonizar.m3u8
+http://185.152.66.150:25461/36/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: AMC" tvg-logo="" group-title="General Streams",Latino: AMC
-http://185.152.66.150:25461/35/sintonizar.m3u8
+http://185.152.66.150:25461/35/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Animal Planet" tvg-logo="" group-title="General Streams",Latino: Animal Planet
-http://185.152.66.150:25461/75/sintonizar.m3u8
+http://185.152.66.150:25461/75/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: AXN HD" tvg-logo="" group-title="General Streams",Latino: AXN HD
-http://185.152.66.150:25461/34/sintonizar.m3u8
+http://185.152.66.150:25461/34/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: BOOMERANG" tvg-logo="" group-title="General Streams",Latino: BOOMERANG
-http://185.152.66.150:25461/64/sintonizar.m3u8
+http://185.152.66.150:25461/64/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Canal 5 Mx" tvg-logo="" group-title="General Streams",Latino: Canal 5 Mx
-http://185.152.66.150:25461/76/sintonizar.m3u8
+http://185.152.66.150:25461/76/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: CARTOON NETWORK" tvg-logo="" group-title="General Streams",Latino: CARTOON NETWORK
-http://185.152.66.150:25461/67/sintonizar.m3u8
+http://185.152.66.150:25461/67/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: CDF Premuim" tvg-logo="" group-title="General Streams",Latino: CDF Premuim
-http://185.152.66.150:25461/48/sintonizar.m3u8
+http://185.152.66.150:25461/48/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Cinecanal" tvg-logo="" group-title="General Streams",Latino: Cinecanal
-http://185.152.66.150:25461/31/sintonizar.m3u8
+http://185.152.66.150:25461/31/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: CINEMAX" tvg-logo="" group-title="General Streams",Latino: CINEMAX
 http://185.152.66.150:25461/32/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: CNN en Espagnol" tvg-logo="" group-title="General Streams",Latino: CNN en Espagnol
-http://185.152.66.150:25461/10/sintonizar.m3u8
+http://185.152.66.150:25461/10/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Comedy Central HD" tvg-logo="" group-title="General Streams",Latino: Comedy Central HD
-http://185.152.66.150:25461/9/sintonizar.m3u8
+http://185.152.66.150:25461/9/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: De Pelicula HD" tvg-logo="" group-title="General Streams",Latino: De Pelicula HD
-http://185.152.66.150:25461/30/sintonizar.m3u8
+http://185.152.66.150:25461/30/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: DISCOVERY  HOME & HEALTH" tvg-logo="" group-title="General Streams",Latino: DISCOVERY  HOME & HEALTH
-http://185.152.66.150:25461/3/sintonizar.m3u8
+http://185.152.66.150:25461/3/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Channel" tvg-logo="" group-title="General Streams",Latino: Discovery Channel
-http://185.152.66.150:25461/71/sintonizar.m3u8
+http://185.152.66.150:25461/71/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery ID" tvg-logo="" group-title="General Streams",Latino: Discovery ID
-http://185.152.66.150:25461/72/sintonizar.m3u8
+http://185.152.66.150:25461/72/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Kids" tvg-logo="" group-title="General Streams",Latino: Discovery Kids
-http://185.152.66.150:25461/62/sintonizar.m3u8
+http://185.152.66.150:25461/62/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: DISCOVERY SCIENCE." tvg-logo="" group-title="General Streams",Latino: DISCOVERY SCIENCE.
-http://185.152.66.150:25461/70/sintonizar.m3u8
+http://185.152.66.150:25461/70/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Turbo" tvg-logo="" group-title="General Streams",Latino: Discovery Turbo
-http://185.152.66.150:25461/69/sintonizar.m3u8
+http://185.152.66.150:25461/69/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Disney Channel" tvg-logo="" group-title="General Streams",Latino: Disney Channel
-http://185.152.66.150:25461/61/sintonizar.m3u8
+http://185.152.66.150:25461/61/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Disney Junior" tvg-logo="" group-title="General Streams",Latino: Disney Junior
-http://185.152.66.150:25461/60/sintonizar.m3u8
+http://185.152.66.150:25461/60/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Disney XD" tvg-logo="" group-title="General Streams",Latino: Disney XD
-http://185.152.66.150:25461/59/sintonizar.m3u8
+http://185.152.66.150:25461/59/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: DISTRITO COMEDIA" tvg-logo="" group-title="General Streams",Latino: DISTRITO COMEDIA
-http://185.152.66.150:25461/8/sintonizar.m3u8
+http://185.152.66.150:25461/8/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: E!" tvg-logo="" group-title="General Streams",Latino: E!
-http://185.152.66.150:25461/5/sintonizar.m3u8
+http://185.152.66.150:25461/5/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: ESPN" tvg-logo="" group-title="General Streams",Latino: ESPN
-http://185.152.66.150:25461/47/sintonizar.m3u8
+http://185.152.66.150:25461/47/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: ESPN 2" tvg-logo="" group-title="General Streams",Latino: ESPN 2
-http://185.152.66.150:25461/45/sintonizar.m3u8
+http://185.152.66.150:25461/45/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: ESPN 3" tvg-logo="" group-title="General Streams",Latino: ESPN 3
-http://185.152.66.150:25461/46/sintonizar.m3u8
+http://185.152.66.150:25461/46/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Action HD" tvg-logo="" group-title="General Streams",Latino: Fox Action HD
-http://185.152.66.150:25461/27/sintonizar.m3u8
+http://185.152.66.150:25461/27/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Fox HD" tvg-logo="" group-title="General Streams",Latino: Fox HD
-http://185.152.66.150:25461/26/sintonizar.m3u8
+http://185.152.66.150:25461/26/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: FOX LIFE" tvg-logo="" group-title="General Streams",Latino: FOX LIFE
-http://185.152.66.150:25461/29/sintonizar.m3u8
+http://185.152.66.150:25461/29/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Sports" tvg-logo="" group-title="General Streams",Latino: Fox Sports
-http://185.152.66.150:25461/42/sintonizar.m3u8
+http://185.152.66.150:25461/42/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Sports 2 HD" tvg-logo="" group-title="General Streams",Latino: Fox Sports 2 HD
-http://185.152.66.150:25461/43/sintonizar.m3u8
+http://185.152.66.150:25461/43/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: FX" tvg-logo="" group-title="General Streams",Latino: FX
-http://185.152.66.150:25461/28/sintonizar.m3u8
+http://185.152.66.150:25461/28/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Golden HD" tvg-logo="" group-title="General Streams",Latino: Golden HD
-http://185.152.66.150:25461/25/sintonizar.m3u8
+http://185.152.66.150:25461/25/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Dual: Ufc" tvg-logo="" group-title="General Streams",Latino: UFC
-http://185.152.66.150:25461/174/sintonizar.m3u8
+http://185.152.66.150:25461/174/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: H2" tvg-logo="" group-title="General Streams",Latino: H2
-http://185.152.66.150:25461/68/sintonizar.m3u8
+http://185.152.66.150:25461/68/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: HBO" tvg-logo="" group-title="General Streams",Latino: HBO
-http://185.152.66.150:25461/24/sintonizar.m3u8
+http://185.152.66.150:25461/24/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: HBO 2" tvg-logo="" group-title="General Streams",Latino: HBO 2
-http://185.152.66.150:25461/23/sintonizar.m3u8
+http://185.152.66.150:25461/23/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: History HD" tvg-logo="" group-title="General Streams",Latino: History HD
-http://185.152.66.150:25461/74/sintonizar.m3u8
+http://185.152.66.150:25461/74/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: NatGeo Wild HD" tvg-logo="" group-title="General Streams",Latino: NatGeo Wild HD
-http://185.152.66.150:25461/73/sintonizar.m3u8
+http://185.152.66.150:25461/73/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: NICK Jr" tvg-logo="" group-title="General Streams",Latino: NICK Jr
-http://185.152.66.150:25461/57/sintonizar.m3u8
+http://185.152.66.150:25461/57/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: NICKELODEON" tvg-logo="" group-title="General Streams",Latino: NICKELODEON
-http://185.152.66.150:25461/58/sintonizar.m3u8
+http://185.152.66.150:25461/58/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: PANDA" tvg-logo="" group-title="General Streams",Latino: PANDA
-http://185.152.66.150:25461/55/sintonizar.m3u8
+http://185.152.66.150:25461/55/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: SONY" tvg-logo="" group-title="General Streams",Latino: SONY
-http://185.152.66.150:25461/20/sintonizar.m3u8
+http://185.152.66.150:25461/20/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Space HD" tvg-logo="" group-title="General Streams",Latino: Space HD
-http://185.152.66.150:25461/17/sintonizar.m3u8
+http://185.152.66.150:25461/17/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: STUDIO UNIVERSAL" tvg-logo="" group-title="General Streams",Latino: STUDIO UNIVERSAL
-http://185.152.66.150:25461/19/sintonizar.m3u8
+http://185.152.66.150:25461/19/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: TCM" tvg-logo="" group-title="General Streams",Latino: TCM
-http://185.152.66.150:25461/16/sintonizar.m3u8
+http://185.152.66.150:25461/16/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
   
 #EXTINF:-1 tvg-id="" tvg-name="Latino: TIIN" tvg-logo="" group-title="General Streams",Latino: TIIN
-http://185.152.66.150:25461/54/sintonizar.m3u8
+http://185.152.66.150:25461/54/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: TNT" tvg-logo="" group-title="General Streams",Latino: TNT
-http://185.152.66.150:25461/15/sintonizar.m3u8
+http://185.152.66.150:25461/15/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: TOONCAST" tvg-logo="" group-title="General Streams",Latino: TOONCAST
-http://185.152.66.150:25461/53/sintonizar.m3u8
+http://185.152.66.150:25461/53/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Universal Channel HD" tvg-logo="" group-title="General Streams",Latino: Universal Channel HD
-http://185.152.66.150:25461/13/sintonizar.m3u8
+http://185.152.66.150:25461/13/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: UNIVISION HD" tvg-logo="" group-title="General Streams",Latino: UNIVISION HD
-http://185.152.66.150:25461/2/sintonizar.m3u8
+http://185.152.66.150:25461/2/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Warner HD" tvg-logo="" group-title="General Streams",Latino: Warner HD
-http://185.152.66.150:25461/12/sintonizar.m3u8
+http://185.152.66.150:25461/12/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: WIN SPORT HD" tvg-logo="" group-title="General Streams",Latino: WIN SPORT HD
-http://185.152.66.150:25461/37/sintonizar.m3u8
+http://185.152.66.150:25461/37/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="MEGA - SPAIN" tvg-logo="" group-title="General Streams",MEGA - SPAIN
-http://185.152.66.150:25461/96/sintonizar.m3u8
+http://185.152.66.150:25461/96/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Mi Musica HD" tvg-logo="" group-title="General Streams",Mi Musica HD
-http://185.152.66.150:25461/108/sintonizar.m3u8
+http://185.152.66.150:25461/108/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Mlb USA" tvg-logo="" group-title="General Streams",Mlb USA
-http://185.152.66.150:25461/119/sintonizar.m3u8
+http://185.152.66.150:25461/119/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Movies: La gran apuesta - The Big short 2015" tvg-logo="" group-title="General Streams",Movies: La gran apuesta - The Big short 2015
-https://www.vidio.com/videos/1230290/vjs_playlist.m3u8
+https://www.vidio.com/videos/1230290/vjs_playlist.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Mtv HD" tvg-logo="" group-title="General Streams",Mtv HD
-http://185.152.66.150:25461/live/demo/250118/109.m3u8
+http://185.152.66.150:25461/live/demo/250118/109.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Neox - Spain" tvg-logo="" group-title="General Streams",Neox - Spain
-http://185.152.66.150:25461/97/sintonizar.m3u8
+http://185.152.66.150:25461/97/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Nova  - Spain" tvg-logo="" group-title="",Nova  - Spain
-http://185.152.66.150:25461/98/sintonizar.m3u8
+http://185.152.66.150:25461/98/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Paka-Paka" tvg-logo="" group-title="General Streams",Paka-Paka
-http://185.152.66.150:25461/114/sintonizar.m3u8
+http://185.152.66.150:25461/114/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Rtvida HD" tvg-logo="" group-title="General Streams",Rtvida HD
-http://185.152.66.150:25461/105/sintonizar.m3u8
+http://185.152.66.150:25461/105/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Telefe Argentina" tvg-logo="" group-title="General Streams",Telefe Argentina
-http://185.152.66.150:25461/99/sintonizar.m3u8
+http://185.152.66.150:25461/99/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Telemedellin" tvg-logo="" group-title="General Streams",Telemedellin
-http://185.152.66.150:25461/100/sintonizar.m3u8
+http://185.152.66.150:25461/100/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Telemicro Canal 5" tvg-logo="" group-title="General Streams",Telemicro Canal 5
-http://185.152.66.150:25461/101/sintonizar.m3u8
+http://185.152.66.150:25461/101/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO HD" tvg-logo="" group-title="General Streams",TELEMUNDO HD
-http://185.152.66.150:25461/88/sintonizar.m3u8
+http://185.152.66.150:25461/88/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Todo Deportes Tv" tvg-logo="" group-title="General Streams",Todo Deportes Tv
-http://185.152.66.150:25461/120/sintonizar.m3u8
+http://185.152.66.150:25461/120/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION TDN HD" tvg-logo="" group-title="General Streams",UNIVISION TDN HD
-http://185.152.66.150:25461/50/sintonizar.m3u8
+http://185.152.66.150:25461/50/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Tlnovelas" tvg-logo="" group-title="General Streams",Tlnovelas
-http://185.152.66.150:25461/123/sintonizar.m3u8
+http://185.152.66.150:25461/123/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="" group-title="General Streams",TVC Deportes
-http://185.152.66.150:25461/127/sintonizar.m3u8
+http://185.152.66.150:25461/127/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Civilization" tvg-logo="" group-title="General Streams",Latino: Discovery Civilization
-http://185.152.66.150:25461/128/sintonizar.m3u8
+http://185.152.66.150:25461/128/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="24 Horas: Los simpson" tvg-logo="" group-title="General Streams",24 Horas: Los simpson
-http://185.152.66.150:25461/81/sintonizar.m3u8
+http://185.152.66.150:25461/81/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo :24 Horas" tvg-logo="" group-title="General Streams",El Chavo :24 Horas
-http://185.152.66.150:25461/82/sintonizar.m3u8
+http://185.152.66.150:25461/82/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="24 Horas: Juego De Tronos" tvg-logo="" group-title="24 Horas",24 Horas: Juego De Tronos
-http://185.152.66.150:25461/126/sintonizar.m3u8
+http://185.152.66.150:25461/126/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="24 Horas: Juegos Mentales" tvg-logo="" group-title="24 Horas",24 Horas: Juegos Mentales
-http://185.152.66.150:25461/125/sintonizar.m3u8
+http://185.152.66.150:25461/125/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
