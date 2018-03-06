@@ -1,0 +1,29 @@
+
+#EXTM3U
+ 
+#EXTINF:-1,ZONA FILM TERROR
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_zonafilmsterror/chunklist.m3u8
+#EXTINF:-1,LCREME STAFF
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_lcreme_staff/chunklist.m3u8
+#EXTINF:-1,LCREME HORROR
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_lcreme_horror/chunklist.m3u8
+#EXTINF:-1,LCREME MAX
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_lcrememax/chunklist.m3u8
+#EXTINF:-1,SERIES 342
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_seriesan342/chunklist.m3u8
+#EXTINF:-1,TERROR MANIA
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_terror_mania/chunklist.m3u8
+#EXTINF:-1, CINE CALIDAD
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_cine_calidad/chunklist.m3u8
+#EXTINF:-1, CINE STAR
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_cine_star/chunklist.m3u8
+#EXTINF:-1, CLASSIC HD
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_lcreme_classichd/chunklist.m3u8
+#EXTINF:-1, VITATO TV
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_vitatotv/chunklist.m3u8
+#EXTINF:-1, CREME PLUSHD
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_lcremeplushd/chunklist.m3u8
+#EXTINF:-1,CREME DREAMS
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_lcreme_dreams/chunklist.m3u8
+#EXTINF:-1, KATY HD
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_katyhd/chunklist.m3u8
