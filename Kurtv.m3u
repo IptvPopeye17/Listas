@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:0 tvg-logo="http://185.152.66.150:25461/acceso/json.php" group-title="ACTIVAR CANALES", *** ACTIVAR ***
+http://185.152.66.150:25461/acceso/json.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="" group-title="General Streams",ADN 40
 http://185.152.66.150:25461/110/sintonizar.m3u8?http://185.152.66.150:25461/acceso/json.php
