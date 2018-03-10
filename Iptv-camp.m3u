@@ -2,6 +2,9 @@
 #EXTINF:-1,FOX
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(FOX_HD)/index.m3u8
 
+#EXTINF:-1,CNT SPORTS
+http://megatv.live/live/MegaTest/MegaTV/196.m3u8
+
 #EXTINF:-1,WARNER
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(WARNER_HD)/index.m3u8
 
