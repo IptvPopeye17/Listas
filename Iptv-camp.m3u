@@ -38,3 +38,17 @@ http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(CINECANAL_HD)/
 #EXTINF:-1,CINE LATINO
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(CINELATINO)/Stream(02)/index.m3u8
 
+#EXTINF:-1,DISCOVERY CHANNERL
+http://jorge9879.iptvab.tk/iptv.php/disc_ch/3/index.m3u8
+
+#EXTINF:-1,DEPELICULA
+http://jorge9879.iptvab.tk/iptv.php/depelicula/4/index.m3u8
+
+#EXTINF:-1,DISCOVERY CIVILATION
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/index.m3u8
+
+#EXTINF:-1,DISCOVERY CIVILATIONTNT
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(TNT_HD)/Stream(04)/index.m3u8
+
+
+
