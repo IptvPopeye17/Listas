@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1,FOX
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(FOX_HD)/index.m3u8
+
+#EXTINF:-1,WARNER
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(WARNER_HD)/index.m3u8
+
+#EXTINF:-1,A&E
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(02)/index.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(02)/index.m3u8
+
+#EXTINF:-1,AXN
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(AXN_HD)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TELENOVELAS
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/index.m3u8
+
+#EXTINF:-1,TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+#EXTINF:-1,AZTECA 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,GOLDEN
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/index.m3u8
+
+#EXTINF:-1,VPLUS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_manifest.m3u8
+
+#EXTINF:-1,COMEDIA CENTRAL
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(02)/index.m3u8
+
+#EXTINF:-1,CINECANAL
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(CINECANAL_HD)/Stream(02)/index.m3u8
+
+#EXTINF:-1,CINE LATINO
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(CINELATINO)/Stream(02)/index.m3u8
+
