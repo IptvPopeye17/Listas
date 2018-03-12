@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,FOX
-http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(FOX_HD)/index.m3u8
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(FOX_HD)/Stream(02)index.m3u8
 
 #EXTINF:-1,WARNER
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(WARNER_HD)/index.m3u8
