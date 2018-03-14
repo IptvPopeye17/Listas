@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:-1,HBO
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,HBO Plus
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,FOX
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(FOX_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,FOX Action
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(FOXACTION_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,AXN
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(AXN_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,TNT
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,TCM
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(TCM)/Stream(01)/index.m3u8
+#EXTINF:-1,Animal Planet
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,History
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,History 2
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(H2)/Stream(01)/index.m3u8
+#EXTINF:-1,Discovery H&H
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(01)/index.m3u8
+#EXTINF:-1,Discovery Science
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream(01)/index.m3u8
+#EXTINF:-1,A&E
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,Space
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,Sony
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(SONY_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,ID
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(ID_HD)/index.m3u8
+#EXTINF:-1,PARAMOUNT
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(PARAMOUNT_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="3215" tvg-group="CINE" tvg-logo="http://tmsimg.video.cdn.charter.com/h3/NowShowing/14988/s14988_h3_aa.png", FXM
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(FXMMX_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="1719" tvg-group="Espa챰a" tvg-logo="http://www.CINEytele.com/wp-content/uploads/2016/06/paramount-channel.png", Paramount Channel
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="1330" tvg-group="CINE" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png", HBO
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="2585" tvg-group="CINE" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif", HBO Plus
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="2584" tvg-group="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="2583" tvg-group="CINE" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/hbo-signature.gif", HBO Signature
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_FAMILY_HD)/index.m3u8?tecnotv
+#EXTINF:-1,HBO PLUS HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8?tecnotv
+#EXTINF:-1,HBO SIGNATURE HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8?tecnotv
+#EXTINF:-1,MAX PRIME HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(MAX_PRIME_HD)/index.m3u8?tecnotv
+#EXTINF:-1,TNT SERIES HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(TNT_SERIES_HD)/index.m3u8
+#EXTINF:-1,TNT HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1,Space HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(SPACE_HD)/index.m3u8
+#EXTINF:-1,CINECANAL HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8
+#EXTINF:-1,WARNER HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(WARNER_HD)/index.m3u8
+#EXTINF:-1,AXN HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(AXN_HD)/index.m3u8
+#EXTINF:-1,SONY HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(SONY_HD)/index.m3u8
+#EXTINF:-1,FOX HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(FOX_HD)/index.m3u8
+#EXTINF:-1,FX HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(FX_HD)/index.m3u8
+#EXTINF:-1,TNT SERIES HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(TNT_SERIES_HD)/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/index.m3u8
+#EXTINF:-1,RCG
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1,ORBIT TV
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+#EXTINF:-1, MEGA 3 HD
+http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
+#EXTINF:-1,FM HOT
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
+#EXTINF:-1,CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1,Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvqIf/75fd708f8a.png" group-title="CentroAmerica", RPC
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
+#EXTINF:-1, Antena 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1, Antena 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=1439881142212
+#EXTINF:-1, La Cuatro
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
+#EXTINF:-1, Telecinco
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
+#EXTINF:-1, La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1, La Sexta HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, 8 TV España
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+#EXTINF:-1, 13 TV  
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1, Rtv ce
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1, MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:-1, Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1, NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1, LIFE TV
+http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
+#EXTINF:-1, A3SERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1, la Otra
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
+#EXTINF:-1, Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1, FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1, Comedy Central
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+#EXTINF:-1, AMC
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+#EXTINF:-1, AXN
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
+#EXTINF:-1, AXN White
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
+#EXTINF:-1, FOX
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
+#EXTINF:-1, FOX Life
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
+#EXTINF:-1, Movistar Accion
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
+#EXTINF:-1, Movistar Comedia
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
+#EXTINF:-1, Movistar DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+#EXTINF:-1, M+ Series Xtra HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1, M+ Accion HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+#EXTINF:-1, M+ Comedia
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
+#EXTINF:-1, M+ DCine
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+#EXTINF:-1, M+ Xtra
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1, FOX Life Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
+#EXTINF:-1, FOX Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1, Cosmo Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:-1, Hollywood HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+#EXTINF:-1, AXN White Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1, CBS reality
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/554/index.m3u8
+#EXTINF:-1, Movistar Xtra
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/568/index.m3u8
+#EXTINF:-1, TV Canal Vasco
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-1, MUSIC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1, LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1, TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+#EXTINF:-1, SUNDANCE
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(SUNDANCE_HD)/index.m3u8
+#EXTINF:-1, FOX CINEMA
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(FOX_CINEMA_HD)/index.m3u8
+#EXTINF:-1, TLC
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(TLC_HD)/index.m3u8
+#EXTINF:-1, HBO PLUS
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8
+#EXTINF:-1, FXM
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(FXMMX_HD)/index.m3u8
+#EXTINF:-1, FOX LIFE
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE_HD)/index.m3u8
+#EXTINF:-1, MAX
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(MAX)/index.m3u8
+#EXTINF:-1, MAX PRIME
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(MAX_PRIME_HD)/index.m3u8
+#EXTINF:-1, STUDIO UNIVERSAL
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/index.m3u8
+#EXTINF:-1, V PLUS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?knmr.m3u8?knmrgratis?Entretenimiento.m3u8?
+#EXTINF:-1, TELE SUR
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:-1, CLARO SPORTS
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+#EXTINF:-1, BEIN SPORTS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="TyC Sports HD" tvg-logo="http://www.chileiptv.xyz/logos/107.jpg" group-title="Deportes",TyC Sports HD
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,FOX
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+#EXTINF:-1,Europa Europa
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8
+#EXTINF:-1,BLOCKBUSTER MOVIES
+http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
+#EXTINF:-1,SUPERHERO MOVIES
+http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
+#EXTINF:-0, AXNHD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(06)/index.m3u8
+#EXTINF:-0,DISNEYYONIUR
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+#EXTINF:-0,Tooncast:  
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(03)/index.m3u8
+#EXTINF:-0,AXN;
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(05)/index.m3u8
+#EXTINF:-0,Cinelatino:
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(02)/index.m3u8
+#EXTINF:-0,Cinecanal:
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(CINECANAL_HD)/Stream(04)/index.m3u8
+#EXTINF:0 type="favorites" channelId="2494" tvg-group="CINE" tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png", Fox Cinema
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="137" tvg-group="CINE" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-classics.png", Fox Classics
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="1862" tvg-group="CINE" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png", Fox Movies
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="159" tvg-group="CINE" tvg-logo="http://3.bp.blogspot.com/-zmTGzafOIe8/Vfz6Yzk1MQI/AAAAAAAAAX0/bomr2zyOrdw/s400/logo%2BFOX%2BFAMILY.png", Fox Family
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="2249" tvg-group="CINE" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Comedy-Logo-01.png", Fox Comedy
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="177" tvg-group="CINE" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png", Fox
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(05)/index.m3u8
+#EXTINF:0 type="favorites" channelId="2725" tvg-group="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png", Max
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(MAX)/index.m3u8
+#EXTINF:0 type="favorites" channelId="2587" tvg-group="CINE" tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg", Max Prime
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(MAX_PRIME_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="292" tvg-group="CINE" tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/b/bf/Mp-08.png/revision/latest?cb=20110620211839&path-prefix=es", MultiPremier
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/index.m3u8
+#EXTINF:0 type="favorites" channelId="1719" tvg-group="Espa챰a" tvg-logo="http://www.CINEytele.com/wp-content/uploads/2016/06/paramount-channel.png", Paramount Channel
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="2054" tvg-group="CINE" tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", SUNDANCE Channel
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SUNDANCE_HD)/index.m3u8
+#EXTINF:0 type="favorites" channelId="2621" tvg-group="CINE" tvg-logo="http://diesl.com/wp-content/uploads/2013/04/eurochannel3.jpg", Eurochannel
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(EUROCHANNEL)/index.m3u8
+#EXTINF:0 type="favorites" channelId="1962" tvg-group="CINE" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/30.png", Golden HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" tvg-group="CINE" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_22692.png", Claro Cinema
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CLARO_CINEMA)/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" tvg-group="CINE" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11737_7_225568.png", CINEma Dinamita
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/Stream(02)/index.m3u8
+#EXTINF:0 type="favorites" channelId="283" tvg-group="CINE" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/2016/03/CINElatinologo_616-150x120.png", CINE Latino
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(02)/index.m3u8
