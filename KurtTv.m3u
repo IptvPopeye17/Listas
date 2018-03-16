@@ -1,40 +1,40 @@
 #EXTM3U
 
 #EXTINF:-1,FOX_HD
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.m3u8
 
 #EXTINF:-1,DISCOVERY H&H
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(04)/index.m3u8
 
 #EXTINF:-1,ID
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(04)/index.m3u8
 
 #EXTINF:-1,ANIMAL PLANET
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(04)/index.m3u8
 
 #EXTINF:-1,A&E
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AE)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AE)/Stream(04)/index.m3u8
 
 #EXTINF:-1,FOX LIFE
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_LIFE)/Stream(04)/index.m3u8
 
 #EXTINF:-1,FOX SERIES
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX1_HD)/Stream(04)/index.m3u8
 
 #EXTINF:-1,HBO
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(04)/index.m3u8
 
 #EXTINF:-1,HBO PLUS
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(04)/index.m3u8
 
 #EXTINF:-1,HBO FAMILY
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(04)/index.m3u8
 
 #EXTINF:-1,DISNEY JUNIOR
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(04)/index.m3u8
 
 #EXTINF:-1,TOONCAST
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/index.m3u8
 
 #EXTINF:-1,ANIMAL PLANET
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/index.m3u8
