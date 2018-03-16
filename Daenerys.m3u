@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,CNT SPORTS 
-http://megatv.live:80/live/MegaTest/MegaTV/196.m3u8
+http://megatv.live:80/live/MegaTest/MegaTV/196.ts
 
 #EXTINF:-1,FOX_HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(01)/index.m3u8
