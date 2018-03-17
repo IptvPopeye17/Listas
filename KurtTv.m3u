@@ -128,3 +128,6 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CNN_INTERNACIONAL)/index.
 
 #EXTINF:-1,GLIZ
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(GLITZ)/index.m3u8
+
+#EXTINF:-1,PARAMOUNT
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/index.m3u8
