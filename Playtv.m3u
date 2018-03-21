@@ -3,424 +3,284 @@
 
 #EXTINF:0,ES- AMC SD
 http://thenickos.tk/phpf/phpfinal/amc-q3.php?.m3u8
-
 #EXTINF:0,ES- AXN HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/axn-q6.php?.m3u8
 #EXTINF:0,ES- AMC HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/amc-q6.php?.m3U8
 #EXTINF:0,ES- ANIMAL PLANET
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/anim_planet-q6.php?.m3u8
 #EXTINF:0,ES- FOX SPORTS 2 SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0xsports2-q3.php?.m3u8
 #EXTINF:0,ES- FOX SPORT 2 HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0xsports2-q6.php?.m3u8
 #EXTINF:0,ES- FOX SPORTS 3 SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0xsports3-q3.php?.m3u8
 #EXTINF:0,ES- FOX SPORTS 3 HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0xsports3-q6.php?.m3u8
 #EXTINF:0,ES- FOX SPORTS HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0xsports-q6.php?.m3u8
 #EXTINF:0,ES- FOX SPORTS SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0xsports-q3.php?.m3u8
 #EXTINF:0,ES- ESPN HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/espn-q6.php?.m3u8
 #EXTINF:0,ES- ESPN SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/espn-q3.php?.m3u8
 #EXTINF:0,ES- ESPN 3 HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/espn3-q6.php?.m3u8
 #EXTINF:0,ES- ESPN 3 SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/espn3-q3.php?.m3u8
 #EXTINF:0,ES- ESPN 2 HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/espn2-q6.php?.m3u8
 #EXTINF:0,ES- ESPN PLUS SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/espn_plus-q3.php?.m3u8
 #EXTINF:0,ES- CLS HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/clspoco-q6.php?.m3u8
 #EXTINF:0,ES- FOX CINEMA HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x_cinema_sub-q6.php?.m3u8
 #EXTINF:0,ES- FOX CINEMA SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x_cinema_sub-q3.php?.m3u8
 #EXTINF:0,ES- FOX CLASSIC SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x_classics-q3.php?.m3u8
 #EXTINF:0,ES- FOX CLASSIC HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x_classics-q6.php?.m3u8
 #EXTINF:0,ES- FOX COMEDIA SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x_comedy-q3.php?.m3u8
 #EXTINF:0,ES- FOX COMEDIA HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x_comedy-q6.php?.m3u8
 #EXTINF:0,ES- FOX MOVIES SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x_movies-q3.php?.m3u8
 #EXTINF:0,ES- FOX MOVIES HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x_movies-q6.php?.m3u8
 #EXTINF:0,ES- FOX SERIES SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x_series_sub-q3.php?.m3u8
 #EXTINF:0,ES- FOX SERIES HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x_series_sub-q6.php?.m3u8
 #EXTINF:0,ES- HBO 2 SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/hb02-q3.php?.m3u8
 #EXTINF:0,ES- HBO 2 HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/hb02-q6.php?.m3u8
 #EXTINF:0,ES- HBO FAMILY SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/hb0fam-q3.php?.m3u8
 #EXTINF:0,ES- HBO FAMILY HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/hb0fam-q6.php?.m3u8
 #EXTINF:0,ES- HBO SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/hb0hd-q3.php?.m3u8
 #EXTINF:0,ES- HBO HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/hb0hd-q6.php?.m3u8
 #EXTINF:0,ES- HBO PLUS SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/hb0plus-q3.php?.m3u8
 #EXTINF:0,ES- HBO PLUS HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/hb0plus-q6.php?.m3u8
 #EXTINF:0,ES- HBO SIGN SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/hb0sign-q3.php?.m3u8
 #EXTINF:0,ES- HBO SIGN HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/hb0sign-q6.php?.m3u8
 #EXTINF:0,ES- TOONCAST
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/tooncast-q4.php?.m3u8
 #EXTINF:0,ES- DISNEY HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/d1sney-q6.php?.m3u8
 #EXTINF:0,ES- ANTENA 3
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/antena3-q4.php?.m3u8
 #EXTINF:0,ES- AXN HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/axn-q6.php?.m3u8
 #EXTINF:0,ES- AZCORAZON SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/azcorazon-q3.php?.m3u8
 #EXTINF:0,ES- AZCORAZON HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/azcorazon-q6.php?.m3u8
 #EXTINF:0,ES- AZMUNDO HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/azmundo-q6.php?.m3u8
 #EXTINF:0,ES- CINEMAX
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/c1nemax-q4.php?.m3u8
 #EXTINF:0,ES-CANAL CLARO HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/canal_kloro-q6.php?.m3u8
 #EXTINF:0,ES- CANAL CLARO SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/canal_kloro-q3.php?.m3u8
 #EXTINF:0,ES- ESTRELLAS
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/estrellas_latam-q4.php?.m3u8
 #EXTINF:0,ES- CARACOL SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/caracol-q3.php?.m3u8
 #EXTINF:0,ES- CC SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/cc-q3.php?.m3u8
 #EXTINF:0,ES- CC HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/cc-q6.php?.m3u8
 #EXTINF:0,ES- CINELATINO
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/cinelatino-q4.php?.m3u8
 #EXTINF:0,ES- CINECANAL SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/cinecanal-q3.php?.m3u8
 #EXTINF:0,ES- CINECANAL HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/cinecanal-q6.php?.m3u8
 #EXTINF:0,ES- CINECANAL PLUS
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/cinemaplus-q4.php?.m3u8
 #EXTINF:0,ES- CLARO CINEMA
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/clr_cinema-q4.php?.m3u8
 #EXTINF:0,ES- CNN ESPAяL
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/cnnee-q4.php?.m3u8
 #EXTINF:0,ES- CONCERT HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/concert-q6.php?.m3u8
 #EXTINF:0,ES- DEPELICULA
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/depelicula-q4.php?.m3u8
 #EXTINF:0,ES- DHE SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/dhe-q3.php?.m3u8
 #EXTINF:0,ES- DHE HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/dhe-q6.php?.m3u8
 #EXTINF:0,ES- DISCOVERY CIVI
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/disc_civil-q4.php?.m3u8
 #EXTINF:0,ES- DISCOVERY HH SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/disc_hh-q3.php?.m3u8
 #EXTINF:0,ES- DISCOVERY THEATER SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/disc_theater-q3.php?.m3u8
 #EXTINF:0,ES- DISCOVERY THEATER HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/disc_theater-q6.php?.m3u8
 #EXTINF:0,ES- DISCOVERY WORLD HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/disc_world-q6.php?.m3u8
 #EXTINF:0,ES- DISCOVERY WORLD SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/disc_world-q3.php?.m3u8
 #EXTINF:0,ES- DISCOVERY CHANEL HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/disc_ch-q6.php?.m3u8
 #EXTINF:0,ES- DW LATINO
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/dw-q4.php?.m3u8
 #EXTINF:0,ES- ET
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/e_ent-q4.php?.m3u8
 #EXTINF:0,ES- EL GOURMET SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/elgourmet-q3.php?.m3u8
 #EXTINF:0,ES- FOX SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x-q3.php?.m3u8
 #EXTINF:0,ES- FOX HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x-q6.php?.m3u8
 #EXTINF:0,ES- FOX MEXICO SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x_mx-q3.php?.m3u8
 #EXTINF:0,ES- FOX MEXICO HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0x_mx-q6.php?.m3u8
 #EXTINF:0,ES- FOX LIFE MX SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0xlife_mx-q3.php?.m3u8
 #EXTINF:0,ES- FOX LIFE HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0xlife-q6.php?.m3u8
 #EXTINF:0,ES- FOX LIFE MX HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0xlife_mx-q6.php?.m3u8
 #EXTINF:0,ES- FX SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/fx-q3.php?.m3u8
 #EXTINF:0,ES- FX HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/fx-q6.php?.m3u8
 #EXTINF:0,ES- FX MX SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/fx_mx-q3.php?.m3u8
 #EXTINF:0,ES- FX MX HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/fx_mx-q6.php?.m3u8
 #EXTINF:0,ES- FXM SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/fxm-q3.php?.m3u8
 #EXTINF:0,ES- FXM HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/fxm-q6.php?.m3u8
 #EXTINF:0,ES- GLITZ
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/glitz-q4.php?.m3u8
 #EXTINF:0,ES- GOLDEN SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/golden-q3.php?.m3u8
 #EXTINF:0,ES- GOLDEN HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/golden-q6.php?.m3u8
 #EXTINF:0,ES- GOLDEN PREMIER SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/goldp-q3.php?.m3u8
 #EXTINF:0,ES- GOLDEN PREMIER HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/goldp-q6.php?.m3u8
 #EXTINF:0,ES- H2
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/h2-q4.php?.m3u8
 #EXTINF:0,ES- HISTORY SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/history-q3.php?.m3u8
 #EXTINF:0,ES- HISTORY HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/history-q6.php?.m3u8
 #EXTINF:0,ES- HOLA SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/hola-q3.php?.m3u8
 #EXTINF:0,ES- HOLA HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/hola-q6.php?.m3u8
 #EXTINF:0,ES- HTV
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/htv-q4.php?.m3u8
 #EXTINF:0,ES- ISAT
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/isat-q4.php?.m3u8
 #EXTINF:0,ES- LIFETIME
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/lifetime-q4.php?.m3u8
 #EXTINF:0,ES- MAX PRIME SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/m4xprime-q3.php?.m3u8
 #EXTINF:0,ES- MAX PRIME HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/m4xprime-q6.php?.m3u8
 #EXTINF:0,ES- MAX
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/m4x-q4.php?.m3u8
 #EXTINF:0,ES- MAX UP SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/m4xup-q3.php?.m3u8
 #EXTINF:0,ES- MAX UP HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/m4xup-q6.php?.m3u8
 #EXTINF:0,ES- MAS CHIC HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/mas_chic-q6.php?.m3u8
 #EXTINF:0,ES- MTVLIFE HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/mtvl1ve-q6.php?.m3u8
 #EXTINF:0,ES- MULTIPREMIER
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/multipremier-q4.php?.m3u8
 #EXTINF:0,ES- NAT GEO SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/natgeo-q3.php?.m3u8
 #EXTINF:0,ES- NAT GEO HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/natgeo-q6.php?.m3u8
 #EXTINF:0,ES- NAT GEO MX SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/natgeo_mx-q3.php?.m3u8
 #EXTINF:0,ES- NAT GEO MX SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/natgeo_mx-q6.php?.m3u8
 #EXTINF:0,ES- NATGEOwILD SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/natgeo_wild-q3.php?.m3u8
 #EXTINF:0,ES- NATGEO WILD HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/natgeo_wild-q6.php?.m3u8
 #EXTINF:0,ES- NAT WILD MX HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/natgeo_wild_mx-q6.php?.m3u8
 #EXTINF:0,ES- FOXLIFE MX HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/f0xlife_mx-q6.php?.m3u8
 #EXTINF:0,ES- PARAMAT CHANNEL SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/param-q3.php?.m3u8
 #EXTINF:0,ES- PARAMAT CHANNEL HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/param-q6.php?.m3u8
 #EXTINF:0,ES- PASIONES HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/pasiones-q6.php?.m3u8
 #EXTINF:0,ES- RCN
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/rcn_tln-q4.php?.m3u8
 #EXTINF:0,ES- SONY SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/sony-q3.php?.m3u8
 #EXTINF:0,ES- SONY HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/sony-q6.php?.m3u8
 #EXTINF:0,ES- STUDIO UNIVERSAL
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/stdio_univ-q4.php?.m3u8
 #EXTINF:0,ES- SPACE SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/space-q3.php?.m3u8
 #EXTINF:0,ES- SPACE HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/space-q6.php?.m3u8
 #EXTINF:0,ES- TBS SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/tbs-q3.php?.m3u8
 #EXTINF:0,ES- TBS HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/tbs-q6.php?.m3u8
 #EXTINF:0,ES- TCM HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/tcm-q4.php?.m3u8
 #EXTINF:0,ES- TELEMUNDO INTERNACIONAL
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/telemun_int-q4.php?.m3u8
 #EXTINF:0,ES- TLC SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/tlc-q3.php?.m3u8
 #EXTINF:0,ES- TNT SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/tnt-q3.php?.m3u8
 #EXTINF:0,ES- TNT HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/tnt-q6.php?.m3u8
 #EXTINF:0,ES- TNT SERIES SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/tnt_ser-q3.php?.m3u8
 #EXTINF:0,ES- TNT SERIES HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/tnt_ser-q6.php?.m3u8
 #EXTINF:0,ES- TRUTV SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/trutv_hd-q3.php?.m3u8
 #EXTINF:0,ES- TRUTV HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/trutv_hd-q6.php?.m3u8
 #EXTINF:0,ES- TV5
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/tv5-q4.php?.m3u8
 #EXTINF:0,ES- TVE
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/tve-q4.php?.m3u8
 #EXTINF:0,ES- UNICABLE
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/unicable-q4.php?.m3u8
 #EXTINF:0,ES- UNIVERSAL
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/univers-q4.php?.m3u8
 #EXTINF:0,ES- CANAL UNO
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/uno-q4.php?.m3u8
 #EXTINF:0,ES- VH1 CLASSIC
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/vh1class-q4.php?.m3u8
 #EXTINF:0,ES- WARNER SD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/warner-q3.php?.m3u8
 #EXTINF:0,ES- WARNER HD
-#EXTGRP:unsorted
 http://thenickos.tk/phpf/phpfinal/warner-q6.php?.m3u8
+
