@@ -76,11 +76,11 @@ http://jorge9879.iptvab.tk/iptv.php/hb0sign/3/index.m3u8
 #EXTINF:0,ES- HBO SIGN HD
 http://jorge9879.iptvab.tk/iptv.php/hb0sign/3/index.m3u8 
 #EXTINF:0,ES- TOONCAST
-http://jorge9879.iptvab.tk/iptv.php/tooncast-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/tooncast/3/index.m3u8 
 #EXTINF:0,ES- DISNEY HD
 http://jorge9879.iptvab.tk/iptv.php/d1sney/3/index.m3u8 
 #EXTINF:0,ES- ANTENA 3
-http://jorge9879.iptvab.tk/iptv.php/antena3-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/antena3/3/index.m3u8  
 #EXTINF:0,ES- AXN HD
 http://jorge9879.iptvab.tk/iptv.php/axn/3/index.m3u8 
 #EXTINF:0,ES- AZCORAZON SD
@@ -90,13 +90,13 @@ http://jorge9879.iptvab.tk/iptv.php/azcorazon/3/index.m3u8
 #EXTINF:0,ES- AZMUNDO HD
 http://jorge9879.iptvab.tk/iptv.php/azmundo/3/index.m3u8 
 #EXTINF:0,ES- CINEMAX
-http://jorge9879.iptvab.tk/iptv.php/c1nemax-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/c1nemax/3/index.m3u8 
 #EXTINF:0,ES-CANAL CLARO HD
 http://jorge9879.iptvab.tk/iptv.php/canal_kloro/3/index.m3u8 
 #EXTINF:0,ES- CANAL CLARO SD
 http://jorge9879.iptvab.tk/iptv.php/canal_kloro/3/index.m3u8 
 #EXTINF:0,ES- ESTRELLAS
-http://jorge9879.iptvab.tk/iptv.php/estrellas_latam-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/estrellas_latam/3/index.m3u8 
 #EXTINF:0,ES- CARACOL SD
 http://jorge9879.iptvab.tk/iptv.php/caracol/3/index.m3u8 
 #EXTINF:0,ES- CC SD
@@ -104,27 +104,27 @@ http://jorge9879.iptvab.tk/iptv.php/cc/3/index.m3u8
 #EXTINF:0,ES- CC HD
 http://jorge9879.iptvab.tk/iptv.php/cc/3/index.m3u8 
 #EXTINF:0,ES- CINELATINO
-http://jorge9879.iptvab.tk/iptv.php/cinelatino-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/cinelatino/3/index.m3u8 
 #EXTINF:0,ES- CINECANAL SD
 http://jorge9879.iptvab.tk/iptv.php/cinecanal/3/index.m3u8 
 #EXTINF:0,ES- CINECANAL HD
 http://jorge9879.iptvab.tk/iptv.php/cinecanal/3/index.m3u8 
 #EXTINF:0,ES- CINECANAL PLUS
-http://jorge9879.iptvab.tk/iptv.php/cinemaplus-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/cinemaplus/3/index.m3u8 
 #EXTINF:0,ES- CLARO CINEMA
-http://jorge9879.iptvab.tk/iptv.php/clr_cinema-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/clr_cinema/3/index.m3u8 
 #EXTINF:0,ES- CNN ESPAяL
-http://jorge9879.iptvab.tk/iptv.php/cnnee-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/cnnee/3/index.m3u8 
 #EXTINF:0,ES- CONCERT HD
 http://jorge9879.iptvab.tk/iptv.php/concert/3/index.m3u8 
 #EXTINF:0,ES- DEPELICULA
-http://jorge9879.iptvab.tk/iptv.php/depelicula-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/depelicula/3/index.m3u8 
 #EXTINF:0,ES- DHE SD
 http://jorge9879.iptvab.tk/iptv.php/dhe/3/index.m3u8 
 #EXTINF:0,ES- DHE HD
 http://jorge9879.iptvab.tk/iptv.php/dhe/3/index.m3u8 
 #EXTINF:0,ES- DISCOVERY CIVI
-http://jorge9879.iptvab.tk/iptv.php/disc_civil-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/disc_civil/3/index.m3u8  
 #EXTINF:0,ES- DISCOVERY HH SD
 http://jorge9879.iptvab.tk/iptv.php/disc_hh/3/index.m3u8 
 #EXTINF:0,ES- DISCOVERY THEATER SD
@@ -138,9 +138,9 @@ http://jorge9879.iptvab.tk/iptv.php/disc_world/3/index.m3u8
 #EXTINF:0,ES- DISCOVERY CHANEL HD
 http://jorge9879.iptvab.tk/iptv.php/disc_ch/3/index.m3u8 
 #EXTINF:0,ES- DW LATINO
-http://jorge9879.iptvab.tk/iptv.php/dw-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/dw/3/index.m3u8 
 #EXTINF:0,ES- ET
-http://jorge9879.iptvab.tk/iptv.php/e_ent-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/e_ent/3/index.m3u8  
 #EXTINF:0,ES- EL GOURMET SD
 http://jorge9879.iptvab.tk/iptv.php/elgourmet/3/index.m3u8 
 #EXTINF:0,ES- FOX SD
@@ -170,7 +170,7 @@ http://jorge9879.iptvab.tk/iptv.php/fxm/3/index.m3u8
 #EXTINF:0,ES- FXM HD
 http://jorge9879.iptvab.tk/iptv.php/fxm/3/index.m3u8 
 #EXTINF:0,ES- GLITZ
-http://jorge9879.iptvab.tk/iptv.php/glitz-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/glitz/3/index.m3u8 
 #EXTINF:0,ES- GOLDEN SD
 http://jorge9879.iptvab.tk/iptv.php/golden/3/index.m3u8 
 #EXTINF:0,ES- GOLDEN HD
@@ -180,7 +180,7 @@ http://jorge9879.iptvab.tk/iptv.php/goldp/3/index.m3u8
 #EXTINF:0,ES- GOLDEN PREMIER HD
 http://jorge9879.iptvab.tk/iptv.php/goldp/3/index.m3u8 
 #EXTINF:0,ES- H2
-http://jorge9879.iptvab.tk/iptv.php/h2-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/h2/3/index.m3u8  
 #EXTINF:0,ES- HISTORY SD
 http://jorge9879.iptvab.tk/iptv.php/history/3/index.m3u8 
 #EXTINF:0,ES- HISTORY HD
@@ -190,17 +190,17 @@ http://jorge9879.iptvab.tk/iptv.php/hola/3/index.m3u8
 #EXTINF:0,ES- HOLA HD
 http://jorge9879.iptvab.tk/iptv.php/hola/3/index.m3u8 
 #EXTINF:0,ES- HTV
-http://jorge9879.iptvab.tk/iptv.php/htv-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/htv/3/index.m3u8 
 #EXTINF:0,ES- ISAT
-http://jorge9879.iptvab.tk/iptv.php/isat-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/isat/3/index.m3u8  
 #EXTINF:0,ES- LIFETIME
-http://jorge9879.iptvab.tk/iptv.php/lifetime-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/lifetime/3/index.m3u8 
 #EXTINF:0,ES- MAX PRIME SD
 http://jorge9879.iptvab.tk/iptv.php/m4xprime/3/index.m3u8 
 #EXTINF:0,ES- MAX PRIME HD
 http://jorge9879.iptvab.tk/iptv.php/m4xprime/3/index.m3u8 
 #EXTINF:0,ES- MAX
-http://jorge9879.iptvab.tk/iptv.php/m4x-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/m4x/3/index.m3u8 
 #EXTINF:0,ES- MAX UP SD
 http://jorge9879.iptvab.tk/iptv.php/m4xup/3/index.m3u8 
 #EXTINF:0,ES- MAX UP HD
@@ -210,7 +210,7 @@ http://jorge9879.iptvab.tk/iptv.php/mas_chic/3/index.m3u8
 #EXTINF:0,ES- MTVLIFE HD
 http://jorge9879.iptvab.tk/iptv.php/mtvl1ve/3/index.m3u8 
 #EXTINF:0,ES- MULTIPREMIER
-http://jorge9879.iptvab.tk/iptv.php/multipremier-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/multipremier/3/index.m3u8 
 #EXTINF:0,ES- NAT GEO SD
 http://jorge9879.iptvab.tk/iptv.php/natgeo/3/index.m3u8 
 #EXTINF:0,ES- NAT GEO HD
@@ -234,13 +234,13 @@ http://jorge9879.iptvab.tk/iptv.php/param/3/index.m3u8
 #EXTINF:0,ES- PASIONES HD
 http://jorge9879.iptvab.tk/iptv.php/pasiones/3/index.m3u8 
 #EXTINF:0,ES- RCN
-http://jorge9879.iptvab.tk/iptv.php/rcn_tln-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/rcn_tln/3/index.m3u8  
 #EXTINF:0,ES- SONY SD
 http://jorge9879.iptvab.tk/iptv.php/sony/3/index.m3u8 
 #EXTINF:0,ES- SONY HD
 http://jorge9879.iptvab.tk/iptv.php/sony/3/index.m3u8 
 #EXTINF:0,ES- STUDIO UNIVERSAL
-http://jorge9879.iptvab.tk/iptv.php/stdio_univ-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/stdio_univ/3/index.m3u8 
 #EXTINF:0,ES- SPACE SD
 http://jorge9879.iptvab.tk/iptv.php/space/3/index.m3u8 
 #EXTINF:0,ES- SPACE HD
@@ -250,9 +250,9 @@ http://jorge9879.iptvab.tk/iptv.php/tbs/3/index.m3u8
 #EXTINF:0,ES- TBS HD
 http://jorge9879.iptvab.tk/iptv.php/tbs/3/index.m3u8 
 #EXTINF:0,ES- TCM HD
-http://jorge9879.iptvab.tk/iptv.php/tcm-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/tcm/3/index.m3u8 
 #EXTINF:0,ES- TELEMUNDO INTERNACIONAL
-http://jorge9879.iptvab.tk/iptv.php/telemun_int-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/telemun_int/3/index.m3u8  
 #EXTINF:0,ES- TLC SD
 http://jorge9879.iptvab.tk/iptv.php/tlc/3/index.m3u8 
 #EXTINF:0,ES- TNT SD
@@ -268,17 +268,17 @@ http://jorge9879.iptvab.tk/iptv.php/trutv_hd/3/index.m3u8
 #EXTINF:0,ES- TRUTV HD
 http://jorge9879.iptvab.tk/iptv.php/trutv_hd/3/index.m3u8 
 #EXTINF:0,ES- TV5
-http://jorge9879.iptvab.tk/iptv.php/tv5-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/tv5/3/index.m3u8  
 #EXTINF:0,ES- TVE
-http://jorge9879.iptvab.tk/iptv.php/tve-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/tve/3/index.m3u8  
 #EXTINF:0,ES- UNICABLE
-http://jorge9879.iptvab.tk/iptv.php/unicable-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/unicable/3/index.m3u8  
 #EXTINF:0,ES- UNIVERSAL
-http://jorge9879.iptvab.tk/iptv.php/univers-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/univers/3/index.m3u8  
 #EXTINF:0,ES- CANAL UNO
-http://jorge9879.iptvab.tk/iptv.php/uno-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/uno/3/index.m3u8  
 #EXTINF:0,ES- VH1 CLASSIC
-http://jorge9879.iptvab.tk/iptv.php/vh1class-q4.php?playlist.m3u8 
+http://jorge9879.iptvab.tk/iptv.php/vh1class/3/index.m3u8  
 #EXTINF:0,ES- WARNER SD
 http://jorge9879.iptvab.tk/iptv.php/warner/3/index.m3u8 
 #EXTINF:0,ES- WARNER HD
