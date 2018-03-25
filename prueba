@@ -1,0 +1,285 @@
+#EXTM3U
+
+
+#EXTINF:0,ES- AMC SD
+http://jorge9879.iptvab.tk/iptv.php/amc/3/index.m3u8 
+#EXTINF:0,ES- AXN HD
+http://jorge9879.iptvab.tk/iptv.php/axn/3/index.m3u8 
+#EXTINF:0,ES- AMC HD
+http://jorge9879.iptvab.tk/iptv.php/amc/3/index.m3u8 
+#EXTINF:0,ES- ANIMAL PLANET
+http://jorge9879.iptvab.tk/iptv.php/anim_planet/3/index.m3u8 
+#EXTINF:0,ES- FOX SPORTS 2 SD
+http://jorge9879.iptvab.tk/iptv.php/f0xsports2/3/index.m3u8 
+#EXTINF:0,ES- FOX SPORT 2 HD
+http://jorge9879.iptvab.tk/iptv.php/f0xsports2/3/index.m3u8 
+#EXTINF:0,ES- FOX SPORTS 3 SD
+http://jorge9879.iptvab.tk/iptv.php/f0xsports3/3/index.m3u8 
+#EXTINF:0,ES- FOX SPORTS 3 HD
+http://jorge9879.iptvab.tk/iptv.php/f0xsports3/3/index.m3u8 
+#EXTINF:0,ES- FOX SPORTS HD
+http://jorge9879.iptvab.tk/iptv.php/f0xsports/3/index.m3u8 
+#EXTINF:0,ES- FOX SPORTS SD
+http://jorge9879.iptvab.tk/iptv.php/f0xsports/3/index.m3u8 
+#EXTINF:0,ES- ESPN HD
+http://jorge9879.iptvab.tk/iptv.php/espn/3/index.m3u8 
+#EXTINF:0,ES- ESPN SD
+http://jorge9879.iptvab.tk/iptv.php/espn/3/index.m3u8 
+#EXTINF:0,ES- ESPN 3 HD
+http://jorge9879.iptvab.tk/iptv.php/espn3/3/index.m3u8 
+#EXTINF:0,ES- ESPN 3 SD
+http://jorge9879.iptvab.tk/iptv.php/espn3/3/index.m3u8 
+#EXTINF:0,ES- ESPN 2 HD
+http://jorge9879.iptvab.tk/iptv.php/espn2/3/index.m3u8 
+#EXTINF:0,ES- ESPN PLUS SD
+http://jorge9879.iptvab.tk/iptv.php/espn_plus/3/index.m3u8 
+#EXTINF:0,ES- CLS HD
+http://jorge9879.iptvab.tk/iptv.php/clspoco/3/index.m3u8 
+#EXTINF:0,ES- FOX CINEMA HD
+http://jorge9879.iptvab.tk/iptv.php/f0x_cinema_sub/3/index.m3u8 
+#EXTINF:0,ES- FOX CINEMA SD
+http://jorge9879.iptvab.tk/iptv.php/f0x_cinema_sub/3/index.m3u8 
+#EXTINF:0,ES- FOX CLASSIC SD
+http://jorge9879.iptvab.tk/iptv.php/f0x_classics/3/index.m3u8 
+#EXTINF:0,ES- FOX CLASSIC HD
+http://jorge9879.iptvab.tk/iptv.php/f0x_classics/3/index.m3u8 
+#EXTINF:0,ES- FOX COMEDIA SD
+http://jorge9879.iptvab.tk/iptv.php/f0x_comedy/3/index.m3u8 
+#EXTINF:0,ES- FOX COMEDIA HD
+http://jorge9879.iptvab.tk/iptv.php/f0x_comedy/3/index.m3u8 
+#EXTINF:0,ES- FOX MOVIES SD
+http://jorge9879.iptvab.tk/iptv.php/f0x_movies/3/index.m3u8 
+#EXTINF:0,ES- FOX MOVIES HD
+http://jorge9879.iptvab.tk/iptv.php/f0x_movies/3/index.m3u8 
+#EXTINF:0,ES- FOX SERIES SD
+http://jorge9879.iptvab.tk/iptv.php/f0x_series_sub/3/index.m3u8 
+#EXTINF:0,ES- FOX SERIES HD
+http://jorge9879.iptvab.tk/iptv.php/f0x_series_sub/3/index.m3u8 
+#EXTINF:0,ES- HBO 2 SD
+http://jorge9879.iptvab.tk/iptv.php/hb02/3/index.m3u8 
+#EXTINF:0,ES- HBO 2 HD
+http://jorge9879.iptvab.tk/iptv.php/hb02/3/index.m3u8 
+#EXTINF:0,ES- HBO FAMILY SD
+http://jorge9879.iptvab.tk/iptv.php/hb0fam/3/index.m3u8 
+#EXTINF:0,ES- HBO FAMILY HD
+http://jorge9879.iptvab.tk/iptv.php/hb0fam/3/index.m3u8 
+#EXTINF:0,ES- HBO SD
+http://jorge9879.iptvab.tk/iptv.php/hb0hd/3/index.m3u8 
+#EXTINF:0,ES- HBO HD
+http://jorge9879.iptvab.tk/iptv.php/hb0hd/3/index.m3u8 
+#EXTINF:0,ES- HBO PLUS SD
+http://jorge9879.iptvab.tk/iptv.php/hb0plus/3/index.m3u8 
+#EXTINF:0,ES- HBO PLUS HD
+http://jorge9879.iptvab.tk/iptv.php/hb0plus/3/index.m3u8 
+#EXTINF:0,ES- HBO SIGN SD
+http://jorge9879.iptvab.tk/iptv.php/hb0sign/3/index.m3u8 
+#EXTINF:0,ES- HBO SIGN HD
+http://jorge9879.iptvab.tk/iptv.php/hb0sign/3/index.m3u8 
+#EXTINF:0,ES- TOONCAST
+http://jorge9879.iptvab.tk/iptv.php/tooncast-q4.php?playlist.m3u8 
+#EXTINF:0,ES- DISNEY HD
+http://jorge9879.iptvab.tk/iptv.php/d1sney/3/index.m3u8 
+#EXTINF:0,ES- ANTENA 3
+http://jorge9879.iptvab.tk/iptv.php/antena3-q4.php?playlist.m3u8 
+#EXTINF:0,ES- AXN HD
+http://jorge9879.iptvab.tk/iptv.php/axn/3/index.m3u8 
+#EXTINF:0,ES- AZCORAZON SD
+http://jorge9879.iptvab.tk/iptv.php/azcorazon/3/index.m3u8 
+#EXTINF:0,ES- AZCORAZON HD
+http://jorge9879.iptvab.tk/iptv.php/azcorazon/3/index.m3u8 
+#EXTINF:0,ES- AZMUNDO HD
+http://jorge9879.iptvab.tk/iptv.php/azmundo/3/index.m3u8 
+#EXTINF:0,ES- CINEMAX
+http://jorge9879.iptvab.tk/iptv.php/c1nemax-q4.php?playlist.m3u8 
+#EXTINF:0,ES-CANAL CLARO HD
+http://jorge9879.iptvab.tk/iptv.php/canal_kloro/3/index.m3u8 
+#EXTINF:0,ES- CANAL CLARO SD
+http://jorge9879.iptvab.tk/iptv.php/canal_kloro/3/index.m3u8 
+#EXTINF:0,ES- ESTRELLAS
+http://jorge9879.iptvab.tk/iptv.php/estrellas_latam-q4.php?playlist.m3u8 
+#EXTINF:0,ES- CARACOL SD
+http://jorge9879.iptvab.tk/iptv.php/caracol/3/index.m3u8 
+#EXTINF:0,ES- CC SD
+http://jorge9879.iptvab.tk/iptv.php/cc/3/index.m3u8 
+#EXTINF:0,ES- CC HD
+http://jorge9879.iptvab.tk/iptv.php/cc/3/index.m3u8 
+#EXTINF:0,ES- CINELATINO
+http://jorge9879.iptvab.tk/iptv.php/cinelatino-q4.php?playlist.m3u8 
+#EXTINF:0,ES- CINECANAL SD
+http://jorge9879.iptvab.tk/iptv.php/cinecanal/3/index.m3u8 
+#EXTINF:0,ES- CINECANAL HD
+http://jorge9879.iptvab.tk/iptv.php/cinecanal/3/index.m3u8 
+#EXTINF:0,ES- CINECANAL PLUS
+http://jorge9879.iptvab.tk/iptv.php/cinemaplus-q4.php?playlist.m3u8 
+#EXTINF:0,ES- CLARO CINEMA
+http://jorge9879.iptvab.tk/iptv.php/clr_cinema-q4.php?playlist.m3u8 
+#EXTINF:0,ES- CNN ESPAяL
+http://jorge9879.iptvab.tk/iptv.php/cnnee-q4.php?playlist.m3u8 
+#EXTINF:0,ES- CONCERT HD
+http://jorge9879.iptvab.tk/iptv.php/concert/3/index.m3u8 
+#EXTINF:0,ES- DEPELICULA
+http://jorge9879.iptvab.tk/iptv.php/depelicula-q4.php?playlist.m3u8 
+#EXTINF:0,ES- DHE SD
+http://jorge9879.iptvab.tk/iptv.php/dhe/3/index.m3u8 
+#EXTINF:0,ES- DHE HD
+http://jorge9879.iptvab.tk/iptv.php/dhe/3/index.m3u8 
+#EXTINF:0,ES- DISCOVERY CIVI
+http://jorge9879.iptvab.tk/iptv.php/disc_civil-q4.php?playlist.m3u8 
+#EXTINF:0,ES- DISCOVERY HH SD
+http://jorge9879.iptvab.tk/iptv.php/disc_hh/3/index.m3u8 
+#EXTINF:0,ES- DISCOVERY THEATER SD
+http://jorge9879.iptvab.tk/iptv.php/disc_theater/3/index.m3u8 
+#EXTINF:0,ES- DISCOVERY THEATER HD
+http://jorge9879.iptvab.tk/iptv.php/disc_theater/3/index.m3u8 
+#EXTINF:0,ES- DISCOVERY WORLD HD
+http://jorge9879.iptvab.tk/iptv.php/disc_world/3/index.m3u8 
+#EXTINF:0,ES- DISCOVERY WORLD SD
+http://jorge9879.iptvab.tk/iptv.php/disc_world/3/index.m3u8 
+#EXTINF:0,ES- DISCOVERY CHANEL HD
+http://jorge9879.iptvab.tk/iptv.php/disc_ch/3/index.m3u8 
+#EXTINF:0,ES- DW LATINO
+http://jorge9879.iptvab.tk/iptv.php/dw-q4.php?playlist.m3u8 
+#EXTINF:0,ES- ET
+http://jorge9879.iptvab.tk/iptv.php/e_ent-q4.php?playlist.m3u8 
+#EXTINF:0,ES- EL GOURMET SD
+http://jorge9879.iptvab.tk/iptv.php/elgourmet/3/index.m3u8 
+#EXTINF:0,ES- FOX SD
+http://jorge9879.iptvab.tk/iptv.php/f0x/3/index.m3u8 
+#EXTINF:0,ES- FOX HD
+http://jorge9879.iptvab.tk/iptv.php/f0x/3/index.m3u8 
+#EXTINF:0,ES- FOX MEXICO SD
+http://jorge9879.iptvab.tk/iptv.php/f0x_mx/3/index.m3u8 
+#EXTINF:0,ES- FOX MEXICO HD
+http://jorge9879.iptvab.tk/iptv.php/f0x_mx/3/index.m3u8 
+#EXTINF:0,ES- FOX LIFE MX SD
+http://jorge9879.iptvab.tk/iptv.php/f0xlife_mx/3/index.m3u8 
+#EXTINF:0,ES- FOX LIFE HD
+http://jorge9879.iptvab.tk/iptv.php/f0xlife/3/index.m3u8 
+#EXTINF:0,ES- FOX LIFE MX HD
+http://jorge9879.iptvab.tk/iptv.php/f0xlife_mx/3/index.m3u8 
+#EXTINF:0,ES- FX SD
+http://jorge9879.iptvab.tk/iptv.php/fx/3/index.m3u8 
+#EXTINF:0,ES- FX HD
+http://jorge9879.iptvab.tk/iptv.php/fx/3/index.m3u8 
+#EXTINF:0,ES- FX MX SD
+http://jorge9879.iptvab.tk/iptv.php/fx_mx/3/index.m3u8 
+#EXTINF:0,ES- FX MX HD
+http://jorge9879.iptvab.tk/iptv.php/fx_mx/3/index.m3u8 
+#EXTINF:0,ES- FXM SD
+http://jorge9879.iptvab.tk/iptv.php/fxm/3/index.m3u8 
+#EXTINF:0,ES- FXM HD
+http://jorge9879.iptvab.tk/iptv.php/fxm/3/index.m3u8 
+#EXTINF:0,ES- GLITZ
+http://jorge9879.iptvab.tk/iptv.php/glitz-q4.php?playlist.m3u8 
+#EXTINF:0,ES- GOLDEN SD
+http://jorge9879.iptvab.tk/iptv.php/golden/3/index.m3u8 
+#EXTINF:0,ES- GOLDEN HD
+http://jorge9879.iptvab.tk/iptv.php/golden/3/index.m3u8 
+#EXTINF:0,ES- GOLDEN PREMIER SD
+http://jorge9879.iptvab.tk/iptv.php/goldp/3/index.m3u8 
+#EXTINF:0,ES- GOLDEN PREMIER HD
+http://jorge9879.iptvab.tk/iptv.php/goldp/3/index.m3u8 
+#EXTINF:0,ES- H2
+http://jorge9879.iptvab.tk/iptv.php/h2-q4.php?playlist.m3u8 
+#EXTINF:0,ES- HISTORY SD
+http://jorge9879.iptvab.tk/iptv.php/history/3/index.m3u8 
+#EXTINF:0,ES- HISTORY HD
+http://jorge9879.iptvab.tk/iptv.php/history/3/index.m3u8 
+#EXTINF:0,ES- HOLA SD
+http://jorge9879.iptvab.tk/iptv.php/hola/3/index.m3u8 
+#EXTINF:0,ES- HOLA HD
+http://jorge9879.iptvab.tk/iptv.php/hola/3/index.m3u8 
+#EXTINF:0,ES- HTV
+http://jorge9879.iptvab.tk/iptv.php/htv-q4.php?playlist.m3u8 
+#EXTINF:0,ES- ISAT
+http://jorge9879.iptvab.tk/iptv.php/isat-q4.php?playlist.m3u8 
+#EXTINF:0,ES- LIFETIME
+http://jorge9879.iptvab.tk/iptv.php/lifetime-q4.php?playlist.m3u8 
+#EXTINF:0,ES- MAX PRIME SD
+http://jorge9879.iptvab.tk/iptv.php/m4xprime/3/index.m3u8 
+#EXTINF:0,ES- MAX PRIME HD
+http://jorge9879.iptvab.tk/iptv.php/m4xprime/3/index.m3u8 
+#EXTINF:0,ES- MAX
+http://jorge9879.iptvab.tk/iptv.php/m4x-q4.php?playlist.m3u8 
+#EXTINF:0,ES- MAX UP SD
+http://jorge9879.iptvab.tk/iptv.php/m4xup/3/index.m3u8 
+#EXTINF:0,ES- MAX UP HD
+http://jorge9879.iptvab.tk/iptv.php/m4xup/3/index.m3u8 
+#EXTINF:0,ES- MAS CHIC HD
+http://jorge9879.iptvab.tk/iptv.php/mas_chic/3/index.m3u8 
+#EXTINF:0,ES- MTVLIFE HD
+http://jorge9879.iptvab.tk/iptv.php/mtvl1ve/3/index.m3u8 
+#EXTINF:0,ES- MULTIPREMIER
+http://jorge9879.iptvab.tk/iptv.php/multipremier-q4.php?playlist.m3u8 
+#EXTINF:0,ES- NAT GEO SD
+http://jorge9879.iptvab.tk/iptv.php/natgeo/3/index.m3u8 
+#EXTINF:0,ES- NAT GEO HD
+http://jorge9879.iptvab.tk/iptv.php/natgeo/3/index.m3u8 
+#EXTINF:0,ES- NAT GEO MX SD
+http://jorge9879.iptvab.tk/iptv.php/natgeo_mx/3/index.m3u8 
+#EXTINF:0,ES- NAT GEO MX SD
+http://jorge9879.iptvab.tk/iptv.php/natgeo_mx/3/index.m3u8 
+#EXTINF:0,ES- NATGEOwILD SD
+http://jorge9879.iptvab.tk/iptv.php/natgeo_wild/3/index.m3u8 
+#EXTINF:0,ES- NATGEO WILD HD
+http://jorge9879.iptvab.tk/iptv.php/natgeo_wild/3/index.m3u8 
+#EXTINF:0,ES- NAT WILD MX HD
+http://jorge9879.iptvab.tk/iptv.php/natgeo_wild_mx/3/index.m3u8 
+#EXTINF:0,ES- FOXLIFE MX HD
+http://jorge9879.iptvab.tk/iptv.php/f0xlife_mx/3/index.m3u8 
+#EXTINF:0,ES- PARAMAT CHANNEL SD
+http://jorge9879.iptvab.tk/iptv.php/param/3/index.m3u8 
+#EXTINF:0,ES- PARAMAT CHANNEL HD
+http://jorge9879.iptvab.tk/iptv.php/param/3/index.m3u8 
+#EXTINF:0,ES- PASIONES HD
+http://jorge9879.iptvab.tk/iptv.php/pasiones/3/index.m3u8 
+#EXTINF:0,ES- RCN
+http://jorge9879.iptvab.tk/iptv.php/rcn_tln-q4.php?playlist.m3u8 
+#EXTINF:0,ES- SONY SD
+http://jorge9879.iptvab.tk/iptv.php/sony/3/index.m3u8 
+#EXTINF:0,ES- SONY HD
+http://jorge9879.iptvab.tk/iptv.php/sony/3/index.m3u8 
+#EXTINF:0,ES- STUDIO UNIVERSAL
+http://jorge9879.iptvab.tk/iptv.php/stdio_univ-q4.php?playlist.m3u8 
+#EXTINF:0,ES- SPACE SD
+http://jorge9879.iptvab.tk/iptv.php/space/3/index.m3u8 
+#EXTINF:0,ES- SPACE HD
+http://jorge9879.iptvab.tk/iptv.php/space/3/index.m3u8 
+#EXTINF:0,ES- TBS SD
+http://jorge9879.iptvab.tk/iptv.php/tbs/3/index.m3u8 
+#EXTINF:0,ES- TBS HD
+http://jorge9879.iptvab.tk/iptv.php/tbs/3/index.m3u8 
+#EXTINF:0,ES- TCM HD
+http://jorge9879.iptvab.tk/iptv.php/tcm-q4.php?playlist.m3u8 
+#EXTINF:0,ES- TELEMUNDO INTERNACIONAL
+http://jorge9879.iptvab.tk/iptv.php/telemun_int-q4.php?playlist.m3u8 
+#EXTINF:0,ES- TLC SD
+http://jorge9879.iptvab.tk/iptv.php/tlc/3/index.m3u8 
+#EXTINF:0,ES- TNT SD
+http://jorge9879.iptvab.tk/iptv.php/tnt/3/index.m3u8 
+#EXTINF:0,ES- TNT HD
+http://jorge9879.iptvab.tk/iptv.php/tnt/3/index.m3u8 
+#EXTINF:0,ES- TNT SERIES SD
+http://jorge9879.iptvab.tk/iptv.php/tnt_ser/3/index.m3u8 
+#EXTINF:0,ES- TNT SERIES HD
+http://jorge9879.iptvab.tk/iptv.php/tnt_ser/3/index.m3u8 
+#EXTINF:0,ES- TRUTV SD
+http://jorge9879.iptvab.tk/iptv.php/trutv_hd/3/index.m3u8 
+#EXTINF:0,ES- TRUTV HD
+http://jorge9879.iptvab.tk/iptv.php/trutv_hd/3/index.m3u8 
+#EXTINF:0,ES- TV5
+http://jorge9879.iptvab.tk/iptv.php/tv5-q4.php?playlist.m3u8 
+#EXTINF:0,ES- TVE
+http://jorge9879.iptvab.tk/iptv.php/tve-q4.php?playlist.m3u8 
+#EXTINF:0,ES- UNICABLE
+http://jorge9879.iptvab.tk/iptv.php/unicable-q4.php?playlist.m3u8 
+#EXTINF:0,ES- UNIVERSAL
+http://jorge9879.iptvab.tk/iptv.php/univers-q4.php?playlist.m3u8 
+#EXTINF:0,ES- CANAL UNO
+http://jorge9879.iptvab.tk/iptv.php/uno-q4.php?playlist.m3u8 
+#EXTINF:0,ES- VH1 CLASSIC
+http://jorge9879.iptvab.tk/iptv.php/vh1class-q4.php?playlist.m3u8 
+#EXTINF:0,ES- WARNER SD
+http://jorge9879.iptvab.tk/iptv.php/warner/3/index.m3u8 
+#EXTINF:0,ES- WARNER HD
+http://jorge9879.iptvab.tk/iptv.php/warner/3/index.m3u8 
