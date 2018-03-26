@@ -1,314 +1,617 @@
 #EXTM3U
 
-
-
 #EXTINF:0,ES- AMC SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/amc-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- AXN HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/axn-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- AMC HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/amc-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- ANIMAL PLANET
+
 http://hackveneno.tk/panelxcodes/stream/channels/anim_planet-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- BOOMERANG HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/boomerang-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- CARTOON NETWORK SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/cart_net-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- CARTOON NETWORK HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/cart_net-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX SPORTS 2 SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0xsports2-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX SPORT 2 HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0xsports2-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX SPORTS 3 SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0xsports3-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX SPORTS 3 HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0xsports3-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX SPORTS HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0xsports-q6.php?playlist.m3u8
+
 EXTINF:0,ES- FOX SPORTS SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0xsports-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- ESPN HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/espn-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- ESPN SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/espn-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- ESPN 3 HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/espn3-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- ESPN 3 SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/espn3-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- ESPN 2 HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/espn2-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- ESPN PLUS SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/espn_plus-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- CLS HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/clspoco-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX CINEMA HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x_cinema_sub-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX CINEMA SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x_cinema_sub-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX CLASSIC SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x_classics-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX CLASSIC HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x_classics-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX COMEDIA SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x_comedy-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX COMEDIA HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x_comedy-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX MOVIES SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x_movies-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX MOVIES HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x_movies-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX SERIES SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x_series_sub-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX SERIES HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x_series_sub-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- HBO 2 SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/hb02-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- HBO 2 HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/hb02-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- HBO FAMILY SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/hb0fam-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- HBO FAMILY HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/hb0fam-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- HBO SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/hb0hd-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- HBO HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/hb0hd-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- HBO PLUS SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/hb0plus-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- HBO PLUS HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/hb0plus-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- HBO SIGN SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/hb0sign-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- HBO SIGN HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/hb0sign-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- TOONCAST
+
 http://hackveneno.tk/panelxcodes/stream/channels/tooncast-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- DISNEY HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/d1sney-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- ANTENA 3
+
 http://hackveneno.tk/panelxcodes/stream/channels/antena3-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- AXN HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/axn-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- AZCORAZON SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/azcorazon-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- AZCORAZON HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/azcorazon-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- AZMUNDO HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/azmundo-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- CINEMAX
+
 http://hackveneno.tk/panelxcodes/stream/channels/c1nemax-q4.php?playlist.m3u8
+
 #EXTINF:0,ES-CANAL CLARO HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/canal_kloro-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- CANAL CLARO SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/canal_kloro-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- ESTRELLAS
+
 http://hackveneno.tk/panelxcodes/stream/channels/estrellas_latam-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- CARACOL SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/caracol-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- CC SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/cc-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- CC HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/cc-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- CINELATINO
+
 http://hackveneno.tk/panelxcodes/stream/channels/cinelatino-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- CINECANAL SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/cinecanal-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- CINECANAL HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/cinecanal-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- CINECANAL PLUS
+
 http://hackveneno.tk/panelxcodes/stream/channels/cinemaplus-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- CLARO CINEMA
+
 http://hackveneno.tk/panelxcodes/stream/channels/clr_cinema-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- CNN ESPAяL
+
 http://hackveneno.tk/panelxcodes/stream/channels/cnnee-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- CONCERT HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/concert-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- DEPELICULA
+
 http://hackveneno.tk/panelxcodes/stream/channels/depelicula-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- DHE SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/dhe-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- DHE HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/dhe-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- DISCOVERY CIVI
+
 http://hackveneno.tk/panelxcodes/stream/channels/disc_civil-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- DISCOVERY HH SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/disc_hh-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- DISCOVERY THEATER SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/disc_theater-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- DISCOVERY THEATER HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/disc_theater-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- DISCOVERY WORLD HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/disc_world-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- DISCOVERY WORLD SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/disc_world-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- DISCOVERY CHANEL HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/disc_ch-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- DISCOVERY KIDS SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/disc_kids-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- DISCOVERY KIDS HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/disc_kids-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- DISCOVERY JUNIOR
+
 http://hackveneno.tk/panelxcodes/stream/channels/d1sneyjr-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- DISNEY SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/d1sney-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- DISNEY HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/d1sney-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- DISNEY XD
+
 http://hackveneno.tk/panelxcodes/stream/channels/d1sneyxd-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- DW LATINO
+
 http://hackveneno.tk/panelxcodes/stream/channels/dw-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- ET
+
 http://hackveneno.tk/panelxcodes/stream/channels/e_ent-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- EL GOURMET SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/elgourmet-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX MEXICO SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x_mx-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX MEXICO HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0x_mx-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX LIFE MX SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0xlife_mx-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX LIFE HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0xlife-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FOX LIFE MX HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0xlife_mx-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FX SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/fx-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FX HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/fx-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FX MX SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/fx_mx-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FX MX HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/fx_mx-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FXM SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/fxm-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- FXM HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/fxm-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- GLITZ
+
 http://hackveneno.tk/panelxcodes/stream/channels/glitz-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- GOLDEN SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/golden-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- GOLDEN HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/golden-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- GOLDEN PREMIER SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/goldp-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- GOLDEN PREMIER HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/goldp-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- H2
+
 http://hackveneno.tk/panelxcodes/stream/channels/h2-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- HISTORY SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/history-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- HISTORY HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/history-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- HOLA SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/hola-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- HOLA HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/hola-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- HTV
+
 http://hackveneno.tk/panelxcodes/stream/channels/htv-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- ISAT
+
 http://hackveneno.tk/panelxcodes/stream/channels/isat-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- LIFETIME
+
 http://hackveneno.tk/panelxcodes/stream/channels/lifetime-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- MAX PRIME SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/m4xprime-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- MAX PRIME HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/m4xprime-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- MAX
+
 http://hackveneno.tk/panelxcodes/stream/channels/m4x-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- MAX UP SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/m4xup-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- MAX UP HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/m4xup-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- MAS CHIC HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/mas_chic-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- MTVLIFE HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/mtvl1ve-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- MULTIPREMIER
+
 http://hackveneno.tk/panelxcodes/stream/channels/multipremier-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- NAT GEO SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/natgeo-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- NAT GEO HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/natgeo-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- NAT GEO MX SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/natgeo_mx-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- NAT GEO MX SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/natgeo_mx-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- NATGEOwILD SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/natgeo_wild-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- NATGEO WILD HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/natgeo_wild-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- NAT WILD MX HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/natgeo_wild_mx-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- NICK SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/nick-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- NICK HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/nick-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- NICK SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/nickjr-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- NICK HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/nickjr-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- FOXLIFE MX HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/f0xlife_mx-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- PARAMAT CHANNEL SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/param-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- PARAMAT CHANNEL HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/param-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- PASIONES HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/pasiones-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- RCN
+
 http://hackveneno.tk/panelxcodes/stream/channels/rcn_tln-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- SONY SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/sony-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- SONY HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/sony-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- STUDIO UNIVERSAL
+
 http://hackveneno.tk/panelxcodes/stream/channels/stdio_univ-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- SPACE SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/space-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- SPACE HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/space-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- TBS SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/tbs-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- TBS HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/tbs-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- TCM HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/tcm-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- TELEMUNDO INTERNACIONAL
+
 http://hackveneno.tk/panelxcodes/stream/channels/telemun_int-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- TLC SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/tlc-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- TNT SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/tnt-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- TNT HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/tnt-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- TNT SERIES SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/tnt_ser-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- TNT SERIES HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/tnt_ser-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- TRUTV SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/trutv_hd-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- TRUTV HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/trutv_hd-q6.php?playlist.m3u8
+
 #EXTINF:0,ES- TV5
+
 http://hackveneno.tk/panelxcodes/stream/channels/tv5-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- TVE
+
 http://hackveneno.tk/panelxcodes/stream/channels/tve-q4.php?playlist.m3u8
 
-
 #EXTINF:0,ES- UNICABLE
+
 http://hackveneno.tk/panelxcodes/stream/channels/unicable-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- UNIVERSAL
+
 http://hackveneno.tk/panelxcodes/stream/channels/univers-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- CANAL UNO
+
 http://hackveneno.tk/panelxcodes/stream/channels/uno-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- VH1 CLASSIC
+
 http://hackveneno.tk/panelxcodes/stream/channels/vh1class-q4.php?playlist.m3u8
+
 #EXTINF:0,ES- WARNER SD
+
 http://hackveneno.tk/panelxcodes/stream/channels/warner-q3.php?playlist.m3u8
+
 #EXTINF:0,ES- WARNER HD
+
 http://hackveneno.tk/panelxcodes/stream/channels/warner-q6.php?playlist.m3u8
