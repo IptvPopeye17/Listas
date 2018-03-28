@@ -1,0 +1,287 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A Plus P3" tvg-logo="http://149.56.44.51/imagenes/aplus.png" group-title="",A Plus P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/44.m3u8
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E P3" tvg-logo="http://149.56.44.51/imagenes/aehd.png" group-title="Entretenimiento",A&E P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A3 Series P3" tvg-logo="" group-title="",A3 Series P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/27.m3u8
+#EXTINF:-1 tvg-id="Adn 40 HD" tvg-name="ADN 40 P3" tvg-logo="http://149.56.44.51/imagenes/adn40.png" group-title="Locales MÉXICO",ADN 40 P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/50.m3u8
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC P3" tvg-logo="http://149.56.44.51/imagenes/amc.png" group-title="Cine, Películas y Series",AMC P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/38.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet P3" tvg-logo="http://149.56.44.51/imagenes/animalplanet.png" group-title="Mundo y Cultura",Animal Planet P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/5.m3u8
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="Axn P3" tvg-logo="http://149.56.44.51/imagenes/axnhd.png" group-title="Entretenimiento",Axn P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/74.m3u8
+#EXTINF:-1 tvg-id="AyM Sports" tvg-name="Aym Sports P3" tvg-logo="http://149.56.44.51/imagenes/aymsports.png" group-title="Deportes",Aym Sports P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/33.m3u8
+#EXTINF:-1 tvg-id="Canal AZ Cinema" tvg-name="Az Cinema P3" tvg-logo="http://149.56.44.51/imagenes/azcinema.png" group-title="Cine, Películas y Series",Az Cinema P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/17.m3u8
+#EXTINF:-1 tvg-id="Az Clic" tvg-name="Az Clic P3" tvg-logo="http://149.56.44.51/imagenes/azclic.png" group-title="Música",Az Clic P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/113.m3u8
+#EXTINF:-1 tvg-id="Az Corazón" tvg-name="Az Corazón P3" tvg-logo="http://149.56.44.51/imagenes/azcorazon.png" group-title="Locales MÉXICO",Az Corazón P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/62.m3u8
+#EXTINF:-1 tvg-id="Az Mundo" tvg-name="Az Mundo P3" tvg-logo="http://149.56.44.51/imagenes/azmundo.png" group-title="Entretenimiento",Az Mundo P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/32.m3u8
+#EXTINF:-1 tvg-id="El trece HD" tvg-name="Azteca 13 P3" tvg-logo="http://149.56.44.51/imagenes/aztecatrece.png" group-title="Locales MÉXICO",Azteca 13 P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/42.m3u8
+#EXTINF:-1 tvg-id="Azteca 7 HD" tvg-name="Azteca 7 P3" tvg-logo="http://149.56.44.51/imagenes/azteca7hd.png" group-title="Locales MÉXICO",Azteca 7 P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Internacional P3" tvg-logo="" group-title="Locales MÉXICO",Azteca Internacional P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby First P3" tvg-logo="http://149.56.44.51/imagenes/babyfirst.png" group-title="Infantiles",Baby First P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/94.m3u8
+#EXTINF:-1 tvg-id="Canal Bandamax" tvg-name="Bandamax P3" tvg-logo="http://149.56.44.51/imagenes/bandamax.png" group-title="Música",Bandamax P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/88.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang P3" tvg-logo="http://149.56.44.51/imagenes/boomerang.png" group-title="Infantiles",Boomerang P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/125.m3u8
+#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 P3" tvg-logo="http://149.56.44.51/imagenes/canal5hd.png" group-title="Locales MÉXICO",Canal 5 P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/56.m3u8
+#EXTINF:-1 tvg-id="Once TV" tvg-name="Canal Once P3" tvg-logo="http://149.56.44.51/imagenes/oncetv.png" group-title="Locales MÉXICO",Canal Once P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/68.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network P3" tvg-logo="http://149.56.44.51/imagenes/cartoonnetwork.png" group-title="Infantiles",Cartoon Network P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/41.m3u8
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal P3" tvg-logo="http://149.56.44.51/imagenes/cinecanalhd.png" group-title="Cine, Películas y Series",Cinecanal P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/107.m3u8
+#EXTINF:-1 tvg-id="Cinemax (O)" tvg-name="Cinemax P3" tvg-logo="http://149.56.44.51/imagenes/cinemax.png" group-title="Cine, Películas y Series",Cinemax P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/37.m3u8
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central P3" tvg-logo="http://149.56.44.51/imagenes/comedycentral.png" group-title="Entretenimiento",Comedy Central P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/67.m3u8
+#EXTINF:-1 tvg-id="XHHCU Canal del Congreso DF" tvg-name="Congreso de la Unión P3" tvg-logo="http://149.56.44.51/imagenes/congreso.png" group-title="Locales MÉXICO",Congreso de la Unión P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/119.m3u8
+#EXTINF:-1 tvg-id="De Película HD" tvg-name="De Película P3" tvg-logo="http://149.56.44.51/imagenes/depeliculahd.png" group-title="Cine, Películas y Series",De Película P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/106.m3u8
+#EXTINF:-1 tvg-id="Canal DHE" tvg-name="DHE P3" tvg-logo="http://149.56.44.51/imagenes/dhe.png" group-title="",DHE P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/26.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel P3" tvg-logo="http://149.56.44.51/imagenes/discoverychannel.png" group-title="Mundo y Cultura",Discovery Channel P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/124.m3u8
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization P3" tvg-logo="http://149.56.44.51/imagenes/discoverycivilization.png" group-title="Mundo y Cultura",Discovery Civilization P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/101.m3u8
+#EXTINF:-1 tvg-id="Home and Health HD" tvg-name="Discovery HH P3" tvg-logo="http://149.56.44.51/imagenes/discoveryhomehealth.png" group-title="Mundo y Cultura",Discovery HH P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD P3" tvg-logo="http://149.56.44.51/imagenes/discoverykids.png" group-title="Infantiles",Discovery Kids HD P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/112.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids (Mexico)" tvg-name="Discovery Kids P3" tvg-logo="http://149.56.44.51/imagenes/discoverykids.png" group-title="Infantiles",Discovery Kids P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/11.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science P3" tvg-logo="http://149.56.44.51/imagenes/discoveryscience.png" group-title="Mundo y Cultura",Discovery Science P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/100.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater P3" tvg-logo="http://149.56.44.51/imagenes/discoverytheater.png" group-title="Mundo y Cultura",Discovery Theater P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/123.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="Discovery TLC P3" tvg-logo="http://149.56.44.51/imagenes/tlc.png" group-title="Mundo y Cultura",Discovery TLC P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/105.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo P3" tvg-logo="http://149.56.44.51/imagenes/discoveryturbo.png" group-title="Mundo y Cultura",Discovery Turbo P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/4.m3u8
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World P3" tvg-logo="http://149.56.44.51/imagenes/discoveryworldhd.png" group-title="Mundo y Cultura",Discovery World P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/122.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel P3" tvg-logo="http://149.56.44.51/imagenes/disneychannel.png" group-title="Infantiles",Disney Channel P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/10.m3u8
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney JR P3" tvg-logo="http://149.56.44.51/imagenes/disneyjr.png" group-title="Infantiles",Disney JR P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/40.m3u8
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD P3" tvg-logo="http://149.56.44.51/imagenes/disneyxd.png" group-title="Infantiles",Disney XD P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/9.m3u8
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia P3" tvg-logo="http://149.56.44.51/imagenes/distritocomedia.png" group-title="Entretenimiento",Distrito Comedia P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/99.m3u8
+#EXTINF:-1 tvg-id="Canal El Financiero - Bloomberg" tvg-name="El Financiero Bloomberg P3" tvg-logo="http://149.56.44.51/imagenes/bloomberg.png" group-title="Noticias",El Financiero Bloomberg P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/31.m3u8
+#EXTINF:-1 tvg-id="Canal Elgourmet" tvg-name="El Gourmet P3" tvg-logo="http://149.56.44.51/imagenes/elgourmet.png" group-title="Entretenimiento",El Gourmet P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/25.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="Entertainment P3" tvg-logo="http://149.56.44.51/imagenes/e.png" group-title="Entretenimiento",Entertainment P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/55.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="Espn 2 P3" tvg-logo="http://149.56.44.51/imagenes/espn2.png" group-title="Deportes",Espn 2 P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/72.m3u8
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="Espn 3 P3" tvg-logo="http://149.56.44.51/imagenes/espn3.png" group-title="Deportes",Espn 3 P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/71.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn P3" tvg-logo="http://149.56.44.51/imagenes/espn.png" group-title="Deportes",Espn P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/73.m3u8
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN Plus P3" tvg-logo="http://149.56.44.51/imagenes/espnplus.png" group-title="Deportes",ESPN Plus P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network P3" tvg-logo="http://149.56.44.51/imagenes/foodnetwork.png" group-title="",Food Network P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/24.m3u8
+#EXTINF:-1 tvg-id="Canal F1 Latin America" tvg-name="Fórmula 1 P3" tvg-logo="http://149.56.44.51/imagenes/formula1.png" group-title="Deportes",Fórmula 1 P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/118.m3u8
+#EXTINF:-1 tvg-id="Foro TV HD" tvg-name="Foro TV P3" tvg-logo="http://149.56.44.51/imagenes/forotv.png" group-title="Locales MÉXICO",Foro TV P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/49.m3u8
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life P3" tvg-logo="http://149.56.44.51/imagenes/foxlife.png" group-title="Entretenimiento",Fox Life P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/98.m3u8
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox P3" tvg-logo="http://149.56.44.51/imagenes/foxhd.png" group-title="Entretenimiento",Fox P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/54.m3u8
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Premium Action P3" tvg-logo="http://149.56.44.51/imagenes/foxpremiumaction.png" group-title="Cine, Películas y Series",Fox Premium Action P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/16.m3u8
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-name="Fox Premium Cinema P3" tvg-logo="http://149.56.44.51/imagenes/foxpremiumcinema.png" group-title="Cine, Películas y Series",Fox Premium Cinema P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/15.m3u8
+#EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Premium Classics P3" tvg-logo="http://149.56.44.51/imagenes/foxpremiumclassics.png" group-title="Cine, Películas y Series",Fox Premium Classics P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/14.m3u8
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Premium Movies P3" tvg-logo="http://149.56.44.51/imagenes/foxpremiummovies.png" group-title="Cine, Películas y Series",Fox Premium Movies P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/13.m3u8
+#EXTINF:-1 tvg-id="Fox Premium Series HD" tvg-name="Fox Premium Series P3" tvg-logo="http://149.56.44.51/imagenes/foxpremiumseries.png" group-title="Cine, Películas y Series",Fox Premium Series P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/12.m3u8
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-name="Fox Sports 1 P3" tvg-logo="http://149.56.44.51/imagenes/foxsports1.png" group-title="Deportes",Fox Sports 1 P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/87.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="Fox Sports 2 P3" tvg-logo="http://149.56.44.51/imagenes/foxsports2.png" group-title="Deportes",Fox Sports 2 P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/86.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3 P3" tvg-logo="http://149.56.44.51/imagenes/foxsports3hd.png" group-title="Deportes",Fox Sports 3 P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/23.m3u8
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX P3" tvg-logo="http://149.56.44.51/imagenes/fxhd.png" group-title="Entretenimiento",FX P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/61.m3u8
+#EXTINF:-1 tvg-id="Canal FXM (México)" tvg-name="FXM P3" tvg-logo="http://149.56.44.51/imagenes/fxm.png" group-title="Cine, Películas y Series",FXM P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/104.m3u8
+#EXTINF:-1 tvg-id="Gala TV HD" tvg-name="Gala TV P3" tvg-logo="http://149.56.44.51/imagenes/galatvhd.png" group-title="Locales MÉXICO",Gala TV P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV P3" tvg-logo="http://149.56.44.51/imagenes/elgarage.png" group-title="Entretenimiento",Garage TV P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/60.m3u8
+#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz P3" tvg-logo="http://149.56.44.51/imagenes/glitz.png" group-title="Entretenimiento",Glitz P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/97.m3u8
+#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden  P3" tvg-logo="http://149.56.44.51/imagenes/goldenhd.png" group-title="Cine, Películas y Series",Golden  P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/36.m3u8
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge P3" tvg-logo="http://149.56.44.51/imagenes/goldenedge.png" group-title="Cine, Películas y Series",Golden Edge P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/35.m3u8
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Latin America P3" tvg-logo="http://149.56.44.51/roxroku/imagenes/golflatinamerica.png" group-title="Deportes",Golf Latin America P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Havoc P3" tvg-logo="http://149.56.44.51/imagenes/havoc.png" group-title="Música",Havoc P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/22.m3u8
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History P3" tvg-logo="http://149.56.44.51/imagenes/historychannel.png" group-title="Mundo y Cultura",History P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HMX P3" tvg-logo="http://149.56.44.51/imagenes/hmx.png" group-title="Locales MÉXICO",HMX P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV P3" tvg-logo="" group-title="Entretenimiento",Hola TV P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/59.m3u8
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat P3" tvg-logo="http://149.56.44.51/imagenes/isat.png" group-title="Cine, Películas y Series",I.Sat P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/103.m3u8
+#EXTINF:-1 tvg-id="Imagen Televisión" tvg-name="Imagen TV P3" tvg-logo="http://149.56.44.51/imagenes/imagentelevision.png" group-title="Locales MÉXICO",Imagen TV P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/117.m3u8
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigation Discovery HD P3" tvg-logo="http://149.56.44.51/imagenes/investigationdiscovery.png" group-title="Entretenimiento",Investigation Discovery HD P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/77.m3u8
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigation Discovery P3" tvg-logo="http://149.56.44.51/imagenes/investigationdiscovery.png" group-title="Entretenimiento",Investigation Discovery P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas P3" tvg-logo="" group-title="Locales MÉXICO",Las Estrellas P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latin American Sports P3" tvg-logo="http://149.56.44.51/imagenes/latinamericansports.png" group-title="Deportes",Latin American Sports P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/116.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime P3" tvg-logo="http://149.56.44.51/imagenes/lifetime.png" group-title="Mundo y Cultura",Lifetime P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Más Chic P3" tvg-logo="" group-title="Entretenimiento",Más Chic P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/58.m3u8
+#EXTINF:-1 tvg-id="Televisión Mexiquense" tvg-name="Mexiquense P3" tvg-logo="http://149.56.44.51/imagenes/mexiquense.png" group-title="Locales MÉXICO",Mexiquense P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/93.m3u8
+#EXTINF:-1 tvg-id="Canal MTV Hits" tvg-name="MTV Hits P3" tvg-logo="http://149.56.44.51/imagenes/mtvhits.png" group-title="Música",MTV Hits P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live P3" tvg-logo="http://149.56.44.51/imagenes/mtvlivehd.png" group-title="Música",MTV Live P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/84.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV P3" tvg-logo="http://149.56.44.51/imagenes/mtv.png" group-title="Música",MTV P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/85.m3u8
+#EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios P3" tvg-logo="http://149.56.44.51/imagenes/multimediosmonterrey.png" group-title="Locales MÉXICO",Multimedios P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Kids P3" tvg-logo="http://149.56.44.51/imagenes/natgeokids.png" group-title="Infantiles",Natgeo Kids P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/76.m3u8
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="Natgeo P3" tvg-logo="http://149.56.44.51/imagenes/natgeo.png" group-title="Mundo y Cultura",Natgeo P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/1.m3u8
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="Natgeo Wild P3" tvg-logo="http://149.56.44.51/imagenes/natgeowild.png" group-title="Mundo y Cultura",Natgeo Wild P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 P3" tvg-logo="http://149.56.44.51/imagenes/nick2.png" group-title="Infantiles",Nick 2 P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/92.m3u8
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick JR P3" tvg-logo="http://149.56.44.51/imagenes/nickjr.png" group-title="Infantiles",Nick JR P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/7.m3u8
+#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick P3" tvg-logo="http://149.56.44.51/imagenes/nickelodeon.png" group-title="Infantiles",Nick P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/8.m3u8
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons P3" tvg-logo="http://149.56.44.51/imagenes/nicktoons.png" group-title="Infantiles",Nicktoons P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocho TV P3" tvg-logo="http://149.56.44.51/imagenes/ochotv.png" group-title="",Ocho TV P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Px TV P3" tvg-logo="http://149.56.44.51/imagenes/pxsports.png" group-title="Deportes",Px TV P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/115.m3u8
+#EXTINF:-1 tvg-id="Canal Ritmoson" tvg-name="Ritmoson P3" tvg-logo="http://149.56.44.51/imagenes/ritmosonlatino.png" group-title="Música",Ritmoson P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT Documentales P3" tvg-logo="http://149.56.44.51/imagenes/rtdocumentary.png" group-title="Noticias",RT Documentales P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/91.m3u8
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony P3" tvg-logo="http://149.56.44.51/imagenes/sonyhd.png" group-title="Entretenimiento",Sony P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space P3" tvg-logo="" group-title="Cine, Películas y Series",Space P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/53.m3u8
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal P3" tvg-logo="http://149.56.44.51/imagenes/studiouniversal.png" group-title="Cine, Películas y Series",Studio Universal P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sundance P3" tvg-logo="http://149.56.44.51/imagenes/sundancetv.png" group-title="Locales MÉXICO",Sundance P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SuresTV P3" tvg-logo="http://149.56.44.51/imagenes/surestv.png" group-title="Locales MÉXICO",SuresTV P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/89.m3u8
+#EXTINF:-1 tvg-id="SyFy" tvg-name="Syfy P3" tvg-logo="http://149.56.44.51/imagenes/syfyhd.png" group-title="Entretenimiento",Syfy P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/39.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS P3" tvg-logo="http://149.56.44.51/imagenes/tbs.png" group-title="Entretenimiento",TBS P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/96.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM P3" tvg-logo="http://149.56.44.51/imagenes/tcm.png" group-title="Cine, Películas y Series",TCM P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telefórmula P3" tvg-logo="" group-title="Locales MÉXICO",Telefórmula P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telehit P3" tvg-logo="http://149.56.44.51/imagenes/telehit.png" group-title="Música",Telehit P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teleritmo P3" tvg-logo="http://149.56.44.51/imagenes/teleritmo.png" group-title="Música",Teleritmo P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Televisa MTY P3" tvg-logo="http://149.56.44.51/imagenes/televisamty.png" group-title="Locales MÉXICO",Televisa MTY P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/95.m3u8
+#EXTINF:-1 tvg-id="TIIN" tvg-name="Tiin P3" tvg-logo="http://149.56.44.51/imagenes/tiin.png" group-title="Infantiles",Tiin P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/121.m3u8
+#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tl Novelas P3" tvg-logo="http://149.56.44.51/imagenes/tlnovelas.png" group-title="Entretenimiento",Tl Novelas P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/28.m3u8
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT P3" tvg-logo="http://149.56.44.51/imagenes/tnthd.png" group-title="Cine, Películas y Series",TNT P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tnt Series P3" tvg-logo="" group-title="Entretenimiento",Tnt Series P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/51.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast P3" tvg-logo="http://149.56.44.51/imagenes/tooncast.png" group-title="Infantiles",Tooncast P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/120.m3u8
+#EXTINF:-1 tvg-id="TruTV" tvg-name="Tru TV P3" tvg-logo="http://149.56.44.51/imagenes/trutvhd.png" group-title="Entretenimiento",Tru TV P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Más P3" tvg-logo="http://149.56.44.51/imagenes/tvmas.png" group-title="",Tv Más P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/18.m3u8
+#EXTINF:-1 tvg-id="TVC Deportes" tvg-name="TVC Deportes P3" tvg-logo="http://149.56.44.51/imagenes/tvcdeportes.png" group-title="Deportes",TVC Deportes P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC P3" tvg-logo="http://149.56.44.51/imagenes/tvc.png" group-title="",TVC P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE P3" tvg-logo="http://149.56.44.51/imagenes/tve.png" group-title="Noticias",TVE P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unicable P3" tvg-logo="" group-title="Entretenimiento",Unicable P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/57.m3u8
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel P3" tvg-logo="http://149.56.44.51/imagenes/universalchannelhd.png" group-title="Entretenimiento",Universal Channel P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/75.m3u8
+#EXTINF:-1 tvg-id="Canal VH1 Classic" tvg-name="Vh1 Classics P3" tvg-logo="http://149.56.44.51/imagenes/vh1classic.png" group-title="Música",Vh1 Classics P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/108.m3u8
+#EXTINF:-1 tvg-id="Canal VH1 (Latinoamérica)" tvg-name="VH1 P3" tvg-logo="http://149.56.44.51/imagenes/vh1hd.png" group-title="Música",VH1 P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/81.m3u8
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner P3" tvg-logo="http://149.56.44.51/imagenes/warnerchannelhd.png" group-title="Entretenimiento",Warner P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wobi TV P3" tvg-logo="http://149.56.44.51/imagenes/wobitv.png" group-title="Mundo y Cultura",Wobi TV P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/102.m3u8
+#EXTINF:-1 tvg-id="Canal Milenio TV" tvg-name="Milenio TV P3" tvg-logo="http://149.56.44.51/imagenes/mileniotv.png" group-title="Noticias",Milenio TV P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/1438.m3u8
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount P3" tvg-logo="http://149.56.44.51/imagenes/paramount.png" group-title="Cine, Películas y Series",Paramount P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/1439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Judicial P3" tvg-logo="" group-title="",Canal Judicial P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN en Espanol P3" tvg-logo="" group-title="",CNN en Espanol P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional P3" tvg-logo="" group-title="",CNN Internacional P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN USA P3" tvg-logo="" group-title="",CNN USA P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW P3" tvg-logo="" group-title="",DW P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa P3" tvg-logo="" group-title="",Europa Europa P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24 P3" tvg-logo="" group-title="",France 24 P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ingenio TV P3" tvg-logo="" group-title="",Ingenio TV P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT en Espanol P3" tvg-logo="" group-title="",RT en Espanol P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHE P3" tvg-logo="" group-title="",SHE P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XEJ Canal 50 de Ciudad Juárez P3" tvg-logo="" group-title="",XEJ Canal 50 de Ciudad Juárez P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XEWT12 Televisa Tijuana P3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/XEWT.png" group-title="LATINO",XEWT12 Televisa Tijuana P3
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="",HBO
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/1437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="",HBO 2
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/1436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="",HBO FAMILY
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/1435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="" group-title="",HBO PLUS
+http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/1434.m3u8
