@@ -1,629 +1,91 @@
 #EXTM3U
 
+#EXTINF:-1,WARNER
+http://iptv.darkiptv.com/parasitodelpastebin/warner.php?index.m3u8
 
+#EXTINF:-1,AE
+http://iptv.darkiptv.com/nopastebinratero/ae.php?index.m3u8
 
+#EXTINF:-1,AMC
+http://iptv.darkiptv.com/nopastebinratero/amc.php?index.m3u8
 
+#EXTINF:-1,ANIMAL PLANET
+http://iptv.darkiptv.com/nopastebinratero/animalplanet.php?index.m3u8
 
+#EXTINF:-1,AXN
+http://iptv.darkiptv.com/nopastebinratero/axn.php?index.m3u8
 
+#EXTINF:-1,COMEDY CENTRAL
+http://iptv.darkiptv.com/nopastebinratero/comedycentral.php?index.m3u8
 
+#EXTINF:-1,CINELATINO
+http://iptv.darkiptv.com/nopastebinratero/cinelatino.php?index.m3u8
 
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptv.darkiptv.com/rateropastebin/discoverychannel.php?index.m3u8
 
-#EXTINF:0,ES- AMC SD
+#EXTINF:-1,DISCOVERY HH
+http://iptv.darkiptv.com/rateropastebin/discoveryhh.php?index.m3u8
 
-http://iptv.darkiptv.com/rateropastebin/amc.php?index.m3u8
+#EXTINF:-1,FOX LIFE
+http://iptv.darkiptv.com/rateropastebin/foxlife.php?index.m3u8
 
-#EXTINF:0,ES- AXN HD
+#EXTINF:-1,SONY
+http://iptv.darkiptv.com/parasitodelpastebin/sony.php?index.m3u8
 
-http://iptv.darkiptv.com/rateropastebin/axn.php?index.m3u8
+#EXTINF:-1,SPACE
+http://iptv.darkiptv.com/parasitodelpastebin/space.php?index.m3u8
 
-#EXTINF:0,ES- AMC HD
+#EXTINF:-1,TCM
+http://iptv.darkiptv.com/parasitodelpastebin/tcm.php?index.m3u8
 
-http://iptv.darkiptv.com/rateropastebin/amc.php?index.m3u8
+#EXTINF:-1,TLC
+http://iptv.darkiptv.com/parasitodelpastebin/tlc.php?index.m3u8
 
-#EXTINF:0,ES- ANIMAL PLANET
+#EXTINF:-1,TNT SERIES
+http://iptv.darkiptv.com/parasitodelpastebin/tnt_series.php?index.m3u8
 
-http://iptv.darkiptv.com/rateropastebin/anim_planet.php?index.m3u8
+#EXTINF:-1,TNT
+http://iptv.darkiptv.com/parasitodelpastebin/tnt.php?index.m3u8
 
-#EXTINF:0,ES- BOOMERANG HD
+#EXTINF:-1,UNIVERSAL
+http://iptv.darkiptv.com/parasitodelpastebin/universal.php?index.m3u8
 
-http://iptv.darkiptv.com/rateropastebin/boomerang-q4.php?index.m3u8
+#EXTINF:-1,GOLDEN PLUS
+http://iptv.darkiptv.com/rateropastebin/goldenplus.php?index.m3u8
 
-#EXTINF:0,ES- CARTOON NETWORK SD
+#EXTINF:-1,FX
+http://iptv.darkiptv.com/rateropastebin/fxm.php?index.m3u8
 
-http://iptv.darkiptv.com/rateropastebin/cart_net.php?index.m3u8
+#EXTINF:-1,FOX
+http://iptv.darkiptv.com/rateropastebin/fox.php?index.m3u8
 
-#EXTINF:0,ES- CARTOON NETWORK HD
+#EXTINF:-1,CARTOON NETWORK
+http://iptv.darkiptv.com/nopastebinratero/cart_net.php?index.m3u8
 
-http://iptv.darkiptv.com/rateropastebin/cart_net.php?index.m3u8
+#EXTINF:-1,BOOMERANG
+http://iptv.darkiptv.com/nopastebinratero/boomerang.php?index.m3u8
 
-#EXTINF:0,ES- FOX SPORTS 2 SD
+#EXTINF:-1,DISNEY
+http://iptv.darkiptv.com/rateropastebin/disney.php?index.m3u8
 
-http://iptv.darkiptv.com/rateropastebin/f0xsports2.php?index.m3u8
-
-#EXTINF:0,ES- FOX SPORT 2 HD
-
-http://iptv.darkiptv.com/rateropastebin/f0xsports2.php?index.m3u8
-
-#EXTINF:0,ES- FOX SPORTS 3 SD
-
-http://iptv.darkiptv.com/rateropastebin/f0xsports3.php?index.m3u8
-
-#EXTINF:0,ES- FOX SPORTS 3 HD
-
-http://iptv.darkiptv.com/rateropastebin/f0xsports3.php?index.m3u8
-
-#EXTINF:0,ES- FOX SPORTS HD
-
-http://iptv.darkiptv.com/rateropastebin/f0xsports.php?index.m3u8
-
-EXTINF:0,ES- FOX SPORTS SD
-
-http://iptv.darkiptv.com/rateropastebin/f0xsports.php?index.m3u8
-
-#EXTINF:0,ES- ESPN HD
-
+#EXTINF:-1,ESPN
 http://iptv.darkiptv.com/rateropastebin/espn.php?index.m3u8
 
-#EXTINF:0,ES- ESPN SD
-
-http://iptv.darkiptv.com/rateropastebin/espn.php?index.m3u8
-
-#EXTINF:0,ES- ESPN 3 HD
-
-http://iptv.darkiptv.com/rateropastebin/espn3.php?index.m3u8
-
-#EXTINF:0,ES- ESPN 3 SD
-
-http://iptv.darkiptv.com/rateropastebin/espn3.php?index.m3u8
-
-#EXTINF:0,ES- ESPN 2 HD
-
+#EXTINF:-1,ESPN 2
 http://iptv.darkiptv.com/rateropastebin/espn2.php?index.m3u8
 
-#EXTINF:0,ES- ESPN PLUS SD
+#EXTINF:-1,ESPN 3
+http://iptv.darkiptv.com/rateropastebin/espn3.php?index.m3u8
 
-http://iptv.darkiptv.com/rateropastebin/espn_plus.php?index.m3u8
+#EXTINF:-1,MLB USA
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:0,ES- CLS HD
+#EXTINF:-1,FOX SPORTS 3
+http://iptv.darkiptv.com/rateropastebin/foxsports3.php?index.m3u8
 
-http://iptv.darkiptv.com/rateropastebin/clspoco.php?index.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://iptv.darkiptv.com/rateropastebin/foxsports2.php?index.m3u8
 
-#EXTINF:0,ES- FOX CINEMA HD
-
-http://iptv.darkiptv.com/rateropastebin/f0x_cinema_sub.php?index.m3u8
-
-#EXTINF:0,ES- FOX CINEMA SD
-
-http://iptv.darkiptv.com/rateropastebin/f0x_cinema_sub.php?index.m3u8
-
-#EXTINF:0,ES- FOX CLASSIC SD
-
-http://iptv.darkiptv.com/rateropastebin/f0x_classics.php?index.m3u8
-
-#EXTINF:0,ES- FOX CLASSIC HD
-
-http://iptv.darkiptv.com/rateropastebin/f0x_classics.php?index.m3u8
-
-#EXTINF:0,ES- FOX COMEDIA SD
-
-http://iptv.darkiptv.com/rateropastebin/f0x_comedy.php?index.m3u8
-
-#EXTINF:0,ES- FOX COMEDIA HD
-
-http://iptv.darkiptv.com/rateropastebin/f0x_comedy.php?index.m3u8
-
-#EXTINF:0,ES- FOX MOVIES SD
-
-http://iptv.darkiptv.com/rateropastebin/f0x_movies.php?index.m3u8
-
-#EXTINF:0,ES- FOX MOVIES HD
-
-http://iptv.darkiptv.com/rateropastebin/f0x_movies.php?index.m3u8
-
-#EXTINF:0,ES- FOX SERIES SD
-
-http://iptv.darkiptv.com/rateropastebin/f0x_series_sub.php?index.m3u8
-
-#EXTINF:0,ES- FOX SERIES HD
-
-http://iptv.darkiptv.com/rateropastebin/f0x_series_sub.php?index.m3u8
-
-#EXTINF:0,ES- HBO 2 SD
-
-http://iptv.darkiptv.com/rateropastebin/hb02.php?index.m3u8
-
-#EXTINF:0,ES- HBO 2 HD
-
-http://iptv.darkiptv.com/rateropastebin/hb02.php?index.m3u8
-
-#EXTINF:0,ES- HBO FAMILY SD
-
-http://iptv.darkiptv.com/rateropastebin/hb0fam.php?index.m3u8
-
-#EXTINF:0,ES- HBO FAMILY HD
-
-http://iptv.darkiptv.com/rateropastebin/hb0fam.php?index.m3u8
-
-#EXTINF:0,ES- HBO SD
-
-http://iptv.darkiptv.com/rateropastebin/hb0hd.php?index.m3u8
-
-#EXTINF:0,ES- HBO HD
-
-http://iptv.darkiptv.com/rateropastebin/hb0hd.php?index.m3u8
-
-#EXTINF:0,ES- HBO PLUS SD
-
-http://iptv.darkiptv.com/rateropastebin/hb0plus.php?index.m3u8
-
-#EXTINF:0,ES- HBO PLUS HD
-
-http://iptv.darkiptv.com/rateropastebin/hb0plus.php?index.m3u8
-
-#EXTINF:0,ES- HBO SIGN SD
-
-http://iptv.darkiptv.com/rateropastebin/hb0sign.php?index.m3u8
-
-#EXTINF:0,ES- HBO SIGN HD
-
-http://iptv.darkiptv.com/rateropastebin/hb0sign.php?index.m3u8
-
-#EXTINF:0,ES- TOONCAST
-
-http://iptv.darkiptv.com/rateropastebin/tooncast-q4.php?index.m3u8
-
-#EXTINF:0,ES- DISNEY HD
-
-http://iptv.darkiptv.com/rateropastebin/d1sney.php?index.m3u8
-
-#EXTINF:0,ES- ANTENA 3
-
-http://iptv.darkiptv.com/rateropastebin/antena3-q4.php?index.m3u8
-
-#EXTINF:0,ES- AXN HD
-
-http://iptv.darkiptv.com/rateropastebin/axn.php?index.m3u8
-
-#EXTINF:0,ES- AZCORAZON SD
-
-http://iptv.darkiptv.com/rateropastebin/azcorazon.php?index.m3u8
-
-#EXTINF:0,ES- AZCORAZON HD
-
-http://iptv.darkiptv.com/rateropastebin/azcorazon.php?index.m3u8
-
-#EXTINF:0,ES- AZMUNDO HD
-
-http://iptv.darkiptv.com/rateropastebin/azmundo.php?index.m3u8
-
-#EXTINF:0,ES- CINEMAX
-
-http://iptv.darkiptv.com/rateropastebin/c1nemax-q4.php?index.m3u8
-
-#EXTINF:0,ES-CANAL CLARO HD
-
-http://iptv.darkiptv.com/rateropastebin/canal_kloro.php?index.m3u8
-
-#EXTINF:0,ES- CANAL CLARO SD
-
-http://iptv.darkiptv.com/rateropastebin/canal_kloro.php?index.m3u8
-
-#EXTINF:0,ES- ESTRELLAS
-
-http://iptv.darkiptv.com/rateropastebin/estrellas_latam-q4.php?index.m3u8
-
-#EXTINF:0,ES- CARACOL SD
-
-http://iptv.darkiptv.com/rateropastebin/caracol.php?index.m3u8
-
-#EXTINF:0,ES- CC SD
-
-http://iptv.darkiptv.com/rateropastebin/cc.php?index.m3u8
-
-#EXTINF:0,ES- CC HD
-
-http://iptv.darkiptv.com/rateropastebin/cc.php?index.m3u8
-
-#EXTINF:0,ES- CINELATINO
-
-http://iptv.darkiptv.com/rateropastebin/cinelatino-q4.php?index.m3u8
-
-#EXTINF:0,ES- CINECANAL SD
-
-http://iptv.darkiptv.com/rateropastebin/cinecanal.php?index.m3u8
-
-#EXTINF:0,ES- CINECANAL HD
-
-http://iptv.darkiptv.com/rateropastebin/cinecanal.php?index.m3u8
-
-#EXTINF:0,ES- CINECANAL PLUS
-
-http://iptv.darkiptv.com/rateropastebin/cinemaplus-q4.php?index.m3u8
-
-#EXTINF:0,ES- CLARO CINEMA
-
-http://iptv.darkiptv.com/rateropastebin/clr_cinema-q4.php?index.m3u8
-
-#EXTINF:0,ES- CNN ESPAÑOLL
-
-http://iptv.darkiptv.com/rateropastebin/cnnee-q4.php?index.m3u8
-
-#EXTINF:0,ES- CONCERT HD
-
-http://iptv.darkiptv.com/rateropastebin/concert.php?index.m3u8
-
-#EXTINF:0,ES- DEPELICULA
-
-http://iptv.darkiptv.com/rateropastebin/depelicula-q4.php?index.m3u8
-
-#EXTINF:0,ES- DHE SD
-
-http://iptv.darkiptv.com/rateropastebin/dhe.php?index.m3u8
-
-#EXTINF:0,ES- DHE HD
-
-http://iptv.darkiptv.com/rateropastebin/dhe.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY CIVI
-
-http://iptv.darkiptv.com/rateropastebin/disc_civil-q4.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY HH SD
-
-http://iptv.darkiptv.com/rateropastebin/disc_hh.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY THEATER SD
-
-http://iptv.darkiptv.com/rateropastebin/disc_theater.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY THEATER HD
-
-http://iptv.darkiptv.com/rateropastebin/disc_theater.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY WORLD HD
-
-http://iptv.darkiptv.com/rateropastebin/disc_world.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY WORLD SD
-
-http://iptv.darkiptv.com/rateropastebin/disc_world.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY CHANEL HD
-
-http://iptv.darkiptv.com/rateropastebin/disc_ch.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY KIDS SD
-
-http://iptv.darkiptv.com/rateropastebin/disc_kids.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY KIDS HD
-
-http://iptv.darkiptv.com/rateropastebin/disc_kids.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY JUNIOR
-
-http://iptv.darkiptv.com/rateropastebin/d1sneyjr-q4.php?index.m3u8
-
-#EXTINF:0,ES- DISNEY SD
-
-http://iptv.darkiptv.com/rateropastebin/d1sney.php?index.m3u8
-
-#EXTINF:0,ES- DISNEY HD
-
-http://iptv.darkiptv.com/rateropastebin/d1sney.php?index.m3u8
-
-#EXTINF:0,ES- DISNEY XD
-
-http://iptv.darkiptv.com/rateropastebin/d1sneyxd-q4.php?index.m3u8
-
-#EXTINF:0,ES- DW LATINO
-
-http://iptv.darkiptv.com/rateropastebin/dw-q4.php?index.m3u8
-
-#EXTINF:0,ES- ET
-
-http://iptv.darkiptv.com/rateropastebin/e_ent-q4.php?index.m3u8
-
-#EXTINF:0,ES- EL GOURMET SD
-
-http://iptv.darkiptv.com/rateropastebin/elgourmet.php?index.m3u8
-
-#EXTINF:0,ES- FOX SD
-
-http://iptv.darkiptv.com/rateropastebin/f0x.php?index.m3u8
-
-#EXTINF:0,ES- FOX HD
-
-http://iptv.darkiptv.com/rateropastebin/f0x.php?index.m3u8
-
-#EXTINF:0,ES- FOX MEXICO SD
-
-http://iptv.darkiptv.com/rateropastebin/f0x_mx.php?index.m3u8
-
-#EXTINF:0,ES- FOX MEXICO HD
-
-http://iptv.darkiptv.com/rateropastebin/f0x_mx.php?index.m3u8
-
-#EXTINF:0,ES- FOX LIFE MX SD
-
-http://iptv.darkiptv.com/rateropastebin/f0xlife_mx.php?index.m3u8
-
-#EXTINF:0,ES- FOX LIFE HD
-
-http://iptv.darkiptv.com/rateropastebin/f0xlife.php?index.m3u8
-
-#EXTINF:0,ES- FOX LIFE MX HD
-
-http://iptv.darkiptv.com/rateropastebin/f0xlife_mx.php?index.m3u8
-
-#EXTINF:0,ES- FX SD
-
-http://iptv.darkiptv.com/rateropastebin/fx.php?index.m3u8
-
-#EXTINF:0,ES- FX HD
-
-http://iptv.darkiptv.com/rateropastebin/fx.php?index.m3u8
-
-#EXTINF:0,ES- FX MX SD
-
-http://iptv.darkiptv.com/rateropastebin/fx_mx.php?index.m3u8
-
-#EXTINF:0,ES- FX MX HD
-
-http://iptv.darkiptv.com/rateropastebin/fx_mx.php?index.m3u8
-
-#EXTINF:0,ES- FXM SD
-
-http://iptv.darkiptv.com/rateropastebin/fxm.php?index.m3u8
-
-#EXTINF:0,ES- FXM HD
-
-http://iptv.darkiptv.com/rateropastebin/fxm.php?index.m3u8
-
-#EXTINF:0,ES- GLITZ
-
-http://iptv.darkiptv.com/rateropastebin/glitz-q4.php?index.m3u8
-
-#EXTINF:0,ES- GOLDEN SD
-
-http://iptv.darkiptv.com/rateropastebin/golden.php?index.m3u8
-
-#EXTINF:0,ES- GOLDEN HD
-
-http://iptv.darkiptv.com/rateropastebin/golden.php?index.m3u8
-
-#EXTINF:0,ES- GOLDEN PREMIER SD
-
-http://iptv.darkiptv.com/rateropastebin/goldp.php?index.m3u8
-
-#EXTINF:0,ES- GOLDEN PREMIER HD
-
-http://iptv.darkiptv.com/rateropastebin/goldp.php?index.m3u8
-
-#EXTINF:0,ES- H2
-
-http://iptv.darkiptv.com/rateropastebin/h2-q4.php?index.m3u8
-
-#EXTINF:0,ES- HISTORY SD
-
-http://iptv.darkiptv.com/rateropastebin/history.php?index.m3u8
-
-#EXTINF:0,ES- HISTORY HD
-
-http://iptv.darkiptv.com/rateropastebin/history.php?index.m3u8
-
-#EXTINF:0,ES- HOLA SD
-
-http://iptv.darkiptv.com/rateropastebin/hola.php?index.m3u8
-
-#EXTINF:0,ES- HOLA HD
-
-http://iptv.darkiptv.com/rateropastebin/hola.php?index.m3u8
-
-#EXTINF:0,ES- HTV
-
-http://iptv.darkiptv.com/rateropastebin/htv-q4.php?index.m3u8
-
-#EXTINF:0,ES- ISAT
-
-http://iptv.darkiptv.com/rateropastebin/isat-q4.php?index.m3u8
-
-#EXTINF:0,ES- LIFETIME
-
-http://iptv.darkiptv.com/rateropastebin/lifetime-q4.php?index.m3u8
-
-#EXTINF:0,ES- MAX PRIME SD
-
-http://iptv.darkiptv.com/rateropastebin/m4xprime.php?index.m3u8
-
-#EXTINF:0,ES- MAX PRIME HD
-
-http://iptv.darkiptv.com/rateropastebin/m4xprime.php?index.m3u8
-
-#EXTINF:0,ES- MAX
-
-http://iptv.darkiptv.com/rateropastebin/m4x-q4.php?index.m3u8
-
-#EXTINF:0,ES- MAX UP SD
-
-http://iptv.darkiptv.com/rateropastebin/m4xup.php?index.m3u8
-
-#EXTINF:0,ES- MAX UP HD
-
-http://iptv.darkiptv.com/rateropastebin/m4xup.php?index.m3u8
-
-#EXTINF:0,ES- MAS CHIC HD
-
-http://iptv.darkiptv.com/rateropastebin/mas_chic.php?index.m3u8
-
-#EXTINF:0,ES- MTVLIFE HD
-
-http://iptv.darkiptv.com/rateropastebin/mtvl1ve.php?index.m3u8
-
-#EXTINF:0,ES- MULTIPREMIER
-
-http://iptv.darkiptv.com/rateropastebin/multipremier-q4.php?index.m3u8
-
-#EXTINF:0,ES- NAT GEO SD
-
-http://iptv.darkiptv.com/rateropastebin/natgeo.php?index.m3u8
-
-#EXTINF:0,ES- NAT GEO HD
-
-http://iptv.darkiptv.com/rateropastebin/natgeo.php?index.m3u8
-
-#EXTINF:0,ES- NAT GEO MX SD
-
-http://iptv.darkiptv.com/rateropastebin/natgeo_mx.php?index.m3u8
-
-#EXTINF:0,ES- NAT GEO MX SD
-
-http://iptv.darkiptv.com/rateropastebin/natgeo_mx.php?index.m3u8
-
-#EXTINF:0,ES- NATGEOwILD SD
-
-http://iptv.darkiptv.com/rateropastebin/natgeo_wild.php?index.m3u8
-
-#EXTINF:0,ES- NATGEO WILD HD
-
-http://iptv.darkiptv.com/rateropastebin/natgeo_wild.php?index.m3u8
-
-#EXTINF:0,ES- NAT WILD MX HD
-
-http://iptv.darkiptv.com/rateropastebin/natgeo_wild_mx.php?index.m3u8
-
-#EXTINF:0,ES- NICK SD
-
-http://iptv.darkiptv.com/rateropastebin/nick.php?index.m3u8
-
-#EXTINF:0,ES- NICK HD
-
-http://iptv.darkiptv.com/rateropastebin/nick.php?index.m3u8
-
-#EXTINF:0,ES- NICK SD
-
-http://iptv.darkiptv.com/rateropastebin/nickjr.php?index.m3u8
-
-#EXTINF:0,ES- NICK HD
-
-http://iptv.darkiptv.com/rateropastebin/nickjr.php?index.m3u8
-
-#EXTINF:0,ES- FOXLIFE MX HD
-
-http://iptv.darkiptv.com/rateropastebin/f0xlife_mx.php?index.m3u8
-
-#EXTINF:0,ES- PARAMAT CHANNEL SD
-
-http://iptv.darkiptv.com/rateropastebin/param.php?index.m3u8
-
-#EXTINF:0,ES- PARAMAT CHANNEL HD
-
-http://iptv.darkiptv.com/rateropastebin/param.php?index.m3u8
-
-#EXTINF:0,ES- PASIONES HD
-
-http://iptv.darkiptv.com/rateropastebin/pasiones.php?index.m3u8
-
-#EXTINF:0,ES- RCN
-
-http://iptv.darkiptv.com/rateropastebin/rcn_tln-q4.php?index.m3u8
-
-#EXTINF:0,ES- SONY SD
-
-http://iptv.darkiptv.com/rateropastebin/sony.php?index.m3u8
-
-#EXTINF:0,ES- SONY HD
-
-http://iptv.darkiptv.com/rateropastebin/sony.php?index.m3u8
-
-#EXTINF:0,ES- STUDIO UNIVERSAL
-
-http://iptv.darkiptv.com/rateropastebin/stdio_univ-q4.php?index.m3u8
-
-#EXTINF:0,ES- SPACE SD
-
-http://iptv.darkiptv.com/rateropastebin/space.php?index.m3u8
-
-#EXTINF:0,ES- SPACE HD
-
-http://iptv.darkiptv.com/rateropastebin/space.php?index.m3u8
-
-#EXTINF:0,ES- TBS SD
-
-http://iptv.darkiptv.com/rateropastebin/tbs.php?index.m3u8
-
-#EXTINF:0,ES- TBS HD
-
-http://iptv.darkiptv.com/rateropastebin/tbs.php?index.m3u8
-
-#EXTINF:0,ES- TCM HD
-
-http://iptv.darkiptv.com/rateropastebin/tcm-q4.php?index.m3u8
-
-#EXTINF:0,ES- TELEMUNDO INTERNACIONAL
-
-http://iptv.darkiptv.com/rateropastebin/telemun_int-q4.php?index.m3u8
-
-#EXTINF:0,ES- TLC SD
-
-http://iptv.darkiptv.com/rateropastebin/tlc.php?index.m3u8
-
-#EXTINF:0,ES- TNT SD
-
-http://iptv.darkiptv.com/rateropastebin/tnt.php?index.m3u8
-
-#EXTINF:0,ES- TNT HD
-
-http://iptv.darkiptv.com/rateropastebin/tnt.php?index.m3u8
-
-#EXTINF:0,ES- TNT SERIES SD
-
-http://iptv.darkiptv.com/rateropastebin/tnt_ser.php?index.m3u8
-
-#EXTINF:0,ES- TNT SERIES HD
-
-http://iptv.darkiptv.com/rateropastebin/tnt_ser.php?index.m3u8
-
-#EXTINF:0,ES- TRUTV SD
-
-http://iptv.darkiptv.com/rateropastebin/trutv_hd.php?index.m3u8
-
-#EXTINF:0,ES- TRUTV HD
-
-http://iptv.darkiptv.com/rateropastebin/trutv_hd.php?index.m3u8
-
-#EXTINF:0,ES- TV5
-
-http://iptv.darkiptv.com/rateropastebin/tv5-q4.php?index.m3u8
-
-#EXTINF:0,ES- TVE
-
-http://iptv.darkiptv.com/rateropastebin/tve-q4.php?index.m3u8
-
-
-
-
-
-#EXTINF:0,ES- UNICABLE
-
-http://iptv.darkiptv.com/rateropastebin/unicable-q4.php?index.m3u8
-
-#EXTINF:0,ES- UNIVERSAL
-
-http://iptv.darkiptv.com/rateropastebin/univers-q4.php?index.m3u8
-
-#EXTINF:0,ES- CANAL UNO
-
-http://iptv.darkiptv.com/rateropastebin/uno-q4.php?index.m3u8
-
-#EXTINF:0,ES- VH1 CLASSIC
-
-http://iptv.darkiptv.com/rateropastebin/vh1class-q4.php?index.m3u8
-
-#EXTINF:0,ES- WARNER SD
-
-http://iptv.darkiptv.com/rateropastebin/warner.php?index.m3u8
-
-#EXTINF:0,ES- WARNER HD
-
-http://iptv.darkiptv.com/rateropastebin/warner.php?index.m3u8
+#EXTINF:-1,FOX SPORTS
+http://iptv.darkiptv.com/rateropastebin/foxsports.php?index.m3u8
