@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1,CNT SPORTS 
+http://69.30.245.58:25461/live/uruguayiptv_366716/jAJU6d3D2r/12038.m3u8
+
 #EXTINF:-1,WARNER
 http://iptv.darkiptv.com/parasitodelpastebin/warner.php?index.m3u8
 
