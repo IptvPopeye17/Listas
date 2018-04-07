@@ -1,95 +1,93 @@
 #EXTM3U
 
 
-#EXTINF:-1,CNT SPORTS 
-http://tv.latintvweb.com:8000/live/Federikodomingo@gmail.com/DJ415175a/19049.m3u8
-
 #EXTINF:-1,WARNER
-http://iptv.darkiptv.com/droidmovil/warner.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/warner-q3.php?index.m3u8
 
 #EXTINF:-1,AE
-http://iptv.darkiptv.com/1jajapastebinquerisa/ae.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/aehd-q3.php?index.m3u8
 
 #EXTINF:-1,AMC
-http://iptv.darkiptv.com/1jajapastebinquerisa/amc.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/amc-q3.php?index.m3u8
 
 #EXTINF:-1,ANIMAL PLANET
-http://iptv.darkiptv.com/1jajapastebinquerisa/animalplanet.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/anim_planet-q3.php?index.m3u8
 
 #EXTINF:-1,AXN
-http://iptv.darkiptv.com/1jajapastebinquerisa/axn.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/axn-q3.php?index.m3u8
 
 #EXTINF:-1,COMEDY CENTRAL
-http://iptv.darkiptv.com/1jajapastebinquerisa/comedycentral.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/cc-q3.php?index.m3u8
 
 #EXTINF:-1,CINELATINO
-http://iptv.darkiptv.com/1jajapastebinquerisa/cinelatino.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/cinelatino-q4.php?index.m3u8
 
 #EXTINF:-1,DISCOVERY CHANNEL
-http://iptv.darkiptv.com/2haberquiensecansa/discoverychannel.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/disc_ch-q3.php?index.m3u8
 
-#EXTINF:-1,DISCOVERY HH
-http://iptv.darkiptv.com/2haberquiensecansa/discoveryhh.php?index.m3u8
+#EXTINF:-1,DISCOVERY THEATER
+http://llave1.mirandatv.iptvab.tk/disc_theater-q3.php?index.m3u8
 
 #EXTINF:-1,FOX LIFE
-http://iptv.darkiptv.com/2haberquiensecansa/foxlife.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/f0xlife-q3.php?index.m3u8
 
 #EXTINF:-1,SONY
-http://iptv.darkiptv.com/droidmovil/sony.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/sony-q3.php?index.m3u8
 
 #EXTINF:-1,SPACE
-http://iptv.darkiptv.com/droidmovil/space.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/space-q3.php?index.m3u8
 
 #EXTINF:-1,TCM
-http://iptv.darkiptv.com/4pienzasquenoreviso/tcm.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/tcm-q4.php?index.m3u8
 
 #EXTINF:-1,TLC
-http://iptv.darkiptv.com/droidmovil/tlc.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/tlc-q3.php?index.m3u8
 
 #EXTINF:-1,TNT SERIES
-http://iptv.darkiptv.com/4pienzasquenoreviso/tnt_series.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/tlc-q3.php?index.m3u8
 
 #EXTINF:-1,TNT
-http://iptv.darkiptv.com/droidmovil/tnt.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/tnt-q3.php?index.m3u8
 
 #EXTINF:-1,UNIVERSAL
-http://iptv.darkiptv.com/droidmovil/universal.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/univers-q4.php?index.m3u8
 
 #EXTINF:-1,GOLDEN PLUS
-http://iptv.darkiptv.com/2haberquiensecansa/goldenplus.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/goldp-q3.php?index.m3u8
 
 #EXTINF:-1,FX
-http://iptv.darkiptv.com/2haberquiensecansa/fx.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/fx-q3.php?index.m3u8
 
 #EXTINF:-1,FOX
-http://iptv.darkiptv.com/2haberquiensecansa/fox.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/f0x-q3.php?index.m3u8
 
 #EXTINF:-1,CARTOON NETWORK
-http://iptv.darkiptv.com/droidmovil/cart_net.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/cart_net-q3.php?index.m3u8
 
 #EXTINF:-1,BOOMERANG
-http://iptv.darkiptv.com/1jajapastebinquerisa/boomerang.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/boomerang-q4.php?index.m3u8
 
 #EXTINF:-1,DISNEY
-http://iptv.darkiptv.com/2haberquiensecansa/disney.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/d1sney-q3.php?index.m3u8
 
 #EXTINF:-1,ESPN
-http://iptv.darkiptv.com/2haberquiensecansa/espn.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/espn-q3.php?index.m3u8
 
 #EXTINF:-1,ESPN 2
-http://iptv.darkiptv.com/2haberquiensecansa/espn2.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/espn2-q3.php?index.m3u8
 
 #EXTINF:-1,ESPN 3
-http://iptv.darkiptv.com/2haberquiensecansa/espn3.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/espn3-q3.php?index.m3u8
 
 #EXTINF:-1,MLB USA
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1,FOX SPORTS 3
-http://iptv.darkiptv.com/2haberquiensecansa/foxsports3.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/f0xsports3-q3.php?index.m3u8
 
 #EXTINF:-1,FOX SPORTS 2
-http://iptv.darkiptv.com/2haberquiensecansa/foxsports2.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/f0xsports2-q3.php?index.m3u8
 
 #EXTINF:-1,FOX SPORTS
-http://iptv.darkiptv.com/2haberquiensecansa/foxsports.php?index.m3u8
+http://llave1.mirandatv.iptvab.tk/f0xsports-q3.php?index.m3u8
+
