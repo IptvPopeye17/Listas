@@ -1,0 +1,680 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2vjpe29.m3u8?TECNOTV" group-title="INFANTIL",DISNEY SD
+http://mirandatvapp.iptvab.tk/d1sney-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/6odgmq.m3u8?TECNOTV" group-title="INFANTIL",DISNEY HD
+http://mirandatvapp.iptvab.tk/d1sney-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg" group-title="INFANTIL",DISNEY JR
+http://mirandatvapp.iptvab.tk/d1sneyjr-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.m3u8?TECNOTV" group-title="INFANTIL",DISNEY XD
+http://mirandatvapp.iptvab.tk/d1sneyxd-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/maaqgp.m3u8?TECNOTV" group-title="INFANTIL",NICK SD
+http://mirandatvapp.iptvab.tk/nick-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2d7vdeg.m3u8?TECNOTV" group-title="INFANTIL",NICK HD
+http://mirandatvapp.iptvab.tk/nick-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2rzvvwz.m3u8?TECNOTV" group-title="INFANTIL",NICK 2 SD
+http://mirandatvapp.iptvab.tk/nick2-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/24mgenb.m3u8?TECNOTV" group-title="INFANTIL",NICK 2 HD
+http://mirandatvapp.iptvab.tk/nick2-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-mrw5QcUviJE/UgoV5MD-5wI/AAAAAAAABWg/DEntB9u57t8/s1600/Nickelodeon+jr.jpg" group-title="INFANTIL",NICK JR SD
+http://mirandatvapp.iptvab.tk/nick2-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/24yybue.jpg" group-title="INFANTIL",NATGEO KIDS SD
+http://mirandatvapp.iptvab.tk/nick2-q3.m3u8
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25a2rs8.m3u8?TECNOTV" group-title="INFANTIL",NATGEO KIDS HD
+http://mirandatvapp.iptvab.tk/natgeo_kids-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/9hi638.m3u8?TECNOTV" group-title="INFANTIL",NATGEO KIDS SD (MEX)
+http://mirandatvapp.iptvab.tk/natgeo_kids_mx-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25a2rs8.m3u8?TECNOTV" group-title="INFANTIL",NATGEO KIDS HD (MEX)
+http://mirandatvapp.iptvab.tk/natgeo_kids_mx-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/m7ckqt.m3u8?TECNOTV" group-title="Premiun",FOX ACTION SD
+http://mirandatvapp.iptvab.tk/f0x_action-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/25018jl.m3u8?TECNOTV" group-title="Premiun",FOX ACTION HD
+http://mirandatvapp.iptvab.tk/f0x_action-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/m7ckqt.m3u8?TECNOTV" group-title="Premiun",FOX ACTION SD (MEX)
+http://mirandatvapp.iptvab.tk/f0x_action_mx-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/25018jl.m3u8?TECNOTV" group-title="Premiun",FOX ACTION HD (MEX)
+http://mirandatvapp.iptvab.tk/f0x_action_mx-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/ifu9lg.jpg" group-title="Premiun",FOX CINEMA SD
+http://mirandatvapp.iptvab.tk/f0x_cinema-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2lstut2.m3u8?TECNOTV" group-title="Premiun",FOX CINEMA HD
+http://mirandatvapp.iptvab.tk/f0x_cinema-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/ifu9lg.jpg" group-title="Premiun",FOX CINEMA SD (SUB)
+http://mirandatvapp.iptvab.tk/f0x_cinema_sub-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2lstut2.m3u8?TECNOTV" group-title="Premiun",FOX CINEMA HD (SUB)
+http://mirandatvapp.iptvab.tk/f0x_cinema_sub-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/177pt1.m3u8?TECNOTV" group-title="Premiun",FOX CLASSICS SD
+http://mirandatvapp.iptvab.tk/f0x_classics-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/igkj0i.m3u8?TECNOTV" group-title="Premiun",FOX CLASSICS HD
+http://mirandatvapp.iptvab.tk/f0x_classics-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/s1meyt.jpg" group-title="Premiun",FOX COMEDY SD
+http://mirandatvapp.iptvab.tk/f0x_comedy-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/f0n7lk.m3u8?TECNOTV" group-title="Premiun",FOX COMEDY HD
+http://mirandatvapp.iptvab.tk/f0x_comedy-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/spdllf.jpg" group-title="Premiun",FOX FAMILY SD
+http://mirandatvapp.iptvab.tk/f0x_family-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2qa8vtj.m3u8?TECNOTV" group-title="Premiun",FOX FAMILY HD
+http://mirandatvapp.iptvab.tk/f0x_family-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2vhvzp1.m3u8?TECNOTV" group-title="Premiun",FOX MOVIES SD
+http://mirandatvapp.iptvab.tk/f0x_movies-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/24viky0.m3u8?TECNOTV" group-title="Premiun",FOX MOVIES HD
+http://mirandatvapp.iptvab.tk/f0x_movies-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://images-eu.ssl-images-amazon.com/images/I/61C2TSxmMwL.m3u8?TECNOTV" group-title="INFANTIL",BABYTV MX
+http://mirandatvapp.iptvab.tk/babytv_mx-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://images-eu.ssl-images-amazon.com/images/I/61C2TSxmMwL.m3u8?TECNOTV" group-title="INFANTIL",BABYTV
+http://mirandatvapp.iptvab.tk/babytv-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/kcjjpw.m3u8?TECNOTV" group-title="CULTURAL",A&E SD
+http://mirandatvapp.iptvab.tk/aehd-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/kcjjpw.m3u8?TECNOTV" group-title="CULTURAL",A&E HD
+http://mirandatvapp.iptvab.tk/aehd-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/21459q1.m3u8?TECNOTV" group-title="CULTURAL",AMC SD
+http://mirandatvapp.iptvab.tk/amc-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zn6ezl.jpg" group-title="CULTURAL",AMC HD
+http://mirandatvapp.iptvab.tk/amc-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/qo7qx2.jpg" group-title="CULTURAL",ANIMAL PLANET SD
+http://mirandatvapp.iptvab.tk/anim_planet-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zl3w5v.m3u8?TECNOTV" group-title="CULTURAL",ANIMAL PLANET HD
+http://mirandatvapp.iptvab.tk/anim_planet-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/557/C3A77CFF6F67EA8734389C179121E569/antena_3.m3u8?TECNOTV" group-title="CULTURAL",ANTENA 3
+http://mirandatvapp.iptvab.tk/antena3-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/xnevps.m3u8?TECNOTV" group-title="CULTURAL",AXN SD
+http://mirandatvapp.iptvab.tk/axn-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/nzripk.m3u8?TECNOTV" group-title="CULTURAL",AXN HD
+http://mirandatvapp.iptvab.tk/axn-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://condista.com/wp-content/uploads/2015/09/az-corazon-300x225.jpg" group-title="CULTURAL",AZ CORAZON SD
+http://mirandatvapp.iptvab.tk/azcorazon-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.myjchile.cl/2017/_personas/img/canales/az_corazon_hd.m3u8?TECNOTV" group-title="CULTURAL",AZ CORAZON HD
+http://mirandatvapp.iptvab.tk/azcorazon-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azmundo.jpg" group-title="CULTURAL",AZ MUNDO SD
+http://mirandatvapp.iptvab.tk/azmundo-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azmundo.jpg" group-title="CULTURAL",AZ MUNDO HD
+http://mirandatvapp.iptvab.tk/azmundo-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/967/16D60AF83AAA2D7A23D61931809913C6/BBC_World259.m3u8?TECNOTV" group-title="CULTURAL",BBC WORLD
+http://mirandatvapp.iptvab.tk/bbc_world-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/519_300.m3u8?TECNOTV" group-title="INFANTIL",BLOOMBERG
+http://mirandatvapp.iptvab.tk/bloomberg-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://forumchaves.com.br/site/wp-content/uploads/2015/05/boomerang.m3u8?TECNOTV" group-title="INFANTIL",BOOMERANG
+http://mirandatvapp.iptvab.tk/boomerang-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://s0.wp.com/wp-content/themes/vip/pmc-deadline/library/images/pilot-panic/network-logos/CINEmax.m3u8?TECNOTV" group-title="CINE",CINEMAX
+http://mirandatvapp.iptvab.tk/c1nemax-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tele-envivo.com/wp-content/uploads/2015/12/cablenoticias-en-vivo.m3u8?TECNOTV" group-title="Noticias",CABLE NOTICIAS SD
+http://mirandatvapp.iptvab.tk/cablenoticias-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Eezkv.m3u8?TECNOTV" group-title="Noticias",CABLE NOTICIAS HD
+http://mirandatvapp.iptvab.tk/cablenoticias-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-1IOxjPl1O2s/T09hdV4LssI/AAAAAAAAAC8/rulRZUbhYK0/s1600/clarotv.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CANAL CLARO SD
+http://mirandatvapp.iptvab.tk/canal_kloro-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdnclp1.paraguay.com/pictures/2017/02/25/175050/1112567L.jpg" group-title="ENTRETENIMIENTO",CANAL CLARO HD
+http://mirandatvapp.iptvab.tk/canal_kloro-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.estrellatv.com/assets/images/linkimages/Estrella-LinkLogo.jpg" group-title="ENTRETENIMIENTO",CANAL LAS ESTRELLAS
+http://mirandatvapp.iptvab.tk/estrellas_latam-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.venezuelaawareness.com/wp-content/uploads/2017/08/CARACOL-TV-INTERNACIONAL-5-696x505.jpg" group-title="ENTRETENIMIENTO",CARACOL INTERNACIONAL
+http://mirandatvapp.iptvab.tk/caracol_int-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.numeroservicioalcliente.com/wp-content/uploads/2015/06/caracol.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CARACOL SD
+http://mirandatvapp.iptvab.tk/caracol-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_2085.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CARACOL HD
+http://mirandatvapp.iptvab.tk/caracol-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://ugc.kn3.net/i/origin/http://4.bp.blogspot.com/_VBDsYp16x9U/ShkGS9EVoaI/AAAAAAAAAIo/v0BUDoqXr4U/s400/cartoon_network_logo.jpg" group-title="INFANTIL",CARTOON NETWORD SD
+http://mirandatvapp.iptvab.tk/cart_net-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://ugc.kn3.net/i/origin/http://4.bp.blogspot.com/_VBDsYp16x9U/ShkGS9EVoaI/AAAAAAAAAIo/v0BUDoqXr4U/s400/cartoon_network_logo.jpg" group-title="INFANTIL",CARTOON NETWORD HD
+http://mirandatvapp.iptvab.tk/cart_net-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2eo9vma.jpg" group-title="ENTRETENIMIENTO",COMEDIA CENTRAL SD
+http://mirandatvapp.iptvab.tk/cc-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2mwc9ih.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",COMEDIA CENTRAL HD
+http://mirandatvapp.iptvab.tk/cc-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2gtbwyd.jpg" group-title="ENTRETENIMIENTO",CINECANAL SD
+http://mirandatvapp.iptvab.tk/cinecanal-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/35c1pnd.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CINECANAL HD
+http://mirandatvapp.iptvab.tk/cinecanal-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2v9rsyc.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CINELATINO
+http://mirandatvapp.iptvab.tk/cinelatino-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/14b7z0x.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CINEMA DINAMITA
+http://mirandatvapp.iptvab.tk/cinema_dinamita-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/d/d9/Cin%C3%A9%2B_logo_2011.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CINEMA +
+http://mirandatvapp.iptvab.tk/cinemaplus-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/28a6kae.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CITY TV
+http://mirandatvapp.iptvab.tk/citytv-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.saboravallarta.com.mx/wp-content/uploads/2017/12/claro-CINEma.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CLARO CINEMA
+http://mirandatvapp.iptvab.tk/clr_cinema-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rG5V1PdKlZg/WFHJXhXs5eI/AAAAAAAAxp4/4OEyUxuWExEuTZJpWDpD2fIsJUIUvYSdQCLcB/s1600/72.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CLARO SPORT 2 SD
+http://mirandatvapp.iptvab.tk/clspoco-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/2757a11d-1590-4f41-905a-e097b8185c1e-Internacional-Claro-Sports.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CLARO SPORT 2 HD
+http://mirandatvapp.iptvab.tk/clspoco-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/2757a11d-1590-4f41-905a-e097b8185c1e-Internacional-Claro-Sports.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CLARO SPORT SD
+http://mirandatvapp.iptvab.tk/clspo-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/2757a11d-1590-4f41-905a-e097b8185c1e-Internacional-Claro-Sports.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CLARO SPORT HD
+http://mirandatvapp.iptvab.tk/clspo-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.m3u8?TECNOTV" group-title="Noticias",CNN
+http://mirandatvapp.iptvab.tk/cnnee-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/2000px-CNN-International-Logo.svg.m3u8?TECNOTV" group-title="Noticias",CNNCNN INTERNACIONAL
+http://mirandatvapp.iptvab.tk/cnni-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_concert-channel_m.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CONCERT SD
+http://mirandatvapp.iptvab.tk/concert-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_concert-channel-hd_m.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",CONCERT HD
+http://mirandatv.404.iptvab.tk/concert-q6.m3u8
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2z7iq15.m3u8?TECNOTV" group-title="CINE",DEPELICULA
+http://mirandatvapp.iptvab.tk/depelicula-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/24xzwoz.jpg" group-title="ENTRETENIMIENTO",DHE SD
+http://mirandatvapp.iptvab.tk/dhe-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2ignpj4.jpg" group-title="ENTRETENIMIENTO",DHE HD
+http://mirandatvapp.iptvab.tk/dhe-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/w06mx3.jpg" group-title="ENTRETENIMIENTO",DISCOVERY CIVILIZACION
+http://mirandatvapp.iptvab.tk/disc_civil-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/6e2m9t.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",DISCOVERY HH SD
+http://mirandatvapp.iptvab.tk/disc_hh-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/14ty4jm.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",DISCOVERY HH HD
+http://mirandatvapp.iptvab.tk/disc_hh-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/eh0owx.m3u8?TECNOTV" group-title="INFANTIL",DISCOVERY KIDS SD
+http://mirandatvapp.iptvab.tk/disc_kids-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/256cs61.m3u8?TECNOTV" group-title="INFANTIL",DISCOVERY KIDS HD
+http://mirandatvapp.iptvab.tk/disc_kids-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/352qiaa.jpg" group-title="ENTRETENIMIENTO",DISCOVERY SCIENCE HD
+http://mirandatvapp.iptvab.tk/disc_science-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/152iy3c.jpg" group-title="ENTRETENIMIENTO",DISCOVERY THEATER SD
+http://mirandatvapp.iptvab.tk/disc_theater-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/slgump.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",DISCOVERY THEATER HD
+http://mirandatvapp.iptvab.tk/disc_theater-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/qo6csl.jpg" group-title="ENTRETENIMIENTO",DISCOVERY TURBO
+http://mirandatvapp.iptvab.tk/disc_turbo-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/28wi03q.jpg" group-title="ENTRETENIMIENTO",DISCOVERY WORLD SD
+http://mirandatvapp.iptvab.tk/disc_world-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/33os0gn.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",DISCOVERY WORLD HD
+http://mirandatvapp.iptvab.tk/disc_world-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/11a8qkk.jpg" group-title="ENTRETENIMIENTO",DISCOVERY CHANNEL SD
+http://mirandatvapp.iptvab.tk/disc_ch-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2ns0y1j.jpg" group-title="ENTRETENIMIENTO",DISCOVERY CHANNEL HD
+http://mirandatvapp.iptvab.tk/disc_ch-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://channels.roku.com/images/1a46bd4fd9364a2eb554532f613b0e0e-hd.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",DW
+http://mirandatvapp.iptvab.tk/dw-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/10qdo4k.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",E!
+http://mirandatvapp.iptvab.tk/e_ent-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/sq2ruf.jpg" group-title="ENTRETENIMIENTO",EL GOURMET SD
+http://mirandatvapp.iptvab.tk/elgourmet-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/209q9.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",EL GOURMET HD
+http://mirandatvapp.iptvab.tk/elgourmet-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.m3u8?TECNOTV" group-title="DEPORTES",EURO CHANNEL
+http://mirandatvapp.iptvab.tk/eurochannel-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/125o1ad.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FOX SD
+http://mirandatvapp.iptvab.tk/f0x-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2hdd4cx.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FOX HD
+http://mirandatvapp.iptvab.tk/f0x-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/125o1ad.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FOX SD (MEX)
+http://mirandatvapp.iptvab.tk/f0x_mx-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2hdd4cx.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FOX HD (MEX)
+http://mirandatvapp.iptvab.tk/f0x_mx-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/xelfzb.jpg" group-title="Premiun",FOX SERIES SD
+http://mirandatvapp.iptvab.tk/f0x_series-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2rvzp6x.jpg" group-title="Premiun",FOX SERIES SDFOX SERIES HD
+http://mirandatvapp.iptvab.tk/f0x_series-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/xelfzb.jpg" group-title="Premiun",FOX SERIES SD (SUB)
+http://mirandatvapp.iptvab.tk/f0x_series_sub-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2rvzp6x.jpg" group-title="Premiun",FOX SERIES HD (SUB)
+http://mirandatvapp.iptvab.tk/f0x_series_sub-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2zh1dh3.gif" group-title="ENTRETENIMIENTO",FOXLIFE SD
+http://mirandatvapp.iptvab.tk/f0xlife-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/mu7vqh.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FOXLIFE HD
+http://mirandatvapp.iptvab.tk/f0xlife-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/92/ed/56/92ed56890c5a10be968dcfca06588cc0.jpg" group-title="ENTRETENIMIENTO",FOXLIFE SD MX
+http://mirandatvapp.iptvab.tk/f0xlife_mx-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vfes-images.ott.kaltura.com/f4b8fd94505a4a12934e36f8c01b1a8d_302X170.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FOXLIFE HD MX
+http://mirandatvapp.iptvab.tk/f0xlife_mx-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/n1bgbm.jpg" group-title="DEPORTES",FOX SPORTS SD
+http://mirandatvapp.iptvab.tk/f0xsports-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/e9d634.m3u8?TECNOTV" group-title="DEPORTES",FOX SPORTS HD
+http://mirandatvapp.iptvab.tk/f0xsports-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25p0hvk.jpg" group-title="DEPORTES",FOX SPORTS 2 SD
+http://mirandatvapp.iptvab.tk/f0xsports2-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2yoqv6d.m3u8?TECNOTV" group-title="DEPORTES",FOX SPORTS 2 HD
+http://mirandatvapp.iptvab.tk/f0xsports2-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25p0hvk.jpg" group-title="DEPORTES",FOX SPORTS 2 SD (MEX)
+http://mirandatvapp.iptvab.tk/f0xsports2mx-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2yoqv6d.m3u8?TECNOTV" group-title="DEPORTES",FOX SPORTS 2 HD (MEX)
+http://mirandatvapp.iptvab.tk/f0xsports2mx-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2yysj1v.m3u8?TECNOTV" group-title="DEPORTES",FOX SPORTS 3 SD
+http://mirandatvapp.iptvab.tk/f0xsports3-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/347e8ee.m3u8?TECNOTV" group-title="DEPORTES",FOX SPORTS 3 HD
+http://mirandatvapp.iptvab.tk/f0xsports3-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2yysj1v.m3u8?TECNOTV" group-title="DEPORTES",FOX SPORTS 3 SD (MEX)
+http://mirandatvapp.iptvab.tk/f0xsports3mx-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/347e8ee.m3u8?TECNOTV" group-title="DEPORTES",FOX SPORTS 3 HD (MEX)
+http://mirandatvapp.iptvab.tk/f0xsports3mx-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/n1bgbm.jpg" group-title="DEPORTES",FOX SPORTS SD (MEX)
+http://mirandatvapp.iptvab.tk/f0xsportsmx-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/e9d634.m3u8?TECNOTV" group-title="DEPORTES",FOX SPORTS HD (MEX)
+http://mirandatvapp.iptvab.tk/f0xsportsmx-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/16icuva.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FOX NEWS
+http://mirandatvapp.iptvab.tk/foxnews-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://seeklogo.com/images/F/Fox-logo-F6A19BA40C-seeklogo.com.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FX SD
+http://mirandatvapp.iptvab.tk/fx-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/wl2dmf.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FX HD
+http://mirandatvapp.iptvab.tk/fx-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/16icuva.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FX SD (MEX)
+http://mirandatvapp.iptvab.tk/fx_mx-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/wl2dmf.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FX HD (MEX)
+http://mirandatvapp.iptvab.tk/fx_mx-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2itrn8n.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FXM SD (MEX)
+http://mirandatvapp.iptvab.tk/fxm_mx-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2itrn8n.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FXM HD (MEX)
+http://mirandatvapp.iptvab.tk/fxm_mx-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2itrn8n.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FXM SD
+http://mirandatvapp.iptvab.tk/fxm-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2itrn8n.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",FXM HD
+http://mirandatvapp.iptvab.tk/fxm-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",GLITZ
+http://mirandatvapp.iptvab.tk/glitz-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/33y50zn.jpg" group-title="ENTRETENIMIENTO",GOLDEN SD
+http://mirandatvapp.iptvab.tk/golden-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.directv.cl/img/landing-noticias/diciembre-2015/Golden-HD.jpg" group-title="ENTRETENIMIENTO",GOLDEN HD
+http://mirandatvapp.iptvab.tk/golden-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.chilango.com/media/2010/03/14/CINEma-golden-choice.jpg" group-title="ENTRETENIMIENTO",GOLDEN PREMIER SD
+http://mirandatvapp.iptvab.tk/goldp-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.foromedios.com/uploads/monthly_2016_07/televisa-networks-lanzo-su-nueva-senal-golden-premier.jpg.656c734d41fc095bd7eb12371e2cd87f.jpg" group-title="ENTRETENIMIENTO",GOLDEN PREMIER HD
+http://mirandatvapp.iptvab.tk/goldp-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/zme9h5.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",H2
+http://mirandatvapp.iptvab.tk/h2-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2dlly84.m3u8?TECNOTV" group-title="Premiun",HBO 2 SD
+http://mirandatvapp.iptvab.tk/hb02-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/qpgl7l.m3u8?TECNOTV" group-title="Premiun",HBO 2 HD
+http://mirandatvapp.iptvab.tk/hb02-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/eg6d77.m3u8?TECNOTV" group-title="Premiun",HBO FAMILY SD
+http://mirandatvapp.iptvab.tk/hb0fam-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/f2tte1.m3u8?TECNOTV" group-title="Premiun",HBO FAMILY HD
+http://mirandatvapp.iptvab.tk/hb0fam-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.m3u8?TECNOTV" group-title="Premiun",HBO SD
+http://mirandatvapp.iptvab.tk/hb0hd-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2jaj778.m3u8?TECNOTV" group-title="Premiun",HBO HD
+http://mirandatvapp.iptvab.tk/hb0hd-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.m3u8?TECNOTV" group-title="Premiun",HBO SD (SUB)
+http://mirandatvapp.iptvab.tk/hb0hd_sub-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2jaj778.m3u8?TECNOTV" group-title="Premiun",HBO HD (SUB)
+http://mirandatvapp.iptvab.tk/hb0hd_sub-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2cnjwo3.m3u8?TECNOTV" group-title="Premiun",HBO PLUS SD
+http://mirandatvapp.iptvab.tk/hb0plus-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/vcthl1.m3u8?TECNOTV" group-title="Premiun",HBO PLUS HD
+http://mirandatvapp.iptvab.tk/hb0plus-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/152dvug.m3u8?TECNOTV" group-title="Premiun",HBO SIGN SD
+http://mirandatvapp.iptvab.tk/hb0sign-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/21kmgr4.jpg" group-title="Premiun",HBO SIGN HD
+http://mirandatvapp.iptvab.tk/hb0sign-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/9rr9lv.jpg" group-title="ENTRETENIMIENTO",HISTORY SD
+http://mirandatvapp.iptvab.tk/history-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/s1nh3p.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",HISTORY HD
+http://mirandatvapp.iptvab.tk/history-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2vd1xd5.jpg" group-title="ENTRETENIMIENTO",HOLA SD
+http://mirandatvapp.iptvab.tk/hola-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/684fhs.jpg" group-title="ENTRETENIMIENTO",HOLA HD
+http://mirandatvapp.iptvab.tk/hola-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/200px-Htv_logo.svg.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",HTV
+http://mirandatvapp.iptvab.tk/htv-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/6hs6ly.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",ID SD
+http://mirandatvapp.iptvab.tk/idhd-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/f4obpw.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",ID HD
+http://mirandatvapp.iptvab.tk/idhd-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/5p4sgg.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",ISAT HD
+http://mirandatvapp.iptvab.tk/isat-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",LIFETIME
+http://mirandatvapp.iptvab.tk/lifetime-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/5z01t1.jpg" group-title="ENTRETENIMIENTO",MAX PRIME SD
+http://mirandatvapp.iptvab.tk/m4xprime-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/28stp3k.jpg" group-title="ENTRETENIMIENTO",MAX PRIME HD
+http://mirandatvapp.iptvab.tk/m4xprime-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.m3u8?TECNOTV/1200px-Logo_tvmax.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",MAX
+http://mirandatvapp.iptvab.tk/m4x-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/ouwgf6.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",MAX UP SD
+http://mirandatvapp.iptvab.tk/m4xup-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/10wu2ix.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",MAX UP HD
+http://mirandatvapp.iptvab.tk/m4xup-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/nf4gb5.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",MAS CHIC SD
+http://mirandatvapp.iptvab.tk/mas_chic-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.dossiernet.com.ar/assets/uploads/images/Logo%20M%C3%A1s%20Chic.jpg" group-title="ENTRETENIMIENTO",MAS CHIC HD
+http://mirandatvapp.iptvab.tk/mas_chic-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2000px-MTV_Logo.svg.m3u8?TECNOTV" group-title="MUSICA",MTV SD
+http://mirandatvapp.iptvab.tk/mtvhd-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/d1/41/ed/d141ed7a93c0b7fa0f27d20928675939.jpg" group-title="MUSICA",MTV HD
+http://mirandatvapp.iptvab.tk/mtvhd-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MTV_Hits_2013_logo.svg/1200px-MTV_Hits_2013_logo.svg.m3u8?TECNOTV" group-title="MUSICA",MTV HITS
+http://mirandatvapp.iptvab.tk/mtvhits-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/1024px-MTV_Live.svg.m3u8?TECNOTV" group-title="MUSICA",MTV LIVE SD
+http://mirandatvapp.iptvab.tk/mtvl1ve-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MTV_Live_HD_2011.svg/2000px-MTV_Live_HD_2011.svg.m3u8?TECNOTV" group-title="MUSICA",MTV LIVE HD
+http://mirandatvapp.iptvab.tk/mtvl1ve-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-skZ7XzqbC4g/T_9OCoshHaI/AAAAAAAABW0/lHM_ucxNtzY/s1600/logotipo-jpg.jpg" group-title="CINE",MULTIPREMIER HD
+http://mirandatvapp.iptvab.tk/multipremier-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1000px-National_Geographic_Channel.svg.m3u8?TECNOTV" group-title="CULTURAL",NATGEO SD
+http://mirandatvapp.iptvab.tk/natgeo-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/20qn8le.jpg" group-title="CULTURAL",NATGEO HD
+http://mirandatvapp.iptvab.tk/natgeo-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/wlt2wz.m3u8?TECNOTV" group-title="CULTURAL",NATGEO SD (MEX)
+http://mirandatvapp.iptvab.tk/natgeo_mx-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/20qn8le.jpg" group-title="CULTURAL",NATGEO HD (MEX)
+http://mirandatvapp.iptvab.tk/natgeo_mx-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://yt3.ggpht.com/-HH4qDZivPuE/AAAAAAAAAAI/AAAAAAAAAAA/dPjv2XCNQmM/s900-mo-c-c0xffffffff-rj-k-no/photo.jpg" group-title="CULTURAL",NATGEO WILD SD
+http://mirandatvapp.iptvab.tk/natgeo_wild-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.m3u8?TECNOTV" group-title="CULTURAL",NATGEO WILD HD
+http://mirandatvapp.iptvab.tk/natgeo_wild-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/wlt2wz.m3u8?TECNOTV" group-title="CULTURAL",NATGEO WILD SD (MEX)
+http://mirandatvapp.iptvab.tk/natgeo_wild_mx-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/20qn8le.jpg" group-title="CULTURAL",NATGEO WILD HD (MEX)
+http://mirandatvapp.iptvab.tk/natgeo_wild_mx-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.schau-hd.tv/attachments/170/nickjr.m3u8?TECNOTV" group-title="INFANTIL",NICK JR HD
+http://mirandatvapp.iptvab.tk/nickjr-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/fc6710.jpg" group-title="CINE",PARAMANT CHANNEL SD
+http://mirandatvapp.iptvab.tk/param-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/28gs40l.jpg" group-title="CINE",PARAMANT CHANNEL HD
+http://mirandatvapp.iptvab.tk/param-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.todotvnews.com/gallery/resize1_logonuevopasiones960.jpg" group-title="ENTRETENIMIENTO",PASIONES SD
+http://mirandatvapp.iptvab.tk/pasiones-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-G7OoG-4RGMQ/UqhjnFCothI/AAAAAAAAGqg/ePBu6AsjRzk/s1600/Canal+PASIONES+HD+BOLIVIA.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",PASIONES HD
+http://mirandatvapp.iptvab.tk/pasiones-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-HTaMfhtb9ts/Tce85a79egI/AAAAAAAAAGc/bYiDEHrQGtg/s1600/logo_rcntelenovelas.jpg" group-title="Novelas",RCN TELENOVELAS
+http://mirandatvapp.iptvab.tk/rcn_tln-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2myspds.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",SONY SD
+http://mirandatvapp.iptvab.tk/sony-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2whfl3l." group-title="ENTRETENIMIENTO",SONY HD
+http://mirandatvapp.iptvab.tk/sony-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/8xkklk.jpg" group-title="CINE",SPACE SD
+http://mirandatvapp.iptvab.tk/space-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2jg546c.m3u8?TECNOTV" group-title="CINE",SPACE HD
+http://mirandatvapp.iptvab.tk/space-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/4in0i1.jpg" group-title="CINE",STUDIO UNIVERSAL HD
+http://mirandatvapp.iptvab.tk/stdio_univ-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2d6pgfd.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",SUNDANCE SD
+http://mirandatvapp.iptvab.tk/sundance-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/21al14z.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",SUNDANCE HD
+http://mirandatvapp.iptvab.tk/sundance-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2nr2g3l.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",TBS SD
+http://mirandatvapp.iptvab.tk/tbs-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/wxw0.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",TBS HD
+http://mirandatvapp.iptvab.tk/tbs-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2hpoapk.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",TCM HD
+http://mirandatvapp.iptvab.tk/tcm-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/telemundo.jpg" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
+http://mirandatvapp.iptvab.tk/telemun_int-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/28v7o0y.jpg" group-title="ENTRETENIMIENTO",DISCOVERY TLC SD
+http://mirandatvapp.iptvab.tk/tlc-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/anftdh.jpg" group-title="ENTRETENIMIENTO",DISCOVERY TLC HD
+http://mirandatvapp.iptvab.tk/tlc-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/28tgfp5.m3u8?TECNOTV" group-title="CINE",TNT SD
+http://mirandatvapp.iptvab.tk/tnt-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2mwazco.jpg" group-title="CINE",TNT HD
+http://mirandatvapp.iptvab.tk/tnt-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2luxgkz.jpg" group-title="ENTRETENIMIENTO",TNT SERIES SD
+http://mirandatvapp.iptvab.tk/tnt_ser-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/b623wm.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",TNT SERIES HD
+http://mirandatvapp.iptvab.tk/tnt_ser-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/m8l95c.m3u8?TECNOTV" group-title="INFANTIL",TOONCAST HD
+http://mirandatvapp.iptvab.tk/tooncast-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2wgw56t.jpg" group-title="ENTRETENIMIENTO",TRU TV SD
+http://mirandatvapp.iptvab.tk/trutv_hd-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2cwjrzd.jpg" group-title="ENTRETENIMIENTO",TRU TV HD
+http://mirandatvapp.iptvab.tk/trutv_hd-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/aaceih.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",TV5
+http://mirandatvapp.iptvab.tk/tv5-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/168wz2s.jpg" group-title="ENTRETENIMIENTO",TVE
+http://mirandatvapp.iptvab.tk/tve-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://conectateacablevision.mx/projects/commercialofferchannels/img/channels/203.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",UNICABLE
+http://mirandatvapp.iptvab.tk/unicable-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2zrg8le.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",UNIVERSAL CHANNEL
+http://mirandatvapp.iptvab.tk/univers-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2qu20qs.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",UNO
+http://mirandatvapp.iptvab.tk/uno-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/15qwuf4.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",VE PLUS
+http://mirandatvapp.iptvab.tk/veplus-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/1269vdk.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",VH1 CLASS
+http://mirandatvapp.iptvab.tk/vh1class-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/5amij7.jpg" group-title="ENTRETENIMIENTO",VH1
+http://mirandatvapp.iptvab.tk/vh1-q4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/5amij7.jpg" group-title="ENTRETENIMIENTO",VH1 SD
+http://mirandatvapp.iptvab.tk/vh1hd-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/24mcacj.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",VH1 HD
+http://mirandatvapp.iptvab.tk/vh1hd-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/35jiblu.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",WARNER SD
+http://mirandatvapp.iptvab.tk/warner-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/24vs1hw.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",WARNER HD
+http://mirandatvapp.iptvab.tk/warner-q6.m3u8
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/23u7d50.jpg" group-title="DEPORTES",WINSPORTS SD
+http://mirandatvapp.iptvab.tk/winsports-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/23u7d50.jpg" group-title="DEPORTES",WINSPORTS HD
+http://mirandatvapp.iptvab.tk/winsports-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://skyassineonline.com.br/img/channels/lg-231-canal-espn-.m3u8?TECNOTV" group-title="DEPORTES",ESPN + SD
+http://mirandatvapp.iptvab.tk/espn_plus-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_espn-hd_m.m3u8?TECNOTV" group-title="DEPORTES",ESPN + HD
+http://mirandatvapp.iptvab.tk/espn_plus-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/55jhad.m3u8?TECNOTV" group-title="DEPORTES",ESPN 2 SD
+http://mirandatvapp.iptvab.tk/espn2-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/110ll6r.m3u8?TECNOTV" group-title="DEPORTES",ESPN 2 HD
+http://mirandatvapp.iptvab.tk/espn2-q6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2dtw1et.jpg" group-title="DEPORTES",ESPN 3 SD
+http://mirandatvapp.iptvab.tk/espn3-q3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2r7v79h.m3u8?TECNOTV" group-title="DEPORTES",ESPN 3 HD
+http://mirandatvapp.iptvab.tk/espn3-q6.m3u8
+
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/35d155l.m3u8?TECNOTV" group-title="DEPORTES",ESPN SD
+http://mirandatvapp.iptvab.tk/espn-q3.m3u8
+
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2145rgw.m3u8?TECNOTV" group-title="DEPORTES",ESPN HD
+http://mirandatvapp.iptvab.tk/espn-q6.m3u8
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
