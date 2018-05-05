@@ -1,0 +1,178 @@
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo=" " group-title="24/7",Caballeros del Zodiaco
+http://waoplay.xyz:25461/8/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo=" " group-title="24/7", Dragon Ball Z
+http://waoplay.xyz:25461/16/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo=" " group-title="24/7", Super Campeones
+http://waoplay.xyz:25461/821/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo=" " group-title="24/7", Thundercats
+http://waoplay.xyz:25461/1255/sintonizar.m3u8|User-Agent=stagefright/1.2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.animationxpress.com/images/discovery-kids-logo.gif" group-title="INFANTIL" , Discovery Kids
+http://waoplay.xyz:25461/1443/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/mx_disney_m.png" group-title="INFANTIL", Disney Channel
+http://waoplay.xyz:25461/1447/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/disneyjunior.jpg" group-title="INFANTIL" , Disney Junior
+http://waoplay.xyz:25461/1552/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/disneyxd.jpg" group-title="INFANTIL" , Disney XD
+http://waoplay.xyz:25461/1553/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/mx_cartoon-network_m.png" group-title="INFANTIL", Cartoon Network
+http://waoplay.xyz:25461/1451/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/nick.jpg" group-title="INFANTIL", Nickelodeon
+http://waoplay.xyz:25461/1405/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL.png" group-title="INFANTIL", Nick Jr
+http://waoplay.xyz:25461/1555/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablemag.net.co/Img/Carrusel/tooncast.jpg" group-title="INFANTIL", Tooncast
+http://waoplay.xyz:25461/901/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://dedosendos.files.wordpress.com/2011/10/babytv-channel.jpg" group-title="INFANTIL",Baby TV
+http://waoplay.xyz:25461/848/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/mx_boomerang-cartoon_m.png" group-title="INFANTIL",Boomerang
+http://waoplay.xyz:25461/924/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://media.entutele.com/channels/big/tiin.gif" group-title="INFANTIL",Tiin
+http://waoplay.xyz:25461/1121/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/natgeokids.jpg" group-title="INFANTIL",Natgeo kids
+http://waoplay.xyz:25461/1407/sintonizar.m3u8|User-Agent=stagefright/1.2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/mx_fox_m.png" group-title="ENTRETENIMIENTO",FOX Mexico
+http://waoplay.xyz:25461/1435/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/fx.jpg" group-title="ENTRETENIMIENTO",FX Mexico
+http://waoplay.xyz:25461/1423/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-life-logo-F9015EE7E7-seeklogo.com.png" group-title="ENTRETENIMIENTO",Fox Life
+http://waoplay.xyz:25461/1427/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/canal243-70x70-187550226.png" group-title="ENTRETENIMIENTO",Lifetime
+http://waoplay.xyz:25461/913/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/canal210-70x70-932133721.png" group-title="ENTRETENIMIENTO", Warner Channel
+http://waoplay.xyz:25461/1393/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/canal233-70x70-731489067.png" group-title="ENTRETENIMIENTO", Distrito Comedia
+http://waoplay.xyz:25461/1192/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://comedycentral.mtvnimages.com/press_images/aaa_series-logos_hi-res/new-cc-hd-logo-w-b.jpg" group-title="ENTRETENIMIENTO" , Comedy Central
+http://waoplay.xyz:25461/1450/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/mx_space_m.png" group-title="ENTRETENIMIENTO", Space
+http://waoplay.xyz:25461/1401/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/studiouniversal.jpg" group-title="ENTRETENIMIENTO", Studio Universal
+http://waoplay.xyz:25461/1616/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/sony.jpg" group-title="ENTRETENIMIENTO", Sony
+http://waoplay.xyz:25461/1402/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/axn.jpg" group-title="ENTRETENIMIENTO" ,AXN
+http://waoplay.xyz:25461/1456/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://media.entutele.com/channels/big/syfy.gif" group-title="ENTRETENIMIENTO" , SyFy
+http://waoplay.xyz:25461/1615/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="ENTRETENIMIENTO" , AE HD
+http://waoplay.xyz:25461/1459/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/tnt.jpg" group-title="ENTRETENIMIENTO", TNT
+http://waoplay.xyz:25461/1397/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/tntseries.jpg" group-title="ENTRETENIMIENTO" , TNT Series
+http://waoplay.xyz:25461/1396/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/canal250-298x223-929775953.png" group-title="ENTRETENIMIENTO" ,TBS veryfunny
+http://waoplay.xyz:25461/1399/sintonizar.m3u8|User-Agent=stagefright/1.2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/cinecanal.jpg" group-title="PELICULAS", Cinecanal
+http://waoplay.xyz:25461/1449/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/cinemax.jpg" group-title="PELICULAS", Cinemax
+http://waoplay.xyz:25461/923/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/amc.jpg" group-title="PELICULAS",AMC
+http://waoplay.xyz:25461/1458/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/foxactionhd.jpg" group-title="PELICULAS", FOX Action Mexico
+http://waoplay.xyz:25461/1434/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/foxmovieshd.jpg" group-title="PELICULAS", Fox Movies
+http://waoplay.xyz:25461/1429/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/foxcinema.jpg" group-title="PELICULAS", Fox Cinema
+http://waoplay.xyz:25461/1433/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/foxclassics.jpg" group-title="PELICULAS", Fox Classics
+http://waoplay.xyz:25461/1432/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/foxfamilyhd.jpg" group-title="PELICULAS", Fox Family
+http://waoplay.xyz:25461/1430/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/fox1.jpg" group-title="PELICULAS", Fox Premium Series
+http://waoplay.xyz:25461/1428/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/hbo.jpg" group-title="PELICULAS", HBO
+http://waoplay.xyz:25461/1420/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/hbo2.jpg" group-title="PELICULAS",HBO 2
+http://waoplay.xyz:25461/1419/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/hboplus.jpg" group-title="PELICULAS", HBO Plus HD
+http://waoplay.xyz:25461/1417/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/h/HBO_Family.png" group-title="PELICULAS",HBO Family
+http://waoplay.xyz:25461/1418/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/maxprime.jpg" group-title="PELICULAS", Max Prime
+http://waoplay.xyz:25461/1412/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/maxup.jpg" group-title="PELICULAS", Max UP
+http://www.iptv.darkiptv.com/nuevostoken/3conuntoken/maxup.php?index.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_tcm.jpg" group-title="PELICULAS", TCM
+http://waoplay.xyz:25461/1613/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/golden.jpg" group-title="PELICULAS", Golden
+http://waoplay.xyz:25461/1421/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/golden.jpg" group-title="PELICULAS", Golden Premier HD
+ 
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/filmzone.jpg" group-title="PELICULAS",FXM
+http://waoplay.xyz:25461/1422/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://media.entutele.com/channels/big/de-pelicula.gif" group-title="PELICULAS", De Película
+http://waoplay.xyz:25461/1222/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/683cc07f-24b5-4bb1-a1f3-2745f8877d74_m.jpg" group-title="PELICULAS", CineLatino
+ 
+#EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=85957958" group-title="PELICULAS", Cinema Dinamita
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/history.jpg" group-title="CULTURA" , History
+http://waoplay.xyz:25461/1415/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/discovery.jpg" group-title="CULTURA", Discovery Channel
+http://waoplay.xyz:25461/1445/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/animalplanet.jpg" group-title="CULTURA", Animal Planet
+http://waoplay.xyz:25461/1457/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/nationalgeographic.jpg" group-title="CULTURA", National Geographic
+http://waoplay.xyz:25461/1408/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/investigationdiscovery.jpg" group-title="CULTURA", Investigation Discovery
+http://waoplay.xyz:25461/1413/sintonizar.m3u8|User-Agent=stagefright/1.2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="DEPORTES", ESPN
+http://190.2.138.102:25461/1240/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="DEPORTES",ESPN 2
+http://190.2.138.102:25461/1241/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/espn3hd.jpg" group-title="DEPORTES", ESPN 3
+http://190.2.138.102:25461/1242/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://media.entutele.com/channels/big/tdn.gif" group-title="DEPORTES", TDN
+https://live97.elrobacanales.com/budtv/Eventos_BudTv_TDN_StarTv_150/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.entutele.com/channels/big/univision-tdn.gif" group-title="DEPORTES", Univisión TDN
+http://190.2.138.102:25461/1160/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/foxsports.jpg" group-title="DEPORTES", Fox Sports Mexico
+http://waoplay.xyz:25461/1249/sintonizar.m3u8|User-Agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://www.cablevisioncrespo.com.ar/img/logoscanales/foxsports2.jpg" group-title="DEPORTES", Fox Sports 2 Mexico
+http://waoplay.xyz:25461/1250/sintonizar.m3u8|User-Agent=stagefright/1.2
