@@ -1,0 +1,214 @@
+
+#EXTM3U
+#EXTINF:-1,ESPN Plus
+http://mariocs.latino-webtv.com:2048/livexd/325_.m3u8
+#EXTINF:-1,Directv Sports 2
+http://mariocs.latino-webtv.com:2048/livexd/313_.m3u8
+#EXTINF:-1,Nat Geo Kids
+http://mariocs.latino-webtv.com:2048/livexd/326_.m3u8
+#EXTINF:-1,TNT Sports
+http://mariocs.latino-webtv.com:2048/livexd/321_.m3u8
+#EXTINF:-1,CARACOL HD
+http://mariocs.latino-webtv.com:2048/livexd/74_.m3u8
+#EXTINF:-1,DirecTV Sports HD
+http://mariocs.latino-webtv.com:2048/livexd/106_.m3u8
+#EXTINF:-1,FOX SPORTS 2 SUR
+http://mariocs.latino-webtv.com:2048/livexd/103_.m3u8
+#EXTINF:-1,Fox Sports 3
+http://mariocs.latino-webtv.com:2048/livexd/109_.m3u8
+#EXTINF:-1,FOX SPORTS SUR
+http://mariocs.latino-webtv.com:2048/livexd/101_.m3u8
+#EXTINF:-1,HBO 2
+http://mariocs.latino-webtv.com:2048/livexd/115_.m3u8
+#EXTINF:-1,HBO Family
+http://mariocs.latino-webtv.com:2048/livexd/116_.m3u8
+#EXTINF:-1,HBO Latino HD
+http://mariocs.latino-webtv.com:2048/livexd/107_.m3u8
+#EXTINF:-1,HBO Plus
+http://mariocs.latino-webtv.com:2048/livexd/117_.m3u8
+#EXTINF:-1,RCN HD
+http://mariocs.latino-webtv.com:2048/livexd/72_.m3u8
+#EXTINF:-1,WIN SPORTS
+http://mariocs.latino-webtv.com:2048/livexd/70_.m3u8
+#EXTINF:-1,Univision TDN
+http://mariocs.latino-webtv.com:2048/livexd/113_.m3u8
+#EXTINF:-1,ESPN
+http://mariocs.latino-webtv.com:2048/livexd/110_.m3u8
+#EXTINF:-1,ESPN 2 ARGENTINA
+http://mariocs.latino-webtv.com:2048/livexd/100_.m3u8
+#EXTINF:-1,ESPN 3
+http://mariocs.latino-webtv.com:2048/livexd/111_.m3u8
+#EXTINF:-1,Golden HD
+http://mariocs.latino-webtv.com:2048/livexd/133_.m3u8
+#EXTINF:-1,FOX HD
+http://mariocs.latino-webtv.com:2048/livexd/128_.m3u8
+#EXTINF:-1,FOX 1 HD
+http://mariocs.latino-webtv.com:2048/livexd/131_.m3u8
+#EXTINF:-1,Cinecanal HD
+http://mariocs.latino-webtv.com:2048/livexd/132_.m3u8
+#EXTINF:-1,SPACE HD
+http://mariocs.latino-webtv.com:2048/livexd/130_.m3u8
+#EXTINF:-1,WARNER HD *
+http://mariocs.latino-webtv.com:2048/livexd/226_.m3u8
+#EXTINF:-1,VH1 HD *OFF
+http://mariocs.latino-webtv.com:2048/livexd/240_.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://mariocs.latino-webtv.com:2048/livexd/285_.m3u8
+#EXTINF:-1,UNICABLE [HD]
+http://mariocs.latino-webtv.com:2048/livexd/247_.m3u8
+#EXTINF:-1,TRUTV HD *
+http://mariocs.latino-webtv.com:2048/livexd/243_.m3u8
+#EXTINF:-1,TOONCAST
+http://mariocs.latino-webtv.com:2048/livexd/282_.m3u8
+#EXTINF:-1,TNT SERIES HD *
+http://mariocs.latino-webtv.com:2048/livexd/227_.m3u8
+#EXTINF:-1,TNT HD
+http://mariocs.latino-webtv.com:2048/livexd/129_.m3u8
+#EXTINF:-1,Tlnovelas
+http://mariocs.latino-webtv.com:2048/livexd/221_.m3u8
+#EXTINF:-1,TLC
+http://mariocs.latino-webtv.com:2048/livexd/279_.m3u8
+#EXTINF:-1,TELEFE HD
+http://mariocs.latino-webtv.com:2048/livexd/57_.m3u8
+#EXTINF:-1,TCM
+http://mariocs.latino-webtv.com:2048/livexd/222_.m3u8
+#EXTINF:-1,TBS HD *
+http://mariocs.latino-webtv.com:2048/livexd/228_.m3u8
+#EXTINF:-1,syfy
+http://mariocs.latino-webtv.com:2048/livexd/301_.m3u8
+#EXTINF:-1,SUNDANCE CHANNEL [HD]
+http://mariocs.latino-webtv.com:2048/livexd/269_.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://mariocs.latino-webtv.com:2048/livexd/289_.m3u8
+#EXTINF:-1,SONY HD *
+http://mariocs.latino-webtv.com:2048/livexd/230_.m3u8
+#EXTINF:-1,RITMSOON [HD]
+http://mariocs.latino-webtv.com:2048/livexd/250_.m3u8
+#EXTINF:-1,RCN HD2
+http://mariocs.latino-webtv.com:2048/livexd/218_.m3u8
+#EXTINF:-1,PROYECTO 40
+http://mariocs.latino-webtv.com:2048/livexd/298_.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL [HD]
+http://mariocs.latino-webtv.com:2048/livexd/268_.m3u8
+#EXTINF:-1,NICK2 HD *OFF
+http://mariocs.latino-webtv.com:2048/livexd/231_.m3u8
+#EXTINF:-1,NICK [HD]
+http://mariocs.latino-webtv.com:2048/livexd/254_.m3u8
+#EXTINF:-1,NICK JR [HD]
+http://mariocs.latino-webtv.com:2048/livexd/255_.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC [HD]
+http://mariocs.latino-webtv.com:2048/livexd/258_.m3u8
+#EXTINF:-1,NAT GEO WILD [HD]
+http://mariocs.latino-webtv.com:2048/livexd/259_.m3u8
+#EXTINF:-1,MULTIPREMIER
+http://mariocs.latino-webtv.com:2048/livexd/290_.m3u8
+#EXTINF:-1,MTV [HD]
+http://mariocs.latino-webtv.com:2048/livexd/252_.m3u8
+#EXTINF:-1,MTV LIVE [HD]
+http://mariocs.latino-webtv.com:2048/livexd/253_.m3u8
+#EXTINF:-1,MAXPRIME
+http://mariocs.latino-webtv.com:2048/livexd/271_.m3u8
+#EXTINF:-1,MAX
+http://mariocs.latino-webtv.com:2048/livexd/120_.m3u8
+#EXTINF:-1,LIFETIME HD *
+http://mariocs.latino-webtv.com:2048/livexd/232_.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://mariocs.latino-webtv.com:2048/livexd/284_.m3u8
+#EXTINF:-1,I Sat
+http://mariocs.latino-webtv.com:2048/livexd/223_.m3u8
+#EXTINF:-1,Home and healt
+http://mariocs.latino-webtv.com:2048/livexd/299_.m3u8
+#EXTINF:-1,HISTORY HD *
+http://mariocs.latino-webtv.com:2048/livexd/233_.m3u8
+#EXTINF:-1,H2 HD *OFF
+http://mariocs.latino-webtv.com:2048/livexd/241_.m3u8
+#EXTINF:-1,Golden Premier
+http://mariocs.latino-webtv.com:2048/livexd/287_.m3u8
+#EXTINF:-1,GOL TV
+http://mariocs.latino-webtv.com:2048/livexd/84_.m3u8
+#EXTINF:-1,Gol Peru HD
+http://mariocs.latino-webtv.com:2048/livexd/108_.m3u8
+#EXTINF:-1,GALA TV [HD]
+http://mariocs.latino-webtv.com:2048/livexd/246_.m3u8
+#EXTINF:-1,FX HD
+http://mariocs.latino-webtv.com:2048/livexd/286_.m3u8
+#EXTINF:-1,Fox Sports Premium
+http://mariocs.latino-webtv.com:2048/livexd/322_.m3u8
+#EXTINF:-1,FOX MOVIES
+http://mariocs.latino-webtv.com:2048/livexd/292_.m3u8
+#EXTINF:-1,FOX LIFE
+http://mariocs.latino-webtv.com:2048/livexd/283_.m3u8
+#EXTINF:-1,Fox Family
+http://mariocs.latino-webtv.com:2048/livexd/324_.m3u8
+#EXTINF:-1,Fox Comedy
+http://mariocs.latino-webtv.com:2048/livexd/323_.m3u8
+#EXTINF:-1,FOX CLASSICS
+http://mariocs.latino-webtv.com:2048/livexd/296_.m3u8
+#EXTINF:-1,FOX CINEMA
+http://mariocs.latino-webtv.com:2048/livexd/295_.m3u8
+#EXTINF:-1,Fox Action HD
+http://mariocs.latino-webtv.com:2048/livexd/219_.m3u8
+#EXTINF:-1,FORO TV
+http://mariocs.latino-webtv.com:2048/livexd/297_.m3u8
+#EXTINF:-1,FORMULA 1 [HD]
+http://mariocs.latino-webtv.com:2048/livexd/265_.m3u8
+#EXTINF:-1,FILM ZONE
+http://mariocs.latino-webtv.com:2048/livexd/291_.m3u8
+#EXTINF:-1,EL GOURMET [HD]
+http://mariocs.latino-webtv.com:2048/livexd/249_.m3u8
+#EXTINF:-1,E HD *
+http://mariocs.latino-webtv.com:2048/livexd/242_.m3u8
+#EXTINF:-1,Distrito Comedia
+http://mariocs.latino-webtv.com:2048/livexd/224_.m3u8
+#EXTINF:-1,DISNEY XD
+http://mariocs.latino-webtv.com:2048/livexd/280_.m3u8
+#EXTINF:-1,DISNEY JR
+http://mariocs.latino-webtv.com:2048/livexd/294_.m3u8
+#EXTINF:-1,Disney Channel HD
+http://mariocs.latino-webtv.com:2048/livexd/104_.m3u8
+#EXTINF:-1,Discovery World
+http://mariocs.latino-webtv.com:2048/livexd/273_.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://mariocs.latino-webtv.com:2048/livexd/278_.m3u8
+#EXTINF:-1,Discovery theater
+http://mariocs.latino-webtv.com:2048/livexd/274_.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://mariocs.latino-webtv.com:2048/livexd/276_.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://mariocs.latino-webtv.com:2048/livexd/281_.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://mariocs.latino-webtv.com:2048/livexd/275_.m3u8
+#EXTINF:-1,Discovery Channel
+http://mariocs.latino-webtv.com:2048/livexd/272_.m3u8
+#EXTINF:-1,DE PELICULA HD HD *
+http://mariocs.latino-webtv.com:2048/livexd/235_.m3u8
+#EXTINF:-1,COMEDY CENTRAL [HD]
+http://mariocs.latino-webtv.com:2048/livexd/248_.m3u8
+#EXTINF:-1,CNN en Espanol *
+http://mariocs.latino-webtv.com:2048/livexd/236_.m3u8
+#EXTINF:-1,CINEMAX HD *OFF
+http://mariocs.latino-webtv.com:2048/livexd/237_.m3u8
+#EXTINF:-1,CARTOON NETWORK [HD]
+http://mariocs.latino-webtv.com:2048/livexd/256_.m3u8
+#EXTINF:-1,Caracol HD2
+http://mariocs.latino-webtv.com:2048/livexd/217_.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAD [SD]
+http://mariocs.latino-webtv.com:2048/livexd/245_.m3u8
+#EXTINF:-1,Boomerang
+http://mariocs.latino-webtv.com:2048/livexd/225_.m3u8
+#EXTINF:-1,BBC
+http://mariocs.latino-webtv.com:2048/livexd/293_.m3u8
+#EXTINF:-1,BANDAMAX [HD]
+http://mariocs.latino-webtv.com:2048/livexd/251_.m3u8
+#EXTINF:-1,Azteca 7
+http://mariocs.latino-webtv.com:2048/livexd/238_.m3u8
+#EXTINF:-1,A&E HD
+http://mariocs.latino-webtv.com:2048/livexd/244_.m3u8
+#EXTINF:-1,AXN
+http://mariocs.latino-webtv.com:2048/livexd/140_.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://mariocs.latino-webtv.com:2048/livexd/277_.m3u8
+#EXTINF:-1,America TV Peru HD
+http://mariocs.latino-webtv.com:2048/livexd/136_.m3u8
+#EXTINF:-1,AMC HD
+http://mariocs.latino-webtv.com:2048/livexd/288_.m3u8
