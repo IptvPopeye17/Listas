@@ -1,3 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Final Champions
+#EXTINF:-1,Final Champions op1
 http://192.189.25.106/mirandatv/foxsports1sur.php?index.m3u8
+
+#EXTINF:-1,Final Champions op2
+https://live97.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
