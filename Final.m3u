@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Fox Sports
+#EXTINF:-1,Espn
 https://live97.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
-#EXTINF:-2,Espn
+#EXTINF:-2,Fox Sports
 http://192.189.25.106/mirandatv/foxsports1sur.php?index.m3u8
