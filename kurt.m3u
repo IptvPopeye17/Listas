@@ -3,627 +3,101 @@
 
 
 
-
-
-
-
-
-#EXTINF:0,ES- AMC SD
-
+#EXTINF:-1,ES- AMC SD
 http://192.189.25.106/mirqp34/amc.php?index.m3u8
 
-#EXTINF:0,ES- AXN HD
-
+#EXTINF:-1,ES- AXN HD
 http://192.189.25.106/mirqp34/axn.php?index.m3u8
 
-#EXTINF:0,ES- AMC HD
-
-http://192.189.25.106/mirqp34/amc.php?index.m3u8
-
-#EXTINF:0,ES- ANIMAL PLANET
-
+#EXTINF:-1,ES- ANIMAL PLANET
 http://192.189.25.106/mirqp34/anim_planet.php?index.m3u8
 
-#EXTINF:0,ES- BOOMERANG HD
-
-http://192.189.25.106/mirqp34/boomerang-q4.php?index.m3u8
-
-#EXTINF:0,ES- CARTOON NETWORK SD
-
+#EXTINF:-1,ES- CARTOON NETWORK SD
 http://192.189.25.106/mirqp34/cart_net.php?index.m3u8
 
-#EXTINF:0,ES- CARTOON NETWORK HD
-
-http://192.189.25.106/mirqp34/cart_net.php?index.m3u8
-
-#EXTINF:0,ES- FOX SPORTS 2 SD
-
-http://192.189.25.106/mirqp34/f0xsports2.php?index.m3u8
-
-#EXTINF:0,ES- FOX SPORT 2 HD
-
-http://192.189.25.106/mirqp34/f0xsports2.php?index.m3u8
-
-#EXTINF:0,ES- FOX SPORTS 3 SD
-
-http://192.189.25.106/mirqp34/f0xsports3.php?index.m3u8
-
-#EXTINF:0,ES- FOX SPORTS 3 HD
-
-http://192.189.25.106/mirqp34/f0xsports3.php?index.m3u8
-
-#EXTINF:0,ES- FOX SPORTS HD
-
-http://192.189.25.106/mirqp34/f0xsports.php?index.m3u8
-
-EXTINF:0,ES- FOX SPORTS SD
-
-http://192.189.25.106/mirqp34/f0xsports.php?index.m3u8
-
-#EXTINF:0,ES- ESPN HD
-
-http://192.189.25.106/mirqp34/espn.php?index.m3u8
-
-#EXTINF:0,ES- ESPN SD
-
-http://192.189.25.106/mirqp34/espn.php?index.m3u8
-
-#EXTINF:0,ES- ESPN 3 HD
-
-http://192.189.25.106/mirqp34/espn3.php?index.m3u8
-
-#EXTINF:0,ES- ESPN 3 SD
-
-http://192.189.25.106/mirqp34/espn3.php?index.m3u8
-
-#EXTINF:0,ES- ESPN 2 HD
-
-http://192.189.25.106/mirqp34/espn2.php?index.m3u8
-
-#EXTINF:0,ES- ESPN PLUS SD
-
-http://192.189.25.106/mirqp34/espn_plus.php?index.m3u8
-
-#EXTINF:0,ES- CLS HD
-
-http://192.189.25.106/mirqp34/clspoco.php?index.m3u8
-
-#EXTINF:0,ES- FOX CINEMA HD
-
-http://192.189.25.106/mirqp34/f0x_cinema_sub.php?index.m3u8
-
-#EXTINF:0,ES- FOX CINEMA SD
-
-http://192.189.25.106/mirqp34/f0x_cinema_sub.php?index.m3u8
-
-#EXTINF:0,ES- FOX CLASSIC SD
-
-http://192.189.25.106/mirqp34/f0x_classics.php?index.m3u8
-
-#EXTINF:0,ES- FOX CLASSIC HD
-
-http://192.189.25.106/mirqp34/f0x_classics.php?index.m3u8
-
-#EXTINF:0,ES- FOX COMEDIA SD
-
-http://192.189.25.106/mirqp34/f0x_comedy.php?index.m3u8
-
-#EXTINF:0,ES- FOX COMEDIA HD
-
-http://192.189.25.106/mirqp34/f0x_comedy.php?index.m3u8
-
-#EXTINF:0,ES- FOX MOVIES SD
-
-http://192.189.25.106/mirqp34/f0x_movies.php?index.m3u8
-
-#EXTINF:0,ES- FOX MOVIES HD
-
-http://192.189.25.106/mirqp34/f0x_movies.php?index.m3u8
-
-#EXTINF:0,ES- FOX SERIES SD
-
-http://192.189.25.106/mirqp34/f0x_series_sub.php?index.m3u8
-
-#EXTINF:0,ES- FOX SERIES HD
-
-http://192.189.25.106/mirqp34/f0x_series_sub.php?index.m3u8
-
-#EXTINF:0,ES- HBO 2 SD
-
-http://192.189.25.106/mirqp34/hb02.php?index.m3u8
-
-#EXTINF:0,ES- HBO 2 HD
-
-http://192.189.25.106/mirqp34/hb02.php?index.m3u8
-
-#EXTINF:0,ES- HBO FAMILY SD
-
-http://192.189.25.106/mirqp34/hb0fam.php?index.m3u8
-
-#EXTINF:0,ES- HBO FAMILY HD
-
-http://192.189.25.106/mirqp34/hb0fam.php?index.m3u8
-
-#EXTINF:0,ES- HBO SD
-
-http://192.189.25.106/mirqp34/hb0hd.php?index.m3u8
-
-#EXTINF:0,ES- HBO HD
-
-http://192.189.25.106/mirqp34/hb0hd.php?index.m3u8
-
-#EXTINF:0,ES- HBO PLUS SD
-
-http://192.189.25.106/mirqp34/hb0plus.php?index.m3u8
-
-#EXTINF:0,ES- HBO PLUS HD
-
-http://192.189.25.106/mirqp34/hb0plus.php?index.m3u8
-
-#EXTINF:0,ES- HBO SIGN SD
-
-http://192.189.25.106/mirqp34/hb0sign.php?index.m3u8
-
-#EXTINF:0,ES- HBO SIGN HD
-
-http://192.189.25.106/mirqp34/hb0sign.php?index.m3u8
-
-#EXTINF:0,ES- TOONCAST
-
-http://192.189.25.106/mirqp34/tooncast-q4.php?index.m3u8
-
-#EXTINF:0,ES- DISNEY HD
-
-http://192.189.25.106/mirqp34/d1sney.php?index.m3u8
-
-#EXTINF:0,ES- ANTENA 3
-
-http://192.189.25.106/mirqp34/antena3-q4.php?index.m3u8
-
-#EXTINF:0,ES- AXN HD
-
-http://192.189.25.106/mirqp34/axn.php?index.m3u8
-
-#EXTINF:0,ES- AZCORAZON SD
-
+#EXTINF:-1,ES- AZCORAZON SD
 http://192.189.25.106/mirqp34/azcorazon.php?index.m3u8
 
-#EXTINF:0,ES- AZCORAZON HD
-
-http://192.189.25.106/mirqp34/azcorazon.php?index.m3u8
-
-#EXTINF:0,ES- AZMUNDO HD
-
+#EXTINF:-1,ES- AZMUNDO HD
 http://192.189.25.106/mirqp34/azmundo.php?index.m3u8
 
-#EXTINF:0,ES- CINEMAX
-
-http://192.189.25.106/mirqp34/c1nemax-q4.php?index.m3u8
-
-#EXTINF:0,ES-CANAL CLARO HD
-
-http://192.189.25.106/mirqp34/canal_kloro.php?index.m3u8
-
-#EXTINF:0,ES- CANAL CLARO SD
-
-http://192.189.25.106/mirqp34/canal_kloro.php?index.m3u8
-
-#EXTINF:0,ES- ESTRELLAS
-
-http://192.189.25.106/mirqp34/estrellas_latam-q4.php?index.m3u8
-
-#EXTINF:0,ES- CARACOL SD
-
-http://192.189.25.106/mirqp34/caracol.php?index.m3u8
-
-#EXTINF:0,ES- CC SD
-
-http://192.189.25.106/mirqp34/cc.php?index.m3u8
-
-#EXTINF:0,ES- CC HD
-
-http://192.189.25.106/mirqp34/cc.php?index.m3u8
-
-#EXTINF:0,ES- CINELATINO
-
-http://192.189.25.106/mirqp34/cinelatino-q4.php?index.m3u8
-
-#EXTINF:0,ES- CINECANAL SD
-
+#EXTINF:-1,ES- CINECANAL SD
 http://192.189.25.106/mirqp34/cinecanal.php?index.m3u8
 
-#EXTINF:0,ES- CINECANAL HD
-
-http://192.189.25.106/mirqp34/cinecanal.php?index.m3u8
-
-#EXTINF:0,ES- CINECANAL PLUS
-
-http://192.189.25.106/mirqp34/cinemaplus-q4.php?index.m3u8
-
-#EXTINF:0,ES- CLARO CINEMA
-
-http://192.189.25.106/mirqp34/clr_cinema-q4.php?index.m3u8
-
-#EXTINF:0,ES- CNN ESPAÑOLL
-
-http://192.189.25.106/mirqp34/cnnee-q4.php?index.m3u8
-
-#EXTINF:0,ES- CONCERT HD
-
-http://192.189.25.106/mirqp34/concert.php?index.m3u8
-
-#EXTINF:0,ES- DEPELICULA
-
-http://192.189.25.106/mirqp34/depelicula-q4.php?index.m3u8
-
-#EXTINF:0,ES- DHE SD
-
+#EXTINF:-1,ES- DHE SD
 http://192.189.25.106/mirqp34/dhe.php?index.m3u8
 
-#EXTINF:0,ES- DHE HD
-
-http://192.189.25.106/mirqp34/dhe.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY CIVI
-
-http://192.189.25.106/mirqp34/disc_civil-q4.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY HH SD
-
+#EXTINF:-1,ES- DISCOVERY HH SD
 http://192.189.25.106/mirqp34/disc_hh.php?index.m3u8
 
-#EXTINF:0,ES- DISCOVERY THEATER SD
-
+#EXTINF:-1,ES- DISCOVERY THEATER SD
 http://192.189.25.106/mirqp34/disc_theater.php?index.m3u8
 
-#EXTINF:0,ES- DISCOVERY THEATER HD
-
-http://192.189.25.106/mirqp34/disc_theater.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY WORLD HD
-
+#EXTINF:-1,ES- DISCOVERY WORLD HD
 http://192.189.25.106/mirqp34/disc_world.php?index.m3u8
 
-#EXTINF:0,ES- DISCOVERY WORLD SD
-
-http://192.189.25.106/mirqp34/disc_world.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY CHANEL HD
-
+#EXTINF:-1,ES- DISCOVERY CHANEL HD
 http://192.189.25.106/mirqp34/disc_ch.php?index.m3u8
 
-#EXTINF:0,ES- DISCOVERY KIDS SD
-
+#EXTINF:-1,ES- DISCOVERY KIDS SD
 http://192.189.25.106/mirqp34/disc_kids.php?index.m3u8
 
-#EXTINF:0,ES- DISCOVERY KIDS HD
-
-http://192.189.25.106/mirqp34/disc_kids.php?index.m3u8
-
-#EXTINF:0,ES- DISCOVERY JUNIOR
-
-http://192.189.25.106/mirqp34/d1sneyjr-q4.php?index.m3u8
-
-#EXTINF:0,ES- DISNEY SD
-
-http://192.189.25.106/mirqp34/d1sney.php?index.m3u8
-
-#EXTINF:0,ES- DISNEY HD
-
-http://192.189.25.106/mirqp34/d1sney.php?index.m3u8
-
-#EXTINF:0,ES- DISNEY XD
-
-http://192.189.25.106/mirqp34/d1sneyxd-q4.php?index.m3u8
-
-#EXTINF:0,ES- DW LATINO
-
-http://192.189.25.106/mirqp34/dw-q4.php?index.m3u8
-
-#EXTINF:0,ES- ET
-
-http://192.189.25.106/mirqp34/e_ent-q4.php?index.m3u8
-
-#EXTINF:0,ES- EL GOURMET SD
-
+#EXTINF:-1,ES- EL GOURMET SD
 http://192.189.25.106/mirqp34/elgourmet.php?index.m3u8
 
-#EXTINF:0,ES- FOX SD
-
-http://192.189.25.106/mirqp34/f0x.php?index.m3u8
-
-#EXTINF:0,ES- FOX HD
-
-http://192.189.25.106/mirqp34/f0x.php?index.m3u8
-
-#EXTINF:0,ES- FOX MEXICO SD
-
-http://192.189.25.106/mirqp34/f0x_mx.php?index.m3u8
-
-#EXTINF:0,ES- FOX MEXICO HD
-
-http://192.189.25.106/mirqp34/f0x_mx.php?index.m3u8
-
-#EXTINF:0,ES- FOX LIFE MX SD
-
-http://192.189.25.106/mirqp34/f0xlife_mx.php?index.m3u8
-
-#EXTINF:0,ES- FOX LIFE HD
-
-http://192.189.25.106/mirqp34/f0xlife.php?index.m3u8
-
-#EXTINF:0,ES- FOX LIFE MX HD
-
-http://192.189.25.106/mirqp34/f0xlife_mx.php?index.m3u8
-
-#EXTINF:0,ES- FX SD
-
+#EXTINF:-1,ES- FX SD
 http://192.189.25.106/mirqp34/fx.php?index.m3u8
 
-#EXTINF:0,ES- FX HD
-
-http://192.189.25.106/mirqp34/fx.php?index.m3u8
-
-#EXTINF:0,ES- FX MX SD
-
+#EXTINF:-1,ES- FX MX SD
 http://192.189.25.106/mirqp34/fx_mx.php?index.m3u8
 
-#EXTINF:0,ES- FX MX HD
-
-http://192.189.25.106/mirqp34/fx_mx.php?index.m3u8
-
-#EXTINF:0,ES- FXM SD
-
+#EXTINF:-1,ES- FXM SD
 http://192.189.25.106/mirqp34/fxm.php?index.m3u8
 
-#EXTINF:0,ES- FXM HD
-
-http://192.189.25.106/mirqp34/fxm.php?index.m3u8
-
-#EXTINF:0,ES- GLITZ
-
-http://192.189.25.106/mirqp34/glitz-q4.php?index.m3u8
-
-#EXTINF:0,ES- GOLDEN SD
-
+#EXTINF:-1,ES- GOLDEN SD
 http://192.189.25.106/mirqp34/golden.php?index.m3u8
 
-#EXTINF:0,ES- GOLDEN HD
-
-http://192.189.25.106/mirqp34/golden.php?index.m3u8
-
-#EXTINF:0,ES- GOLDEN PREMIER SD
-
-http://192.189.25.106/mirqp34/goldp.php?index.m3u8
-
-#EXTINF:0,ES- GOLDEN PREMIER HD
-
-http://192.189.25.106/mirqp34/goldp.php?index.m3u8
-
-#EXTINF:0,ES- H2
-
-http://192.189.25.106/mirqp34/h2-q4.php?index.m3u8
-
-#EXTINF:0,ES- HISTORY SD
-
+#EXTINF:-1,ES- HISTORY SD
 http://192.189.25.106/mirqp34/history.php?index.m3u8
 
-#EXTINF:0,ES- HISTORY HD
-
-http://192.189.25.106/mirqp34/history.php?index.m3u8
-
-#EXTINF:0,ES- HOLA SD
-
-http://192.189.25.106/mirqp34/hola.php?index.m3u8
-
-#EXTINF:0,ES- HOLA HD
-
-http://192.189.25.106/mirqp34/hola.php?index.m3u8
-
-#EXTINF:0,ES- HTV
-
-http://192.189.25.106/mirqp34/htv-q4.php?index.m3u8
-
-#EXTINF:0,ES- ISAT
-
-http://192.189.25.106/mirqp34/isat-q4.php?index.m3u8
-
-#EXTINF:0,ES- LIFETIME
-
-http://192.189.25.106/mirqp34/lifetime-q4.php?index.m3u8
-
-#EXTINF:0,ES- MAX PRIME SD
-
-http://192.189.25.106/mirqp34/m4xprime.php?index.m3u8
-
-#EXTINF:0,ES- MAX PRIME HD
-
-http://192.189.25.106/mirqp34/m4xprime.php?index.m3u8
-
-#EXTINF:0,ES- MAX
-
-http://192.189.25.106/mirqp34/m4x-q4.php?index.m3u8
-
-#EXTINF:0,ES- MAX UP SD
-
-http://192.189.25.106/mirqp34/m4xup.php?index.m3u8
-
-#EXTINF:0,ES- MAX UP HD
-
-http://192.189.25.106/mirqp34/m4xup.php?index.m3u8
-
-#EXTINF:0,ES- MAS CHIC HD
-
+#EXTINF:-1,ES- MAS CHIC HD
 http://192.189.25.106/mirqp34/mas_chic.php?index.m3u8
 
-#EXTINF:0,ES- MTVLIFE HD
-
-http://192.189.25.106/mirqp34/mtvl1ve.php?index.m3u8
-
-#EXTINF:0,ES- MULTIPREMIER
-
-http://192.189.25.106/mirqp34/multipremier-q4.php?index.m3u8
-
-#EXTINF:0,ES- NAT GEO SD
-
+#EXTINF:-1,ES- NAT GEO SD
 http://192.189.25.106/mirqp34/natgeo.php?index.m3u8
 
-#EXTINF:0,ES- NAT GEO HD
-
-http://192.189.25.106/mirqp34/natgeo.php?index.m3u8
-
-#EXTINF:0,ES- NAT GEO MX SD
-
+#EXTINF:-1,ES- NAT GEO MX SD
 http://192.189.25.106/mirqp34/natgeo_mx.php?index.m3u8
 
-#EXTINF:0,ES- NAT GEO MX SD
-
-http://192.189.25.106/mirqp34/natgeo_mx.php?index.m3u8
-
-#EXTINF:0,ES- NATGEOwILD SD
-
+#EXTINF:-1,ES- NATGEOwILD SD
 http://192.189.25.106/mirqp34/natgeo_wild.php?index.m3u8
 
-#EXTINF:0,ES- NATGEO WILD HD
-
-http://192.189.25.106/mirqp34/natgeo_wild.php?index.m3u8
-
-#EXTINF:0,ES- NAT WILD MX HD
-
+#EXTINF:-1,ES- NAT WILD MX HD
 http://192.189.25.106/mirqp34/natgeo_wild_mx.php?index.m3u8
 
-#EXTINF:0,ES- NICK SD
-
+#EXTINF:-1,ES- NICK SD
 http://192.189.25.106/mirqp34/nick.php?index.m3u8
 
-#EXTINF:0,ES- NICK HD
-
-http://192.189.25.106/mirqp34/nick.php?index.m3u8
-
-#EXTINF:0,ES- NICK SD
-
+#EXTINF:-1,ES- NICK SD
 http://192.189.25.106/mirqp34/nickjr.php?index.m3u8
 
-#EXTINF:0,ES- NICK HD
-
-http://192.189.25.106/mirqp34/nickjr.php?index.m3u8
-
-#EXTINF:0,ES- FOXLIFE MX HD
-
-http://192.189.25.106/mirqp34/f0xlife_mx.php?index.m3u8
-
-#EXTINF:0,ES- PARAMAT CHANNEL SD
-
-http://192.189.25.106/mirqp34/param.php?index.m3u8
-
-#EXTINF:0,ES- PARAMAT CHANNEL HD
-
-http://192.189.25.106/mirqp34/param.php?index.m3u8
-
-#EXTINF:0,ES- PASIONES HD
-
+#EXTINF:-1,ES- PASIONES HD
 http://192.189.25.106/mirqp34/pasiones.php?index.m3u8
 
-#EXTINF:0,ES- RCN
-
-http://192.189.25.106/mirqp34/rcn_tln-q4.php?index.m3u8
-
-#EXTINF:0,ES- SONY SD
-
+#EXTINF:-1,ES- SONY SD
 http://192.189.25.106/mirqp34/sony.php?index.m3u8
 
-#EXTINF:0,ES- SONY HD
-
-http://192.189.25.106/mirqp34/sony.php?index.m3u8
-
-#EXTINF:0,ES- STUDIO UNIVERSAL
-
-http://192.189.25.106/mirqp34/stdio_univ-q4.php?index.m3u8
-
-#EXTINF:0,ES- SPACE SD
-
+#EXTINF:-1,ES- SPACE SD
 http://192.189.25.106/mirqp34/space.php?index.m3u8
 
-#EXTINF:0,ES- SPACE HD
-
-http://192.189.25.106/mirqp34/space.php?index.m3u8
-
-#EXTINF:0,ES- TBS SD
-
+#EXTINF:-1,ES- TBS SD
 http://192.189.25.106/mirqp34/tbs.php?index.m3u8
 
-#EXTINF:0,ES- TBS HD
-
-http://192.189.25.106/mirqp34/tbs.php?index.m3u8
-
-#EXTINF:0,ES- TCM HD
-
-http://192.189.25.106/mirqp34/tcm-q4.php?index.m3u8
-
-#EXTINF:0,ES- TELEMUNDO INTERNACIONAL
-
-http://192.189.25.106/mirqp34/telemun_int-q4.php?index.m3u8
-
-#EXTINF:0,ES- TLC SD
-
+#EXTINF:-1,ES- TLC SD
 http://192.189.25.106/mirqp34/tlc.php?index.m3u8
 
-#EXTINF:0,ES- TNT SD
-
+#EXTINF:-1,ES- TNT SD
 http://192.189.25.106/mirqp34/tnt.php?index.m3u8
 
-#EXTINF:0,ES- TNT HD
-
-http://192.189.25.106/mirqp34/tnt.php?index.m3u8
-
-#EXTINF:0,ES- TNT SERIES SD
-
-http://192.189.25.106/mirqp34/tnt_ser.php?index.m3u8
-
-#EXTINF:0,ES- TNT SERIES HD
-
-http://192.189.25.106/mirqp34/tnt_ser.php?index.m3u8
-
-#EXTINF:0,ES- TRUTV SD
-
-http://192.189.25.106/mirqp34/trutv_hd.php?index.m3u8
-
-#EXTINF:0,ES- TRUTV HD
-
-http://192.189.25.106/mirqp34/trutv_hd.php?index.m3u8
-
-#EXTINF:0,ES- TV5
-
-http://192.189.25.106/mirqp34/tv5-q4.php?index.m3u8
-
-#EXTINF:0,ES- TVE
-
-http://192.189.25.106/mirqp34/tve-q4.php?index.m3u8
-
-
-
-
-
-#EXTINF:0,ES- UNICABLE
-
-http://192.189.25.106/mirqp34/unicable-q4.php?index.m3u8
-
-#EXTINF:0,ES- UNIVERSAL
-
-http://192.189.25.106/mirqp34/univers-q4.php?index.m3u8
-
-#EXTINF:0,ES- CANAL UNO
-
-http://192.189.25.106/mirqp34/uno-q4.php?index.m3u8
-
-#EXTINF:0,ES- VH1 CLASSIC
-
-http://192.189.25.106/mirqp34/vh1class-q4.php?index.m3u8
-
-#EXTINF:0,ES- WARNER SD
-
-http://192.189.25.106/mirqp34/warner.php?index.m3u8
-
-#EXTINF:0,ES- WARNER HD
-
+#EXTINF:-1,ES- WARNER SD
 http://192.189.25.106/mirqp34/warner.php?index.m3u8
