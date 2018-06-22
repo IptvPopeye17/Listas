@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1,FIFA TOTAL OP1
 http://gangatvbox.com:25461/live/215221/11/12402.ts
 
@@ -186,9 +188,6 @@ http://gangatvbox.com:25461/live/215221/11/8836.ts
 
 #EXTINF:-1,WINS PORTS (Deportes)
 http://gangatvbox.com:25461/live/215221/11/8837.ts
-
-#EXTINF:-1,Surviving The Wild
-http://gangatvbox.com:25461/movie/215221/11/11513.mp4
 
 #EXTINF:-1,Animal Planet (Cultura)
 http://gangatvbox.com:25461/live/215221/11/11582.ts
