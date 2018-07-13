@@ -1,11 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1,Fox
-http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/f0x.php?.m3u8.m3u&amp;c=02
+#EXTINF:-1,Tnt
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/tnt.php?.m3u8.m3u&c=02
 
 #EXTINF:-1,Caracol
-http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/caracol.php?.m3u8.m3u&amp;c=03
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/caracol.php?.m3u8.m3u&c=03
 
 #EXTINF:-1,Hbo
-http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/hb0hd.php?.m3u8.m3u&amp;c=03
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/hb0hd.php?.m3u8.m3u&c=03
 
+#EXTINF:-1,Amc
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/amc.php?.m3u8.m3u&c=02
+
+#EXTINF:-1,Golden
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/golden.php?.m3u8.m3u&c=02
+
+#EXTINF:-1,Warner
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/warner.php?.m3u8.m3u&c=02
+
+#EXTINF:-1,Fox
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/f0x.php?.m3u8.m3u&c=02
+
+#EXTINF:-1,Fx
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/fx.php?.m3u8.m3u&c=02
+
+#EXTINF:-1,Fox action
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/f0x_action.php?.m3u8.m3u&c=02
+
+#EXTINF:-1,Fox Comedy
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/f0x_comedy.php?.m3u8.m3u&c=02
+
+#EXTINF:-1,Fox Family
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/f0x_family.php?.m3u8.m3u&c=02
+
+#EXTINF:-1,Hbo2
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/hb02.php?.m3u8.m3u&c=02
+
+#EXTINF:-1,Hbo family
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/hb0fam.php?.m3u8.m3u&c=02
+
+#EXTINF:-1,Hbo plus
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/hb0plus.php?.m3u8.m3u&c=02
+
+#EXTINF:-1,Hbo signature
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/hb0sign.php?.m3u8.m3u&c=02
+
+#EXTINF:-1,Max prime
+http://leageof.vps.co.ve/chphp/sv9214.cw4btb.lotstv.tk/m4xprime.php?.m3u8.m3u&c=02
