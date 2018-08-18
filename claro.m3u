@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,GOL TV
+http://tecnotv.info/premium/goltv?index.m3u8
+
 #EXTINF:-1,NICK
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICKELODEON_HD)/Stream(03)/index.m3u8
 
