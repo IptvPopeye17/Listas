@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-0,EVENTO OP1
+http://gangatvbox.com:25461/live/Mecho/Mecho/8830.m3u8
+#EXTINF:-0,EVENTO OP2
+http://gangatvbox.com:25461/live/Mecho/Mecho/12501.m3u8
+#EXTINF:-0,EVENTO OP3
+http://gangatvbox.com:25461/live/Mecho/Mecho/12123.m3u8
