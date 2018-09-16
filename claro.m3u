@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,ECUADOR VS GUATEMALA 
-http://185.172.110.39/hls/104.m3u8
+
 
 #EXTINF:-1,PJ MASK 24/7 ESPAÑOL
 https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?ipbits=0&gcr=us&expire=1536691509&signature=C0950A9A21441B7E19FBB8D4B7BA4DB41474DBF6.1ED2187CBA5779E0DED4D881CBE8B93DA1872060&playlist_type=DVR&itag=0&source=yt_live_broadcast&key=yt6&go=1&txs=9474456%2C9474458%2C9474459%2C9474460%2C9474462%2C9474463&hfr=1&sparams=ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire&ei=1LiXW4K6OYS38gSq2LLQCA&ip=142.93.242.37&requiressl=yes&tx=9474459&ratebypass=yes&dover=11&id=FLe0EghO6iI.0&keepalive=yes&cpn=WpUYKtErVpvuXGg4&ibw=1210000&c=MWEB&cver=2.20180908&ptk=youtube_single&oid=uSdCxS5T_LlBGnq4JFF3qw&ptchn=gCsnqSO7_oGkL3hdLZfnaQ&pltype=contentlive
