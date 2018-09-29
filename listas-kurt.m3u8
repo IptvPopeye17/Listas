@@ -5,997 +5,1343 @@ https://m3uplayer.net/293/waoplay.m3u8
 #EXTINF:-1,GOLTV
 https://m3uplayer.net/744/waoplay.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="#0" tvg-logo="" group-title="",#0
+#EXTINF:-1,#0
 http://195.154.255.148:25461/live/skytv12/skyline/1304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="",#0 HD
-http://195.154.255.148:25461/live/skytv12/skyline/1303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="" group-title="",24 HORAS
-http://195.154.255.148:25461/live/skytv12/skyline/1375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="",A&E
-http://195.154.255.148:25461/live/skytv12/skyline/1252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AE MUNDO HD" tvg-logo="" group-title="LATINOS HD",AE MUNDO HD
-http://195.154.255.148:25461/live/skytv12/skyline/906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AE MUNDO SD" tvg-logo="" group-title="LATINOS SD",AE MUNDO SD
-http://195.154.255.148:25461/live/skytv12/skyline/1043.m3u8
 
+#EXTINF:-1,#0 HD
+http://195.154.255.148:25461/live/skytv12/skyline/1303.m3u8
+
+#EXTINF:-1,24 HORAS
+http://195.154.255.148:25461/live/skytv12/skyline/1375.m3u8
+
+#EXTINF:-1,A&E
+http://195.154.255.148:25461/live/skytv12/skyline/1252.m3u8
+
+#EXTINF:-1,AE MUNDO HD
+http://195.154.255.148:25461/live/skytv12/skyline/906.m3u8
+
+#EXTINF:-1,AE MUNDO SD
 http://195.154.255.148:25461/live/skytv12/skyline/1460.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA HD" tvg-logo="" group-title="LATINOS HD",ALJAZEERA HD
+
+#EXTINF:-1,ALJAZEERA HD
 http://195.154.255.148:25461/live/skytv12/skyline/907.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA SD" tvg-logo="" group-title="LATINOS SD",ALJAZEERA SD
+
+#EXTINF:-1,ALJAZEERA SD
 http://195.154.255.148:25461/live/skytv12/skyline/1044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="",AMC
+
+#EXTINF:-1,AMC
 http://195.154.255.148:25461/live/skytv12/skyline/1308.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="LATINOS HD",AMC HD
-http://195.154.255.148:25461/live/skytv12/skyline/956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="" group-title="LATINOS HD",ANIMAL PLANET HD
+
+#EXTINF:-1,ANIMAL PLANET HD
 http://195.154.255.148:25461/live/skytv12/skyline/957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="",Antena 3
+
+#EXTINF:-1,Antena 3
 http://195.154.255.148:25461/live/skytv12/skyline/1374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANTV HD" tvg-logo="" group-title="LATINOS HD",ANTV HD
+
+#EXTINF:-1,ANTV HD
 http://195.154.255.148:25461/live/skytv12/skyline/1023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARIRANG HD" tvg-logo="" group-title="LATINOS HD",ARIRANG HD
+
+#EXTINF:-1,ARIRANG HD
 http://195.154.255.148:25461/live/skytv12/skyline/1024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="",AXN
+
+#EXTINF:-1,AXN
 http://195.154.255.148:25461/live/skytv12/skyline/1293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="LATINOS HD",AXN HD
+
+#EXTINF:-1,AXN HD
 http://195.154.255.148:25461/live/skytv12/skyline/931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD ES" tvg-logo="" group-title="",AXN HD ES
+
+#EXTINF:-1,AXN HD ES
 http://195.154.255.148:25461/live/skytv12/skyline/1292.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN White ES" tvg-logo="" group-title="",AXN White ES
+
+#EXTINF:-1,AXN White ES
 http://195.154.255.148:25461/live/skytv12/skyline/1280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN White HD ES" tvg-logo="" group-title="",AXN White HD ES
+
+#EXTINF:-1,AXN White HD ES
 http://195.154.255.148:25461/live/skytv12/skyline/1279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZ CORAZON HD" tvg-logo="" group-title="LATINOS HD",AZ CORAZON HD
+
+#EXTINF:-1,AZ CORAZON HD
 http://195.154.255.148:25461/live/skytv12/skyline/981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZMUNDO HD" tvg-logo="" group-title="LATINOS HD",AZMUNDO HD
+
+#EXTINF:-1,AZMUNDO HD
 http://195.154.255.148:25461/live/skytv12/skyline/959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA 1 HD" tvg-logo="" group-title="LATINOS HD",AZTECA 1 HD
+
+#EXTINF:-1,AZTECA 1 HD
 http://195.154.255.148:25461/live/skytv12/skyline/175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA MAS HD" tvg-logo="" group-title="LATINOS HD",AZTECA MAS HD
+
+#EXTINF:-1,AZTECA MAS HD
 http://195.154.255.148:25461/live/skytv12/skyline/169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="",BABY TV
+
+#EXTINF:-1,BABY TV
 http://195.154.255.148:25461/live/skytv12/skyline/1299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="" group-title="LATINOS HD",BABY TV HD
+
+#EXTINF:-1,BABY TV HD
 http://195.154.255.148:25461/live/skytv12/skyline/982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="" group-title="",BARCA TV
+
+#EXTINF:-1,BARCA TV
 http://195.154.255.148:25461/live/skytv12/skyline/1322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD HDop2" tvg-logo="" group-title="",BBC WORLD HDop2
+
+#EXTINF:-1,BBC WORLD HDop2
 http://195.154.255.148:25461/live/skytv12/skyline/908.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD HD" tvg-logo="" group-title="LATINOS HD",BBC WORLD HD
+
+#EXTINF:-1,BBC WORLD HD
 http://195.154.255.148:25461/live/skytv12/skyline/1025.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD SD" tvg-logo="" group-title="LATINOS SD",BBC WORLD SD
+
+#EXTINF:-1,BBC WORLD SD
 http://195.154.255.148:25461/live/skytv12/skyline/1045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BE MAD HD" tvg-logo="" group-title="",BE MAD HD
+
+#EXTINF:-1,BE MAD HD
 http://195.154.255.148:25461/live/skytv12/skyline/1357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS" tvg-logo="" group-title="",beIN SPORTS
+
+#EXTINF:-1,beIN SPORTS
 http://195.154.255.148:25461/live/skytv12/skyline/1350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD" tvg-logo="" group-title="",beIN SPORTS HD
+
+#EXTINF:-1,beIN SPORTS HD
 http://195.154.255.148:25461/live/skytv12/skyline/1351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIn Sports LaLiga" tvg-logo="" group-title="",BeIn Sports LaLiga
+
+#EXTINF:-1,BeIn Sports LaLiga
 http://195.154.255.148:25461/live/skytv12/skyline/1352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_HDUS" tvg-logo="" group-title="",BEIN_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN10_HDUS" tvg-logo="" group-title="",BEIN10_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1391.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN2_HDUS" tvg-logo="" group-title="",BEIN2_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN3_HDUS" tvg-logo="" group-title="",BEIN3_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1389.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN4_HDUS" tvg-logo="" group-title="",BEIN4_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN5_HDUS" tvg-logo="" group-title="",BEIN5_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN6_HDUS" tvg-logo="" group-title="",BEIN6_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1386.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN7_HDUS" tvg-logo="" group-title="",BEIN7_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1385.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN8_HDUS" tvg-logo="" group-title="",BEIN8_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN9_HDUS" tvg-logo="" group-title="",BEIN9_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HD" tvg-logo="" group-title="LATINOS HD",BLOOMBERG HD
+
+#EXTINF:-1,BLOOMBERG HD
 http://195.154.255.148:25461/live/skytv12/skyline/881.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG SD" tvg-logo="" group-title="LATINOS SD",BLOOMBERG SD
+
+#EXTINF:-1,BLOOMBERG SD
 http://195.154.255.148:25461/live/skytv12/skyline/1068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="" group-title="",BOING
+
+#EXTINF:-1,BOING
 http://195.154.255.148:25461/live/skytv12/skyline/1295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="" group-title="LATINOS HD",BOOMERANG HD
+
+#EXTINF:-1,BOOMERANG HD
 http://195.154.255.148:25461/live/skytv12/skyline/932.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CABLENOTICIAS HD" tvg-logo="" group-title="LATINOS HD",CABLENOTICIAS HD
+
+#EXTINF:-1,CABLENOTICIAS HD
 http://195.154.255.148:25461/live/skytv12/skyline/1026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="" group-title="",CALLE 13
+
+#EXTINF:-1,CALLE 13
 http://195.154.255.148:25461/live/skytv12/skyline/1276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="",CALLE 13 HD
+
+#EXTINF:-1,CALLE 13 HD
 http://195.154.255.148:25461/live/skytv12/skyline/1275.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 CANCUN HD" tvg-logo="" group-title="LATINOS HD",CANAL 10 CANCUN HD
+
+#EXTINF:-1,CANAL 10 CANCUN HD
 http://195.154.255.148:25461/live/skytv12/skyline/171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 4 MX HD" tvg-logo="" group-title="LATINOS HD",CANAL 4 MX HD
+
+#EXTINF:-1,CANAL 4 MX HD
 http://195.154.255.148:25461/live/skytv12/skyline/170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL CLARO HD" tvg-logo="" group-title="LATINOS HD",CANAL CLARO HD
+
+#EXTINF:-1,CANAL CLARO HD
 http://195.154.255.148:25461/live/skytv12/skyline/960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="" group-title="",CANAL COCINA
+
+#EXTINF:-1,CANAL COCINA
 http://195.154.255.148:25461/live/skytv12/skyline/1256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS HD" tvg-logo="" group-title="LATINOS HD",CANAL DE LAS ESTRELLAS HD
+
+#EXTINF:-1,CANAL DE LAS ESTRELLAS HD
 http://195.154.255.148:25461/live/skytv12/skyline/961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA ES" tvg-logo="" group-title="",CANAL ODISEA ES
+
+#EXTINF:-1,CANAL ODISEA ES
 http://195.154.255.148:25461/live/skytv12/skyline/1246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="" group-title="",CANAL PANDA
+
+#EXTINF:-1,CANAL PANDA
 http://195.154.255.148:25461/live/skytv12/skyline/1298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL TRO HD" tvg-logo="" group-title="LATINOS HD",CANAL TRO HD
+
+#EXTINF:-1,CANAL TRO HD
 http://195.154.255.148:25461/live/skytv12/skyline/1027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL HD" tvg-logo="" group-title="LATINOS HD",CARACOL HD
+
+#EXTINF:-1,CARACOL HD
 http://195.154.255.148:25461/live/skytv12/skyline/983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="LATINOS HD",CARTOON NETWORK HD
+
+#EXTINF:-1,CARTOON NETWORK HD
 http://195.154.255.148:25461/live/skytv12/skyline/882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK SD" tvg-logo="" group-title="LATINOS SD",CARTOON NETWORK SD
+
+#EXTINF:-1,CARTOON NETWORK SD
 http://195.154.255.148:25461/live/skytv12/skyline/1069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="",CAZA Y PESCA
+
+#EXTINF:-1,CAZA Y PESCA
 http://195.154.255.148:25461/live/skytv12/skyline/1243.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE DINAMITA HD" tvg-logo="" group-title="LATINOS HD",CINE DINAMITA HD
+
+#EXTINF:-1,CINE DINAMITA HD
 http://195.154.255.148:25461/live/skytv12/skyline/962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO HD" tvg-logo="" group-title="LATINOS HD",CINE LATINO HD
+
+#EXTINF:-1,CINE LATINO HD
 http://195.154.255.148:25461/live/skytv12/skyline/883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO SD" tvg-logo="" group-title="LATINOS SD",CINE LATINO SD
+
+#EXTINF:-1,CINE LATINO SD
 http://195.154.255.148:25461/live/skytv12/skyline/1070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="" group-title="LATINOS HD",CINECANAL HD
+
+#EXTINF:-1,CINECANAL HD
 http://195.154.255.148:25461/live/skytv12/skyline/933.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PLUS HD" tvg-logo="" group-title="LATINOS HD",CINEMA PLUS HD
+
+#EXTINF:-1,CINEMA PLUS HD
 http://195.154.255.148:25461/live/skytv12/skyline/1006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="" group-title="LATINOS HD",CINEMAX HD
+
+#EXTINF:-1,CINEMAX HD
 http://195.154.255.148:25461/live/skytv12/skyline/934.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CITY NOTICIAS HD" tvg-logo="" group-title="LATINOS HD",CITY NOTICIAS HD
+
+#EXTINF:-1,CITY NOTICIAS HD
 http://195.154.255.148:25461/live/skytv12/skyline/1028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV HD" tvg-logo="" group-title="LATINOS HD",CITY TV HD
+
+#EXTINF:-1,CITY TV HD
 http://195.154.255.148:25461/live/skytv12/skyline/1007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLAN TV" tvg-logo="" group-title="",CLAN TV
+
+#EXTINF:-1,CLAN TV
 http://195.154.255.148:25461/live/skytv12/skyline/1297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLARO CINEMA HD" tvg-logo="" group-title="LATINOS HD",CLARO CINEMA HD
+
+#EXTINF:-1,CLARO CINEMA HD
 http://195.154.255.148:25461/live/skytv12/skyline/884.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLARO CINEMA SD" tvg-logo="" group-title="LATINOS SD",CLARO CINEMA SD
+
+#EXTINF:-1,CLARO CINEMA SD
 http://195.154.255.148:25461/live/skytv12/skyline/1071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLARO HD" tvg-logo="" group-title="LATINOS HD",CLARO HD
+
+#EXTINF:-1,CLARO HD
 http://195.154.255.148:25461/live/skytv12/skyline/984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLARO MUSICA LADO A HD" tvg-logo="" group-title="LATINOS HD",CLARO MUSICA LADO A HD
+
+#EXTINF:-1,CLARO MUSICA LADO A HD
 http://195.154.255.148:25461/live/skytv12/skyline/1008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLARO MUSICA 2 HD" tvg-logo="" group-title="LATINOS HD",CLARO MUSICA 2 HD
+
+#EXTINF:-1,CLARO MUSICA 2 HD
 http://195.154.255.148:25461/live/skytv12/skyline/1009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT COLOMBIA HD" tvg-logo="" group-title="LATINOS HD",CLARO SPORT COLOMBIA HD
+
+#EXTINF:-1,CLARO SPORT COLOMBIA HD
 http://195.154.255.148:25461/live/skytv12/skyline/1010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT HD" tvg-logo="" group-title="LATINOS HD",CLARO SPORT HD
+
+#EXTINF:-1,CLARO SPORT HD
 http://195.154.255.148:25461/live/skytv12/skyline/985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS LATAM HD" tvg-logo="" group-title="LATINOS HD",CLARO SPORTS LATAM HD
+
+#EXTINF:-1,CLARO SPORTS LATAM HD
 http://195.154.255.148:25461/live/skytv12/skyline/909.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS LATAM SD" tvg-logo="" group-title="LATINOS SD",CLARO SPORTS LATAM SD
+
+#EXTINF:-1,CLARO SPORTS LATAM SD
 http://195.154.255.148:25461/live/skytv12/skyline/1046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLAROCONCERT HD" tvg-logo="" group-title="LATINOS HD",CLAROCONCERT HD
+
+#EXTINF:-1,CLAROCONCERT HD
 http://195.154.255.148:25461/live/skytv12/skyline/1011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Classica TV" tvg-logo="" group-title="",Classica TV
+
+#EXTINF:-1,Classica TV
 http://195.154.255.148:25461/live/skytv12/skyline/1261.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN ESPAÑOL HD" tvg-logo="" group-title="",CNN ESPAÑOL HD
+
+#EXTINF:-1,CNN ESPAÑOL HD
 http://195.154.255.148:25461/live/skytv12/skyline/935.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL HD" tvg-logo="" group-title="",CNN INTERNACIONAL HD
+
+#EXTINF:-1,CNN INTERNACIONAL HD
 http://195.154.255.148:25461/live/skytv12/skyline/910.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL SD" tvg-logo="" group-title="LATINOS SD",CNN INTERNACIONAL SD
-http://195.154.255.148:25461/live/skytv12/skyline/1047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL ES" tvg-logo="" group-title="",COMEDY CENTRAL ES
+
+#EXTINF:-1,COMEDY CENTRAL ES
 http://195.154.255.148:25461/live/skytv12/skyline/1274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="LATINOS HD",COMEDY CENTRAL HD
+
+#EXTINF:-1,COMEDY CENTRAL HD
 http://195.154.255.148:25461/live/skytv12/skyline/963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD ES" tvg-logo="" group-title="",COMEDY CENTRAL HD ES
+
+#EXTINF:-1,COMEDY CENTRAL HD ES
 http://195.154.255.148:25461/live/skytv12/skyline/1273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONCERT CHANNEL HD" tvg-logo="" group-title="LATINOS HD",CONCERT CHANNEL HD
+
+#EXTINF:-1,CONCERT CHANNEL HD
 http://195.154.255.148:25461/live/skytv12/skyline/936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="" group-title="",COSMO HD
+
+#EXTINF:-1,COSMO HD
 http://195.154.255.148:25461/live/skytv12/skyline/1287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSMOPOLITAN" tvg-logo="" group-title="",COSMOPOLITAN
+
+#EXTINF:-1,COSMOPOLITAN
 http://195.154.255.148:25461/live/skytv12/skyline/1272.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Crimen e Investigacion" tvg-logo="" group-title="",Crimen e Investigacion
+
+#EXTINF:-1,Crimen e Investigacion
 http://195.154.255.148:25461/live/skytv12/skyline/1249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CRISTOVISION HD" tvg-logo="" group-title="LATINOS HD",CRISTOVISION HD
+
+#EXTINF:-1,CRISTOVISION HD
 http://195.154.255.148:25461/live/skytv12/skyline/1029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cuatro" tvg-logo="" group-title="",Cuatro
+
+#EXTINF:-1,Cuatro
 http://195.154.255.148:25461/live/skytv12/skyline/1372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cuatro HD" tvg-logo="" group-title="",Cuatro HD
+
+#EXTINF:-1,Cuatro HD
 http://195.154.255.148:25461/live/skytv12/skyline/1371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DARK" tvg-logo="" group-title="",DARK
+
+#EXTINF:-1,DARK
 http://195.154.255.148:25461/live/skytv12/skyline/1278.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DATAIFX HD" tvg-logo="" group-title="LATINOS HD",DATAIFX HD
+
+#EXTINF:-1,DATAIFX HD
 http://195.154.255.148:25461/live/skytv12/skyline/1030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DCASA" tvg-logo="" group-title="",DCASA
+
+#EXTINF:-1,DCASA
 http://195.154.255.148:25461/live/skytv12/skyline/1255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="" group-title="",DE PELICULA
+
+#EXTINF:-1,DE PELICULA
 http://195.154.255.148:25461/live/skytv12/skyline/1309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="" group-title="LATINOS HD",DHE HD
+
+#EXTINF:-1,DHE HD
 http://195.154.255.148:25461/live/skytv12/skyline/911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DHE SD" tvg-logo="" group-title="LATINOS SD",DHE SD
+
+#EXTINF:-1,DHE SD
 http://195.154.255.148:25461/live/skytv12/skyline/1048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANEL HD" tvg-logo="" group-title="LATINOS HD",DISCOVERY CHANEL HD
+
+#EXTINF:-1,DISCOVERY CHANEL HD
 http://195.154.255.148:25461/live/skytv12/skyline/937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel España" tvg-logo="" group-title="",Discovery Channel España
+
+#EXTINF:-1,Discovery Channel España
 http://195.154.255.148:25461/live/skytv12/skyline/1258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="" group-title="",DISCOVERY CIVILIZATION HD
+
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
 http://195.154.255.148:25461/live/skytv12/skyline/938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HH HD" tvg-logo="" group-title="",DISCOVERY HH HD
+
+#EXTINF:-1,DISCOVERY HH HD
 http://195.154.255.148:25461/live/skytv12/skyline/1012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME HEALTH HD" tvg-logo="" group-title="LATINOS HD",DISCOVERY HOME HEALTH HD
+
+#EXTINF:-1,DISCOVERY HOME HEALTH HD
 http://195.154.255.148:25461/live/skytv12/skyline/939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="" group-title="LATINOS HD",DISCOVERY KIDS HD
+
+#EXTINF:-1,DISCOVERY KIDS HD
 http://195.154.255.148:25461/live/skytv12/skyline/885.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS SD" tvg-logo="" group-title="LATINOS SD",DISCOVERY KIDS SD
+
+#EXTINF:-1,DISCOVERY KIDS SD
 http://195.154.255.148:25461/live/skytv12/skyline/1072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCENCIE HD" tvg-logo="" group-title="",DISCOVERY SCENCIE HD
+
+#EXTINF:-1,DISCOVERY SCENCIE HD
 http://195.154.255.148:25461/live/skytv12/skyline/912.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCENCIE SD" tvg-logo="" group-title="LATINOS SD",DISCOVERY SCENCIE SD
+
+#EXTINF:-1,DISCOVERY SCENCIE SD
 http://195.154.255.148:25461/live/skytv12/skyline/1049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD" tvg-logo="" group-title="LATINOS HD",DISCOVERY THEATER HD
+
+#EXTINF:-1,DISCOVERY THEATER HD
 http://195.154.255.148:25461/live/skytv12/skyline/940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="" group-title="LATINOS HD",DISCOVERY TURBO HD
+
+#EXTINF:-1,DISCOVERY TURBO HD
 http://195.154.255.148:25461/live/skytv12/skyline/913.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO SD" tvg-logo="" group-title="LATINOS SD",DISCOVERY TURBO SD
+
+#EXTINF:-1,DISCOVERY TURBO SD
 http://195.154.255.148:25461/live/skytv12/skyline/1050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="" group-title="LATINOS HD",DISCOVERY WORLD HD
+
+#EXTINF:-1,DISCOVERY WORLD HD
 http://195.154.255.148:25461/live/skytv12/skyline/941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANEL HD" tvg-logo="" group-title="",DISNEY CHANEL HD
+
+#EXTINF:-1,DISNEY CHANEL HD
 http://195.154.255.148:25461/live/skytv12/skyline/1013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="",DISNEY CHANNEL
+
+#EXTINF:-1,DISNEY CHANNEL
 http://195.154.255.148:25461/live/skytv12/skyline/1302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY HD" tvg-logo="" group-title="LATINOS HD",DISNEY HD
+
+#EXTINF:-1,DISNEY HD
 http://195.154.255.148:25461/live/skytv12/skyline/914.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="" group-title="",DISNEY JR
+
+#EXTINF:-1,DISNEY JR
 http://195.154.255.148:25461/live/skytv12/skyline/1301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney JR HD" tvg-logo="" group-title="LATINOS HD",Disney JR HD
+
+#EXTINF:-1,Disney JR HD
 http://195.154.255.148:25461/live/skytv12/skyline/915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR SD" tvg-logo="" group-title="LATINOS SD",DISNEY JR SD
+
+#EXTINF:-1,DISNEY JR SD
 http://195.154.255.148:25461/live/skytv12/skyline/1051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY SD" tvg-logo="" group-title="LATINOS SD",DISNEY SD
+
+#EXTINF:-1,DISNEY SD
 http://195.154.255.148:25461/live/skytv12/skyline/1052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="" group-title="",DISNEY XD
+
+#EXTINF:-1,DISNEY XD
 http://195.154.255.148:25461/live/skytv12/skyline/1300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="" group-title="LATINOS HD",DISNEY XD HD
+
+#EXTINF:-1,DISNEY XD HD
 http://195.154.255.148:25461/live/skytv12/skyline/886.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD SD" tvg-logo="" group-title="LATINOS SD",DISNEY XD SD
+
+#EXTINF:-1,DISNEY XD SD
 http://195.154.255.148:25461/live/skytv12/skyline/1073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="" group-title="",DIVINITY
+
+#EXTINF:-1,DIVINITY
 http://195.154.255.148:25461/live/skytv12/skyline/1359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="",DMAX
+
+#EXTINF:-1,DMAX
 http://195.154.255.148:25461/live/skytv12/skyline/1253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DW HD" tvg-logo="" group-title="",DW HD
+
+#EXTINF:-1,DW HD
 http://195.154.255.148:25461/live/skytv12/skyline/916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DW AMERIKA HD" tvg-logo="" group-title="LATINOS HD",DW AMERIKA HD
+
+#EXTINF:-1,DW AMERIKA HD
 http://195.154.255.148:25461/live/skytv12/skyline/964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DW SD" tvg-logo="" group-title="LATINOS SD",DW SD
+
+#EXTINF:-1,DW SD
 http://195.154.255.148:25461/live/skytv12/skyline/1053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="" group-title="LATINOS HD",E! HD
+
+#EXTINF:-1,E! HD
 http://195.154.255.148:25461/live/skytv12/skyline/965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EFECTO TV HD" tvg-logo="" group-title="LATINOS HD",EFECTO TV HD
+
+#EXTINF:-1,EFECTO TV HD
 http://195.154.255.148:25461/live/skytv12/skyline/172.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EL SEMBRADOR HD" tvg-logo="" group-title="LATINOS HD",EL SEMBRADOR HD
+
+#EXTINF:-1,EL SEMBRADOR HD
 http://195.154.255.148:25461/live/skytv12/skyline/887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EL SEMBRADOR SD" tvg-logo="" group-title="LATINOS SD",EL SEMBRADOR SD
+
+#EXTINF:-1,EL SEMBRADOR SD
 http://195.154.255.148:25461/live/skytv12/skyline/1074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="" group-title="",ENERGY
+
+#EXTINF:-1,ENERGY
 http://195.154.255.148:25461/live/skytv12/skyline/1360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ENLACE HD" tvg-logo="" group-title="LATINOS HD",ENLACE HD
+
+#EXTINF:-1,ENLACE HD
 http://195.154.255.148:25461/live/skytv12/skyline/1031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESNE HD" tvg-logo="" group-title="LATINOS HD",ESNE HD
+
+#EXTINF:-1,ESNE HD
 http://195.154.255.148:25461/live/skytv12/skyline/1032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="" group-title="LATINOS HD",ESPN 4 HD
-http://195.154.255.148:25461/live/skytv12/skyline/1033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="LATINOS HD",ESPN HD
+
+#EXTINF:-1,ESPN HD
 http://195.154.255.148:25461/live/skytv12/skyline/1034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS HD" tvg-logo="" group-title="LATINOS HD",ESPN PLUS HD
+
+#EXTINF:-1,ESPN PLUS HD
 http://195.154.255.148:25461/live/skytv12/skyline/1014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN1_HDUS" tvg-logo="" group-title="",ESPN1_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2 HD" tvg-logo="" group-title="LATINOS HD",ESPN2 HD
-http://195.154.255.148:25461/live/skytv12/skyline/1022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2_HDUS" tvg-logo="" group-title="",ESPN2_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROCHANEL HD" tvg-logo="" group-title="LATINOS HD",EUROCHANEL HD
+
+#EXTINF:-1,EUROCHANEL HD
 http://195.154.255.148:25461/live/skytv12/skyline/942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="",EUROSPORT 1
+
+#EXTINF:-1,EUROSPORT 1
 http://195.154.255.148:25461/live/skytv12/skyline/1337.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="",Eurosport 1 HD
+
+#EXTINF:-1,Eurosport 1 HD
 http://195.154.255.148:25461/live/skytv12/skyline/1336.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EWTN HD" tvg-logo="" group-title="LATINOS HD",EWTN HD
+
+#EXTINF:-1,EWTN HD
 http://195.154.255.148:25461/live/skytv12/skyline/943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="" group-title="",FDF
+
+#EXTINF:-1,FDF
 http://195.154.255.148:25461/live/skytv12/skyline/1362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION HD" tvg-logo="" group-title="LATINOS HD",FOX ACTION HD
+
+#EXTINF:-1,FOX ACTION HD
 http://195.154.255.148:25461/live/skytv12/skyline/917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION SD" tvg-logo="" group-title="LATINOS SD",FOX ACTION SD
+
+#EXTINF:-1,FOX ACTION SD
 http://195.154.255.148:25461/live/skytv12/skyline/1054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX CINEMA HD" tvg-logo="" group-title="LATINOS HD",FOX CINEMA HD
+
+#EXTINF:-1,FOX CINEMA HD
 http://195.154.255.148:25461/live/skytv12/skyline/888.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX CINEMA SD" tvg-logo="" group-title="LATINOS SD",FOX CINEMA SD
+
+#EXTINF:-1,FOX CINEMA SD
 http://195.154.255.148:25461/live/skytv12/skyline/1075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX CLASSIC HD" tvg-logo="" group-title="LATINOS HD",FOX CLASSIC HD
-http://195.154.255.148:25461/live/skytv12/skyline/889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX CLASSIC SD" tvg-logo="" group-title="LATINOS SD",FOX CLASSIC SD
+
+#EXTINF:-1,FOX CLASSIC SD
 http://195.154.255.148:25461/live/skytv12/skyline/1076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY HD" tvg-logo="" group-title="LATINOS HD",FOX COMEDY HD
+
+#EXTINF:-1,FOX COMEDY HD
 http://195.154.255.148:25461/live/skytv12/skyline/918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY SD" tvg-logo="" group-title="LATINOS SD",FOX COMEDY SD
+
+#EXTINF:-1,FOX COMEDY SD
 http://195.154.255.148:25461/live/skytv12/skyline/1055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX ES" tvg-logo="" group-title="",FOX ES
+
+#EXTINF:-1,FOX ES
 http://195.154.255.148:25461/live/skytv12/skyline/1291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX FAMILY HD" tvg-logo="" group-title="LATINOS HD",FOX FAMILY HD
+
+#EXTINF:-1,FOX FAMILY HD
 http://195.154.255.148:25461/live/skytv12/skyline/919.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="LATINOS HD",FOX HD
+
+#EXTINF:-1,FOX HD
 http://195.154.255.148:25461/live/skytv12/skyline/966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox HD ES" tvg-logo="" group-title="",Fox HD ES
+
+#EXTINF:-1,Fox HD ES
 http://195.154.255.148:25461/live/skytv12/skyline/1290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Life" tvg-logo="" group-title="",FOX Life
+
+#EXTINF:-1,FOX Life
 http://195.154.255.148:25461/live/skytv12/skyline/1289.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="LATINOS HD",FOX LIFE HD
+
+#EXTINF:-1,FOX LIFE HD
 http://195.154.255.148:25461/live/skytv12/skyline/890.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE SD" tvg-logo="" group-title="LATINOS SD",FOX LIFE SD
+
+#EXTINF:-1,FOX LIFE SD
 http://195.154.255.148:25461/live/skytv12/skyline/1077.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES HD" tvg-logo="" group-title="LATINOS HD",FOX MOVIES HD
+
+#EXTINF:-1,FOX MOVIES HD
 http://195.154.255.148:25461/live/skytv12/skyline/891.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES SD" tvg-logo="" group-title="LATINOS SD",FOX MOVIES SD
+
+#EXTINF:-1,FOX MOVIES SD
 http://195.154.255.148:25461/live/skytv12/skyline/1078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS HD" tvg-logo="" group-title="LATINOS HD",FOX NEWS HD
-http://195.154.255.148:25461/live/skytv12/skyline/920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS SD" tvg-logo="" group-title="LATINOS SD",FOX NEWS SD
-http://195.154.255.148:25461/live/skytv12/skyline/1056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUN ACTION HD" tvg-logo="" group-title="LATINOS HD",FOX PREMIUN ACTION HD
+
+#EXTINF:-1,FOX PREMIUN ACTION HD
 http://195.154.255.148:25461/live/skytv12/skyline/986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUN FAMILY HD" tvg-logo="" group-title="LATINOS HD",FOX PREMIUN FAMILY HD
+
+#EXTINF:-1,FOX PREMIUN FAMILY HD
 http://195.154.255.148:25461/live/skytv12/skyline/987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUN MOVIES HD" tvg-logo="" group-title="LATINOS HD",FOX PREMIUN MOVIES HD
+
+#EXTINF:-1,FOX PREMIUN MOVIES HD
 http://195.154.255.148:25461/live/skytv12/skyline/988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUN SERIES HD" tvg-logo="" group-title="LATINOS HD",FOX PREMIUN SERIES HD
+
+#EXTINF:-1,FOX PREMIUN SERIES HD
 http://195.154.255.148:25461/live/skytv12/skyline/989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2 HD" tvg-logo="" group-title="LATINOS HD",FOX SPORT 2 HD
+
+#EXTINF:-1,FOX SPORT 2 HD
 http://195.154.255.148:25461/live/skytv12/skyline/990.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3 HD" tvg-logo="" group-title="LATINOS HD",FOX SPORT 3 HD
+
+#EXTINF:-1,FOX SPORT 3 HD
 http://195.154.255.148:25461/live/skytv12/skyline/991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT HD" tvg-logo="" group-title="LATINOS HD",FOX SPORT HD
+
+#EXTINF:-1,FOX SPORT HD
 http://195.154.255.148:25461/live/skytv12/skyline/992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOXFAMILY SD" tvg-logo="" group-title="LATINOS SD",FOXFAMILY SD
+
+#EXTINF:-1,FOXFAMILY SD
 http://195.154.255.148:25461/live/skytv12/skyline/1057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE24 HD" tvg-logo="" group-title="LATINOS HD",FRANCE24 HD
+
+#EXTINF:-1,FRANCE24 HD
 http://195.154.255.148:25461/live/skytv12/skyline/921.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE24 SD" tvg-logo="" group-title="LATINOS SD",FRANCE24 SD
+
+#EXTINF:-1,FRANCE24 SD
 http://195.154.255.148:25461/live/skytv12/skyline/1058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="LATINOS HD",FX HD
+
+#EXTINF:-1,FX HD
 http://195.154.255.148:25461/live/skytv12/skyline/892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SD" tvg-logo="" group-title="LATINOS SD",SD
+
+#EXTINF:-1,SD
 http://195.154.255.148:25461/live/skytv12/skyline/1079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FXM HD" tvg-logo="" group-title="LATINOS HD",FXM HD
+
+#EXTINF:-1,FXM HD
 http://195.154.255.148:25461/live/skytv12/skyline/993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN CHANEL HD" tvg-logo="" group-title="",GOLDEN CHANEL HD
+
+#EXTINF:-1,GOLDEN CHANEL HD
 http://195.154.255.148:25461/live/skytv12/skyline/1015.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN HD" tvg-logo="" group-title="LATINOS HD",GOLDEN HD
+
+#EXTINF:-1,GOLDEN HD
 http://195.154.255.148:25461/live/skytv12/skyline/893.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS HD" tvg-logo="" group-title="LATINOS HD",GOLDEN PLUS HD
+
+#EXTINF:-1,GOLDEN PLUS HD
 http://195.154.255.148:25461/live/skytv12/skyline/994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER HD" tvg-logo="" group-title="LATINOS HD",GOLDEN PREMIER HD
+
+#EXTINF:-1,GOLDEN PREMIER HD
 http://195.154.255.148:25461/live/skytv12/skyline/894.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER SD" tvg-logo="" group-title="LATINOS SD",GOLDEN PREMIER SD
+
+#EXTINF:-1,GOLDEN PREMIER SD
 http://195.154.255.148:25461/live/skytv12/skyline/1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN SD" tvg-logo="" group-title="LATINOS SD",GOLDEN SD
+
+#EXTINF:-1,GOLDEN SD
 http://195.154.255.148:25461/live/skytv12/skyline/1081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLF LATIN AMERICA HD" tvg-logo="" group-title="LATINOS HD",GOLF LATIN AMERICA HD
+
+#EXTINF:-1,GOLF LATIN AMERICA HD
 http://195.154.255.148:25461/live/skytv12/skyline/995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOURMET HD" tvg-logo="" group-title="LATINOS HD",GOURMET HD
+
+#EXTINF:-1,GOURMET HD
 http://195.154.255.148:25461/live/skytv12/skyline/944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="" group-title="",H2 HD
+
+#EXTINF:-1,H2 HD
 http://195.154.255.148:25461/live/skytv12/skyline/945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="LATINOS HD",HBO HD
+
+#EXTINF:-1,HBO HD
 http://195.154.255.148:25461/live/skytv12/skyline/996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="LATINOS HD",HBO 2 HD
+
+#EXTINF:-1,HBO 2 HD
 http://195.154.255.148:25461/live/skytv12/skyline/946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="" group-title="LATINOS HD",HBO FAMILY HD
+
+#EXTINF:-1,HBO FAMILY HD
 http://195.154.255.148:25461/live/skytv12/skyline/895.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY SD" tvg-logo="" group-title="LATINOS SD",HBO FAMILY SD
+
+#EXTINF:-1,HBO FAMILY SD
 http://195.154.255.148:25461/live/skytv12/skyline/1082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="" group-title="LATINOS HD",HBO PLUS HD
+
+#EXTINF:-1,HBO PLUS HD
 http://195.154.255.148:25461/live/skytv12/skyline/922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS SD" tvg-logo="" group-title="LATINOS SD",HBO PLUS SD
-http://195.154.255.148:25461/live/skytv12/skyline/1059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="" group-title="LATINOS HD",HBO SIGNATURE HD
+
+#EXTINF:-1,HBO SIGNATURE HD
 http://195.154.255.148:25461/live/skytv12/skyline/967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HEADLINENEWS HD" tvg-logo="" group-title="LATINOS HD",HEADLINENEWS HD
+
+#EXTINF:-1,HEADLINENEWS HD
 http://195.154.255.148:25461/live/skytv12/skyline/1016.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="" group-title="",HISTORIA
+
+#EXTINF:-1,HISTORIA
 http://195.154.255.148:25461/live/skytv12/skyline/1251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANEL SD" tvg-logo="" group-title="",HISTORY CHANEL SD
+
+#EXTINF:-1,HISTORY CHANEL SD
 http://195.154.255.148:25461/live/skytv12/skyline/947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANEL HD" tvg-logo="" group-title="LATINOS HD",HISTORY CHANEL HD
+
+#EXTINF:-1,HISTORY CHANEL HD
 http://195.154.255.148:25461/live/skytv12/skyline/1017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT TV" tvg-logo="" group-title="",HIT TV
+
+#EXTINF:-1,HIT TV
 http://195.154.255.148:25461/live/skytv12/skyline/1263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV HD" tvg-logo="" group-title="LATINOS HD",HOLA TV HD
+
+#EXTINF:-1,HOLA TV HD
 http://195.154.255.148:25461/live/skytv12/skyline/923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV SD" tvg-logo="" group-title="LATINOS SD",HOLA TV SD
+
+#EXTINF:-1,HOLA TV SD
 http://195.154.255.148:25461/live/skytv12/skyline/1060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="" group-title="",Hollywood
+
+#EXTINF:-1,Hollywood
 http://195.154.255.148:25461/live/skytv12/skyline/1307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="" group-title="",Hollywood HD
+
+#EXTINF:-1,Hollywood HD
 http://195.154.255.148:25461/live/skytv12/skyline/1288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HTV HD" tvg-logo="" group-title="LATINOS HD",HTV HD
+
+#EXTINF:-1,HTV HD
 http://195.154.255.148:25461/live/skytv12/skyline/924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HTV SD" tvg-logo="" group-title="LATINOS SD",HTV SD
+
+#EXTINF:-1,HTV SD
 http://195.154.255.148:25461/live/skytv12/skyline/1061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" group-title="",IBERALIA TV
+
+#EXTINF:-1,IBERALIA TV
 http://195.154.255.148:25461/live/skytv12/skyline/1244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IBERO HD" tvg-logo="" group-title="LATINOS HD",IBERO HD
+
+#EXTINF:-1,IBERO HD
 http://195.154.255.148:25461/live/skytv12/skyline/1035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="" group-title="LATINOS HD",ID HD
+
+#EXTINF:-1,ID HD
 http://195.154.255.148:25461/live/skytv12/skyline/1018.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INTI HD" tvg-logo="" group-title="LATINOS HD",INTI HD
+
+#EXTINF:-1,INTI HD
 http://195.154.255.148:25461/live/skytv12/skyline/925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INTI SD" tvg-logo="" group-title="LATINOS SD",INTI SD
+
+#EXTINF:-1,INTI SD
 http://195.154.255.148:25461/live/skytv12/skyline/1062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGACION DISCOVERY HD" tvg-logo="" group-title="",INVESTIGACION DISCOVERY HD
+
+#EXTINF:-1,INVESTIGACION DISCOVERY HD
 http://195.154.255.148:25461/live/skytv12/skyline/1036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ISAT HD" tvg-logo="" group-title="LATINOS HD",ISAT HD
+
+#EXTINF:-1,ISAT HD
 http://195.154.255.148:25461/live/skytv12/skyline/1019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="John Wick Chapter 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUie6wrbHEThBhpKoPbqZ6KQrU6.jpg" group-title="",John Wick Chapter 2
-http://195.154.255.148:25461/movie/skytv12/skyline/180.mkv
-#EXTINF:-1 tvg-id="" tvg-name="K MUSICA HD" tvg-logo="" group-title="LATINOS HD",K MUSICA HD
+
+#EXTINF:-1,K MUSICA HD
 http://195.154.255.148:25461/live/skytv12/skyline/997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="" group-title="",LA 1
+
+#EXTINF:-1,LA 1
 http://195.154.255.148:25461/live/skytv12/skyline/1378.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La 1 HD" tvg-logo="" group-title="",La 1 HD
+
+#EXTINF:-1,La 1 HD
 http://195.154.255.148:25461/live/skytv12/skyline/1377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="" group-title="",LA 2
+
+#EXTINF:-1,LA 2
 http://195.154.255.148:25461/live/skytv12/skyline/1376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Sexta" tvg-logo="" group-title="",La Sexta
+
+#EXTINF:-1,La Sexta
 http://195.154.255.148:25461/live/skytv12/skyline/1368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Sexta HD" tvg-logo="" group-title="",La Sexta HD
+
+#EXTINF:-1,La Sexta HD
 http://195.154.255.148:25461/live/skytv12/skyline/1367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga 1|2|3" tvg-logo="" group-title="",LaLiga 1|2|3
+
+#EXTINF:-1,LaLiga 1|2|3
 http://195.154.255.148:25461/live/skytv12/skyline/1331.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga 1|2|3 HD" tvg-logo="" group-title="",LaLiga 1|2|3 HD
+
+#EXTINF:-1,LaLiga 1|2|3 HD
 http://195.154.255.148:25461/live/skytv12/skyline/1330.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga 123 FHD" tvg-logo="" group-title="",LaLiga 123 FHD
+
+#EXTINF:-1,LaLiga 123 FHD
 http://195.154.255.148:25461/live/skytv12/skyline/1329.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV" tvg-logo="" group-title="",LaLiga TV
+
+#EXTINF:-1,LaLiga TV
 http://195.154.255.148:25461/live/skytv12/skyline/1354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV HD" tvg-logo="" group-title="",LaLiga TV HD
+
+#EXTINF:-1,LaLiga TV HD
 http://195.154.255.148:25461/live/skytv12/skyline/1355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="" group-title="LATINOS HD",LIFETIME HD
+
+#EXTINF:-1,LIFETIME HD
 http://195.154.255.148:25461/live/skytv12/skyline/896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME SD" tvg-logo="" group-title="LATINOS SD",LIFETIME SD
+
+#EXTINF:-1,LIFETIME SD
 http://195.154.255.148:25461/live/skytv12/skyline/1083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Logan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbJkbdwLNjHTomnXPD3jWlYm2U1.jpg" group-title="",Logan
-http://195.154.255.148:25461/movie/skytv12/skyline/179.mkv
-#EXTINF:-1 tvg-id="" tvg-name="M. Series xtra HD" tvg-logo="" group-title="",M. Series xtra HD
+
+#EXTINF:-1,M. Series xtra HD
 http://195.154.255.148:25461/live/skytv12/skyline/1286.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.MOTO GP" tvg-logo="" group-title="",M.MOTO GP
+
+#EXTINF:-1,M.MOTO GP
 http://195.154.255.148:25461/live/skytv12/skyline/1325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MASCHIC HD" tvg-logo="" group-title="LATINOS HD",MASCHIC HD
+
+#EXTINF:-1,MASCHIC HD
 http://195.154.255.148:25461/live/skytv12/skyline/968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME HD" tvg-logo="" group-title="LATINOS HD",MAX PRIME HD
+
+#EXTINF:-1,MAX PRIME HD
 http://195.154.255.148:25461/live/skytv12/skyline/969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP HD" tvg-logo="" group-title="LATINOS HD",MAX UP HD
+
+#EXTINF:-1,MAX UP HD
 http://195.154.255.148:25461/live/skytv12/skyline/948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="",MEGA
+
+#EXTINF:-1,MEGA
 http://195.154.255.148:25461/live/skytv12/skyline/1364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD" tvg-logo="" group-title="",Mezzo Live HD
+
+#EXTINF:-1,Mezzo Live HD
 http://195.154.255.148:25461/live/skytv12/skyline/1264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK HD" tvg-logo="" group-title="LATINOS HD",MLB NETWORK HD
+
+#EXTINF:-1,MLB NETWORK HD
 http://195.154.255.148:25461/live/skytv12/skyline/165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moana" tvg-logo="https://i2.wp.com/www.insidethemagic.net/wp-content/uploads/2016/06/CkcRTRpVAAAAdD4.jpg" group-title="",Moana
-http://195.154.255.148:25461/movie/skytv12/skyline/178.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Movistar DCine HD" tvg-logo="" group-title="",Movistar DCine HD
+
+#EXTINF:-1,Movistar DCine HD
 http://195.154.255.148:25461/live/skytv12/skyline/1317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 1" tvg-logo="" group-title="",Movistar Deportes 1
+
+#EXTINF:-1,Movistar Deportes 1
 http://195.154.255.148:25461/live/skytv12/skyline/1348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD" tvg-logo="" group-title="",MOVISTAR DEPORTES 1 HD
+
+#EXTINF:-1,MOVISTAR DEPORTES 1 HD
 http://195.154.255.148:25461/live/skytv12/skyline/1344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 2 HD" tvg-logo="" group-title="",Movistar Deportes 2 HD
+
+#EXTINF:-1,Movistar Deportes 2 HD
 http://195.154.255.148:25461/live/skytv12/skyline/1343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Futbol HD" tvg-logo="" group-title="",Movistar Futbol HD
+
+#EXTINF:-1,Movistar Futbol HD
 http://195.154.255.148:25461/live/skytv12/skyline/1346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf" tvg-logo="" group-title="",Movistar Golf
+
+#EXTINF:-1,Movistar Golf
 http://195.154.255.148:25461/live/skytv12/skyline/1345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF HD" tvg-logo="" group-title="",MOVISTAR GOLF HD
+
+#EXTINF:-1,MOVISTAR GOLF HD
 http://195.154.255.148:25461/live/skytv12/skyline/1342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MP HD" tvg-logo="" group-title="LATINOS HD",MP HD
+
+#EXTINF:-1,MP HD
 http://195.154.255.148:25461/live/skytv12/skyline/1020.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="LATINOS HD",MTV HD
+
+#EXTINF:-1,MTV HD
 http://195.154.255.148:25461/live/skytv12/skyline/970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV HITS HD" tvg-logo="" group-title="LATINOS HD",MTV HITS HD
+
+#EXTINF:-1,MTV HITS HD
 http://195.154.255.148:25461/live/skytv12/skyline/971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="" group-title="LATINOS HD",MTV LIVE HD
+
+#EXTINF:-1,MTV LIVE HD
 http://195.154.255.148:25461/live/skytv12/skyline/926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE SD" tvg-logo="" group-title="LATINOS SD",MTV LIVE SD
-http://195.154.255.148:25461/live/skytv12/skyline/1063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER HD" tvg-logo="" group-title="LATINOS HD",MULTIPREMIER HD
+
+#EXTINF:-1,MULTIPREMIER HD
 http://195.154.255.148:25461/live/skytv12/skyline/972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="LATINOS HD",NAT GEO HD
+
+#EXTINF:-1,NAT GEO HD
 http://195.154.255.148:25461/live/skytv12/skyline/949.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS HD" tvg-logo="" group-title="LATINOS HD",NAT GEO KIDS HD
+
+#EXTINF:-1,NAT GEO KIDS HD
 http://195.154.255.148:25461/live/skytv12/skyline/897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS SD" tvg-logo="" group-title="LATINOS SD",NAT GEO KIDS SD
+
+#EXTINF:-1,NAT GEO KIDS SD
 http://195.154.255.148:25461/live/skytv12/skyline/1084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="" group-title="LATINOS HD",NATGEO WILD HD
+
+#EXTINF:-1,NATGEO WILD HD
 http://195.154.255.148:25461/live/skytv12/skyline/898.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD SD" tvg-logo="" group-title="LATINOS SD",NATGEO WILD SD
+
+#EXTINF:-1,NATGEO WILD SD
 http://195.154.255.148:25461/live/skytv12/skyline/1085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBATV_HDUS" tvg-logo="" group-title="",NBATV_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Neox" tvg-logo="" group-title="",Neox
+
+#EXTINF:-1,Neox
 http://195.154.255.148:25461/live/skytv12/skyline/1366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL_HDUS" tvg-logo="" group-title="",NFL_HDUS
-http://195.154.255.148:25461/live/skytv12/skyline/1379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK 2 HD" tvg-logo="" group-title="LATINOS HD",NICK 2 HD
+
+#EXTINF:-1,NICK 2 HD
 http://195.154.255.148:25461/live/skytv12/skyline/998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK HD" tvg-logo="" group-title="LATINOS HD",NICK HD
+
+#EXTINF:-1,NICK HD
 http://195.154.255.148:25461/live/skytv12/skyline/1021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="",NICK JR
+
+#EXTINF:-1,NICK JR
 http://195.154.255.148:25461/live/skytv12/skyline/1294.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD" tvg-logo="" group-title="LATINOS HD",NICK JR HD
+
+#EXTINF:-1,NICK JR HD
 http://195.154.255.148:25461/live/skytv12/skyline/950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="LATINOS HD",NICKELODEON HD
+
+#EXTINF:-1,NICKELODEON HD
 http://195.154.255.148:25461/live/skytv12/skyline/899.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON SD" tvg-logo="" group-title="LATINOS SD",NICKELODEON SD
+
+#EXTINF:-1,NICKELODEON SD
 http://195.154.255.148:25461/live/skytv12/skyline/1086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FHD" tvg-logo="" group-title="LATINOS HD",PARAMOUNT FHD
+
+#EXTINF:-1,PARAMOUNT FHD
 http://195.154.255.148:25461/live/skytv12/skyline/973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD" tvg-logo="" group-title="LATINOS HD",PASIONES HD
+
+#EXTINF:-1,PASIONES HD
 http://195.154.255.148:25461/live/skytv12/skyline/974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIOLA HD" tvg-logo="" group-title="LATINOS HD",RADIOLA HD
+
+#EXTINF:-1,RADIOLA HD
 http://195.154.255.148:25461/live/skytv12/skyline/1037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI HD" tvg-logo="" group-title="LATINOS HD",RAI HD
+
+#EXTINF:-1,RAI HD
 http://195.154.255.148:25461/live/skytv12/skyline/900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SD" tvg-logo="" group-title="LATINOS SD",RAI SD
+
+#EXTINF:-1,RAI SD
 http://195.154.255.148:25461/live/skytv12/skyline/1087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN TELENOVELAS HD" tvg-logo="" group-title="LATINOS HD",RCN TELENOVELAS HD
+
+#EXTINF:-1,RCN TELENOVELAS HD
 http://195.154.255.148:25461/live/skytv12/skyline/975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV" tvg-logo="" group-title="",Realmadrid TV
-http://195.154.255.148:25461/live/skytv12/skyline/1319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RED HD" tvg-logo="" group-title="LATINOS HD",RED HD
+
+#EXTINF:-1,RED HD
 http://195.154.255.148:25461/live/skytv12/skyline/999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SFRSport1" tvg-logo="" group-title="",SFRSport1
+
+#EXTINF:-1,SFRSport1
 http://195.154.255.148:25461/live/skytv12/skyline/1341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SFRSport2" tvg-logo="" group-title="",SFRSport2
+
+#EXTINF:-1,SFRSport2
 http://195.154.255.148:25461/live/skytv12/skyline/1340.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SFRSport3" tvg-logo="" group-title="",SFRSport3
+
+#EXTINF:-1,SFRSport3
 http://195.154.255.148:25461/live/skytv12/skyline/1339.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SFRSport5" tvg-logo="" group-title="",SFRSport5
+
+#EXTINF:-1,SFRSport5
 http://195.154.255.148:25461/live/skytv12/skyline/1338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="" group-title="LATINOS HD",SONY HD
+
+#EXTINF:-1,SONY HD
 http://195.154.255.148:25461/live/skytv12/skyline/976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="" group-title="LATINOS HD",SPACE HD
+
+#EXTINF:-1,SPACE HD
 http://195.154.255.148:25461/live/skytv12/skyline/927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPACE SD" tvg-logo="" group-title="LATINOS SD",SPACE SD
-http://195.154.255.148:25461/live/skytv12/skyline/1064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD" tvg-logo="" group-title="",Sport TV 1 HD
+
+#EXTINF:-1,Sport TV 1 HD
 http://195.154.255.148:25461/live/skytv12/skyline/1334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 HD" tvg-logo="" group-title="",Sport TV 2 HD
+
+#EXTINF:-1,Sport TV 2 HD
 http://195.154.255.148:25461/live/skytv12/skyline/1333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="" group-title="LATINOS HD",STUDIO UNIVERSAL HD
+
+#EXTINF:-1,STUDIO UNIVERSAL HD
 http://195.154.255.148:25461/live/skytv12/skyline/977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE" tvg-logo="" group-title="",SUNDANCE
+
+#EXTINF:-1,SUNDANCE
 http://195.154.255.148:25461/live/skytv12/skyline/1260.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE HD" tvg-logo="" group-title="LATINOS HD",SUNDANCE HD
+
+#EXTINF:-1,SUNDANCE HD
 http://195.154.255.148:25461/live/skytv12/skyline/951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="",SYFY HD
+
+#EXTINF:-1,SYFY HD
 http://195.154.255.148:25461/live/skytv12/skyline/1267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="",TCM HD
+
+#EXTINF:-1,TCM HD
 http://195.154.255.148:25461/live/skytv12/skyline/1305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="" group-title="LATINOS HD",MULTIPREMIER
+
+#EXTINF:-1,MULTIPREMIER
 http://195.154.255.148:25461/live/skytv12/skyline/1000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA HD" tvg-logo="" group-title="LATINOS HD",TELEANTIOQUIA HD
+
+#EXTINF:-1,TELEANTIOQUIA HD
 http://195.154.255.148:25461/live/skytv12/skyline/1038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECAFE HD" tvg-logo="" group-title="LATINOS HD",TELECAFE HD
+
+#EXTINF:-1,TELECAFE HD
 http://195.154.255.148:25461/live/skytv12/skyline/1039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecinco HD" tvg-logo="" group-title="",Telecinco HD
+
+#EXTINF:-1,Telecinco HD
 http://195.154.255.148:25461/live/skytv12/skyline/1369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO HD" tvg-logo="" group-title="",TELEMUNDO HD
+
+#EXTINF:-1,TELEMUNDO HD
 http://195.154.255.148:25461/live/skytv12/skyline/928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INTERNACIONAL HD" tvg-logo="" group-title="LATINOS HD",TELEMUNDO INTERNACIONAL HD
+
+#EXTINF:-1,TELEMUNDO INTERNACIONAL HD
 http://195.154.255.148:25461/live/skytv12/skyline/1040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SD" tvg-logo="" group-title="LATINOS SD",TELEMUNDO SD
+
+#EXTINF:-1,TELEMUNDO SD
 http://195.154.255.148:25461/live/skytv12/skyline/1065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemusica" tvg-logo="" group-title="",Telemusica
+
+#EXTINF:-1,Telemusica
 http://195.154.255.148:25461/live/skytv12/skyline/1259.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO HD" tvg-logo="" group-title="LATINOS HD",TELEPACIFICO HD
+
+#EXTINF:-1,TELEPACIFICO HD
 http://195.154.255.148:25461/live/skytv12/skyline/1001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE FILM ZONE HD" tvg-logo="" group-title="LATINOS HD",THE FILM ZONE HD
+
+#EXTINF:-1,THE FILM ZONE HD
 http://195.154.255.148:25461/live/skytv12/skyline/978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="LATINOS HD",TLC HD
+
+#EXTINF:-1,TLC HD
 http://195.154.255.148:25461/live/skytv12/skyline/1041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS HD" tvg-logo="" group-title="",TLNOVELAS HD
+
+#EXTINF:-1,TLNOVELAS HD
 http://195.154.255.148:25461/live/skytv12/skyline/952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD C" tvg-logo="" group-title="LATINOS HD",TCM HD C
+
+#EXTINF:-1,TCM HD C
 http://195.154.255.148:25461/live/skytv12/skyline/953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT ES" tvg-logo="" group-title="",TNT ES
+
+#EXTINF:-1,TNT ES
 http://195.154.255.148:25461/live/skytv12/skyline/1271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="LATINOS HD",TNT HD
+
+#EXTINF:-1,TNT HD
 http://195.154.255.148:25461/live/skytv12/skyline/901.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD 2" tvg-logo="" group-title="LATINOS HD",TNT HD 2
+
+#EXTINF:-1,TNT HD 2
 http://195.154.255.148:25461/live/skytv12/skyline/954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD ES" tvg-logo="" group-title="",TNT HD ES
+
+#EXTINF:-1,TNT HD ES
 http://195.154.255.148:25461/live/skytv12/skyline/1270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="" group-title="LATINOS SD",TNT SD
+
+#EXTINF:-1,TNT SD
 http://195.154.255.148:25461/live/skytv12/skyline/1088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="" group-title="LATINOS HD",TNT SERIES HD
+
+#EXTINF:-1,TNT SERIES HD
 http://195.154.255.148:25461/live/skytv12/skyline/902.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES SD" tvg-logo="" group-title="LATINOS SD",TNT SERIES SD
+
+#EXTINF:-1,TNT SERIES SD
 http://195.154.255.148:25461/live/skytv12/skyline/1089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD" tvg-logo="" group-title="LATINOS HD",TOONCAST HD
+
+#EXTINF:-1,TOONCAST HD
 http://195.154.255.148:25461/live/skytv12/skyline/979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Toros TV" tvg-logo="" group-title="",Toros TV
+
+#EXTINF:-1,Toros TV
 http://195.154.255.148:25461/live/skytv12/skyline/1323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Toros TV HD ES" tvg-logo="" group-title="",Toros TV HD ES
+
+#EXTINF:-1,Toros TV HD ES
 http://195.154.255.148:25461/live/skytv12/skyline/1324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRUTV HD" tvg-logo="" group-title="LATINOS HD",TRUTV HD
+
+#EXTINF:-1,TRUTV HD
 http://195.154.255.148:25461/live/skytv12/skyline/1002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV AGRO HD" tvg-logo="" group-title="LATINOS HD",TV AGRO HD
+
+#EXTINF:-1,TV AGRO HD
 http://195.154.255.148:25461/live/skytv12/skyline/1003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV5 HD" tvg-logo="" group-title="LATINOS HD",TV5 HD
+
+#EXTINF:-1,TV5 HD
 http://195.154.255.148:25461/live/skytv12/skyline/955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE HD" tvg-logo="" group-title="",TVE HD
+
+#EXTINF:-1,TVE HD
 http://195.154.255.148:25461/live/skytv12/skyline/903.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE SD" tvg-logo="" group-title="LATINOS SD",TVE SD
+
+#EXTINF:-1,TVE SD
 http://195.154.255.148:25461/live/skytv12/skyline/1092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANEL HD" tvg-logo="" group-title="",UNIVERSAL CHANEL HD
+
+#EXTINF:-1,UNIVERSAL CHANEL HD
 http://195.154.255.148:25461/live/skytv12/skyline/980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNO HD" tvg-logo="" group-title="LATINOS HD",UNO HD
+
+#EXTINF:-1,UNO HD
 http://195.154.255.148:25461/live/skytv12/skyline/1042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VALLENATO HD" tvg-logo="" group-title="",VALLENATO HD
+
+#EXTINF:-1,VALLENATO HD
 http://195.154.255.148:25461/live/skytv12/skyline/1004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VEPLUSTV HD" tvg-logo="" group-title="",VEPLUSTV HD
+
+#EXTINF:-1,VEPLUSTV HD
 http://195.154.255.148:25461/live/skytv12/skyline/929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VEPLUSTV SD" tvg-logo="" group-title="LATINOS SD",VEPLUSTV SD
+
+#EXTINF:-1,VEPLUSTV SD
 http://195.154.255.148:25461/live/skytv12/skyline/1066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSIC HD" tvg-logo="" group-title="LATINOS HD",VH1 CLASSIC HD
+
+#EXTINF:-1,VH1 CLASSIC HD
 http://195.154.255.148:25461/live/skytv12/skyline/930.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSIC SD" tvg-logo="" group-title="LATINOS SD",VH1 CLASSIC SD
+
+#EXTINF:-1,VH1 CLASSIC SD
 http://195.154.255.148:25461/live/skytv12/skyline/1067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="LATINOS HD",VH1 HD
+
+#EXTINF:-1,VH1 HD
 http://195.154.255.148:25461/live/skytv12/skyline/904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VH1 SD" tvg-logo="" group-title="LATINOS SD",VH1 SD
+
+#EXTINF:-1,VH1 SD
 http://195.154.255.148:25461/live/skytv12/skyline/1090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAJAR" tvg-logo="" group-title="",VIAJAR
+
+#EXTINF:-1,VIAJAR
 http://195.154.255.148:25461/live/skytv12/skyline/1245.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="" group-title="LATINOS HD",WARNER HD
+
+#EXTINF:-1,WARNER HD
 http://195.154.255.148:25461/live/skytv12/skyline/905.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WARNER SD" tvg-logo="" group-title="LATINOS SD",WARNER SD
+
+#EXTINF:-1,WARNER SD
 http://195.154.255.148:25461/live/skytv12/skyline/1091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT HD" tvg-logo="" group-title="LATINOS HD",WIN SPORT HD
+
+#EXTINF:-1,WIN SPORT HD
 http://195.154.255.148:25461/live/skytv12/skyline/1005.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 P3" tvg-logo="" group-title="",Azteca 7 P3
+#EXTINF:-1,Azteca 7 P3
 http://195.154.255.148:25461/live/skytv12/skyline/1917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV Spanish" tvg-logo="" group-title="",Baby TV Spanish
-http://195.154.255.148:25461/live/skytv12/skyline/2023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 10" tvg-logo="" group-title="",BEIN 10
-http://195.154.255.148:25461/live/skytv12/skyline/1977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3" tvg-logo="" group-title="",BEIN 3
-http://195.154.255.148:25461/live/skytv12/skyline/1975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 4" tvg-logo="" group-title="",BEIN 4
-http://195.154.255.148:25461/live/skytv12/skyline/1974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 5" tvg-logo="" group-title="",BEIN 5
-http://195.154.255.148:25461/live/skytv12/skyline/1973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 6" tvg-logo="" group-title="",BEIN 6
-http://195.154.255.148:25461/live/skytv12/skyline/1972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 7" tvg-logo="" group-title="",BEIN 7
-http://195.154.255.148:25461/live/skytv12/skyline/1971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 8" tvg-logo="" group-title="",BEIN 8
-http://195.154.255.148:25461/live/skytv12/skyline/1970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 9" tvg-logo="" group-title="",BEIN 9
-http://195.154.255.148:25461/live/skytv12/skyline/1969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English" tvg-logo="" group-title="",Bein Sports English
-http://195.154.255.148:25461/live/skytv12/skyline/2021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ [Español]" tvg-logo="" group-title="",Bein Sports Ñ [Español]
-http://195.154.255.148:25461/live/skytv12/skyline/2022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Benfica TV" tvg-logo="" group-title="",Benfica TV
-http://195.154.255.148:25461/live/skytv12/skyline/1956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 P3" tvg-logo="" group-title="",Canal 5 P3
-http://195.154.255.148:25461/live/skytv12/skyline/1918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS 2 Los Angeles CA USA" tvg-logo="" group-title="",CBS 2 Los Angeles CA USA
-http://195.154.255.148:25461/live/skytv12/skyline/1967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS New York USA" tvg-logo="" group-title="",CBS New York USA
-http://195.154.255.148:25461/live/skytv12/skyline/1966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Network" tvg-logo="" group-title="",CBS Sports Network
-http://195.154.255.148:25461/live/skytv12/skyline/1952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sony" tvg-logo="" group-title="",Cine Sony
-http://195.154.255.148:25461/live/skytv12/skyline/2016.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNBC World USA" tvg-logo="" group-title="",CNBC World USA
-http://195.154.255.148:25461/live/skytv12/skyline/2038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cozi Tv" tvg-logo="" group-title="",Cozi Tv
-http://195.154.255.148:25461/live/skytv12/skyline/2013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia P3" tvg-logo="" group-title="",Distrito Comedia P3
-http://195.154.255.148:25461/live/skytv12/skyline/1916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E! USA" tvg-logo="" group-title="",E! USA
-http://195.154.255.148:25461/live/skytv12/skyline/2034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Rey Network" tvg-logo="" group-title="",El Rey Network
-http://195.154.255.148:25461/live/skytv12/skyline/2012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports" tvg-logo="" group-title="",Eleven Sports
-http://195.154.255.148:25461/live/skytv12/skyline/2011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fantasy" tvg-logo="" group-title="",Fantasy
-http://195.154.255.148:25461/live/skytv12/skyline/2010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fight Network" tvg-logo="" group-title="",Fight Network
-http://195.154.255.148:25461/live/skytv12/skyline/2009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Food Network USA" tvg-logo="" group-title="",Food Network USA
-http://195.154.255.148:25461/live/skytv12/skyline/1985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Atlanta" tvg-logo="" group-title="",FOX Atlanta
-http://195.154.255.148:25461/live/skytv12/skyline/1955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Business" tvg-logo="" group-title="",Fox Business
-http://195.154.255.148:25461/live/skytv12/skyline/2008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Collage Sports Atlantic" tvg-logo="" group-title="",FOX Collage Sports Atlantic
-http://195.154.255.148:25461/live/skytv12/skyline/1948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Collage Sports Central" tvg-logo="" group-title="",FOX Collage Sports Central
-http://195.154.255.148:25461/live/skytv12/skyline/1947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Collage Sports Pacific" tvg-logo="" group-title="",FOX Collage Sports Pacific
-http://195.154.255.148:25461/live/skytv12/skyline/1946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes" tvg-logo="" group-title="",FOX Deportes
-http://195.154.255.148:25461/live/skytv12/skyline/2007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Los Angeles CA USA" tvg-logo="" group-title="",Fox Los Angeles CA USA
-http://195.154.255.148:25461/live/skytv12/skyline/1965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX New York USA" tvg-logo="" group-title="",FOX New York USA
-http://195.154.255.148:25461/live/skytv12/skyline/1964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="",Fox News
-http://195.154.255.148:25461/live/skytv12/skyline/2006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus" tvg-logo="" group-title="",Fox Soccer Plus
-http://195.154.255.148:25461/live/skytv12/skyline/2005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Arizona" tvg-logo="" group-title="",FOX Sports Arizona
-http://195.154.255.148:25461/live/skytv12/skyline/1954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Arizona 2" tvg-logo="" group-title="",FOX Sports Arizona 2
-http://195.154.255.148:25461/live/skytv12/skyline/2049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Carolinas" tvg-logo="" group-title="",FOX Sports Carolinas
-http://195.154.255.148:25461/live/skytv12/skyline/2048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Detroit" tvg-logo="" group-title="",FOX Sports Detroit
-http://195.154.255.148:25461/live/skytv12/skyline/1945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Florida" tvg-logo="" group-title="",FOX Sports Florida
-http://195.154.255.148:25461/live/skytv12/skyline/1944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Midwest" tvg-logo="" group-title="",FOX Sports Midwest
-http://195.154.255.148:25461/live/skytv12/skyline/2047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports New Orleans" tvg-logo="" group-title="",FOX Sports New Orleans
-http://195.154.255.148:25461/live/skytv12/skyline/2046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports North" tvg-logo="" group-title="",FOX Sports North
-http://195.154.255.148:25461/live/skytv12/skyline/2045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports North Plus" tvg-logo="" group-title="",FOX Sports North Plus
-http://195.154.255.148:25461/live/skytv12/skyline/2044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Ohio" tvg-logo="" group-title="",FOX Sports Ohio
-http://195.154.255.148:25461/live/skytv12/skyline/2043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Oklahoma" tvg-logo="" group-title="",FOX Sports Oklahoma
-http://195.154.255.148:25461/live/skytv12/skyline/2042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports San Diego USA" tvg-logo="" group-title="",Fox Sports San Diego USA
-http://195.154.255.148:25461/live/skytv12/skyline/1984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Southeast" tvg-logo="" group-title="",FOX Sports Southeast
-http://195.154.255.148:25461/live/skytv12/skyline/2041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports SouthWest" tvg-logo="" group-title="",FOX Sports SouthWest
-http://195.154.255.148:25461/live/skytv12/skyline/1942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports SouthWest Plus" tvg-logo="" group-title="",FOX Sports SouthWest Plus
-http://195.154.255.148:25461/live/skytv12/skyline/1941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports SUN" tvg-logo="" group-title="",FOX Sports SUN
-http://195.154.255.148:25461/live/skytv12/skyline/1940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports West" tvg-logo="" group-title="",FOX Sports West
-http://195.154.255.148:25461/live/skytv12/skyline/1939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports West USA" tvg-logo="" group-title="",Fox Sports West USA
-http://195.154.255.148:25461/live/skytv12/skyline/1983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Wisconsin" tvg-logo="" group-title="",FOX Sports Wisconsin
-http://195.154.255.148:25461/live/skytv12/skyline/2040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Wisconsin Plus" tvg-logo="" group-title="",FOX Sports Wisconsin Plus
-http://195.154.255.148:25461/live/skytv12/skyline/2039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Washington" tvg-logo="" group-title="",FOX Washington
-http://195.154.255.148:25461/live/skytv12/skyline/1953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FS1" tvg-logo="" group-title="",FS1
-http://195.154.255.148:25461/live/skytv12/skyline/2004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FS2" tvg-logo="" group-title="",FS2
-http://195.154.255.148:25461/live/skytv12/skyline/2003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fuse" tvg-logo="" group-title="",Fuse
-http://195.154.255.148:25461/live/skytv12/skyline/2002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fusion USA" tvg-logo="" group-title="",Fusion USA
-http://195.154.255.148:25461/live/skytv12/skyline/2037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FX USA" tvg-logo="" group-title="",FX USA
-http://195.154.255.148:25461/live/skytv12/skyline/2033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="" group-title="",FXM
-http://195.154.255.148:25461/live/skytv12/skyline/2001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="" group-title="",FXX
-http://195.154.255.148:25461/live/skytv12/skyline/2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FYI" tvg-logo="" group-title="",FYI
-http://195.154.255.148:25461/live/skytv12/skyline/1999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Galavisión USA" tvg-logo="" group-title="",Galavisión USA
-http://195.154.255.148:25461/live/skytv12/skyline/2032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="" group-title="",Gol TV
-http://195.154.255.148:25461/live/skytv12/skyline/1998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gol TV English" tvg-logo="" group-title="",Gol TV English
-http://195.154.255.148:25461/live/skytv12/skyline/1997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hallmark" tvg-logo="" group-title="",Hallmark
-http://195.154.255.148:25461/live/skytv12/skyline/1996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hallmark Movies & Misteries" tvg-logo="" group-title="",Hallmark Movies & Misteries
-http://195.154.255.148:25461/live/skytv12/skyline/1995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HGTV USA" tvg-logo="" group-title="",HGTV USA
-http://195.154.255.148:25461/live/skytv12/skyline/1982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY USA" tvg-logo="" group-title="",HISTORY USA
-http://195.154.255.148:25461/live/skytv12/skyline/2031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME Movie Network" tvg-logo="" group-title="",LIFETIME Movie Network
-http://195.154.255.148:25461/live/skytv12/skyline/1994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME USA" tvg-logo="" group-title="",LIFETIME USA
-http://195.154.255.148:25461/live/skytv12/skyline/2030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MSG 2 Plus" tvg-logo="" group-title="",MSG 2 Plus
-http://195.154.255.148:25461/live/skytv12/skyline/1927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MSG Network" tvg-logo="" group-title="",MSG Network
-http://195.154.255.148:25461/live/skytv12/skyline/1926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MSG Plus" tvg-logo="" group-title="",MSG Plus
-http://195.154.255.148:25461/live/skytv12/skyline/1928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MSG2" tvg-logo="" group-title="",MSG2
-http://195.154.255.148:25461/live/skytv12/skyline/1925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="" group-title="",MSNBC
-http://195.154.255.148:25461/live/skytv12/skyline/1993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO MUNDO USA" tvg-logo="" group-title="",NATGEO MUNDO USA
-http://195.154.255.148:25461/live/skytv12/skyline/2029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO USA" tvg-logo="" group-title="",NATGEO USA
-http://195.154.255.148:25461/live/skytv12/skyline/2028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD USA" tvg-logo="" group-title="",NATGEO WILD USA
-http://195.154.255.148:25461/live/skytv12/skyline/2027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Los Ángeles" tvg-logo="" group-title="",NBC Los Ángeles
-http://195.154.255.148:25461/live/skytv12/skyline/1951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Miami" tvg-logo="" group-title="",NBC Miami
-http://195.154.255.148:25461/live/skytv12/skyline/1992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC New York USA" tvg-logo="" group-title="",NBC New York USA
-http://195.154.255.148:25461/live/skytv12/skyline/1963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Bay Area" tvg-logo="" group-title="",NBC Sports Bay Area
-http://195.154.255.148:25461/live/skytv12/skyline/1931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Boston" tvg-logo="" group-title="",NBC Sports Boston
-http://195.154.255.148:25461/live/skytv12/skyline/1924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports California" tvg-logo="" group-title="",NBC Sports California
-http://195.154.255.148:25461/live/skytv12/skyline/1930.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Chicago" tvg-logo="" group-title="",NBC Sports Chicago
-http://195.154.255.148:25461/live/skytv12/skyline/1923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Chicago Plus" tvg-logo="" group-title="",NBC Sports Chicago Plus
-http://195.154.255.148:25461/live/skytv12/skyline/2051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Northwest" tvg-logo="" group-title="",NBC Sports Northwest
-http://195.154.255.148:25461/live/skytv12/skyline/1922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Philadelphia" tvg-logo="" group-title="",NBC Sports Philadelphia
-http://195.154.255.148:25461/live/skytv12/skyline/1921.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Washington" tvg-logo="" group-title="",NBC Sports Washington
-http://195.154.255.148:25461/live/skytv12/skyline/1929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Washington" tvg-logo="" group-title="",NBC Washington
-http://195.154.255.148:25461/live/skytv12/skyline/1950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="" group-title="",NBCSN
-http://195.154.255.148:25461/live/skytv12/skyline/1991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NESN" tvg-logo="" group-title="",NESN
-http://195.154.255.148:25461/live/skytv12/skyline/1920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NESN Plus" tvg-logo="" group-title="",NESN Plus
-http://195.154.255.148:25461/live/skytv12/skyline/1919.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="" group-title="",NFL Network
-http://195.154.255.148:25461/live/skytv12/skyline/1968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL: Red Zone" tvg-logo="" group-title="",NFL: Red Zone
-http://195.154.255.148:25461/live/skytv12/skyline/1959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel USA" tvg-logo="" group-title="",Olympic Channel USA
-http://195.154.255.148:25461/live/skytv12/skyline/1981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Oxygen" tvg-logo="" group-title="",Oxygen
-http://195.154.255.148:25461/live/skytv12/skyline/2050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Arizona" tvg-logo="" group-title="",PAC 12 Arizona
-http://195.154.255.148:25461/live/skytv12/skyline/1938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Bay Area" tvg-logo="" group-title="",PAC 12 Bay Area
-http://195.154.255.148:25461/live/skytv12/skyline/1937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Los Ángeles" tvg-logo="" group-title="",PAC 12 Los Ángeles
-http://195.154.255.148:25461/live/skytv12/skyline/1936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Mountain" tvg-logo="" group-title="",PAC 12 Mountain
-http://195.154.255.148:25461/live/skytv12/skyline/1935.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Networks" tvg-logo="" group-title="",PAC 12 Networks
-http://195.154.255.148:25461/live/skytv12/skyline/1934.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Orgeon" tvg-logo="" group-title="",PAC 12 Orgeon
-http://195.154.255.148:25461/live/skytv12/skyline/1933.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Washington" tvg-logo="" group-title="",PAC 12 Washington
-http://195.154.255.148:25461/live/skytv12/skyline/1932.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAC12 Network USA" tvg-logo="" group-title="",PAC12 Network USA
-http://195.154.255.148:25461/live/skytv12/skyline/1980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POP USA" tvg-logo="" group-title="",POP USA
-http://195.154.255.148:25461/live/skytv12/skyline/1979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="" group-title="",Real Madrid TV
-http://195.154.255.148:25461/live/skytv12/skyline/1976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Revolt" tvg-logo="" group-title="",Revolt
-http://195.154.255.148:25461/live/skytv12/skyline/1990.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTP Portugal" tvg-logo="" group-title="",RTP Portugal
-http://195.154.255.148:25461/live/skytv12/skyline/1989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sprout" tvg-logo="" group-title="",Sprout
-http://195.154.255.148:25461/live/skytv12/skyline/1988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYFY USA" tvg-logo="" group-title="",SYFY USA
-http://195.154.255.148:25461/live/skytv12/skyline/2026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Los Angeles USA" tvg-logo="" group-title="",Telemundo Los Angeles USA
-http://195.154.255.148:25461/live/skytv12/skyline/1962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Miami USA" tvg-logo="" group-title="",Telemundo Miami USA
-http://195.154.255.148:25461/live/skytv12/skyline/1961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo New York USA" tvg-logo="" group-title="",Telemundo New York USA
-http://195.154.255.148:25461/live/skytv12/skyline/1960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telexitos USA" tvg-logo="" group-title="",Telexitos USA
-http://195.154.255.148:25461/live/skytv12/skyline/1958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Golf Channel" tvg-logo="" group-title="",The Golf Channel
-http://195.154.255.148:25461/live/skytv12/skyline/1987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel USA" tvg-logo="" group-title="",Travel Channel USA
-http://195.154.255.148:25461/live/skytv12/skyline/2036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports USA" tvg-logo="" group-title="",TyC Sports USA
-http://195.154.255.148:25461/live/skytv12/skyline/2025.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Unimás USA" tvg-logo="" group-title="",Unimás USA
-http://195.154.255.148:25461/live/skytv12/skyline/2024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Universo" tvg-logo="" group-title="",Universo
-http://195.154.255.148:25461/live/skytv12/skyline/1986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Univisión TDN USA (Univisión Deportes)" tvg-logo="" group-title="",Univisión TDN USA (Univisión Deportes)
-http://195.154.255.148:25461/live/skytv12/skyline/1915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION USA" tvg-logo="" group-title="",UNIVISION USA
-http://195.154.255.148:25461/live/skytv12/skyline/1914.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA" tvg-logo="" group-title="",USA
-http://195.154.255.148:25461/live/skytv12/skyline/1978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | A&E" tvg-logo="" group-title="",USA | A&E
-http://195.154.255.148:25461/live/skytv12/skyline/2035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bravo" tvg-logo="" group-title="",USA | Bravo
-http://195.154.255.148:25461/live/skytv12/skyline/2020.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | BTN" tvg-logo="" group-title="",USA | BTN
-http://195.154.255.148:25461/live/skytv12/skyline/2019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | CNBC" tvg-logo="" group-title="",USA | CNBC
-http://195.154.255.148:25461/live/skytv12/skyline/2015.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | CNBC World" tvg-logo="" group-title="",USA | CNBC World
-http://195.154.255.148:25461/live/skytv12/skyline/2014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YES Network" tvg-logo="" group-title="",YES Network
-http://195.154.255.148:25461/live/skytv12/skyline/1949.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV - PE" tvg-logo="" group-title="",AMERICA TV - PE
-http://195.154.255.148:25461/live/skytv12/skyline/2056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAPITAL PERU - PE" tvg-logo="" group-title="",CAPITAL PERU - PE
-http://195.154.255.148:25461/live/skytv12/skyline/2057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIGITAL PERU - PE" tvg-logo="" group-title="",DIGITAL PERU - PE
-http://195.154.255.148:25461/live/skytv12/skyline/2058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Musica Rock Latino FHD" tvg-logo="" group-title="",Musica Rock Latino FHD
-http://195.154.255.148:25461/live/skytv12/skyline/2053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA TV - PE" tvg-logo="" group-title="",PANAMERICANA TV - PE
-http://195.154.255.148:25461/live/skytv12/skyline/2055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TENIS CHANEL" tvg-logo="" group-title="",TENIS CHANEL
-http://195.154.255.148:25461/live/skytv12/skyline/2052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV PERU - PE" tvg-logo="" group-title="",TV PERU - PE
-http://195.154.255.148:25461/live/skytv12/skyline/2054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 HD" tvg-logo="" group-title="",CANAL 5 HD
-http://195.154.255.148:25461/live/skytv12/skyline/2095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE CANAL HD" tvg-logo="" group-title="",CINE CANAL HD
-http://195.154.255.148:25461/live/skytv12/skyline/2060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA HD" tvg-logo="" group-title="",DE PELICULA HD
-http://195.154.255.148:25461/live/skytv12/skyline/2059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC HD" tvg-logo="" group-title="",DISCOVERY TLC HD
-http://195.154.255.148:25461/live/skytv12/skyline/2072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN3" tvg-logo="" group-title="",ESPN3
-http://195.154.255.148:25461/live/skytv12/skyline/2092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX NFL" tvg-logo="" group-title="",FOX NFL
-http://195.154.255.148:25461/live/skytv12/skyline/2089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV US" tvg-logo="" group-title="",GOL TV US
-http://195.154.255.148:25461/live/skytv12/skyline/2094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX SD" tvg-logo="" group-title="",MAX SD
-http://195.154.255.148:25461/live/skytv12/skyline/2061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV US" tvg-logo="" group-title="",NBA TV US
-http://195.154.255.148:25461/live/skytv12/skyline/2093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PUERTO RICO" tvg-logo="" group-title="",TELEMUNDO PUERTO RICO
-http://195.154.255.148:25461/live/skytv12/skyline/2091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEVISA MX" tvg-logo="" group-title="",TELEVISA MX
-http://195.154.255.148:25461/live/skytv12/skyline/2090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNICABLE HD" tvg-logo="" group-title="",UNICABLE HD
-http://195.154.255.148:25461/live/skytv12/skyline/2075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION PUERTO RICO" tvg-logo="" group-title="",UNIVISION PUERTO RICO
-https://uvnlocal-lh.akamaihd.net/i/WLII_0@300710/index_1300_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WAPA" tvg-logo="" group-title="",WAPA
-http://195.154.255.148:25461/live/skytv12/skyline/2096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WIPR" tvg-logo="" group-title="",WIPR
-http://195.154.255.148:25461/live/skytv12/skyline/2098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATV - PE" tvg-logo="" group-title="",ATV - PE
-http://195.154.255.148:25461/live/skytv12/skyline/2102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU - PE" tvg-logo="" group-title="",GOL PERU - PE
-http://195.154.255.148:25461/live/skytv12/skyline/2101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LATINA - PE" tvg-logo="" group-title="",LATINA - PE
-http://195.154.255.148:25461/live/skytv12/skyline/2103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES - PE" tvg-logo="" group-title="",MOVISTAR DEPORTES - PE
-http://195.154.255.148:25461/live/skytv12/skyline/2100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERU MAGICO - PE" tvg-logo="" group-title="",PERU MAGICO - PE
-http://195.154.255.148:25461/live/skytv12/skyline/2099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 PUERTO RICO" tvg-logo="" group-title="",CANAL 13 PUERTO RICO
-http://195.154.255.148:25461/live/skytv12/skyline/2105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CDM PUERTO RICO" tvg-logo="" group-title="",CDM PUERTO RICO
-http://195.154.255.148:25461/live/skytv12/skyline/2106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAME SHOW NETWORK" tvg-logo="" group-title="",GAME SHOW NETWORK
-http://195.154.255.148:25461/live/skytv12/skyline/2108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="" group-title="",AFIZZIONADOS
-http://195.154.255.148:25461/live/skytv12/skyline/2109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TDN DEPORTES" tvg-logo="" group-title="",TDN DEPORTES
-http://195.154.255.148:25461/live/skytv12/skyline/2110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TDN" tvg-logo="" group-title="",UNIVISION TDN
-http://195.154.255.148:25461/live/skytv12/skyline/2111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS HD" tvg-logo="" group-title="",UNIMAS HD
-http://195.154.255.148:25461/live/skytv12/skyline/2112.m3u8
 
+#EXTINF:-1,Baby TV Spanish
+http://195.154.255.148:25461/live/skytv12/skyline/2023.m3u8
+
+#EXTINF:-1,BEIN 10
+http://195.154.255.148:25461/live/skytv12/skyline/1977.m3u8
+
+#EXTINF:-1,BEIN 3
+http://195.154.255.148:25461/live/skytv12/skyline/1975.m3u8
+
+#EXTINF:-1,BEIN 4
+http://195.154.255.148:25461/live/skytv12/skyline/1974.m3u8
+
+#EXTINF:-1,BEIN 5
+http://195.154.255.148:25461/live/skytv12/skyline/1973.m3u8
+
+#EXTINF:-1,BEIN 6
+http://195.154.255.148:25461/live/skytv12/skyline/1972.m3u8
+
+#EXTINF:-1,BEIN 7
+http://195.154.255.148:25461/live/skytv12/skyline/1971.m3u8
+
+#EXTINF:-1,BEIN 8
+http://195.154.255.148:25461/live/skytv12/skyline/1970.m3u8
+
+#EXTINF:-1,BEIN 9
+http://195.154.255.148:25461/live/skytv12/skyline/1969.m3u8
+
+#EXTINF:-1,Bein Sports English
+http://195.154.255.148:25461/live/skytv12/skyline/2021.m3u8
+
+#EXTINF:-1,Bein Sports Ñ [Español]
+http://195.154.255.148:25461/live/skytv12/skyline/2022.m3u8
+
+#EXTINF:-1,Benfica TV
+http://195.154.255.148:25461/live/skytv12/skyline/1956.m3u8
+
+#EXTINF:-1,Canal 5 P3
+http://195.154.255.148:25461/live/skytv12/skyline/1918.m3u8
+
+#EXTINF:-1,CBS 2 Los Angeles CA USA
+http://195.154.255.148:25461/live/skytv12/skyline/1967.m3u8
+
+#EXTINF:-1,CBS New York USA
+http://195.154.255.148:25461/live/skytv12/skyline/1966.m3u8
+
+#EXTINF:-1,CBS Sports Network
+http://195.154.255.148:25461/live/skytv12/skyline/1952.m3u8
+
+#EXTINF:-1,Cine Sony
+http://195.154.255.148:25461/live/skytv12/skyline/2016.m3u8
+
+#EXTINF:-1,CNBC World USA
+http://195.154.255.148:25461/live/skytv12/skyline/2038.m3u8
+
+#EXTINF:-1,Cozi Tv
+http://195.154.255.148:25461/live/skytv12/skyline/2013.m3u8
+
+#EXTINF:-1,Distrito Comedia P3
+http://195.154.255.148:25461/live/skytv12/skyline/1916.m3u8
+
+#EXTINF:-1,E! USA
+http://195.154.255.148:25461/live/skytv12/skyline/2034.m3u8
+
+#EXTINF:-1,El Rey Network
+http://195.154.255.148:25461/live/skytv12/skyline/2012.m3u8
+
+#EXTINF:-1,Eleven Sports
+http://195.154.255.148:25461/live/skytv12/skyline/2011.m3u8
+
+#EXTINF:-1,Fantasy
+http://195.154.255.148:25461/live/skytv12/skyline/2010.m3u8
+
+#EXTINF:-1,Fight Network
+http://195.154.255.148:25461/live/skytv12/skyline/2009.m3u8
+
+#EXTINF:-1,Food Network USA
+http://195.154.255.148:25461/live/skytv12/skyline/1985.m3u8
+
+#EXTINF:-1,FOX Atlanta
+http://195.154.255.148:25461/live/skytv12/skyline/1955.m3u8
+
+#EXTINF:-1,Fox Business
+http://195.154.255.148:25461/live/skytv12/skyline/2008.m3u8
+
+#EXTINF:-1,FOX Collage Sports Atlantic
+http://195.154.255.148:25461/live/skytv12/skyline/1948.m3u8
+
+#EXTINF:-1,FOX Collage Sports Central
+http://195.154.255.148:25461/live/skytv12/skyline/1947.m3u8
+
+#EXTINF:-1,FOX Collage Sports Pacific
+http://195.154.255.148:25461/live/skytv12/skyline/1946.m3u8
+
+#EXTINF:-1,FOX Deportes
+http://195.154.255.148:25461/live/skytv12/skyline/2007.m3u8
+
+#EXTINF:-1,Fox Los Angeles CA USA
+http://195.154.255.148:25461/live/skytv12/skyline/1965.m3u8
+
+#EXTINF:-1,FOX New York USA
+http://195.154.255.148:25461/live/skytv12/skyline/1964.m3u8
+
+#EXTINF:-1,Fox News
+http://195.154.255.148:25461/live/skytv12/skyline/2006.m3u8
+
+#EXTINF:-1,Fox Soccer Plus
+http://195.154.255.148:25461/live/skytv12/skyline/2005.m3u8
+
+#EXTINF:-1,FOX Sports Arizona
+http://195.154.255.148:25461/live/skytv12/skyline/1954.m3u8
+
+#EXTINF:-1,FOX Sports Arizona 2
+http://195.154.255.148:25461/live/skytv12/skyline/2049.m3u8
+
+#EXTINF:-1,FOX Sports Carolinas
+http://195.154.255.148:25461/live/skytv12/skyline/2048.m3u8
+
+#EXTINF:-1,FOX Sports Detroit
+http://195.154.255.148:25461/live/skytv12/skyline/1945.m3u8
+
+#EXTINF:-1,FOX Sports Florida
+http://195.154.255.148:25461/live/skytv12/skyline/1944.m3u8
+
+#EXTINF:-1,FOX Sports Midwest
+http://195.154.255.148:25461/live/skytv12/skyline/2047.m3u8
+
+#EXTINF:-1,FOX Sports New Orleans
+http://195.154.255.148:25461/live/skytv12/skyline/2046.m3u8
+
+#EXTINF:-1,FOX Sports North
+http://195.154.255.148:25461/live/skytv12/skyline/2045.m3u8
+
+#EXTINF:-1,FOX Sports North Plus
+http://195.154.255.148:25461/live/skytv12/skyline/2044.m3u8
+
+#EXTINF:-1,FOX Sports Ohio
+http://195.154.255.148:25461/live/skytv12/skyline/2043.m3u8
+
+#EXTINF:-1,FOX Sports Oklahoma
+http://195.154.255.148:25461/live/skytv12/skyline/2042.m3u8
+
+#EXTINF:-1,Fox Sports San Diego USA
+http://195.154.255.148:25461/live/skytv12/skyline/1984.m3u8
+
+#EXTINF:-1,FOX Sports Southeast
+http://195.154.255.148:25461/live/skytv12/skyline/2041.m3u8
+
+#EXTINF:-1,FOX Sports SouthWest
+http://195.154.255.148:25461/live/skytv12/skyline/1942.m3u8
+
+#EXTINF:-1,FOX Sports SouthWest Plus
+http://195.154.255.148:25461/live/skytv12/skyline/1941.m3u8
+
+#EXTINF:-1,FOX Sports SUN
+http://195.154.255.148:25461/live/skytv12/skyline/1940.m3u8
+
+#EXTINF:-1,FOX Sports West
+http://195.154.255.148:25461/live/skytv12/skyline/1939.m3u8
+
+#EXTINF:-1,Fox Sports West USA
+http://195.154.255.148:25461/live/skytv12/skyline/1983.m3u8
+
+#EXTINF:-1,FOX Sports Wisconsin
+http://195.154.255.148:25461/live/skytv12/skyline/2040.m3u8
+
+#EXTINF:-1,FOX Sports Wisconsin Plus
+http://195.154.255.148:25461/live/skytv12/skyline/2039.m3u8
+
+#EXTINF:-1,FOX Washington
+http://195.154.255.148:25461/live/skytv12/skyline/1953.m3u8
+
+#EXTINF:-1,FS1
+http://195.154.255.148:25461/live/skytv12/skyline/2004.m3u8
+
+#EXTINF:-1,FS2
+http://195.154.255.148:25461/live/skytv12/skyline/2003.m3u8
+
+#EXTINF:-1,Fuse
+http://195.154.255.148:25461/live/skytv12/skyline/2002.m3u8
+
+#EXTINF:-1,Fusion USA
+http://195.154.255.148:25461/live/skytv12/skyline/2037.m3u8
+
+#EXTINF:-1,FX USA
+http://195.154.255.148:25461/live/skytv12/skyline/2033.m3u8
+
+#EXTINF:-1,FXM
+http://195.154.255.148:25461/live/skytv12/skyline/2001.m3u8
+
+#EXTINF:-1,FXX
+http://195.154.255.148:25461/live/skytv12/skyline/2000.m3u8
+
+#EXTINF:-1,FYI
+http://195.154.255.148:25461/live/skytv12/skyline/1999.m3u8
+
+#EXTINF:-1,Galavisión USA
+http://195.154.255.148:25461/live/skytv12/skyline/2032.m3u8
+
+#EXTINF:-1,Gol TV
+http://195.154.255.148:25461/live/skytv12/skyline/1998.m3u8
+
+#EXTINF:-1,Gol TV English
+http://195.154.255.148:25461/live/skytv12/skyline/1997.m3u8
+
+#EXTINF:-1,Hallmark
+http://195.154.255.148:25461/live/skytv12/skyline/1996.m3u8
+
+#EXTINF:-1,Hallmark Movies & Misteries
+http://195.154.255.148:25461/live/skytv12/skyline/1995.m3u8
+
+#EXTINF:-1,HGTV USA
+http://195.154.255.148:25461/live/skytv12/skyline/1982.m3u8
+
+#EXTINF:-1,HISTORY USA
+http://195.154.255.148:25461/live/skytv12/skyline/2031.m3u8
+
+#EXTINF:-1,LIFETIME Movie Network
+http://195.154.255.148:25461/live/skytv12/skyline/1994.m3u8
+
+#EXTINF:-1,LIFETIME USA
+http://195.154.255.148:25461/live/skytv12/skyline/2030.m3u8
+
+#EXTINF:-1,MSG 2 Plus
+http://195.154.255.148:25461/live/skytv12/skyline/1927.m3u8
+
+#EXTINF:-1,MSG Network
+http://195.154.255.148:25461/live/skytv12/skyline/1926.m3u8
+
+#EXTINF:-1,MSG Plus
+http://195.154.255.148:25461/live/skytv12/skyline/1928.m3u8
+
+#EXTINF:-1,MSG2
+http://195.154.255.148:25461/live/skytv12/skyline/1925.m3u8
+
+#EXTINF:-1,MSNBC
+http://195.154.255.148:25461/live/skytv12/skyline/1993.m3u8
+
+#EXTINF:-1,NATGEO MUNDO USA
+http://195.154.255.148:25461/live/skytv12/skyline/2029.m3u8
+
+#EXTINF:-1,NATGEO USA
+http://195.154.255.148:25461/live/skytv12/skyline/2028.m3u8
+
+#EXTINF:-1,NATGEO WILD USA
+http://195.154.255.148:25461/live/skytv12/skyline/2027.m3u8
+
+#EXTINF:-1,NBC Los Ángeles
+http://195.154.255.148:25461/live/skytv12/skyline/1951.m3u8
+
+#EXTINF:-1,NBC Miami
+http://195.154.255.148:25461/live/skytv12/skyline/1992.m3u8
+
+#EXTINF:-1,NBC New York USA
+http://195.154.255.148:25461/live/skytv12/skyline/1963.m3u8
+
+#EXTINF:-1,NBC Sports Bay Area
+http://195.154.255.148:25461/live/skytv12/skyline/1931.m3u8
+
+#EXTINF:-1,NBC Sports Boston
+http://195.154.255.148:25461/live/skytv12/skyline/1924.m3u8
+
+#EXTINF:-1,NBC Sports California
+http://195.154.255.148:25461/live/skytv12/skyline/1930.m3u8
+
+#EXTINF:-1,NBC Sports Chicago
+http://195.154.255.148:25461/live/skytv12/skyline/1923.m3u8
+
+#EXTINF:-1,NBC Sports Chicago Plus
+http://195.154.255.148:25461/live/skytv12/skyline/2051.m3u8
+
+#EXTINF:-1,NBC Sports Northwest
+http://195.154.255.148:25461/live/skytv12/skyline/1922.m3u8
+
+#EXTINF:-1,NBC Sports Philadelphia
+http://195.154.255.148:25461/live/skytv12/skyline/1921.m3u8
+
+#EXTINF:-1,NBC Sports Washington
+http://195.154.255.148:25461/live/skytv12/skyline/1929.m3u8
+
+#EXTINF:-1,NBC Washington
+http://195.154.255.148:25461/live/skytv12/skyline/1950.m3u8
+
+#EXTINF:-1,NBCSN
+http://195.154.255.148:25461/live/skytv12/skyline/1991.m3u8
+
+#EXTINF:-1,NESN Plus
+http://195.154.255.148:25461/live/skytv12/skyline/1919.m3u8
+
+#EXTINF:-1,NFL Network
+http://195.154.255.148:25461/live/skytv12/skyline/1968.m3u8
+
+#EXTINF:-1,NFL: Red Zone
+http://195.154.255.148:25461/live/skytv12/skyline/1959.m3u8
+
+#EXTINF:-1,Olympic Channel USA
+http://195.154.255.148:25461/live/skytv12/skyline/1981.m3u8
+
+#EXTINF:-1,Oxygen
+http://195.154.255.148:25461/live/skytv12/skyline/2050.m3u8
+
+#EXTINF:-1,PAC 12 Arizona
+http://195.154.255.148:25461/live/skytv12/skyline/1938.m3u8
+
+#EXTINF:-1,PAC 12 Bay Area
+http://195.154.255.148:25461/live/skytv12/skyline/1937.m3u8
+
+#EXTINF:-1,PAC 12 Los Ángeles
+http://195.154.255.148:25461/live/skytv12/skyline/1936.m3u8
+
+#EXTINF:-1,PAC 12 Mountain
+http://195.154.255.148:25461/live/skytv12/skyline/1935.m3u8
+
+#EXTINF:-1,PAC 12 Networks
+http://195.154.255.148:25461/live/skytv12/skyline/1934.m3u8
+
+#EXTINF:-1,PAC 12 Orgeon
+http://195.154.255.148:25461/live/skytv12/skyline/1933.m3u8
+
+#EXTINF:-1,PAC 12 Washington
+http://195.154.255.148:25461/live/skytv12/skyline/1932.m3u8
+
+#EXTINF:-1,PAC12 Network USA
+http://195.154.255.148:25461/live/skytv12/skyline/1980.m3u8
+
+#EXTINF:-1,POP USA
+http://195.154.255.148:25461/live/skytv12/skyline/1979.m3u8
+
+#EXTINF:-1,Real Madrid TV
+http://195.154.255.148:25461/live/skytv12/skyline/1976.m3u8
+
+#EXTINF:-1,Revolt
+http://195.154.255.148:25461/live/skytv12/skyline/1990.m3u8
+
+#EXTINF:-1,RTP Portugal
+http://195.154.255.148:25461/live/skytv12/skyline/1989.m3u8
+
+#EXTINF:-1,Sprout
+http://195.154.255.148:25461/live/skytv12/skyline/1988.m3u8
+
+#EXTINF:-1,SYFY USA
+http://195.154.255.148:25461/live/skytv12/skyline/2026.m3u8
+
+#EXTINF:-1,Telemundo Los Angeles USA
+http://195.154.255.148:25461/live/skytv12/skyline/1962.m3u8
+
+#EXTINF:-1,Telemundo Miami USA
+http://195.154.255.148:25461/live/skytv12/skyline/1961.m3u8
+
+#EXTINF:-1,Telemundo New York USA
+http://195.154.255.148:25461/live/skytv12/skyline/1960.m3u8
+
+#EXTINF:-1,Telexitos USA
+http://195.154.255.148:25461/live/skytv12/skyline/1958.m3u8
+
+#EXTINF:-1,The Golf Channel
+http://195.154.255.148:25461/live/skytv12/skyline/1987.m3u8
+
+#EXTINF:-1,Travel Channel USA
+http://195.154.255.148:25461/live/skytv12/skyline/2036.m3u8
+
+#EXTINF:-1,TyC Sports USA
+http://195.154.255.148:25461/live/skytv12/skyline/2025.m3u8
+
+#EXTINF:-1,Unimás USA
+http://195.154.255.148:25461/live/skytv12/skyline/2024.m3u8
+
+#EXTINF:-1,Universo
+http://195.154.255.148:25461/live/skytv12/skyline/1986.m3u8
+
+#EXTINF:-1,Univisión TDN USA (Univisión Deportes)
+http://195.154.255.148:25461/live/skytv12/skyline/1915.m3u8
+
+#EXTINF:-1,UNIVISION USA
+http://195.154.255.148:25461/live/skytv12/skyline/1914.m3u8
+
+#EXTINF:-1,USA
+http://195.154.255.148:25461/live/skytv12/skyline/1978.m3u8
+
+#EXTINF:-1,USA | A&E
+http://195.154.255.148:25461/live/skytv12/skyline/2035.m3u8
+
+#EXTINF:-1,USA | Bravo
+http://195.154.255.148:25461/live/skytv12/skyline/2020.m3u8
+
+#EXTINF:-1,USA | BTN
+http://195.154.255.148:25461/live/skytv12/skyline/2019.m3u8
+
+#EXTINF:-1,USA | CNBC
+http://195.154.255.148:25461/live/skytv12/skyline/2015.m3u8
+
+#EXTINF:-1,USA | CNBC World
+http://195.154.255.148:25461/live/skytv12/skyline/2014.m3u8
+
+#EXTINF:-1,YES Network
+http://195.154.255.148:25461/live/skytv12/skyline/1949.m3u8
+
+#EXTINF:-1,AMERICA TV - PE
+http://195.154.255.148:25461/live/skytv12/skyline/2056.m3u8
+
+#EXTINF:-1,CAPITAL PERU - PE
+http://195.154.255.148:25461/live/skytv12/skyline/2057.m3u8
+
+#EXTINF:-1,DIGITAL PERU - PE
+http://195.154.255.148:25461/live/skytv12/skyline/2058.m3u8
+
+#EXTINF:-1,CANAL 5 HD
+http://195.154.255.148:25461/live/skytv12/skyline/2095.m3u8
+
+#EXTINF:-1,DE PELICULA HD
+http://195.154.255.148:25461/live/skytv12/skyline/2059.m3u8
+
+#EXTINF:-1,GOL TV US
+http://195.154.255.148:25461/live/skytv12/skyline/2094.m3u8
+
+#EXTINF:-1,MAX SD
+http://195.154.255.148:25461/live/skytv12/skyline/2061.m3u8
+
+#EXTINF:-1,UNICABLE HD
+http://195.154.255.148:25461/live/skytv12/skyline/2075.m3u8
+
+#EXTINF:-1,GOL PERU - PE
+http://195.154.255.148:25461/live/skytv12/skyline/2101.m3u8
+
+#EXTINF:-1,CANAL 13 PUERTO RICO
+http://195.154.255.148:25461/live/skytv12/skyline/2105.m3u8
+
+#EXTINF:-1,CDM PUERTO RICO
+http://195.154.255.148:25461/live/skytv12/skyline/2106.m3u8
+
+#EXTINF:-1,GAME SHOW NETWORK
+http://195.154.255.148:25461/live/skytv12/skyline/2108.m3u8
+
+#EXTINF:-1,TDN DEPORTES
+http://195.154.255.148:25461/live/skytv12/skyline/2110.m3u8
+
+#EXTINF:-1,UNIVISION TDN
+http://195.154.255.148:25461/live/skytv12/skyline/2111.m3u8
+
+#EXTINF:-1,UNIMAS HD
+http://195.154.255.148:25461/live/skytv12/skyline/2112.m3u8
