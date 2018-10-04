@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-0,HBO
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=750911&f=.m3u8
+#EXTINF:-0,HBO 2
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762272&f=.m3u8
+#EXTINF:-0,HBO PLUS
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762157&f=.m3u8
+#EXTINF:-0,UNIVERSAL CHANNEL
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762303&f=.m3u8
+#EXTINF:-0,GOLDEN PLUS
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762230&f=.m3u8
+#EXTINF:-0,GOLDEN PREMIER
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762231&f=.m3u8
+#EXTINF:-0,TCM
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762274&f=.m3u8
+#EXTINF:-0,FOX
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762301&f=.m3u8
+#EXTINF:-0,FOX FAMILY
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=746478&f=.m3u8
