@@ -41,10 +41,44 @@ http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762338&f=.m3u8
 http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762246&f=.m3u8
 #EXTINF:-0,ESPN
 http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=758479&f=.m3u8
-
-
-
-
+#EXTINF:-0,FOX SPORTS 1
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=728273&f=.m3u8
+#EXTINF:-0,FOX SPORTS 2
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=739485&f=.m3u8
+#EXTINF:-0,FOX SPORTS 3
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=739486&f=.m3u8
+#EXTINF:-0,HTV
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762194&f=.m3u8
+#EXTINF:-0,MTV
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762284&f=.m3u8
+#EXTINF:-0,MTV HITS
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762289&f=.m3u8
+#EXTINF:-0,HISTORY
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=758390&f=.m3u8
+#EXTINF:-0,DISCOVERY CHANNEL
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762266&f=.m3u8
+#EXTINF:-0,H2
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762263&f=.m3u8
+#EXTINF:-0,TLC
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=758610&f=.m3u8
+#EXTINF:-0,ANIMAL PLANET 
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762309&f=.m3u8
+#EXTINF:-0,DISNEY CHANNEL
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762205&f=.m3u8
+#EXTINF:-0,DISNEY XD
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762226&f=.m3u8
+#EXTINF:-0,DISNEY JR
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762195&f=.m3u8.
+#EXTINF:-0,NICKELODEON
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762233&F=.m3u8
+#EXTINF:-0,NICK JR
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762270&f=.m3u8
+#EXTINF:-0,CARTOON NETWORK
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762241&f=.m3u8
+#EXTINF:-0,NAT GEO KIDS
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762228&f=.m3u8
+#EXTINF:-0,NAT GEO WILD
+http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762245&f=.m3u8
 
 
 
