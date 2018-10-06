@@ -8,6 +8,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?tx=947
 #EXTINF:-1,GOLTV EVENTO OP2
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/rE4b9zCUi5o.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r7---sn-uxajvoxu-btxs.googlevideo.com/playlist_type/DVR/gcr/ec/ei/tCO5W42dA8f0kAOCxbKwDg/initcwndbps/4950/mm/32/mn/sn-uxajvoxu-btxs/ms/lv/mv/m/pl/24/dover/11/keepalive/yes/c/MWEB/cver/2.20181003/ptk/youtube_none/pltype/contentugclive/mt/1538859867/ip/181.199.32.33/ipbits/0/expire/1538881556/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,ei,initcwndbps,mm,mn,ms,mv,pl/signature/35CD609D31846CD8CA95D36A37152CE13F5C07F4.2F536A4EA51FD81CBF2C9B6B4A8C70E33EB80157/key/dg_yt0/playlist/index.m3u8?cpn=u6K0p3B2KFWRYwFo
 
+#EXTINF:-1,GOLTV EVENTO OP3
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/rE4b9zCUi5o.0/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r7---sn-uxajvoxu-btxs.googlevideo.com/gcr/ec/ei/Nia5W9jsFsydkAOahYqYDQ/playlist_type/DVR/initcwndbps/4130/mm/32/mn/sn-uxajvoxu-btxs/ms/lv/mv/m/pcm2cms/yes/pl/24/dover/11/keepalive/yes/c/MWEB/cver/2.20181003/ptk/youtube_none/pltype/contentugclive/mt/1538860485/ip/181.199.32.33/ipbits/0/expire/1538882198/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,gcr,ei,playlist_type,initcwndbps,mm,mn,ms,mv,pcm2cms,pl/signature/2EBAC98EAFF941C5781D8694B892BF60F0B76FFB.0AFFF3984829CF5A4CB7724711F9E667E4491C91/key/dg_yt0/playlist/index.m3u8?cpn=mZ30sSqEMTQ695_x
+
 #EXTINF:-1,GOLTV
 https://dl.dropboxusercontent.com/s/hlrnpb4l1lrjb38/goltv.m3u
 
