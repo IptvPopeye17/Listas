@@ -2,12 +2,6 @@
 #EXTINF:-1,TNT SPORTS 2
 https://tucine.xyz:2087/331/mundocine.m3u8
 
-#EXTINF:-1,GOLTV EVENTO
-https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?tx=9474459&signature=88610FBDDA083AAE4D65DAE16756E4C3C92F9A99.AA68D30C4CA2165A351ED7968F2AB2D163A124E8&go=1&sparams=ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire&id=rE4b9zCUi5o.0&key=yt6&itag=0&ip=181.199.32.33&expire=1538881171&ipbits=0&dover=11&ei=MyK5W8OcEsXm4QTplLLACQ&keepalive=yes&requiressl=yes&txs=9474456%2C9474458%2C9474459%2C9474460%2C9474462%2C9474463&gcr=ec&source=yt_live_broadcast&playlist_type=DVR&hfr=1&ratebypass=yes&cpn=lcUASkYznv4OOGl7&ibw=3580000&c=MWEB&cver=2.20181003&ptk=youtube_none&pltype=contentugclive
-
-#EXTINF:-1,Goltv 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?ipbits=0&key=yt6&id=x5aWiQ8_RQg.0&playlist_type=DVR&dover=11&txs=9474456%2C9474458%2C9474459%2C9474460%2C9474462%2C9474463&ip=181.199.32.33&source=yt_live_broadcast&hfr=1&expire=1538882948&go=1&signature=D124E380517380BC227F46C017C23E8D8B97CEBE.98047BE10A1B2265F76682E8E2ACDEA70F7676AF&ratebypass=yes&keepalive=yes&requiressl=yes&sparams=ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire&gcr=ec&itag=0&tx=9474459&ei=JCm5W_CrE66jhwbR3qCgBQ&cpn=TYR0h_o8Rr3eKnSN&ibw=4640000&c=MWEB&cver=2.20181003&ptk=youtube_none&pltype=contentugclive
-
 #EXTINF:-1,GOLTV ECUADOR
 https://dl.dropboxusercontent.com/s/ei3i5oqhnpi3ylz/goltv.m3u
 
