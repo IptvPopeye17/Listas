@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1,GOLTV
+https://dl.dropboxusercontent.com/s/hlrnpb4l1lrjb38/goltv.m3u
+
 #EXTINF:-1,ESPN PLUS
 http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=ESPN_PLUS_HD&f=.m3u8
 
