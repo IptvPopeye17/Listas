@@ -5,6 +5,8 @@ https://tucine.xyz:2087/331/mundocine.m3u8
 #EXTINF:-1,GOLTV EVENTO
 https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?tx=9474459&signature=88610FBDDA083AAE4D65DAE16756E4C3C92F9A99.AA68D30C4CA2165A351ED7968F2AB2D163A124E8&go=1&sparams=ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire&id=rE4b9zCUi5o.0&key=yt6&itag=0&ip=181.199.32.33&expire=1538881171&ipbits=0&dover=11&ei=MyK5W8OcEsXm4QTplLLACQ&keepalive=yes&requiressl=yes&txs=9474456%2C9474458%2C9474459%2C9474460%2C9474462%2C9474463&gcr=ec&source=yt_live_broadcast&playlist_type=DVR&hfr=1&ratebypass=yes&cpn=lcUASkYznv4OOGl7&ibw=3580000&c=MWEB&cver=2.20181003&ptk=youtube_none&pltype=contentugclive
 
+#EXTINF:-1,GOLTV EVENTO OP2
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/rE4b9zCUi5o.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r7---sn-uxajvoxu-btxs.googlevideo.com/playlist_type/DVR/gcr/ec/ei/tCO5W42dA8f0kAOCxbKwDg/initcwndbps/4950/mm/32/mn/sn-uxajvoxu-btxs/ms/lv/mv/m/pl/24/dover/11/keepalive/yes/c/MWEB/cver/2.20181003/ptk/youtube_none/pltype/contentugclive/mt/1538859867/ip/181.199.32.33/ipbits/0/expire/1538881556/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,ei,initcwndbps,mm,mn,ms,mv,pl/signature/35CD609D31846CD8CA95D36A37152CE13F5C07F4.2F536A4EA51FD81CBF2C9B6B4A8C70E33EB80157/key/dg_yt0/playlist/index.m3u8?cpn=u6K0p3B2KFWRYwFo
 
 #EXTINF:-1,GOLTV
 https://dl.dropboxusercontent.com/s/hlrnpb4l1lrjb38/goltv.m3u
