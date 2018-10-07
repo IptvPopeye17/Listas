@@ -5,8 +5,8 @@ https://tucine.xyz:2087/331/mundocine.m3u8
 #EXTINF:-1,GOLTV ECUADOR
 https://dl.dropboxusercontent.com/s/ei3i5oqhnpi3ylz/goltv.m3u
 
-#EXTINF:-1,GOLTV OP2
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/rE4b9zCUi5o.0/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/r4---sn-2gb7sn7r.googlevideo.com/playlist_type/DVR/gcr/ph/ei/J0i5W8PfH4bJgAf--pm4Ag/mm/32/mn/sn-2gb7sn7r/ms/lv/mv/u/pl/24/dover/11/keepalive/yes/c/MWEB/cver/2.20181003/ptk/youtube_none/pltype/contentugclive/mt/1538867406/ip/194.182.87.154/ipbits/0/expire/1538890887/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,ei,mm,mn,ms,mv,pl/signature/51FCA5B18843AAF438ECE3D23F3E539AB46FBB99.9BBEF6632AEB0608C27BABF592A659BAE4A0F8F4/key/dg_yt0/playlist/index.m3u8?cpn=peDjKvt0vqp2QAHx
+#EXTINF:-1,GOLTV op2
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/rE4b9zCUi5o.0/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/r4---sn-uxajvoxu-btxs.googlevideo.com/gcr/ec/playlist_type/DVR/ei/hVe5W4glxaGQBNubutAJ/hcs/yes/initcwndbps/3960/mm/32/mn/sn-uxajvoxu-btxs/ms/lv/mv/m/pl/24/shardbypass/yes/dover/11/keepalive/yes/c/MWEB/cver/2.20181003/ptk/youtube_none/pltype/contentugclive/mt/1538873122/ip/181.199.32.33/ipbits/0/expire/1538894821/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,gcr,playlist_type,ei,hcs,initcwndbps,mm,mn,ms,mv,pl,shardbypass/signature/1DCFC740BE245ECA87EF5506D8EFD2CA644D290A.4A218A4395A92AE4C7A49CF8C75D228BD73853AA/key/dg_yt0/playlist/index.m3u8?cpn=_M3jAxFuJmkfOLKN
 
 #EXTINF:-1,ESPN PLUS
 http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=ESPN_PLUS_HD&f=.m3u8
