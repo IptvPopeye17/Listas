@@ -7,110 +7,11 @@ https://tucine.xyz:25461/380/playercine.m3u8
 #EXTINF:-1,EVENTOS | DEPORTIVOS
 http://194.67.208.149/hls/101.m3u8
 
-#EXTINF:-1,ESPN PLUS
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=ESPN_PLUS_HD&f=.m3u8
 
-#EXTINF:-1,TBS HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TBS_HD&f=.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+https://tucine.xyz:25461/298/playercine.m3u8
 
-#EXTINF:-1,FOXSP1 MX HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOXSP1_MX_HD&f=.m3u8
 
-#EXTINF:-1,FOXSP2 MX HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOXSP2_MX_HD&f=.m3u8
-
-#EXTINF:-1,FOXSP3 MX HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOXSP3_MX_HD&f=.m3u8
-
-#EXTINF:-1,FOXFAMILY HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOXFAMILY_HD&f=.m3u8
-
-#EXTINF:-1,HBO PLUS HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=HBO_PLUS_HD&f=.m3u8
-
-#EXTINF:-1,FOXACTION HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOXACTION_HD&f=.m3u8
-
-#EXTINF:-1,HTV
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=HTV&f=.m3u8
-
-#EXTINF:-1,DISNEY JR
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DISNEY_JR&f=.m3u8
-
-#EXTINF:-1,MTV LIVE HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=MTV_LIVE_HD&f=.m3u8
-
-#EXTINF:-1,VEPLUSTV
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=VEPLUSTV&f=.m3u8
-
-#EXTINF:-1,AE MUNDO HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=AE_MUNDO_HD&f=.m3u8
-
-#EXTINF:-1,DISNEY HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DISNEY_HD&f=.m3u8
-
-#EXTINF:-1,VH1 CLASSIC
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=VH1_CLASSIC&f=.m3u8
-
-#EXTINF:-1,INTI HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=INTI_HD&f=.m3u8
-
-#EXTINF:-1,CNN INTERNACIONAL
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CNN_INTERNACIONAL&f=.m3u8
-
-#EXTINF:-1,FOXNEWS
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOXNEWS&f=.m3u8
-
-#EXTINF:-1,SPACE HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=SPACE_HD&f=.m3u8
-
-#EXTINF:-1,TELEMUNDO
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TELEMUNDO&f=.m3u8
-
-#EXTINF:-1,DHE HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DHE_HD&f=.m3u8
-
-#EXTINF:-1,FOX COMEDY HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOX_COMEDY_HD&f=.m3u8
-
-#EXTINF:-1,ALJAZEERA HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=ALJAZEERA_HD&f=.m3u8
-
-#EXTINF:-1,FRANCE24
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FRANCE24&f=.m3u8
-
-#EXTINF:-1,DW
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DW&f=.m3u8
-
-#EXTINF:-1,HOLA TV HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=HOLA_TV_HD&f=.m3u8
-
-#EXTINF:-1,DISCOVERY SCIENCE
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DISCOVERY_SCIENCE&f=.m3u8
-
-#EXTINF:-1,BBC WORLD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=BBC_WORLD&f=.m3u8
-
-#EXTINF:-1,DISCOVERY TURBO
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DISCOVERY_TURBO&f=.m3u8
-
-#EXTINF:-1,DISCOVERY KIDS HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DISCOVERY_KIDS_HD&f=.m3u8
-
-#EXTINF:-1,EL SEMBRADOR
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=EL_SEMBRADOR&f=.m3u8
-
-#EXTINF:-1,NATGEO KIDS HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=NATGEO_KIDS_HD&f=.m3u8
-
-#EXTINF:-1,TVE
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TVE&f=.m3u8
-
-#EXTINF:-1,GOLDEN HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=GOLDEN_HD&f=.m3u8
-
-#EXTINF:-1,GOLDEN PREMIER HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=GOLDEN_PREMIER_HD&f=.m3u8
 
 #EXTINF:-1,FOXMOVIES HD
 http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOXMOVIES_HD&f=.m3u8
