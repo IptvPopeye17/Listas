@@ -1,464 +1,163 @@
 #EXTM3U
 
-#EXTINF:-1,GOLTV ECU 1
-https://tucine.xyz:25461/380/playercine.m3u8
-
-#EXTINF:-1,GOLTV ECU 2
+#EXTINF:-1,GOLTV ECU 
 http://tv.latintvweb.com:25461/live/rlTU2oDUVu/TYUD1DSF51F11/82710.m3u8
 
 
 #EXTINF:-1,EVENTOS | DEPORTIVOS
 http://194.67.208.149/hls/101.m3u8
 
-
-#EXTINF:-1,DISTRITO COMEDIA
-https://tucine.xyz:25461/298/playercine.m3u8
-
-
-
-#EXTINF:-1,FOXMOVIES HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOXMOVIES_HD&f=.m3u8
-
-#EXTINF:-1,NICKELODEON HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=NICKELODEON_HD&f=.m3u8
-
-#EXTINF:-1,HBO FAMILY HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=HBO_FAMILY_HD&f=.m3u8
-
-#EXTINF:-1,FX HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FX_HD&f=.m3u8
-
-#EXTINF:-1,TNT HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TNT_HD&f=.m3u8
-
-#EXTINF:-1,TNT SERIES HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TNT_SERIES_HD&f=.m3u8
-
-#EXTINF:-1,DISNEY XD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DISNEY_XD&f=.m3u8
-
-#EXTINF:-1,VH1
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=VH1&f=.m3u8
-
-#EXTINF:-1,RAI
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=RAI&f=.m3u8
-
-#EXTINF:-1,CARTOON NETWORK HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CARTOON_NETWORK_HD&f=.m3u8
-
-#EXTINF:-1,CINELATINO
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CINELATINO&f=.m3u8
-
-#EXTINF:-1,FOX LIFE HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOX_LIFE_HD&f=.m3u8
-
-#EXTINF:-1,NATGEO WILD HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=NATGEO_WILD_HD&f=.m3u8
-
-#EXTINF:-1,WARNER HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=WARNER_HD&f=.m3u8
-
-#EXTINF:-1,LIFETIME
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=LIFETIME&f=.m3u8
-
-#EXTINF:-1,FOX CLASSICS HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOX_CLASSICS_HD&f=.m3u8
-
-#EXTINF:-1,FOX CINEMA HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOX_CINEMA_HD&f=.m3u8
-
-#EXTINF:-1,BLOOMBERG
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=BLOOMBERG&f=.m3u8
-
-#EXTINF:-1,TV5
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TV5&f=.m3u8
-
-#EXTINF:-1,CINECANAL HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CINECANAL_HD&f=.m3u8
-
-#EXTINF:-1,DISCOVERY THEATER HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DISCOVERY_THEATER_HD&f=.m3u8
-
-#EXTINF:-1,DISCOVERY WORLD HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DISCOVERY_WORLD_HD&f=.m3u8
-
-#EXTINF:-1,GOURMET HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=GOURMET_HD&f=.m3u8
-
-#EXTINF:-1,SUNDANCE HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=SUNDANCE_HD&f=.m3u8
-
-#EXTINF:-1,EWTN
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=EWTN&f=.m3u8
-
-#EXTINF:-1,BOOMERANG
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=BOOMERANG&f=.m3u8
-
-#EXTINF:-1,CNN ESPANOL
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CNN_ESPANOL&f=.m3u8
-
-#EXTINF:-1,HISTORY CHANNEL HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=HISTORY_CHANNEL_HD&f=.m3u8
-
-#EXTINF:-1,H2
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=H2&f=.m3u8
-
-#EXTINF:-1,NATGEO HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=NATGEO_HD&f=.m3u8
-
-#EXTINF:-1,DISCOVERY CIVILIZATION
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DISCOVERY_CIVILIZATION&f=.m3u8
-
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DISCOVERY_CHANNEL_HD&f=.m3u8
-
-#EXTINF:-1,DISCOVERY HOME HEALTH HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DISCOVERY_HOME_HEALTH_HD&f=.m3u8
-
-#EXTINF:-1,EUROCHANNEL
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=EUROCHANNEL&f=.m3u8
-
-#EXTINF:-1,TLNOVELAS
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TLNOVELAS&f=.m3u8
-
-#EXTINF:-1,NICK JR HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=NICK_JR_HD&f=.m3u8
-
-#EXTINF:-1,MAX UP HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=MAX_UP_HD&f=.m3u8
-
-#EXTINF:-1,HBO 2 HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=HBO_2_HD&f=.m3u8
-
-#EXTINF:-1,CONCERT CHANNEL HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CONCERT_CHANNEL_HD&f=.m3u8
-
-#EXTINF:-1,TCM
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TCM&f=.m3u8
-
-#EXTINF:-1,AXN HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=AXN_HD&f=.m3u8
-
-#EXTINF:-1,CINEMAX
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CINEMAX&f=.m3u8
-
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=UNIVERSAL_CHANNEL_HD&f=.m3u8
-
-#EXTINF:-1,TOONCAST
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TOONCAST&f=.m3u8
-
-#EXTINF:-1,SONY HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=SONY_HD&f=.m3u8
-
-#EXTINF:-1,E
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=E&f=.m3u8
-
-#EXTINF:-1,AZMUNDO HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=AZMUNDO_HD&f=.m3u8
-
-#EXTINF:-1,MULTIPREMIER
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=MULTIPREMIER&f=.m3u8
-
-#EXTINF:-1,MTV HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=MTV_HD&f=.m3u8
-
-#EXTINF:-1,THE FILM ZONE HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=THE_FILM_ZONE_HD&f=.m3u8
-
-#EXTINF:-1,PASIONES HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=PASIONES_HD&f=.m3u8
-
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CANAL_DE_LAS_ESTRELLAS&f=.m3u8
-
-#EXTINF:-1,MTV HITS
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=MTV_HITS&f=.m3u8
-
-#EXTINF:-1,DW AMERIKA
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DW_AMERIKA&f=.m3u8
-
-#EXTINF:-1,MAX PRIME HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=MAX_PRIME_HD&f=.m3u8
-
-#EXTINF:-1,CINEMA DINAMITA
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CINEMA_DINAMITA&f=.m3u8
-
-#EXTINF:-1,FOX HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOX_HD&f=.m3u8
-
-#EXTINF:-1,HBO SIGNATURE HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=HBO_SIGNATURE_HD&f=.m3u8
-
-#EXTINF:-1,STUDIO UNIVERSAL
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=STUDIO_UNIVERSAL&f=.m3u8
-
-#EXTINF:-1,ANTENA3
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=ANTENA3&f=.m3u8
-
-#EXTINF:-1,PARAMOUNT HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=PARAMOUNT_HD&f=.m3u8
-
-#EXTINF:-1,ANIMAL PLANET HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=ANIMAL_PLANET_HD&f=.m3u8
-
-#EXTINF:-1,MASCHIC HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=MASCHIC_HD&f=.m3u8
-
-#EXTINF:-1,RCN TELENOVELAS
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=RCN_TELENOVELAS&f=.m3u8
-
-#EXTINF:-1,AMC HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=AMC_HD&f=.m3u8
-
-#EXTINF:-1,COMEDY CENTRAL HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=COMEDY_CENTRAL_HD&f=.m3u8
-
-#EXTINF:-1,AZCORAZON HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=AZCORAZON_HD&f=.m3u8
-
-#EXTINF:-1,BABYTV
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=BABYTV&f=.m3u8
-
-#EXTINF:-1,K MUSIC
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=K_MUSIC&f=.m3u8
-
-#EXTINF:-1,VALLENATO
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=VALLENATO&f=.m3u8
-
-#EXTINF:-1,TELEPACIFICO
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TELEPACIFICO&f=.m3u8
-
-#EXTINF:-1,TELEAMIGA
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TELEAMIGA&f=.m3u8
-
-#EXTINF:-1,HBO HD SUB
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=HBO_HD_SUB&f=.m3u8
-
-#EXTINF:-1,DIA TV HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DIA_TV_HD&f=.m3u8
-
-#EXTINF:-1,WINSPORTS HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=WINSPORTS_HD&f=.m3u8
-
-#EXTINF:-1,FOX ACTION MEXICO HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOX_ACTION_MEXICO_HD&f=.m3u8
-
-#EXTINF:-1,CARACOL HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CARACOL_HD&f=.m3u8
-
-#EXTINF:-1,TRU TV HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TRU_TV_HD&f=.m3u8
-
-#EXTINF:-1,TV AGRO HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TV_AGRO_HD&f=.m3u8
-
-#EXTINF:-1,FOX SPORTS HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOX_SPORTS_HD&f=.m3u8
-
-#EXTINF:-1,FOX SPORTS3 HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOX_SPORTS3_HD&f=.m3u8
-
-#EXTINF:-1,FOX SPORTS2 HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOX_SPORTS2_HD&f=.m3u8
-
-#EXTINF:-1,FOX1 HD SUB
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=FOX1_HD_SUB&f=.m3u8
-
-#EXTINF:-1,GOLF CHANNEL HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=GOLF_CHANNEL_HD&f=.m3u8
-
-#EXTINF:-1,NICK 2 HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=NICK_2_HD&f=.m3u8
-
-#EXTINF:-1,ESPN 2 HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=ESPN_2_HD&f=.m3u8
-
-#EXTINF:-1,CABLENOTICIAS HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CABLENOTICIAS_HD&f=.m3u8
-
-#EXTINF:-1,ID HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=ID_HD&f=.m3u8
-
-#EXTINF:-1,ESPN 3 HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=ESPN_3_HD&f=.m3u8
-
-#EXTINF:-1,ESPN HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=ESPN_HD&f=.m3u8
-
-#EXTINF:-1,RADIOLA
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=RADIOLA&f=.m3u8
-
-#EXTINF:-1,IBERO
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=IBERO&f=.m3u8
-
-#EXTINF:-1,CRISTOVISION
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CRISTOVISION&f=.m3u8
-
-#EXTINF:-1,ENLACE
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=ENLACE&f=.m3u8
-
-#EXTINF:-1,ARIRANG
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=ARIRANG&f=.m3u8
-
-#EXTINF:-1,CARACOL
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CARACOL&f=.m3u8
-
-#EXTINF:-1,CANAL UNO HD
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CANAL_UNO_HD&f=.m3u8
-
-#EXTINF:-1,CITY TV
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CITY_TV&f=.m3u8
-
-#EXTINF:-1,TELEANTIOQUIA
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TELEANTIOQUIA&f=.m3u8
-
-#EXTINF:-1,TELECAFE
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TELECAFE&f=.m3u8
-
-#EXTINF:-1,TELECARIBE
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TELECARIBE&f=.m3u8
-
-#EXTINF:-1,TRO
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TRO&f=.m3u8
-
-#EXTINF:-1,DATA IFX
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DATA_IFX&f=.m3u8
-
-#EXTINF:-1,TLC
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=TLC&f=.m3u8
-
-#EXTINF:-1,GLITZ
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=GLITZ&f=.m3u8
-
-#EXTINF:-1,HEADLINE NEWS
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=HEADLINE_NEWS&f=.m3u8
-
-#EXTINF:-1,DEPELICULA
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=DEPELICULA&f=.m3u8
-
-#EXTINF:-1,ISAT
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=ISAT&f=.m3u8
-
-#EXTINF:-1,CINEMAPLUS
-http://144.217.91.83/klaro/foritotv.php?calidad=4&canal=CINEMAPLUS&f=.m3u8
-
-#EXTINF:-1,HBO
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=750911&f=.m3u8
-
-#EXTINF:-1,HBO 2
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762272&f=.m3u8
-
-#EXTINF:-1,HBO PLUS
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762157&f=.m3u8
-
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762303&f=.m3u8
-
-#EXTINF:-1,GOLDEN PLUS
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762230&f=.m3u8
-
-#EXTINF:-1,GOLDEN PREMIER
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762231&f=.m3u8
-
-#EXTINF:-1,TCM
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762274&f=.m3u8
-
-#EXTINF:-1,FOX
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762301&f=.m3u8
-
-#EXTINF:-1,FOX FAMILY
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=746478&f=.m3u8
-
-#EXTINF:-1,FOX SERIES
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=745832&f=.m3u8
-
-#EXTINF:-1,FOX CINEMA
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762248&f=.m3u8
-
-#EXTINF:-1,TNT SERIES
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762237&f=.m3u8
-
-#EXTINF:-1,CINECANAL
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762252&f=.m3u8
-
-#EXTINF:-1,CINE LATINO
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762242&f=.m3u8
-
-#EXTINF:-1,CINEMAX
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762276&f=.m3u8
-
-#EXTINF:-1,FX
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762236&f=.m3u8
-
-#EXTINF:-1,FXM
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=758532&f=.m3u8
-
-#EXTINF:-1,SPACE
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762211&f=.m3u8
-
-#EXTINF:-1,AMC
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762338&f=.m3u8
-
-#EXTINF:-1,WARNER
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762246&f=.m3u8
-
-#EXTINF:-1,ESPN
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=758479&f=.m3u8
-
-#EXTINF:-1,FOX SPORTS 1
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=728273&f=.m3u8
-
-#EXTINF:-1,FOX SPORTS 2
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=739485&f=.m3u8
-
-#EXTINF:-1,FOX SPORTS 3
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=739486&f=.m3u8
-
-#EXTINF:-1,HTV
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762194&f=.m3u8
-
-#EXTINF:-1,MTV
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762284&f=.m3u8
-
-#EXTINF:-1,MTV HITS
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762289&f=.m3u8
-
-#EXTINF:-1,HISTORY
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=758390&f=.m3u8
-
-#EXTINF:-1,DISCOVERY CHANNEL
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762266&f=.m3u8
-
-#EXTINF:-1,H2
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762263&f=.m3u8
-
-#EXTINF:-1,TLC
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=758610&f=.m3u8
-
-#EXTINF:-1,ANIMAL PLANET
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762309&f=.m3u8
-
-#EXTINF:-1,DISNEY CHANNEL
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762205&f=.m3u8
-
-#EXTINF:-1,DISNEY XD
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762226&f=.m3u8
-
-#EXTINF:-1,DISNEY JR
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762195&f=.m3u8.
-
-#EXTINF:-1,NICKELODEON
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762233&F=.m3u8
-
-#EXTINF:-1,NICK JR
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762270&f=.m3u8
-
-#EXTINF:-1,CARTOON NETWORK
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762241&f=.m3u8
-
-#EXTINF:-1,NAT GEO KIDS
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762228&f=.m3u8
-
-#EXTINF:-1,NAT GEO WILD
-http://158.69.199.21:88/clarotv/claro.php?calidad=4&canal=762245&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/maschic.png" group-title="Entretenimiento", MasChic
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=maschic
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/pasiones.png" group-title="Entretenimiento", Pasiones
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=pasiones
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Entretenimiento", Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/BABY.png" group-title="Entretenimiento", BabyTV
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=babytv
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/boomerang.png" group-title="Entretenimiento", Boomerang
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=boomerang
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/glitz.png" group-title="Entretenimiento", Glitz
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=glitz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Nick
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=nick
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Nick 2
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=nick2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Nick Jr
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=nickjr
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/tbs.png" group-title="Entretenimiento", TBS
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=tbs
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/winsports.png" group-title="Entretenimiento", WinSport
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=winsports
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Sports
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fs1m
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Sports 2
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fs2m
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Sports 3
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fs3m
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", ESPN
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=espn
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", ESPN 2
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=espn2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", ESPN 3
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=espn3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Cinelatino
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=cinelatino
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Cinecanal
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=cinecanal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Universal
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=universal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Studio Universal
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=studio
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Sony
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=sony
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", FXM
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fxmm
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", A&E
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=ae
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovery Civilization
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=civil
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovery H&H
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=hh
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovey Science
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=science
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", H2
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=h2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Nat Geo Kids
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=natgeokids
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Life
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxlife
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", AMC
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=amc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Comedy Central
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=cc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", TNT
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=tnt
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", TNT Series
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=tntseries
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", AXN
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=axn
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", HBO Plus
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=hboplus
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Max
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=max
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Max Up
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=maxup
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Max Prime
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=maxprime
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Cinema
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxcinema
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Series
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxseries
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Family
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxfamily
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Movies
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxmovies
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Classics
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxclassics
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Comedy
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxcomedy
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Telehit
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=telehit
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Unicable
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=unicable
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", De Pelicula
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=depelicula
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Golden Premier
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=goldenpremier
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Golden Plus
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=goldenplus
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Golden
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=golden
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Tlnovelas
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=tlnovelas
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Telemundo Puerto Rico
+http://photocall.000webhostapp.com/pu.php?https://wkaqlive-lh.akamaihd.net/i/WKAQ_LIVE1@311877/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", FOX
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fox
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Action
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxaction
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", HBO
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=hbo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", HBO Family
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=hbofamily
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Cinemax
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=cinemax
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Nat Geo
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=natgeo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Nat Geo Wild
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=natgeowild
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovery Channel
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=discovery
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovery ID
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=id
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovery TLC
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=tlc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovery Kids
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=kids
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", FX
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fxm
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Space
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=space
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Warner
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=warner
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Multipremier
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=multipremier
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Cinecanal
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=cinecanal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", ESPN
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=espn
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Sports 2
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fs2m
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Animal Planet
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=animal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Lifetime
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=lifetime
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Trutv
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=trutv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Tooncast
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=tooncast
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Cartoon Network
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=cartoon
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", MTV
+http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=mtv
