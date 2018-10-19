@@ -7,70 +7,70 @@ http://tv.latintvweb.com:25461/live/rlTU2oDUVu/TYUD1DSF51F11/82710.m3u8
 #EXTINF:-1,EVENTOS | DEPORTIVOS
 http://194.67.208.149/hls/101.m3u8
 
-HBO
+#EXTINF:-1,HBO
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=750911&f=.m3u8
-HBO 2
+#EXTINF:-1,HBO 2
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762272&f=.m3u8
-HBO PLUS
+#EXTINF:-1,HBO PLUS
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762157&f=.m3u8
-UNIVERSAL CHANNEL
+#EXTINF:-1,UNIVERSAL CHANNEL
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762277&f=.m3u8
-GOLDEN PLUS
+#EXTINF:-1,GOLDEN PLUS
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762271&f=.m3u8
-GOLDEN PREMIER
+#EXTINF:-1,GOLDEN PREMIER
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762231&f=.m3u8
-TCM
+#EXTINF:-1,TCM
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762274&f=.m3u8
-FOX
+#EXTINF:-1,FOX
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762301&f=.m3u8
-FOX FAMILY
+#EXTINF:-1,FOX FAMILY
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=746478&f=.m3u8
-FOX COMEDY
+#EXTINF:-1,FOX COMEDY
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762214&f=.m3u8
-FOX ACTION
+#EXTINF:-1,FOX ACTION
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=753994&f=.m3u8
-FOX SERIES
+#EXTINF:-1,FOX SERIES
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=745832&f=.m3u8
-FOX CINEMA
+#EXTINF:-1,FOX CINEMA
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762249&f=.m3u8
-FOX MOVIES
+#EXTINF:-1,FOX MOVIES
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=745939&f=.m3u8
-TNT SERIES
+#EXTINF:-1,TNT SERIES
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762237&f=.m3u8
-TNT
+#EXTINF:-1,TNT
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=758477&f=.m3u8
-CINE CANAL
+#EXTINF:-1,CINE CANAL
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762252&f=.m3u8
-CINE LATINO
+#EXTINF:-1,CINE LATINO
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762242&f=.m3u8
-PARAMOUNT
+#EXTINF:-1,PARAMOUNT
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762305&f=.m3u8
-AXN
+#EXTINF:-1,AXN
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762275&f=.m3u8
-CINEMAX
+#EXTINF:-1,CINEMAX
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762276&f=.m3u8
-FX
+#EXTINF:-1,FX
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762236&f=.m3u8
-SPACE
+#EXTINF:-1,SPACE
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762211&f=.m3u8
-AMC
+#EXTINF:-1,AMC
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762338&f=.m3u8
-DEPELICULA
+#EXTINF:-1,DEPELICULA
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=758453&f=.m3u8
-WARNER
+#EXTINF:-1,WARNER
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762246&f=.m3u8
-ESPN
+#EXTINF:-1,ESPN
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=758479&f=.m3u8
-ESPN+
+#EXTINF:-1,ESPN+
 http://54.39.102.209/LIVE/H02/ESPNPLUS/playlist.m3u8
-FOX SPORTS 
+#EXTINF:-1,FOX SPORTS 
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=728273&f=.m3u8
-FOX SPORTS 2
+#EXTINF:-1,FOX SPORTS 2
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=739485&f=.m3u8
-FOX SPORTS 3
+#EXTINF:-1,FOX SPORTS 3
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=739486&f=.m3u8
-MLB NETWORK
+#EXTINF:-1,MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-WIN SPORTS
+#EXTINF:-1,WIN SPORTS
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=717016&f=.m3u8
 
