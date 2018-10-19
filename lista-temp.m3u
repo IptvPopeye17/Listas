@@ -7,157 +7,70 @@ http://tv.latintvweb.com:25461/live/rlTU2oDUVu/TYUD1DSF51F11/82710.m3u8
 #EXTINF:-1,EVENTOS | DEPORTIVOS
 http://194.67.208.149/hls/101.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/maschic.png" group-title="Entretenimiento", MasChic
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=maschic
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/pasiones.png" group-title="Entretenimiento", Pasiones
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=pasiones
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Entretenimiento", Cachipum TV
-http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/BABY.png" group-title="Entretenimiento", BabyTV
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=babytv
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/boomerang.png" group-title="Entretenimiento", Boomerang
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=boomerang
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/glitz.png" group-title="Entretenimiento", Glitz
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=glitz
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Nick
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=nick
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Nick 2
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=nick2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Nick Jr
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=nickjr
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/tbs.png" group-title="Entretenimiento", TBS
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=tbs
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/winsports.png" group-title="Entretenimiento", WinSport
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=winsports
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Sports
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fs1m
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Sports 2
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fs2m
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Sports 3
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fs3m
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", ESPN
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=espn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", ESPN 2
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=espn2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", ESPN 3
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=espn3
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Cinelatino
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=cinelatino
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Cinecanal
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=cinecanal
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Universal
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=universal
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Studio Universal
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=studio
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Sony
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=sony
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", FXM
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fxmm
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", A&E
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=ae
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovery Civilization
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=civil
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovery H&H
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=hh
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovey Science
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=science
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", H2
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=h2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Nat Geo Kids
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=natgeokids
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Life
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxlife
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", AMC
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=amc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Comedy Central
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=cc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", TNT
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=tnt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", TNT Series
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=tntseries
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", AXN
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=axn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", HBO Plus
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=hboplus
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Max
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=max
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Max Up
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=maxup
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Max Prime
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=maxprime
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Cinema
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxcinema
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Series
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxseries
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Family
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxfamily
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Movies
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxmovies
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Classics
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxclassics
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Comedy
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxcomedy
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Telehit
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=telehit
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Unicable
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=unicable
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", De Pelicula
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=depelicula
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Golden Premier
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=goldenpremier
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Golden Plus
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=goldenplus
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Golden
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=golden
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Tlnovelas
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=tlnovelas
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Telemundo Puerto Rico
-http://photocall.000webhostapp.com/pu.php?https://wkaqlive-lh.akamaihd.net/i/WKAQ_LIVE1@311877/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", FOX
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fox
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Action
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=foxaction
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", HBO
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=hbo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", HBO Family
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=hbofamily
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Cinemax
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=cinemax
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Nat Geo
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=natgeo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Nat Geo Wild
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=natgeowild
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovery Channel
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=discovery
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovery ID
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=id
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovery TLC
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=tlc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Discovery Kids
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=kids
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", FX
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fxm
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Space
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=space
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Warner
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=warner
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Multipremier
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=multipremier
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Cinecanal
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=cinecanal
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", ESPN
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=espn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Sports 2
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=fs2m
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Animal Planet
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=animal
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Lifetime
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=lifetime
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Trutv
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=trutv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Tooncast
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=tooncast
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Cartoon Network
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=cartoon
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", MTV
-http://stream.gleeze.com/cl/XcKTmon2sv.m3u8?qt=3&ch=mtv
+HBO
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=750911&f=.m3u8
+HBO 2
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762272&f=.m3u8
+HBO PLUS
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762157&f=.m3u8
+UNIVERSAL CHANNEL
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762277&f=.m3u8
+GOLDEN PLUS
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762271&f=.m3u8
+GOLDEN PREMIER
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762231&f=.m3u8
+TCM
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762274&f=.m3u8
+FOX
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762301&f=.m3u8
+FOX FAMILY
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=746478&f=.m3u8
+FOX COMEDY
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762214&f=.m3u8
+FOX ACTION
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=753994&f=.m3u8
+FOX SERIES
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=745832&f=.m3u8
+FOX CINEMA
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762249&f=.m3u8
+FOX MOVIES
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=745939&f=.m3u8
+TNT SERIES
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762237&f=.m3u8
+TNT
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=758477&f=.m3u8
+CINE CANAL
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762252&f=.m3u8
+CINE LATINO
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762242&f=.m3u8
+PARAMOUNT
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762305&f=.m3u8
+AXN
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762275&f=.m3u8
+CINEMAX
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762276&f=.m3u8
+FX
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762236&f=.m3u8
+SPACE
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762211&f=.m3u8
+AMC
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762338&f=.m3u8
+DEPELICULA
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=758453&f=.m3u8
+WARNER
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762246&f=.m3u8
+ESPN
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=758479&f=.m3u8
+ESPN+
+http://54.39.102.209/LIVE/H02/ESPNPLUS/playlist.m3u8
+FOX SPORTS 
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=728273&f=.m3u8
+FOX SPORTS 2
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=739485&f=.m3u8
+FOX SPORTS 3
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=739486&f=.m3u8
+MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+WIN SPORTS
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=717016&f=.m3u8
+
