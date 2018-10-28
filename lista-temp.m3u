@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,GOLTV|ecu
+http://iptv.wtf:25461/live/mdmlcwlt/8oRw7A6n1i/14269.m3u8
 #EXTINF:-1,GOLTV OP 2
 http://144.217.74.152:25461/live/rextv/rextv/11481.m3u8
 #EXTINF:-1,GOLTV OP 1
