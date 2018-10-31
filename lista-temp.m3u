@@ -1,12 +1,13 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Actualizada 30.10.2018
-
+https://kurttv17.blogspot.com
 #EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", KurtTv
+https://kurttv17.blogspot.com
 
 #EXTINF:-1,American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
-
+http://srregio.com/
 #EXTINF:-1,MasChic
 http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=maschic
 
