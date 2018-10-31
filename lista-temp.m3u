@@ -1,79 +1,609 @@
+#EXTINF:-1,American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:-1,MasChic
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=maschic
+
+#EXTINF:-1,Pasiones
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=pasiones
+
+#EXTINF:-1,Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
+
+#EXTINF:-1,BabyTV
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=babytv
+
+#EXTINF:-1,Boomerang
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=boomerang
+
+#EXTINF:-1,Glitz
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=glitz
+
+#EXTINF:-1,Nick
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=nick
+
+#EXTINF:-1,Nick 2
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=nick2
+
+#EXTINF:-1,Nick Jr
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=nickjr
+
+#EXTINF:-1,TBS
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=tbs
 #EXTM3U
-#EXTINF:-1,GOLTV|ecu
-http://iptv.wtf:25461/live/mdmlcwlt/8oRw7A6n1i/14269.m3u8
-#EXTINF:-1,GOLTV OP 2
-http://144.217.74.152:25461/live/rextv/rextv/11481.m3u8
-#EXTINF:-1,GOLTV OP 1
-http://wohuogai.com:58000/live/7694k/qXAnbSupIl/45384.m3u8
 
+#EXTINF:-1,Lista KurtTv
+#EXTINF:-1,ACTUALIZADA 31/10/2018
 
-#EXTINF:-1,EVENTOS | DEPORTIVOS
-http://194.67.208.149/hls/101.m3u8
+#EXTINF:-1,WinSport
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=winsports
+
+#EXTINF:-1,Fox Sports
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=fs1m
+
+#EXTINF:-1,Fox Sports 2
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=fs2m
+
+#EXTINF:-1,Fox Sports 3
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=fs3m
+
+#EXTINF:-1,ESPN
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=espn
+
+#EXTINF:-1,ESPN 2
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=espn2
+
+#EXTINF:-1,ESPN 3
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=espn3
+
+#EXTINF:-1,Cinelatino
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=cinelatino
+
+#EXTINF:-1,Cinecanal
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=cinecanal
+
+#EXTINF:-1,Universal
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=universal
+
+#EXTINF:-1,Studio Universal
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=studio
+
+#EXTINF:-1,Sony
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=sony
+
+#EXTINF:-1,FXM
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=fxmm
+
+#EXTINF:-1,A&E
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=ae
+
+#EXTINF:-1,Discovery H&H
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=hh
+
+#EXTINF:-1,Discovey Science
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=science
+
+#EXTINF:-1,H2
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=h2
+
+#EXTINF:-1,Nat Geo Kids
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=natgeokids
+
+#EXTINF:-1,Fox Life
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=foxlife
+
+#EXTINF:-1,AMC
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=amc
+
+#EXTINF:-1,Comedy Central
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=cc
+
+#EXTINF:-1,TNT
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=tnt
+
+#EXTINF:-1,TNT Series
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=tntseries
+
+#EXTINF:-1,AXN
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=axn
+
+#EXTINF:-1,HBO Plus
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=hboplus
+
+#EXTINF:-1,Max
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=max
+
+#EXTINF:-1,Max Up
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=maxup
+
+#EXTINF:-1,Max Prime
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=maxprime
+
+#EXTINF:-1,Fox Cinema
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=foxcinema
+
+#EXTINF:-1,Fox Series
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=foxseries
+
+#EXTINF:-1,Fox Family
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=foxfamily
+
+#EXTINF:-1,Fox Movies
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=foxmovies
+
+#EXTINF:-1,Fox Classics
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=foxclassics
+
+#EXTINF:-1,Fox Comedy
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=foxcomedy
+
+#EXTINF:-1,Telehit
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=telehit
+
+#EXTINF:-1,Unicable
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=unicable
+
+#EXTINF:-1,De Pelicula
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=depelicula
+
+#EXTINF:-1,Golden Premier
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=goldenpremier
+
+#EXTINF:-1,Golden Plus
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=goldenplus
+
+#EXTINF:-1,Golden
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=golden
+
+#EXTINF:-1,Tlnovelas
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=tlnovelas
+
+#EXTINF:-1,FOX
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=fox
+
+#EXTINF:-1,Fox Action
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=foxaction
 
 #EXTINF:-1,HBO
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=750911&f=.m3u8
-#EXTINF:-1,HBO 2
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762272&f=.m3u8
-#EXTINF:-1,HBO PLUS
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762157&f=.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762277&f=.m3u8
-#EXTINF:-1,GOLDEN PLUS
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762271&f=.m3u8
-#EXTINF:-1,GOLDEN PREMIER
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762231&f=.m3u8
-#EXTINF:-1,TCM
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762274&f=.m3u8
-#EXTINF:-1,FOX
-http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=fs1m
-#EXTINF:-1,FOX FAMILY
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=746478&f=.m3u8
-#EXTINF:-1,FOX COMEDY
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762214&f=.m3u8
-#EXTINF:-1,FOX ACTION
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=753994&f=.m3u8
-#EXTINF:-1,FOX SERIES
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=745832&f=.m3u8
-#EXTINF:-1,FOX CINEMA
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762249&f=.m3u8
-#EXTINF:-1,FOX MOVIES
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=745939&f=.m3u8
-#EXTINF:-1,TNT SERIES
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762237&f=.m3u8
-#EXTINF:-1,TNT
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=758477&f=.m3u8
-#EXTINF:-1,CINE CANAL
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762252&f=.m3u8
-#EXTINF:-1,CINE LATINO
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762242&f=.m3u8
-#EXTINF:-1,PARAMOUNT
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762305&f=.m3u8
-#EXTINF:-1,AXN
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762275&f=.m3u8
-#EXTINF:-1,CINEMAX
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762276&f=.m3u8
-#EXTINF:-1,FX
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762236&f=.m3u8
-#EXTINF:-1,SPACE
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762211&f=.m3u8
-#EXTINF:-1,AMC
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762338&f=.m3u8
-#EXTINF:-1,DEPELICULA
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=758453&f=.m3u8
-#EXTINF:-1,WARNER
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762246&f=.m3u8
-#EXTINF:-1,ESPN
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=758479&f=.m3u8
-#EXTINF:-1,ESPN+
-http://54.39.102.209/LIVE/H02/ESPNPLUS/playlist.m3u8
-#EXTINF:-1,FOX SPORTS 
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=728273&f=.m3u8
-#EXTINF:-1,FOX SPORTS 2
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=739485&f=.m3u8
-#EXTINF:-1,FOX SPORTS 3
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=739486&f=.m3u8
-#EXTINF:-1,MLB NETWORK
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1,WIN SPORTS
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=717016&f=.m3u8
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=hbo
 
+#EXTINF:-1,HBO Family
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=hbofamily
+
+#EXTINF:-1,Cinemax
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=cinemax
+
+#EXTINF:-1,Nat Geo
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=natgeo
+
+#EXTINF:-1,Nat Geo Wild
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=natgeowild
+
+#EXTINF:-1,Discovery Channel
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=discovery
+
+#EXTINF:-1,Discovery ID
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=id
+
+#EXTINF:-1,Discovery TLC
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=tlc
+
+#EXTINF:-1,Discovery Kids
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=kids
+
+#EXTINF:-1,FX
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=fxm
+
+#EXTINF:-1,Space
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=space
+
+#EXTINF:-1,Warner
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=warner
+
+#EXTINF:-1,Multipremier
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=multipremier
+
+#EXTINF:-1,Animal Planet
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=animal
+
+#EXTINF:-1,Lifetime
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=lifetime
+
+#EXTINF:-1,Trutv
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=trutv
+
+#EXTINF:-1,Tooncast
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=tooncast
+
+#EXTINF:-1,Cartoon Network
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=cartoon
+
+#EXTINF:-1,MTV
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=mtv
+
+#EXTINF:-1,Univision
+http://tecnotv.xyz/aptv/univision?index.m3u8
+
+#EXTINF:-1,Pequeradio
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+
+#EXTINF:-1,Multimedios CDMX
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1,Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1,Multimedios Torreon
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1,Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1,Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1,CBTV
+http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
+
+#EXTINF:-1,13 MAX (Argentina)
+http://coninfo.net:1935/13maxhd/live_720p/.m3u8
+
+#EXTINF:-1,Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+
+#EXTINF:-1,Teledoce
+https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
+
+#EXTINF:-1,Telemundo Houston
+http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/master.m3u8
+
+#EXTINF:-1,Tec TV
+http://tectv.secure2.footprint.net/hls-live/streamroot_lsd2latam-tectv/_definst_/live.m3u8
+
+#EXTINF:-1,AlJazeera ENGLISH
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1,Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
+
+#EXTINF:-1,Grupo Formula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1,RT Español
+http://secure-streams.akamaized.net/rt-esp/index.m3u8
+
+#EXTINF:-1,MTV Noruega
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1,MiamiTV Internacional
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/.m3u8
+
+#EXTINF:-1,AmericaTeve
+http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
+
+#EXTINF:-1,Canal 13 Puerto Rico
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+
+#EXTINF:-1,CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1,TVN Panama
+http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
+
+#EXTINF:-1,TVMax
+http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
+
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
+#EXTINF:-1,Ocho TV
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
+#EXTINF:-1,ForoTV
+http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
+
+#EXTINF:-1,Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1,Net TV
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1,La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+
+#EXTINF:-1,Tv Pop
+http://v3.tustreaming.cl/tvpop/live1/index.m3u8
+
+#EXTINF:-1,Efekto TV HD
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
+
+#EXTINF:-1,TVP Los Mochis
+https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1578529085_b978000_sleng.m3u8
+
+#EXTINF:-1,Next TV
+http://198.1.117.5:1935/live/livestream/.m3u8
+
+#EXTINF:-1,Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1,Telpin
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/.m3u8
+
+#EXTINF:-1,Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1,TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+#EXTINF:-1,Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+
+#EXTINF:-1,Chilevision
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+
+#EXTINF:-1,Uno
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
+
+#EXTINF:-1,TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+
+#EXTINF:-1,UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1,UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+
+#EXTINF:-1,VTV 2
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+
+#EXTINF:-1,=Cine=
+http://srregio.com/
+
+#EXTINF:-1,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1,Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1,Cachipum RETRO
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+
+#EXTINF:-1,Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
+
+#EXTINF:-1,Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1
+
+#EXTINF:-1,MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1,CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1,EXATV
+http://streamingcws20.com:1935/examor/videoexamor/.m3u8
+
+#EXTINF:-1,TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+
+#EXTINF:-1,TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+
+#EXTINF:-1,Top Latino
+http://173.236.60.186/livetv/latinoSD.stream/.m3u8
+
+#EXTINF:-1,Music Choice Alternative
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC122/.m3u8
+
+#EXTINF:-1,Music Choice Mc Play
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/.m3u8
+
+#EXTINF:-1,Music Choice Brits + Hits
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC143/.m3u8
+
+#EXTINF:-1,Music Choice Dance
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC127/.m3u8
+
+#EXTINF:-1,Music Choice Hip Hop
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC106/.m3u8
+
+#EXTINF:-1,Music Choice Hit List
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC100/.m3u8
+
+#EXTINF:-1,Music Choice Indie
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/.m3u8
+
+#EXTINF:-1,Music Choice Metal
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC139/.m3u8
+
+#EXTINF:-1,Music Choice Mexicana
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC131/.m3u8
+
+#EXTINF:-1,Music Choice Musica Urbana
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC128/.m3u8
+
+#EXTINF:-1,Music Choice Pop Country
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC132/.m3u8
+
+#EXTINF:-1,Music Choice Pop Hits
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC133/.m3u8
+
+#EXTINF:-1,Music Choice Pop Latino
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC123/.m3u8
+
+#EXTINF:-1,Music Choice R&B Soul
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC124/.m3u8
+
+#EXTINF:-1,Music Choice Rap
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC125/.m3u8
+
+#EXTINF:-1,Music Choice Rap 2K
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC141/.m3u8
+
+#EXTINF:-1,Music Choice Rock
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC138/.m3u8
+
+#EXTINF:-1,Music Choice Teen Beats
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC118/.m3u8
+
+#EXTINF:-1,Music Choice Country
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC121/.m3u8
+
+#EXTINF:-1,Music Choice Tropicales
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC137/.m3u8
+
+#EXTINF:-1,Music Choice 90s
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC140/.m3u8
+
+#EXTINF:-1,Music Choice Y2K
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC145/.m3u8
+
+#EXTINF:-1,Music Choice Kids Only
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC130/.m3u8
+
+#EXTINF:-1,Music Choice Toodlers Tunes
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC144/.m3u8
+
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+
+#EXTINF:-1,Radio U
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/radioutv1/playlist.m3u8
+
+#EXTINF:-1,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
+#EXTINF:-1,Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1,Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+
+#EXTINF:-1,SON POPULAR
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+
+#EXTINF:-1,Virgin Music
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+
+#EXTINF:-1,RetroTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,SRTV Cultura
+http://streamingcws20.com:1935/c7cultura/videoc7cultura/.m3u8?DVR
+
+#EXTINF:-1,Aprende TV
+http://liveingesta118.cdnmedia.tv//dgtvelive/smil:aprend24.smil/playlist.m3u8
+
+#EXTINF:-1,DW Entretenimiento
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+
+#EXTINF:-1,Milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1,Canal del Congreso Mexico
+http://liveingesta118.cdnmedia.tv//cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
+
+#EXTINF:-1,SRTV Noticias
+http://streamingcws20.com:1935/c7noticias/videoc7noticias/.m3u8?DVR
+
+#EXTINF:-1,Aire Santa Fe Argentina
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+
+#EXTINF:-1,CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+
+#EXTINF:-1,ABC News
+http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1,RT News
+http://secure-streams.akamaized.net/rt/index.m3u8
+
+#EXTINF:-1,DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1,Alarabiya
+http://live.alarabiya.net/alarabiya/myStream/.m3u8
+
+#EXTINF:-1,WGN 9
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#EXTINF:-1,TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1,NHK World
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+
+#EXTINF:-1,News Asia
+http://drsh196ivjwe8.cloudfront.net/hls/cnai/master.m3u8
+
+#EXTINF:-1,Times Now
+http://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/mirror_now.smil/playlist.m3u8
+
+#EXTINF:-1,Digi 24 (Rumania)
+http://82.76.40.76/digi24edge/digi24.smil/.m3u8
+
+#EXTINF:-1,Wather Nation (USA)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/.m3u8
+
+#EXTINF:-1,Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+
+#EXTINF:-1,EarthCam Times Ware
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/.m3u8
+
+#EXTINF:-1,EarthCam Street Cam
+http://video3.earthcam.com/fecnetwork/9974.flv/.m3u8
+
+#EXTINF:-1,EarthCam Crossroads
+http://video3.earthcam.com/fecnetwork/4717.flv/.m3u8
+
+#EXTINF:-1,EarthCam South View
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
+
+#EXTINF:-1,NASA iss
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,NASA Media
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,NASA Public
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,Munchen TV (Alemania)
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/.m3u8
+
+#EXTINF:-1,AlJazeera Arabe
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
+
+#EXTINF:-1,The Wather Channel USA
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1,Antares TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1,CGTN ES
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1,ABC Live
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
