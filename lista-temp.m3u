@@ -25,7 +25,7 @@ http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762231&f=.m3u8
 #EXTINF:-1,TCM
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762274&f=.m3u8
 #EXTINF:-1,FOX
-http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762301&f=.m3u8
+http://stream.gleeze.com/cl/Bk4u1mnbbj.m3u8?qt=3&ch=fs1m
 #EXTINF:-1,FOX FAMILY
 http://158.69.199.21/clarotv/claro.php?calidad=4&canal=746478&f=.m3u8
 #EXTINF:-1,FOX COMEDY
