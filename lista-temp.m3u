@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CLD: ESPN LA" tvg-logo="" group-title="DEPORTES",CLD: ESPN LA
-http://ligatv.net:25461/televall/norobaras/229
+http://ligatv.net:25461/televall/norobaras/229.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLD: FOX SPORTS LA" tvg-logo="" group-title="DEPORTES",CLD: FOX SPORTS LA
-http://ligatv.net:25461/televall/norobaras/232
+http://ligatv.net:25461/televall/norobaras/232.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLD: FOX SPORTS 2 LA" tvg-logo="" group-title="DEPORTES",CLD: FOX SPORTS 2 LA
-http://ligatv.net:25461/televall/norobaras/233
+http://ligatv.net:25461/televall/norobaras/233.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPD: FOX SPORTS MX" tvg-logo="" group-title="DEPORTES",TPD: FOX SPORTS MX
-http://ligatv.net:25461/televall/norobaras/399
+http://ligatv.net:25461/televall/norobaras/399.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: A +" tvg-logo="" group-title="MEXICO",MX: A +
 http://tv.roxtvplus.xyz:25461/live/juanrr/8DympBvlQu/44.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA UNO" tvg-logo="" group-title="MEXICO",MX: AZTECA UNO
 http://tv.roxtvplus.xyz:25461/live/juanrr/8DympBvlQu/42.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA 7" tvg-logo="" group-title="MEXICO",MX: AZTECA 7
-http://ligatv.net:25461/televall/norobaras/307
+http://ligatv.net:25461/televall/norobaras/307.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: IMAGENTV" tvg-logo="" group-title="MEXICO",MX: IMAGENTV
 http://tv.roxtvplus.xyz:25461/live/juanrr/8DympBvlQu/117.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: CANAL 22" tvg-logo="" group-title="MEXICO",MX: CANAL 22
@@ -24,115 +24,115 @@ http://tv.roxtvplus.xyz:25461/live/juanrr/8DympBvlQu/23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MXD: TVCDEP" tvg-logo="" group-title="DEPORTES",MXD: TVCDEP
 http://tv.roxtvplus.xyz:25461/live/juanrr/8DympBvlQu/34.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: AZCINEMA" tvg-logo="" group-title="CINEMA",TP: AZCINEMA
-http://ligatv.net:25461/televall/norobaras/314
+http://ligatv.net:25461/televall/norobaras/314.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: AZCLIC" tvg-logo="" group-title="MUSICA",TP: AZCLIC
-http://ligatv.net:25461/televall/norobaras/313
+http://ligatv.net:25461/televall/norobaras/313.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: AZTECA UNO HD" tvg-logo="" group-title="MEXICO",TP: AZTECA UNO HD
-http://ligatv.net:25461/televall/norobaras/308
+http://ligatv.net:25461/televall/norobaras/308.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: LAS ESTRELLAS" tvg-logo="" group-title="MEXICO",TP: LAS ESTRELLAS
-http://ligatv.net:25461/televall/norobaras/306
+http://ligatv.net:25461/televall/norobaras/306.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: CANAL 5" tvg-logo="" group-title="MEXICO",TP: CANAL 5
-http://ligatv.net:25461/televall/norobaras/304
+http://ligatv.net:25461/televall/norobaras/304.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: DISTRITO COMEDIA" tvg-logo="" group-title="MEXICO",TP: DISTRITO COMEDIA
-http://ligatv.net:25461/televall/norobaras/317
+http://ligatv.net:25461/televall/norobaras/317.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: FOROTV HD" tvg-logo="" group-title="NOTICIAS",TP: FOROTV HD
-http://ligatv.net:25461/televall/norobaras/309
+http://ligatv.net:25461/televall/norobaras/309.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: NUEVE" tvg-logo="" group-title="MEXICO",TP: NUEVE
-http://ligatv.net:25461/televall/norobaras/305
+http://ligatv.net:25461/televall/norobaras/305.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: ONCETV" tvg-logo="" group-title="MEXICO",TP: ONCETV
-http://ligatv.net:25461/televall/norobaras/325
+http://ligatv.net:25461/televall/norobaras/325.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: UNICABLE" tvg-logo="" group-title="MEXICO",TP: UNICABLE
-http://ligatv.net:25461/televall/norobaras/318
+http://ligatv.net:25461/televall/norobaras/318.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: BANDAMAX" tvg-logo="" group-title="MUSICA",TP: BANDAMAX
-http://ligatv.net:25461/televall/norobaras/310
+http://ligatv.net:25461/televall/norobaras/310.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: CADENA H" tvg-logo="" group-title="MEXICO",TP: CADENA H
-http://ligatv.net:25461/televall/norobaras/327
+http://ligatv.net:25461/televall/norobaras/327.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: DPELICULA +" tvg-logo="" group-title="CINEMA",TP: DPELICULA +
-http://ligatv.net:25461/televall/norobaras/320
+http://ligatv.net:25461/televall/norobaras/320.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: D CIVILIZATION" tvg-logo="" group-title="MUNDO",TP: D CIVILIZATION
-http://ligatv.net:25461/televall/norobaras/367
+http://ligatv.net:25461/televall/norobaras/367.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: GOLDEN EDGE" tvg-logo="" group-title="CINEMA",TP: GOLDEN EDGE
-http://ligatv.net:25461/televall/norobaras/321
+http://ligatv.net:25461/televall/norobaras/321.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: HISTORY" tvg-logo="" group-title="MUNDO",TP: HISTORY
-http://ligatv.net:25461/televall/norobaras/358
+http://ligatv.net:25461/televall/norobaras/358.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: H&H" tvg-logo="" group-title="MUNDO",TP: H&H
-http://ligatv.net:25461/televall/norobaras/363
+http://ligatv.net:25461/televall/norobaras/363.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: MULTIMEDIOS +" tvg-logo="" group-title="MEXICO",TP: MULTIMEDIOS +
-http://ligatv.net:25461/televall/norobaras/326
+http://ligatv.net:25461/televall/norobaras/326.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: NATGEO" tvg-logo="" group-title="MUNDO",TP: NATGEO
-http://ligatv.net:25461/televall/norobaras/364
+http://ligatv.net:25461/televall/norobaras/364.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: NICK" tvg-logo="" group-title="INFANTIL",TP: NICK
-http://ligatv.net:25461/televall/norobaras/352
+http://ligatv.net:25461/televall/norobaras/352.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: NICKTOONS" tvg-logo="" group-title="INFANTIL",TP: NICKTOONS
-http://ligatv.net:25461/televall/norobaras/351
+http://ligatv.net:25461/televall/norobaras/351.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: RITMOSON" tvg-logo="" group-title="MUSICA",TP: RITMOSON
-http://ligatv.net:25461/televall/norobaras/311
+http://ligatv.net:25461/televall/norobaras/311.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: SPACE" tvg-logo="" group-title="CINEMA",TP: SPACE
-http://ligatv.net:25461/televall/norobaras/379
+http://ligatv.net:25461/televall/norobaras/379.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: SYFY" tvg-logo="" group-title="SERIES",TP: SYFY
-http://ligatv.net:25461/televall/norobaras/338
+http://ligatv.net:25461/televall/norobaras/338.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: TELEHIT" tvg-logo="" group-title="MUSICA",TP: TELEHIT
-http://ligatv.net:25461/televall/norobaras/312
+http://ligatv.net:25461/televall/norobaras/312.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: TIIN" tvg-logo="" group-title="INFANTIL",TP: TIIN
-http://ligatv.net:25461/televall/norobaras/319
+http://ligatv.net:25461/televall/norobaras/319.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: UNIVERSAL" tvg-logo="" group-title="SERIES",TP: UNIVERSAL
-http://ligatv.net:25461/televall/norobaras/329
+http://ligatv.net:25461/televall/norobaras/329.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TP: WOBI" tvg-logo="" group-title="LATINOS",TP: WOBI
-http://ligatv.net:25461/televall/norobaras/369
+http://ligatv.net:25461/televall/norobaras/369.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPD: AYM SPORTS" tvg-logo="" group-title="DEPORTES",TPD: AYM SPORTS
-http://ligatv.net:25461/televall/norobaras/397
+http://ligatv.net:25461/televall/norobaras/397.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPD: ESPN MX" tvg-logo="" group-title="DEPORTES",TPD: ESPN MX
-http://ligatv.net:25461/televall/norobaras/393
+http://ligatv.net:25461/televall/norobaras/393.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPD: ESPN2 MX" tvg-logo="" group-title="DEPORTES",TPD: ESPN2 MX
-http://ligatv.net:25461/televall/norobaras/394
+http://ligatv.net:25461/televall/norobaras/394.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPD: ESPN3 MX" tvg-logo="" group-title="DEPORTES",TPD: ESPN3 MX
-http://ligatv.net:25461/televall/norobaras/395
+http://ligatv.net:25461/televall/norobaras/395.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPD: ESPN + MX" tvg-logo="" group-title="DEPORTES",TPD: ESPN + MX
-http://ligatv.net:25461/televall/norobaras/392
+http://ligatv.net:25461/televall/norobaras/392.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPD: FOX SPORTS 2 MX" tvg-logo="" group-title="DEPORTES",TPD: FOX SPORTS 2 MX
-http://ligatv.net:25461/televall/norobaras/398
+http://ligatv.net:25461/televall/norobaras/398.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPD: PXTV" tvg-logo="" group-title="DEPORTES",TPD: PXTV
-http://ligatv.net:25461/televall/norobaras/396
+http://ligatv.net:25461/televall/norobaras/396.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL: AZCORAZON HD" tvg-logo="" group-title="SERIES",CL: AZCORAZON HD
-http://ligatv.net:25461/televall/norobaras/130
+http://ligatv.net:25461/televall/norobaras/130.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL: AZMUNDO HD" tvg-logo="" group-title="MUNDO",CL: AZMUNDO HD
-http://ligatv.net:25461/televall/norobaras/161
+http://ligatv.net:25461/televall/norobaras/161.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL: GLITZ" tvg-logo="" group-title="LATINOS",CL: GLITZ
-http://ligatv.net:25461/televall/norobaras/127
+http://ligatv.net:25461/televall/norobaras/127.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL: H2" tvg-logo="" group-title="MUNDO",CL: H2
-http://ligatv.net:25461/televall/norobaras/171
+http://ligatv.net:25461/televall/norobaras/171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL: LAS ESTRELLAS LA" tvg-logo="" group-title="LATINOS",CL: LAS ESTRELLAS LA
-http://ligatv.net:25461/televall/norobaras/126
+http://ligatv.net:25461/televall/norobaras/126.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL: PASIONES HD" tvg-logo="" group-title="SERIES",CL: PASIONES HD
-http://ligatv.net:25461/televall/norobaras/140
+http://ligatv.net:25461/televall/norobaras/140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL: TELEMUNDO INT" tvg-logo="" group-title="LATINOS",CL: TELEMUNDO INT
-http://ligatv.net:25461/televall/norobaras/128
+http://ligatv.net:25461/televall/norobaras/128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLA: CARACOL" tvg-logo="" group-title="LATINOS",CLA: CARACOL
-http://ligatv.net:25461/televall/norobaras/288
+http://ligatv.net:25461/televall/norobaras/288.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLA: TVE" tvg-logo="" group-title="LATINOS",CLA: TVE
-http://ligatv.net:25461/televall/norobaras/129
+http://ligatv.net:25461/televall/norobaras/129.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLN: CABLE NOTICIAS HD" tvg-logo="" group-title="NOTICIAS",CLN: CABLE NOTICIAS HD
-http://ligatv.net:25461/televall/norobaras/279
+http://ligatv.net:25461/televall/norobaras/279.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLD: CLARO SPORTS" tvg-logo="" group-title="DEPORTES",CLD: CLARO SPORTS
-http://ligatv.net:25461/televall/norobaras/227
+http://ligatv.net:25461/televall/norobaras/227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLD: CLARO SPORTS 2" tvg-logo="" group-title="DEPORTES",CLD: CLARO SPORTS 2
-http://ligatv.net:25461/televall/norobaras/228
+http://ligatv.net:25461/televall/norobaras/228.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLD: ESPN 2 LA" tvg-logo="" group-title="DEPORTES",CLD: ESPN 2 LA
 http://tv.roxtvplus.xyz:25461/live/juanrr/8DympBvlQu/7879.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLD: ESPN 3 LA" tvg-logo="" group-title="DEPORTES",CLD: ESPN 3 LA
 http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/92.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLD: FOX SPORTS 3 LA" tvg-logo="" group-title="DEPORTES",CLD: FOX SPORTS 3 LA
-http://ligatv.net:25461/televall/norobaras/234
+http://ligatv.net:25461/televall/norobaras/234.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLD: WIN SPORTS" tvg-logo="" group-title="DEPORTES",CLD: WIN SPORTS
-http://ligatv.net:25461/televall/norobaras/236
+http://ligatv.net:25461/televall/norobaras/236.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLN: CNN ES" tvg-logo="" group-title="NOTICIAS",CLN: CNN ES
-http://ligatv.net:25461/televall/norobaras/280
+http://ligatv.net:25461/televall/norobaras/280.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLN: CNN INT" tvg-logo="" group-title="NOTICIAS",CLN: CNN INT
-http://ligatv.net:25461/televall/norobaras/281
+http://ligatv.net:25461/televall/norobaras/281.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA: BEMAD HD" tvg-logo="" group-title="LATINOS",LA: BEMAD HD
-http://ligatv.net:25461/televall/norobaras/36
+http://ligatv.net:25461/televall/norobaras/36.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA: LA RED" tvg-logo="" group-title="LATINOS",LA: LA RED
-http://ligatv.net:25461/televall/norobaras/29
+http://ligatv.net:25461/televall/norobaras/29.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CG: AZTECA 7" tvg-logo="" group-title="MEXICO",CG: AZTECA 7
 http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/57.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CG: AZTECA UNO" tvg-logo="" group-title="MEXICO",CG: AZTECA UNO
