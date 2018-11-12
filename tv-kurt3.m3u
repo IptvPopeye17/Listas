@@ -1,266 +1,264 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-id="6" tvg-name="Canal 5 MX" tvg-logo="" group-title="",Canal 5 MX
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/6.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/6.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="Canal de las estrellas" tvg-logo="" group-title="",Canal de las estrellas
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/5.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/5.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="A&E" tvg-logo="" group-title="",A&E
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/71.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/71.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="Afizzionados" tvg-logo="" group-title="",Afizzionados
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/97.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/97.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="AMC" tvg-logo="" group-title="",AMC
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/65.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/65.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="America Tv peru" tvg-logo="" group-title="",America Tv peru
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/60.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/60.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="Animal Planet" tvg-logo="" group-title="",Animal Planet
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/46.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/46.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Antena 3" tvg-logo="" group-title="",Antena 3
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/108.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/108.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="AXN" tvg-logo="" group-title="",AXN
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/74.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/74.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="Azteca 1" tvg-logo="" group-title="",Azteca 1
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/17.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/17.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="Azteca 7" tvg-logo="" group-title="",Azteca 7
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/57.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/57.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="Beins Sports Ñ" tvg-logo="" group-title="",Beins Sports Ñ
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/41.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/41.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="Boomerang" tvg-logo="" group-title="",Boomerang
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/47.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/47.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Canal 11" tvg-logo="" group-title="",Canal 11
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/102.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/102.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="Canal Sony" tvg-logo="" group-title="",Canal Sony
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/61.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/61.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Caracol" tvg-logo="" group-title="",Caracol
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/16.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/16.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="Cartoon Network" tvg-logo="" group-title="",Cartoon Network
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/40.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/40.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="CDF" tvg-logo="" group-title="",CDF
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/96.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/96.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="Cinecanal" tvg-logo="" group-title="",Cinecanal
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/75.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/75.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="Cinemax" tvg-logo="" group-title="",Cinemax
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/44.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/44.m3u8
 #EXTINF:-1 tvg-id="117" tvg-name="Claro Sports" tvg-logo="" group-title="",Claro Sports
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/117.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/117.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="Comedy central" tvg-logo="" group-title="",Comedy central
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/72.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/72.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="De pelicula" tvg-logo="" group-title="",De pelicula
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/77.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/77.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="DirecTV Sports" tvg-logo="" group-title="",DirecTV Sports
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/15.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/15.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="DIRECTV SPORTS 2" tvg-logo="" group-title="",DIRECTV SPORTS 2
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/106.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/106.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="Discovery channel" tvg-logo="" group-title="",Discovery channel
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/36.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/36.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="Discovery h&h" tvg-logo="" group-title="",Discovery h&h
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/84.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/84.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="Discovery ID" tvg-logo="" group-title="",Discovery ID
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/70.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/70.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="Discovery kids" tvg-logo="" group-title="",Discovery kids
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/42.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/42.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="Discovery science" tvg-logo="" group-title="",Discovery science
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/62.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/62.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="Discovery Theather" tvg-logo="" group-title="",Discovery Theather
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/83.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/83.m3u8
 #EXTINF:-1 tvg-id="100" tvg-name="Discovery TLC" tvg-logo="" group-title="",Discovery TLC
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/100.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/100.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="Discovery Turbo" tvg-logo="" group-title="",Discovery Turbo
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/54.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/54.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="Disney channel" tvg-logo="" group-title="",Disney channel
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/59.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/59.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="Disney Junior" tvg-logo="" group-title="",Disney Junior
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/48.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/48.m3u8
 #EXTINF:-1 tvg-id="49" tvg-name="Disney XD" tvg-logo="" group-title="",Disney XD
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/49.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/49.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="E! Enterteinment" tvg-logo="" group-title="",E! Enterteinment
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/56.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/56.m3u8
 #EXTINF:-1 tvg-id="101" tvg-name="El Financiero Bloomberg" tvg-logo="" group-title="",El Financiero Bloomberg
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/101.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/101.m3u8
 #EXTINF:-1 tvg-id="92" tvg-name="Espn 3 latino" tvg-logo="" group-title="",Espn 3 latino
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/92.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/92.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="ESPN latino" tvg-logo="" group-title="",ESPN latino
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/89.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/89.m3u8
 #EXTINF:-1 tvg-id="93" tvg-name="ESPN plus latino" tvg-logo="" group-title="",ESPN plus latino
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/93.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/93.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="Foro TV" tvg-logo="" group-title="",Foro TV
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/107.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/107.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="FOX" tvg-logo="" group-title="",FOX
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/19.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/19.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="FOX Action" tvg-logo="" group-title="",FOX Action
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/23.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/23.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="FOX Cinema" tvg-logo="" group-title="",FOX Cinema
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/39.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/39.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="FOX Comedy" tvg-logo="" group-title="",FOX Comedy
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/55.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/55.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="FOX Life" tvg-logo="" group-title="",FOX Life
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/67.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/67.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="FOX Movies" tvg-logo="" group-title="",FOX Movies
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/27.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/27.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="FOX Series" tvg-logo="" group-title="",FOX Series
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/34.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/34.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="Fox Sports" tvg-logo="" group-title="",Fox Sports
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/11.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/11.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="Fox sports 1 latino" tvg-logo="" group-title="",Fox sports 1 latino
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/85.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/85.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="Fox Sports 2" tvg-logo="" group-title="",Fox Sports 2
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/10.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/10.m3u8
 #EXTINF:-1 tvg-id="86" tvg-name="fox sports 2 latino" tvg-logo="" group-title="",fox sports 2 latino
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/86.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/86.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="fox sports premium" tvg-logo="" group-title="",fox sports premium
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/88.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/88.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="FX HD" tvg-logo="" group-title="",FX HD
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/24.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/24.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="Gala tV" tvg-logo="" group-title="",Gala tV
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/99.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/99.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="Gol peru" tvg-logo="" group-title="",Gol peru
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/95.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/95.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="Gol TV" tvg-logo="" group-title="",Gol TV
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/94.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/94.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="Golden PLUS" tvg-logo="" group-title="",Golden PLUS
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/28.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/28.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="Golden premier" tvg-logo="" group-title="",Golden premier
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/80.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/80.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="HBO" tvg-logo="" group-title="",HBO
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/43.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/43.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="HBO 2" tvg-logo="" group-title="",HBO 2
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/45.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/45.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="HBO Family" tvg-logo="" group-title="",HBO Family
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/53.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/53.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="HBO Plus" tvg-logo="" group-title="",HBO Plus
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/52.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/52.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="History" tvg-logo="" group-title="",History
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/26.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/26.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="MAX Prime" tvg-logo="" group-title="",MAX Prime
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/81.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/81.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Movistar F1" tvg-logo="" group-title="",Movistar F1
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/3.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/3.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="MTV" tvg-logo="" group-title="",MTV
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/68.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/68.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="Multipremier" tvg-logo="" group-title="",Multipremier
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/58.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/58.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Natgeo wild" tvg-logo="" group-title="",Natgeo wild
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/78.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/78.m3u8
 #EXTINF:-1 tvg-id="35" tvg-name="National Geographic" tvg-logo="" group-title="",National Geographic
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/35.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/35.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="Nick" tvg-logo="" group-title="",Nick
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/50.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/50.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="Nick Jr" tvg-logo="" group-title="",Nick Jr
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/63.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/63.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="Paramount channel" tvg-logo="" group-title="",Paramount channel
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/69.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/69.m3u8
 #EXTINF:-1 tvg-id="116" tvg-name="Playboy" tvg-logo="" group-title="",Playboy
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/116.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/116.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="RCN" tvg-logo="" group-title="",RCN
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/30.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/30.m3u8
 #EXTINF:-1 tvg-id="66" tvg-name="Sky sports" tvg-logo="" group-title="",Sky sports
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/66.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/66.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="Space" tvg-logo="" group-title="",Space
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/25.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/25.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="Studio universal" tvg-logo="" group-title="",Studio universal
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/76.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/76.m3u8
 #EXTINF:-1 tvg-id="98" tvg-name="syfy" tvg-logo="" group-title="",syfy
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/98.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/98.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="TBS" tvg-logo="" group-title="",TBS
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/82.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/82.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="TDN" tvg-logo="" group-title="",TDN
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/1.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/1.m3u8
 #EXTINF:-1 tvg-id="91" tvg-name="Telefe" tvg-logo="" group-title="",Telefe
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/91.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/91.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Telemundo" tvg-logo="" group-title="",Telemundo
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/2.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/2.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="TNT" tvg-logo="" group-title="",TNT
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/20.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/20.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="TNT Series" tvg-logo="" group-title="",TNT Series
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/73.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/73.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="TNT Sports" tvg-logo="" group-title="",TNT Sports
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/4.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/4.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="Tooncast" tvg-logo="" group-title="",Tooncast
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/51.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/51.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="Tru TV" tvg-logo="" group-title="",Tru TV
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/112.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/112.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="TVC" tvg-logo="" group-title="",TVC
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/105.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/105.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="TyC Sports" tvg-logo="" group-title="",TyC Sports
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/14.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/14.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="Unicable" tvg-logo="" group-title="",Unicable
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/38.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/38.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="Universal" tvg-logo="" group-title="",Universal
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/21.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/21.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="Univision" tvg-logo="" group-title="",Univision
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/37.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/37.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="Univision TDN" tvg-logo="" group-title="",Univision TDN
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/12.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/12.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="Warner" tvg-logo="" group-title="",Warner
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/22.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/22.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="Win Sports" tvg-logo="" group-title="",Win Sports
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/29.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/29.m3u8
 #EXTINF:-1 tvg-id="150" tvg-name="alees" tvg-logo="" group-title="",alees
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/150.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/150.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="Azteca cinema" tvg-logo="" group-title="",Azteca cinema
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/133.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/133.m3u8
 #EXTINF:-1 tvg-id="132" tvg-name="Bandamax" tvg-logo="" group-title="",Bandamax
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/132.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/132.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="Bein La Liga" tvg-logo="" group-title="",Bein La Liga
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/138.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/138.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="Brazzers" tvg-logo="" group-title="",Brazzers
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/130.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/130.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="Canal judicial" tvg-logo="" group-title="",Canal judicial
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/127.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/127.m3u8
 #EXTINF:-1 tvg-id="123" tvg-name="Cuatro ES" tvg-logo="" group-title="",Cuatro ES
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/123.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/123.m3u8
 #EXTINF:-1 tvg-id="124" tvg-name="DirecTV Sports +" tvg-logo="" group-title="",DirecTV Sports +
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/124.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/124.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="Distrito comedia" tvg-logo="" group-title="",Distrito comedia
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/126.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/126.m3u8
 #EXTINF:-1 tvg-id="128" tvg-name="El trece argentina" tvg-logo="" group-title="",El trece argentina
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/128.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/128.m3u8
 #EXTINF:-1 tvg-id="118" tvg-name="ESPN Deportes" tvg-logo="" group-title="",ESPN Deportes
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/118.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/118.m3u8
 #EXTINF:-1 tvg-id="139" tvg-name="FOX Classics" tvg-logo="" group-title="",FOX Classics
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/139.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/139.m3u8
 #EXTINF:-1 tvg-id="122" tvg-name="FXM M" tvg-logo="" group-title="",FXM M
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/122.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/122.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="Galavision" tvg-logo="" group-title="",Galavision
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/141.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/141.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="Golden Edge" tvg-logo="" group-title="",Golden Edge
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/146.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/146.m3u8
 #EXTINF:-1 tvg-id="134" tvg-name="Imagen television" tvg-logo="" group-title="",Imagen television
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/134.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/134.m3u8
 #EXTINF:-1 tvg-id="147" tvg-name="Isat" tvg-logo="" group-title="",Isat
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/147.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/147.m3u8
 #EXTINF:-1 tvg-id="140" tvg-name="Lifetime" tvg-logo="" group-title="",Lifetime
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/140.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/140.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="MLB Network" tvg-logo="" group-title="",MLB Network
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/144.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/144.m3u8
 #EXTINF:-1 tvg-id="125" tvg-name="NFL Network" tvg-logo="" group-title="",NFL Network
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/125.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/125.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="Ritmoson latino" tvg-logo="" group-title="",Ritmoson latino
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/142.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/142.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="Showtime" tvg-logo="" group-title="",Showtime
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/143.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/143.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="Simpsons 24h" tvg-logo="" group-title="",Simpsons 24h
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/145.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/145.m3u8
 #EXTINF:-1 tvg-id="136" tvg-name="Starz" tvg-logo="" group-title="",Starz
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/136.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/136.m3u8
 #EXTINF:-1 tvg-id="119" tvg-name="Tlnovelas" tvg-logo="" group-title="",Tlnovelas
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/119.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/119.m3u8
 #EXTINF:-1 tvg-id="137" tvg-name="TVC deportes" tvg-logo="" group-title="",TVC deportes
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/137.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/137.m3u8
 #EXTINF:-1 tvg-id="135" tvg-name="Unimas" tvg-logo="" group-title="",Unimas
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/135.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/135.m3u8
 #EXTINF:-1 tvg-id="131" tvg-name="Venus" tvg-logo="" group-title="",Venus
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/131.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/131.m3u8
 #EXTINF:-1 tvg-id="129" tvg-name="WWE" tvg-logo="" group-title="",WWE
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/129.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/129.m3u8
 #EXTINF:-1 tvg-id="154" tvg-name="ESPN 2 latino" tvg-logo="" group-title="",ESPN 2 latino
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/154.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/154.m3u8
 #EXTINF:-1 tvg-id="155" tvg-name="Fox Sports 3 latino" tvg-logo="" group-title="",Fox Sports 3 latino
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/155.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/155.m3u8
 #EXTINF:-1 tvg-id="151" tvg-name="Nat geo kids" tvg-logo="" group-title="",Nat geo kids
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/151.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/151.m3u8
 #EXTINF:-1 tvg-id="153" tvg-name="NBA" tvg-logo="" group-title="",NBA
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/153.m3u8
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/153.m3u8
 #EXTINF:-1 tvg-id="152" tvg-name="Nicktoons" tvg-logo="" group-title="",Nicktoons
-http://54.39.52.89:25461/live/fulltelevisionhdliesmiperra/152.m3u8
-
-
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperra/152.m3u8
