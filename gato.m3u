@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 user-agent="GatoTVPlayer", A&E
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/ pikihu /1990/355.ts
+#EXTINF:-1 user-agent="GatoTVPlayer", AMC
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/ pikihu /1990/283.ts
+#EXTINF:-1 user-agent="GatoTVPlayer", Animal Planet 
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/ pikihu /1990/355.ts
