@@ -1,10 +1,90 @@
 #EXTM3U
-#EXTINF:-1 user-agent="GatoTVPlayer", A&E
+#EXTINF:-1 user-agent="GatoTVPlayer",AE
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
-http://micine.club:8080/live/ pikihu /1990/355.ts
-#EXTINF:-1 user-agent="GatoTVPlayer", AMC
+http://micine.club:8080/live/pikihu/1990/284.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",AMC
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
-http://micine.club:8080/live/ pikihu /1990/283.ts
-#EXTINF:-1 user-agent="GatoTVPlayer", Animal Planet 
+http://micine.club:8080/live/pikihu/1990/283.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",Animal Planet
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
-http://micine.club:8080/live/ pikihu /1990/355.ts
+http://micine.club:8080/live/pikihu/1990/355.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",AXN
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/282.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",Baby TV
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/365.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",Bandamax
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/366.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",BBC WORLD
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/367.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",Boomerang
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/368.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",Canal de las Estrellas
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/372.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/373.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",Cartoon Network
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/387.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",CDF Estadio HD
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/388.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",CDF Premium HD
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/389.tS
+#EXTINF:-1 user-agent="GatoTVPlayer",CDO Premium HD
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/390.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",Cine Latino
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/392.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",Cinecanal
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/393.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",Cinemax
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/394.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",Claro Sports (CO) HD
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/395.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",CNN en Espanol
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/396.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",CNT Sport
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/397.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",Comedy Central
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/398.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer",Concert Channel
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/pikihu/1990/399.ts
+
+
+
