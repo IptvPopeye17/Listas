@@ -2,3 +2,7 @@
 
 #EXTINF:-0,FOX ACTION
 http://158.69.199.21/claroltv/claro.php?calidad=4&canal=753994&f=.m3u8
+#EXTINF:-0,FOX CINEMA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762249&f=.m3u8
+#EXTINF:-0,FOX CLASSICS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762248&f=.m3u8
