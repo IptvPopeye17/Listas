@@ -199,7 +199,7 @@ http://micine.club:8080/live/juanita/juanita/317.ts
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/318.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer" Fox  Premium  Cinema
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox  Premium  Cinema
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/319.ts
 
@@ -406,10 +406,6 @@ http://micine.club:8080/live/juanita/juanita/331.ts
 #EXTINF:-1 user-agent="GatoTVPlayer", Tooncast
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/332.ts
-
-#EXTINF:-1 user-agent="GatoTVPlayer", 
-#EXTVLCOPT:http-user-agent=GatoTVPlayer
-http://micine.club:8080/live/juanita/juanita/xxx.ts
 
 #EXTINF:-1 user-agent="GatoTVPlayer", TyC Sports
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
