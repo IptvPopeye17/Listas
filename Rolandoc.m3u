@@ -50,6 +50,7 @@ http://micine.club:8080/live/juanita/juanita/388.ts
 #EXTINF:-1 user-agent="GatoTVPlayer",CDF Premium HD
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/389.tS
+
 #EXTINF:-1 user-agent="GatoTVPlayer",CDO Premium HD
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/390.ts
@@ -154,155 +155,155 @@ http://micine.club:8080/live/juanita/juanita/297.ts
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/298.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", E! Entertainment
+#EXTINF:-1 user-agent="GatoTVPlayer",E! Entertainment
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/300.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", ESPN  1
+#EXTINF:-1 user-agent="GatoTVPlayer",ESPN  1
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/306.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", ESPN  1  Sur
+#EXTINF:-1 user-agent="GatoTVPlayer",ESPN  1  Sur
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/307.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", ESPN  2  MX
+#EXTINF:-1 user-agent="GatoTVPlayer",ESPN  2  MX
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/308.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", ESPN  2  SUR
+#EXTINF:-1 user-agent="GatoTVPlayer",ESPN  2  SUR
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/309.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", ESPN  3  MX
+#EXTINF:-1 user-agent="GatoTVPlayer",ESPN  3  MX
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/310.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", ESPN  3  Sur
+#EXTINF:-1 user-agent="GatoTVPlayer",ESPN  3  Sur
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/311.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", ESPN  Plus  MX
+#EXTINF:-1 user-agent="GatoTVPlayer",ESPN  Plus  MX
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/312.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", ESPN  Plus  Sur
+#EXTINF:-1 user-agent="GatoTVPlayer",ESPN  Plus  Sur
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/313.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox  Life
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox  Life
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/317.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox Premium Action
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox Premium Action
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/318.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox  Premium  Cinema
+#EXTINF:-1 user-agent="GatoTVPlayer" Fox  Premium  Cinema
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/319.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox  Premium  Classics
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox  Premium  Classics
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/320.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox  Premium  Comedy
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox  Premium  Comedy
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/321.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox  Premium  Family
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox  Premium  Family
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/322.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox  Premium  Movies
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox  Premium  Movies
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/323.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox Premium Series
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox Premium Series
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/324.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox  Sports  1  MX
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox  Sports  1  MX
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/251.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox  Sports  1  Sur
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox  Sports  1  Sur
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/252.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox  Sports  2  MX
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox  Sports  2  MX
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/253.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox  Sports  2  Sur
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox  Sports  2  Sur
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/254.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox  Sports  3  MX
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox  Sports  3  MX
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/255.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Fox  Sports  3  Sur
+#EXTINF:-1 user-agent="GatoTVPlayer",Fox  Sports  3  Sur
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/256.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", FX
+#EXTINF:-1 user-agent="GatoTVPlayer",FX
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/257.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", FXM
+#EXTINF:-1 user-agent="GatoTVPlayer",FXM
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/260.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Galavision
+#EXTINF:-1 user-agent="GatoTVPlayer",Galavision
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/261.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Glitz
+#EXTINF:-1 user-agent="GatoTVPlayer",Glitz
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/262.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Gol Peru 
+#EXTINF:-1 user-agent="GatoTVPlayer",Gol Peru 
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/263.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Golden
+#EXTINF:-1 user-agent="GatoTVPlayer",Golden
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/264.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Golden Edge
+#EXTINF:-1 user-agent="GatoTVPlayer",Golden Edge
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/265.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", Golden Plus
+#EXTINF:-1 user-agent="GatoTVPlayer",Golden Plus
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/266.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", H2
+#EXTINF:-1 user-agent="GatoTVPlayer",H2
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/268.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", HBO
+#EXTINF:-1 user-agent="GatoTVPlayer",HBO
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/269.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", HBO 2
+#EXTINF:-1 user-agent="GatoTVPlayer",HBO 2
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/270.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", HBO Family
+#EXTINF:-1 user-agent="GatoTVPlayer",HBO Family
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/271.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", HBO Plus
+#EXTINF:-1 user-agent="GatoTVPlayer",HBO Plus
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/272.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", HBO Signature
+#EXTINF:-1 user-agent="GatoTVPlayer",HBO Signature
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/273.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", History Channel
+#EXTINF:-1 user-agent="GatoTVPlayer",History Channel
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/juanita/juanita/274.ts
 
