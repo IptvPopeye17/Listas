@@ -10,7 +10,7 @@ http://micine.club:8080/live/pikihu/1990/448.ts
 
 #EXTINF:-1 user-agent="GatoTVPlayer",AE
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
-http://micine.club:8088/live/pikihu/1990/284.ts
+http://micine.club:8080/live/pikihu/1990/284.ts
 
 #EXTINF:-1 user-agent="GatoTVPlayer",AMC
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
