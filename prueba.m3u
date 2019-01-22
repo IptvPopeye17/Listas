@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 user-agent=“MiCinePlayer”,Afizzionados
+#EXTVLCOPT:http-user-agent=MiCinePlayer
+https://tucine.xyz:8088/live/poiu/poiu/519.ts
