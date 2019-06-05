@@ -1,5 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 user-agent=“MiCinePlayer”,prueba
-#EXTVLCOPT:http-user-agent=MiCinePlayer
-http://micine.club/live/camp/camp1/1856.ts
+#EXTINF:-1 user-agent=“MEGAPLAYER”,prueba
+#EXTVLCOPT:http-user-agent=Megaplayer
+http://23.237.36.170:8000/Champions/Final/2.ts
