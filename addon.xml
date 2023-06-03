@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="GolTV en VIVO es un canal de televisión por suscripción latinoamericano dedicado exclusivamente al deporte.">
+<link rel="canonical" href="https://futbollibre.lol/en-vivo/gol-tv/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Click para GolTV en VIVO ONLINE en DIRECTO por Internet - Fútbol Libre TV" />
+<meta property="og:description" content="GolTV en VIVO es un canal de televisión por suscripción latinoamericano dedicado exclusivamente al deporte." />
+<meta property="og:url" content="https://futbollibre.lol/en-vivo/gol-tv/" />
+<meta property="og:site_name" content="Fútbol Libre TV" />
+<meta property="og:image" content="https://futbollibre.lol/img/logo-canal/GolTV.webp" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Ver GolTV en VIVO ONLINE en DIRECTO por Internet" />
+<link rel="apple-touch-icon" sizes="57x57" href="../../favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../../favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../../favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../../favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../../favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../../favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../../favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../../favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../../favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="../../favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../../favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../favicon/favicon-16x16.png">
+<link rel="manifest" href="../../favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="../../favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<title>GolTV en VIVO ONLINE en Directo por Internet - Fútbol Libre TV</title>
+
+<link href="../../css/bootstrap.css" rel="stylesheet">
+
+<link href="../../css/portada.css" rel="stylesheet">
+<style type="text/css"> iframe{width: 90%; height: 600px;}@media only screen and (max-width: 600px){iframe{width: 100%; height: 360px;}}</style>
+</head>
+<body>
+<div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom box-shadow">
+<a class="my-0 mr-md-auto font-weight-normal fl" rel="home" href="https://futbollibre.lol">
+Fútbol Libre TV
+</a>
+
+<a class="btn btn-outline-fl" rel="home" href="https://futbollibre.lol">
+<img src="https://futbollibre.lol/img/logo-futbolLibre.webp" alt="Logo de Fútbol Libre TV" width="25" height="25">
+</a>
+</div>
+<div class="container">
+<div class="card-deck mb-3 text-center">
+<div class="card mb-4 box-shadow">
+<div class="card-header">
+<h1 class="my-0 font-weight-normal">GolTV</h1>
+</div>
+
+<div class="card-body">
+<ul class="list-unstyled mt-3 mb-4">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe allow="encrypted-media" src="https://app.justform.one/dtv2a.html?id=1134" width="100%" height="100%" name="iframe" id="iframe" frameborder="0" scrolling="no" style="position:absolute;" allowfullscreen></iframe>
+</div>
+<div align="left">
+<p><strong>Opciones:</strong></p>
+<a class="btn btn-fl" target="iframe" href="https://app.justform.one/dtv2a.html?id=1134" onclick="document.getElementById('iframe').src='https://app.justform.one/dtv2a.html?id=1134'">Opción 1</a>
+<a class="btn btn-fl" target="iframe" href="https://app.justform.one/dtv2a.html?id=1134" onclick="document.getElementById('iframe').src='https://app.justform.one/dtv2a.html?id=1134'">Opción 2</a>
+</div>
+</ul>
+<button type="button" class="btn btn-lg btn-block btn-fl" onclick="location.reload();">Recargar página</button>
+</div>
+</div>
+</div>
+<div class="sharethis-inline-share-buttons"></div>
+
+<br />
+<img src="https://futbollibre.lol/img/logo-canal/GolTV.webp" alt="Logo del canal GolTV" title="GolTV en vivo"><br>
+<p align="left"><strong>GolTV</strong> es un canal de televisión por suscripción latinoamericano dedicado exclusivamente al deporte.</p>
+<br />
+<footer class="pt-4 my-md-5 pt-md-5 border-top">
+<div class="row">
+<div class="col-6 col-md">
+<h5>Social</h5>
+<ul class="list-unstyled text-small">
+<li><a class="text-muted" href="https://twitter.com/LibreFutbolTV1">Twitter</a></li>
+<li><a class="text-muted" href="https://instagram.com/librefutbolweb/">Instagram</a></li>
+<li><a class="text-muted" href="https://www.youtube.com/channel/UCNdS4deWHyFLqB8o49wqo7A">Youtube</a></li>
+</ul>
+</div>
+<div class="col-6 col-md">
+<h5>Fútbol Libre</h5>
+<ul class="list-unstyled text-small">
+<li><a class="text-muted" href="https://futbollibre.lol/DMCA.html">DMCA</a></li>
+<br />
+<div style="text-align:center;">
+<small class="d-block mb-3 text-muted">Fútbol Libre TV 2023 &copy; Todos los derechos reservados.</small>
+</ul>
+</div>
+</div>
+</footer>
+</div>
+<script data-cfasync="false" async type="text/javascript" src="//zt.welchdecrier.com/rKfeXBQcnicv6m/59321"></script>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5ab9c9531fff98001395a59a&product=inline-share-buttons"></script>
+<div style="display:none;"><script id="_wau4mm">var _wau = _wau || []; _wau.push(["small", "49b9s0znf2", "4mm"]);</script><script async src="//waust.at/s.js"></script></div>
+</body>
+</html>
