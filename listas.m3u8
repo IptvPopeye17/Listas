@@ -1,5 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1, TELEMUNDO
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:-1, RTV
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1, ECUADORTV
+https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c212680b7/manifest/stream_t1_r480001.m3u8
+#EXTINF:-1, RTS
+https://d1qovwsteln4u.cloudfront.net/hls/rts_360.m3u8
+#EXTINF:-1, OROMARTV
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1, CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-480p.m3u8
+#EXTINF:-1, VENUS
+https://cdncentury-venushd.zolechamedia.net/vs640-3010.m3u8
+#EXTINF:-1, RADIO DISNEY
+https://22823.live.streamtheworld.com/DISNEY_ECU_GYAAC.aac
 
