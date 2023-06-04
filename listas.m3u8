@@ -1,2 +1,5 @@
-telemundo
+#EXTM3U
+
+#EXTINF:-1, TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+
