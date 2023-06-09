@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1, PEQUERADIO
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1, LATINO TV
+https://limited43.todostreaming.es/live/simbana-livestream11.m3u8
 #EXTINF:-1, TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #EXTINF:-1, RTV
