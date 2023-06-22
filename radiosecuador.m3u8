@@ -1,13 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1,La 96.1 - La Suprema Estación
+#EXTINF:-1,LA 96.1 - LA SUPREMA ESTACION
 https://dattavolt.com/8150/stream
-#EXTINF:-1,Radio Canela
+#EXTINF:-1,RADIO CANELA
 https://canelaradio.makrodigital.com:9290/stream
-#EXTINF:-1, RADIO DISNEY
+#EXTINF:-1,RADIO DISNEY
 https://22823.live.streamtheworld.com/DISNEY_ECU_GYAAC.aac
-
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
+#EXTINF:-1,TOTAL ROCK
+https://s3.citrus3.com:8056/stream
+#EXTINF:-1,RADIO MARIA (QUITO)
+https://radioserver11.profesionalhosting.com:19069/stream
+#EXTINF:-1,EXA(QUITO)
+https://20283.live.streamtheworld.com/ECUADOR_SC
+#EXTINF:-1,TROPICALIDA
+https://dv9lfri87e89c.cloudfront.net/tropicalida.m3u8
+#EXTINF:-1,LA OTRA
+https://laotrafm.makrodigital.com:9590/stream
+#EXTINF:-1,
+#EXTINF:-1,
